@@ -1,0 +1,155 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The Tesla Model 3 is available with either a single rear motor for rear-wheel drive or dual motors for all-wheel drive. Tesla is remarkably coy about the power outputs of its electric motors, but even the entry-level car has 245hp at its disposal. The Performance model lives up to its name by using a dual-motor setup producing up to 460hp and 660Nm of torque. All that allows for an official 0-100km/h time of just 3.1 seconds, and it feels incredibly quick at all times.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The entry-level Tesla Model 3 has 245hp.",
+                    "vis_data": [
+                        {
+                            "label": "Entry-level Model 3 Power",
+                            "value": "245",
+                            "unit": "hp"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Tesla Model 3 Performance model produces up to 460hp.",
+                    "vis_data": [
+                        {
+                            "label": "Performance Model Power",
+                            "value": "460",
+                            "unit": "hp"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Tesla Model 3 Performance model produces 660Nm of torque.",
+                    "vis_data": [
+                        {
+                            "label": "Performance Model Torque",
+                            "value": "660",
+                            "unit": "Nm"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Tesla Model 3 Performance model has an official 0-100km/h time of 3.1 seconds.",
+                    "vis_data": [
+                        {
+                            "label": "0-100km/h Time",
+                            "value": "3.1",
+                            "unit": "seconds"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "If range is your top priority, there are better options in the Model 3 lineup - such as the Long Range Rear-Wheel Drive variant with an official range of up to 702 kilometres. Still, the Model 3 Performance manages up to 528km, which is more than adequate.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range Rear-Wheel Drive variant of the Tesla Model 3 has an official range of up to 702 kilometres.",
+                    "vis_data": [
+                        {
+                            "label": "Long Range RWD Range",
+                            "value": "702",
+                            "unit": "km"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Tesla Model 3 Performance manages a range of up to 528km.",
+                    "vis_data": [
+                        {
+                            "label": "Performance Model Range",
+                            "value": "528",
+                            "unit": "km"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "One of the major advantages of any Tesla is of course access to the company\u2019s excellent Supercharger network of fast charging stations. They\u2019re rarely fully occupied and it\u2019s a truly hassle-free way to recharge when on longer journeys. The Performance model can recharge at up to 250kW on DC power, and it also manages up to 11kW on three-phase AC outlets.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Tesla Model 3 Performance model can recharge at up to 250kW on DC power.",
+                    "vis_data": [
+                        {
+                            "label": "DC Charging Power",
+                            "value": "250",
+                            "unit": "kW"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Tesla Model 3 Performance model manages up to 11kW on three-phase AC outlets.",
+                    "vis_data": [
+                        {
+                            "label": "AC Charging Power",
+                            "value": "11",
+                            "unit": "kW"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "All EVs are cheap to run when compared with cars powered by engines. Not only is motor tax in the lowest bracket - at just \u20ac120 a year - but servicing costs are low as there are no regular oil changes and the like required, while brake wear is reduced as the car makes use of \u2018brake energy regeneration\u2019 through the electric motors.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Motor tax for the Tesla Model 3 is \u20ac120 a year.",
+                    "vis_data": [
+                        {
+                            "label": "Motor Tax",
+                            "value": "120",
+                            "unit": "\u20ac per year"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Tesla quotes 16.7kWh/100km for the Performance model, which means the cost per km of driving would be significantly lower than in any comparable high-performance car with an engine. The Model 3 comes with a heat pump as standard, designed to reduce drain on the battery during colder months when you use the cabin heating more.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla quotes 16.7kWh/100km for the Performance model.",
+                    "vis_data": [
+                        {
+                            "label": "Energy Consumption",
+                            "value": "16.7",
+                            "unit": "kWh/100km"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Obviously, you\u2019ll not achieve that official consumption figure if you\u2019re exploring the extra performance on tap regularly, and in our time with the car we achieved an average of in and around 21kWh/100km in a cold week.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "An average of around 21kWh/100km was achieved in a cold week with the Tesla Model 3 Performance.",
+                    "vis_data": [
+                        {
+                            "label": "Cold Week Energy Consumption",
+                            "value": "21",
+                            "unit": "kWh/100km"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

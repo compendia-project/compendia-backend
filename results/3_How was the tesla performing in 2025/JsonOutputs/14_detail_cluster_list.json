@@ -1,0 +1,192 @@
+[
+    {
+        "cluster_id": 3,
+        "title": "Tesla Performance",
+        "description": "Tesla's performance in 2025 is marked by significant production achievements and technological advancements. The company produced 362,615 vehicles in the first quarter, showcasing its manufacturing capabilities. Tesla's vehicles, such as the Model Y, offer impressive features like rapid charging and competitive acceleration times. Additionally, Tesla is focusing on reducing wind noise and improving range efficiency, enhancing the overall driving experience.",
+        "representative_facts": [
+            {
+                "fact_content": "Tesla produced 362,615 vehicles in the first quarter of 2025",
+                "fact_id": "3_10"
+            },
+            {
+                "fact_content": "Tesla\u2019s quickest version provides 275 kilometres after 15 minutes",
+                "fact_id": "3_5"
+            },
+            {
+                "fact_content": "Wind noise is reduced by 30% according to Tesla",
+                "fact_id": "3_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "title": "Electric Vehicles",
+        "description": "The cluster provides insights into the performance and specifications of electric vehicles, including BMW and Tesla models. It highlights the BMW iX's performance metrics, such as its power consumption and range, and compares them with Tesla's production and financial performance. Tesla's production numbers and revenue figures are also noted, alongside its profit margin and energy consumption statistics for different models.",
+        "representative_facts": [
+            {
+                "fact_content": "Tesla produced 362,615 vehicles in Q1 2025",
+                "fact_id": "9_12"
+            },
+            {
+                "fact_content": "Tesla's revenue was $21.3 billion in Q1 last year",
+                "fact_id": "9_13"
+            },
+            {
+                "fact_content": "Tesla's profit margin excluding credits is 13.6%",
+                "fact_id": "9_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "title": "Tesla Performance",
+        "description": "In 2025, Tesla's performance was marked by significant vehicle production and delivery figures. The company produced 410,244 vehicles, slightly below analysts' expectations of 434,230. Tesla delivered over 384,000 vehicles in the second quarter, closely aligning with Wall Street's prediction of 385,000 deliveries. Additionally, Tesla's energy business contributed 10% to its total revenue in 2024, highlighting its diversified operations.",
+        "representative_facts": [
+            {
+                "fact_content": "Tesla delivered over 384,000 vehicles in Q2 2025",
+                "fact_id": "8_4"
+            },
+            {
+                "fact_content": "410,244 vehicles produced",
+                "fact_id": "8_2"
+            },
+            {
+                "fact_content": "Wall Street predicted Tesla would deliver 385,000 cars in Q2",
+                "fact_id": "8_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "title": "Tesla Performance",
+        "description": "Tesla's market share has significantly decreased from 60% in 2020 to 38% in 2024, indicating a decline in its dominance. The company has faced challenges with production and deliveries, with a 14% year-over-year drop in deliveries and a production decrease of roughly 600 vehicles. Despite these setbacks, Tesla's stock experienced a brief 3% rise, although it has been on a downward trend for nine consecutive weeks.",
+        "representative_facts": [
+            {
+                "fact_content": "Tesla's market share decreased from 60% in 2020 to 38% in 2024",
+                "fact_id": "6_0"
+            },
+            {
+                "fact_content": "Deliveries down 14% year-over-year",
+                "fact_id": "6_2"
+            },
+            {
+                "fact_content": "Tesla\u2019s stock has marked nine consecutive weeks of decline",
+                "fact_id": "6_9"
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "title": "Tesla Updates",
+        "description": "Tesla is making significant advancements in its vehicle range and production capabilities. The updated Model 3 now offers an improved range of up to 421 miles, showcasing Tesla's commitment to enhancing vehicle efficiency. Additionally, Tesla aims to produce a Cybercab every five seconds, indicating a focus on scaling production. The company's capital expenditures are projected to reach $10 billion in 2024 and 2025, reflecting its investment in future growth.",
+        "representative_facts": [
+            {
+                "fact_content": "The range of the updated Model 3 has improved to up to 421 miles",
+                "fact_id": "1_5"
+            },
+            {
+                "fact_content": "Tesla aims to produce a Cybercab every five seconds",
+                "fact_id": "1_0"
+            },
+            {
+                "fact_content": "Tesla\u2019s CapEx is projected to reach $10 billion in 2024 and 2025",
+                "fact_id": "1_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "title": "Tesla Deliveries",
+        "description": "In Q2 2025, Tesla delivered over 384,000 vehicles, with the majority being Model 3 and Model Y units. The company's stock rose significantly following the announcement of these better-than-expected delivery numbers. Despite the strong delivery performance, Tesla's revenue fell short of projections by approximately $1.5 billion.",
+        "representative_facts": [
+            {
+                "fact_content": "Tesla delivered over 384,000 vehicles in Q2 2025",
+                "fact_id": "2_2"
+            },
+            {
+                "fact_content": "396,835 of the 410,244 vehicles produced were Model 3 and Model Y units",
+                "fact_id": "2_4"
+            },
+            {
+                "fact_content": "Tesla's stock surged over four percent after reporting better-than-expected deliveries",
+                "fact_id": "2_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "title": "Tesla Performance",
+        "description": "In 2025, Tesla faced a challenging year with its stock declining by 38%. Despite this, the company produced 410,244 vehicles in Q2, showcasing its manufacturing capabilities. The updated Model 3 saw price adjustments, with the Long Range All-Wheel Drive variant becoming \u00a31,000 cheaper.",
+        "representative_facts": [
+            {
+                "fact_content": "Tesla stock is down 38% in 2025",
+                "fact_id": "5_8"
+            },
+            {
+                "fact_content": "Tesla produced 410,244 vehicles in Q2 2025",
+                "fact_id": "5_2"
+            },
+            {
+                "fact_content": "The Long Range All-Wheel Drive is \u00a31,000 cheaper than previously",
+                "fact_id": "5_9"
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "title": "Tesla Performance",
+        "description": "Tesla's Model 3 Performance model is notable for its impressive acceleration and power, achieving 0-100 km/h in just 3.1 seconds and producing up to 510 hp. The Long Range AWD model also offers strong performance, reaching 60 mph in 4.0 seconds. Tesla's financial performance in Q4 2024 included a revenue of US$25.7 billion, with a significant portion of profit attributed to increased bitcoin holdings.",
+        "representative_facts": [
+            {
+                "fact_content": "Tesla Model 3 Performance model produces 510 hp",
+                "fact_id": "7_2"
+            },
+            {
+                "fact_content": "Model 3 Performance 0-100km/h in 3.1 seconds",
+                "fact_id": "7_10"
+            },
+            {
+                "fact_content": "Tesla Q4 2024 revenue was US$25.7 billion",
+                "fact_id": "7_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "title": "Tesla Performance",
+        "description": "The Tesla Model 3 Performance model boasts impressive acceleration, reaching 0-100 km/h in just 3.1 seconds, and offers a substantial range of up to 528 km. The base Long Range RWD model provides a driving range of 363 miles and accelerates to 60 mph in 5.6 seconds. Tesla's profit margin, excluding regulatory credits, has decreased to 13.6%.",
+        "representative_facts": [
+            {
+                "fact_content": "Tesla Model 3 Performance accelerates 0-100 km/h in 3.1 seconds",
+                "fact_id": "10_5"
+            },
+            {
+                "fact_content": "Tesla Model 3 Performance range up to 528 km",
+                "fact_id": "10_6"
+            },
+            {
+                "fact_content": "Base Long Range RWD model range 363 miles",
+                "fact_id": "10_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "title": "Tesla Performance",
+        "description": "Tesla experienced significant changes in 2024, with a notable 50% drop in stock value from its December peak. Despite a 13% decline in deliveries compared to the previous year, Tesla managed to reduce its average per-vehicle cost of goods sold from over $38,000 to under $35,000. The energy business contributed $10 billion to the company's revenue, while sales in China increased by 3% year-over-year. Analysts anticipate first-quarter revenue of $21.81 billion and an EPS of $0.43 per share. Looking ahead, Tesla is projected to achieve a 30% revenue growth rate by 2028, although salary expenses are expected to surpass $13 billion by then.",
+        "representative_facts": [
+            {
+                "fact_content": "Tesla stock fell 50% from December 2024 peak",
+                "fact_id": "4_2"
+            },
+            {
+                "fact_content": "Deliveries dropped 13% year-over-year",
+                "fact_id": "4_3"
+            },
+            {
+                "fact_content": "Average per-vehicle COGS fell from $38,000 to $35,000",
+                "fact_id": "4_4"
+            }
+        ]
+    }
+]

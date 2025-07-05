@@ -1,0 +1,69 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Once hailed as the undisputed champion of the electric vehicle revolution, Tesla\u2019s stock has faced a brutal reckoning in 2025, shedding billions in market value as investor optimism collides with harsh realities. The company\u2019s stock has plummeted 50% from its December 2024 peak, marking nine consecutive weeks of decline. The shares, which rode a years-long wave of euphoria fuelled by Elon Musk\u2019s visionary promises and breakneck growth, have tumbled amid a perfect storm of challenges.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla\u2019s stock has plummeted 50% from its December 2024 peak."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla\u2019s stock has marked nine consecutive weeks of decline."
+                }
+            ]
+        },
+        {
+            "paragraph": "Tesla\u2019s financial performance has deteriorated significantly, weakening margins and undermining investor confidence. Tesla posted a earnings miss for Q4 2024, withrevenue of US$25.7 billionfalling approximately US$1.5 billion short of projections. This underperformance has raised serious concerns about Tesla\u2019s growth trajectory, especially as it coincides with the company\u2019s first annual sales decline in its history during 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's revenue for Q4 2024 was US$25.7 billion."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Tesla's revenue fell approximately US$1.5 billion short of projections."
+                }
+            ]
+        },
+        {
+            "paragraph": "Additionally, Tesla\u2019s profit margin, excluding regulatory credits, hascontracted to 13.6%,significantly below analyst expectations of 16.2% and much narrower than in recent years. This margin compression reflects mounting competitive pressures and Tesla\u2019s inability to maintain premium pricing in an increasingly crowded electric vehicle market. The reliance on non-operational gains is particularly concerning \u2013US$600 millionof Tesla\u2019s fourth-quarter profit came from increased bitcoin holdings rather than its core automotive business.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's profit margin, excluding regulatory credits, has contracted to 13.6%."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Tesla's profit margin is significantly below analyst expectations of 16.2%."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "US$600 million of Tesla\u2019s fourth-quarter profit came from increased bitcoin holdings."
+                }
+            ]
+        },
+        {
+            "paragraph": "Chinese manufacturer BYD has emerged as Tesla\u2019s most formidable competitor, consistentlyoutperforming Teslain sales volume in China, the world\u2019s largest EV market. BYD\u2019s success is built on competitive pricing, strong government support, and products tailored to local preferences. The company\u2019s international expansion, including apartnership with Uber to deploy 100,000 vehiclesacross multiple regions, signals its ambition to challenge Tesla globally.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD plans to deploy 100,000 vehicles across multiple regions in partnership with Uber."
+                }
+            ]
+        },
+        {
+            "paragraph": "BYD recently unveiled charging technology that candeliver up to 400 kilometres of range after just five minutes, surpassing Tesla\u2019s quickest version, which provides 275 kilometres after 15 minutes. This advancement threatens one of Tesla\u2019s key selling points \u2013 its supercharging network and battery technology. As competitors catch up technologically, Tesla\u2019s differentiation in the market continues to erode.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD's charging technology can deliver up to 400 kilometres of range after just five minutes."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla\u2019s quickest version provides 275 kilometres after 15 minutes."
+                }
+            ]
+        }
+    ]
+}

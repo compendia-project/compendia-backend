@@ -1,0 +1,70 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Gold prices have rallied significantly this year, climbing as much as 30% year-to-date when they peaked at $3,500/oz in April, surpassing J.P. Morgan Research\u2019s previous forecasts.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Gold prices climbed as much as 30% year-to-date."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Gold prices peaked at $3,500/oz in April."
+                }
+            ]
+        },
+        {
+            "paragraph": "J.P. Morgan Research now expects prices to average $3,675/oz by the final quarter of 2025, rising toward $4,000/oz by the second quarter of 2026.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Prices are expected to average $3,675/oz by the final quarter of 2025."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Prices are expected to rise toward $4,000/oz by the second quarter of 2026."
+                }
+            ]
+        },
+        {
+            "paragraph": "Gold prices are expected to average $3,675/oz by the fourth quarter of 2025.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold prices are expected to average $3,675/oz by the fourth quarter of 2025."
+                }
+            ]
+        },
+        {
+            "paragraph": "The precious metal surpassed multiple record peaks in 2024 and broke through the $2,900/oz barrier for the first time in February this year, as investors navigated market volatility following U.S. tariffs and heightened geopolitical risks. Prices peaked at $3,500/oz in April against a backdrop of unpredictable U.S. trade policy.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Gold broke through the $2,900/oz barrier for the first time in February."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Prices peaked at $3,500/oz in April."
+                }
+            ]
+        },
+        {
+            "paragraph": "Underpinning the J.P. Morgan Research forecast for gold prices is continued strong investor and central bank (CB) gold demand, which is projected to average around 710 tonnes a quarter on net this year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold demand is projected to average around 710 tonnes a quarter on net this year."
+                }
+            ]
+        },
+        {
+            "paragraph": "\u201cAdd in economic, trade and U.S. policy uncertainty and shifting, more unpredictable geopolitical alliances and we think further diversification into gold will amount to around 900 tonnes of CB buying in 2025,\u201d Shearer said.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Central bank buying is expected to amount to around 900 tonnes in 2025."
+                }
+            ]
+        }
+    ]
+}

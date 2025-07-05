@@ -1,0 +1,546 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Rebounding demand from ETF investors and resilient buying from central banks and Asia retail have propelled gold prices to fresh records north of US$3,000/oz. Find out why we believe there is more room to run.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Gold prices have reached records north of US$3,000/oz.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Record",
+                            "value": "3001",
+                            "unit": "USD/oz"
+                        }
+                    ],
+                    "fact_id": "7_0_0"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold 2025 Midyear Outlook: A High(er) for Long",
+                "date": "2025-06-04",
+                "url": "https://www.ssga.com/us/en/institutional/insights/gold-2025-midyear-outlook-a-higher-for-longer-gold-price-regime",
+                "id": 7
+            },
+            "para_id": "7_0"
+        },
+        {
+            "paragraph": "Gold\u2019s price run during the first five months of 2025 \u2014 up ~25% to $3,300/oz \u2014 once again places it at the top of the leaderboard for global macro asset classes.3We still lean bullish over the medium term due to a combination of tactical factors (e.g., uncertain trade policy, ETF flows, recession risks, potential Fed easing) and structural factors (e.g., central bank demand, sovereign debt burdens, and the de-dollarization trend).",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Gold's price increased by ~25% to $3,300/oz during the first five months of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Increase",
+                            "value": "3300",
+                            "unit": "USD/oz"
+                        },
+                        {
+                            "label": "Percentage Increase",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_1_1"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold 2025 Midyear Outlook: A High(er) for Long",
+                "date": "2025-06-04",
+                "url": "https://www.ssga.com/us/en/institutional/insights/gold-2025-midyear-outlook-a-higher-for-longer-gold-price-regime",
+                "id": 7
+            },
+            "para_id": "7_1"
+        },
+        {
+            "paragraph": "Gold\u2019s price floor seems to have reset higher in 2025 \u2014 with $3,000/oz representing the new $2,000/oz. Even if global trade tensions moderate, our base case forecast suggests gold can sustain record price levels between $3,100-$3,500/oz this year. Our bull case scenario (30% probability) sees gold approaching $4,000/oz over the next six to nine months under certain macroeconomic conditions, including stagflation and accelerated de-dollarization.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold's price floor reset to $3,000/oz in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Floor",
+                            "value": "3000",
+                            "unit": "USD/oz"
+                        }
+                    ],
+                    "fact_id": "7_2_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Base case forecast suggests gold can sustain price levels between $3,100-$3,500/oz in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Base Case",
+                            "value": "3100",
+                            "unit": "USD/oz"
+                        },
+                        {
+                            "label": "Gold Price Base Case",
+                            "value": "3500",
+                            "unit": "USD/oz"
+                        }
+                    ],
+                    "fact_id": "7_2_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bull case scenario sees gold approaching $4,000/oz over the next six to nine months with a 30% probability.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Bull Case",
+                            "value": "4000",
+                            "unit": "USD/oz"
+                        }
+                    ],
+                    "fact_id": "7_2_4"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold 2025 Midyear Outlook: A High(er) for Long",
+                "date": "2025-06-04",
+                "url": "https://www.ssga.com/us/en/institutional/insights/gold-2025-midyear-outlook-a-higher-for-longer-gold-price-regime",
+                "id": 7
+            },
+            "para_id": "7_2"
+        },
+        {
+            "paragraph": "The return of financial inflows, particularly from Western gold ETF investors, represents the largest potential annual growth in gold demand for 2025, laying the foundation for prices to scale $3,500-$3,900/oz in our bull case scenario.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bull case scenario sees gold prices scaling $3,500-$3,900/oz.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Bull Case",
+                            "value": "3500",
+                            "unit": "$/oz"
+                        },
+                        {
+                            "label": "Gold Price Bull Case",
+                            "value": "3900",
+                            "unit": "$/oz"
+                        }
+                    ],
+                    "fact_id": "7_3_5"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold 2025 Midyear Outlook: A High(er) for Long",
+                "date": "2025-06-04",
+                "url": "https://www.ssga.com/us/en/institutional/insights/gold-2025-midyear-outlook-a-higher-for-longer-gold-price-regime",
+                "id": 7
+            },
+            "para_id": "7_3"
+        },
+        {
+            "paragraph": "We believe the gold market has transitioned to a higher price regime north of US$3,000/oz for the rest of 2025, but prices could test US$4,000/oz-$5,000/oz over the next 12-24 months.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Gold prices could test US$4,000/oz-$5,000/oz over the next 12-24 months.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Test",
+                            "value": "4000",
+                            "unit": "USD/oz"
+                        },
+                        {
+                            "label": "Gold Price Test",
+                            "value": "5000",
+                            "unit": "USD/oz"
+                        },
+                        {
+                            "label": "Current Price Regime",
+                            "value": "3000",
+                            "unit": "USD/oz"
+                        }
+                    ],
+                    "fact_id": "7_4_6"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold 2025 Midyear Outlook: A High(er) for Long",
+                "date": "2025-06-04",
+                "url": "https://www.ssga.com/us/en/institutional/insights/gold-2025-midyear-outlook-a-higher-for-longer-gold-price-regime",
+                "id": 7
+            },
+            "para_id": "7_4"
+        },
+        {
+            "paragraph": "Base Case (50% probability): US$3,100-$3,500/oz.Harsher tariff rates have been rolled back, including between the US and China. But policy uncertainty and tensions remain on the front foot for the balance of 2025. There is some trough found in the USD and risk sentiment steadies. The Fed is limited in its ability to cut rates due to lingering inflation impulses. China\u2019s retail demand rebounds from the 1Q trough but fails to scale 2023-2024 peaks. Central bank gold demand remains robust but slightly subdued versus 2022-2024. Gold ETF inflows stay positive but moderate from the feverish January-April pace.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Base case scenario predicts gold prices between US$3,100-$3,500/oz with 50% probability.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Base Case",
+                            "value": "3100",
+                            "unit": "US$/oz"
+                        },
+                        {
+                            "label": "Gold Price Base Case",
+                            "value": "3500",
+                            "unit": "US$/oz"
+                        }
+                    ],
+                    "fact_id": "7_5_7"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold 2025 Midyear Outlook: A High(er) for Long",
+                "date": "2025-06-04",
+                "url": "https://www.ssga.com/us/en/institutional/insights/gold-2025-midyear-outlook-a-higher-for-longer-gold-price-regime",
+                "id": 7
+            },
+            "para_id": "7_5"
+        },
+        {
+            "paragraph": "Bull Case (30% probability): US$3,500-$3,900/oz.Trade and tariff tensions escalate and there is a clear sign of a shifting geoeconomic order, increasing the risk of US/global stagflation and reduced USD recycling into US sovereign assets. Risk-off regime extends. China\u2019s retail gold demand rebounds more aggressively, central bank gold demand surprises to the upside (e.g. north of 1,100-1,200t), and gold ETF inflows mirror the 2009 and 2020 pace.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bull case scenario predicts gold prices between US$3,500-$3,900/oz with 30% probability.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Bull Case",
+                            "value": "3500",
+                            "unit": "USD/oz"
+                        },
+                        {
+                            "label": "Gold Price Bull Case",
+                            "value": "3900",
+                            "unit": "USD/oz"
+                        }
+                    ],
+                    "fact_id": "7_6_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Central bank gold demand could be north of 1,100-1,200t.",
+                    "vis_data": [
+                        {
+                            "label": "Central Bank Gold Demand",
+                            "value": "1100",
+                            "unit": "t"
+                        },
+                        {
+                            "label": "Central Bank Gold Demand",
+                            "value": "1200",
+                            "unit": "t"
+                        }
+                    ],
+                    "fact_id": "7_6_9"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold 2025 Midyear Outlook: A High(er) for Long",
+                "date": "2025-06-04",
+                "url": "https://www.ssga.com/us/en/institutional/insights/gold-2025-midyear-outlook-a-higher-for-longer-gold-price-regime",
+                "id": 7
+            },
+            "para_id": "7_6"
+        },
+        {
+            "paragraph": "Bear Case (20% probability): US$2,700-$3,100/oz.Material de-escalation and semi-permanent resolution to US-Sino geoeconomic relations and a return to USD and US growth exceptionalism. Investors significantly overweight risk assets and US equities. Volatility compresses across asset markets. Fed stays on hold as organic growth rebounds. China, central bank, and gold ETF demand post softer than expected. Though strategic gold buyers could support a dip in a high $2,000s handle, a bear case could see prices compress below $3,000.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bear case scenario predicts gold prices between US$2,700-$3,100/oz with 20% probability.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Bear Case",
+                            "value": "2700",
+                            "unit": "USD/oz"
+                        },
+                        {
+                            "label": "Gold Price Bear Case",
+                            "value": "3100",
+                            "unit": "USD/oz"
+                        },
+                        {
+                            "label": "Probability",
+                            "value": "20",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_7_10"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold 2025 Midyear Outlook: A High(er) for Long",
+                "date": "2025-06-04",
+                "url": "https://www.ssga.com/us/en/institutional/insights/gold-2025-midyear-outlook-a-higher-for-longer-gold-price-regime",
+                "id": 7
+            },
+            "para_id": "7_7"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "7_0",
+            "paragraph": "Rebounding demand from ETF investors and resilient buying from central banks and Asia retail have propelled gold prices to fresh records north of US$3,000/oz. Find out why we believe there is more room to run."
+        },
+        {
+            "para_id": "7_1",
+            "paragraph": "Gold\u2019s price run during the first five months of 2025 \u2014 up ~25% to $3,300/oz \u2014 once again places it at the top of the leaderboard for global macro asset classes.3We still lean bullish over the medium term due to a combination of tactical factors (e.g., uncertain trade policy, ETF flows, recession risks, potential Fed easing) and structural factors (e.g., central bank demand, sovereign debt burdens, and the de-dollarization trend)."
+        },
+        {
+            "para_id": "7_2",
+            "paragraph": "Gold\u2019s price floor seems to have reset higher in 2025 \u2014 with $3,000/oz representing the new $2,000/oz. Even if global trade tensions moderate, our base case forecast suggests gold can sustain record price levels between $3,100-$3,500/oz this year. Our bull case scenario (30% probability) sees gold approaching $4,000/oz over the next six to nine months under certain macroeconomic conditions, including stagflation and accelerated de-dollarization."
+        },
+        {
+            "para_id": "7_3",
+            "paragraph": "The return of financial inflows, particularly from Western gold ETF investors, represents the largest potential annual growth in gold demand for 2025, laying the foundation for prices to scale $3,500-$3,900/oz in our bull case scenario."
+        },
+        {
+            "para_id": "7_4",
+            "paragraph": "We believe the gold market has transitioned to a higher price regime north of US$3,000/oz for the rest of 2025, but prices could test US$4,000/oz-$5,000/oz over the next 12-24 months."
+        },
+        {
+            "para_id": "7_5",
+            "paragraph": "Base Case (50% probability): US$3,100-$3,500/oz.Harsher tariff rates have been rolled back, including between the US and China. But policy uncertainty and tensions remain on the front foot for the balance of 2025. There is some trough found in the USD and risk sentiment steadies. The Fed is limited in its ability to cut rates due to lingering inflation impulses. China\u2019s retail demand rebounds from the 1Q trough but fails to scale 2023-2024 peaks. Central bank gold demand remains robust but slightly subdued versus 2022-2024. Gold ETF inflows stay positive but moderate from the feverish January-April pace."
+        },
+        {
+            "para_id": "7_6",
+            "paragraph": "Bull Case (30% probability): US$3,500-$3,900/oz.Trade and tariff tensions escalate and there is a clear sign of a shifting geoeconomic order, increasing the risk of US/global stagflation and reduced USD recycling into US sovereign assets. Risk-off regime extends. China\u2019s retail gold demand rebounds more aggressively, central bank gold demand surprises to the upside (e.g. north of 1,100-1,200t), and gold ETF inflows mirror the 2009 and 2020 pace."
+        },
+        {
+            "para_id": "7_7",
+            "paragraph": "Bear Case (20% probability): US$2,700-$3,100/oz.Material de-escalation and semi-permanent resolution to US-Sino geoeconomic relations and a return to USD and US growth exceptionalism. Investors significantly overweight risk assets and US equities. Volatility compresses across asset markets. Fed stays on hold as organic growth rebounds. China, central bank, and gold ETF demand post softer than expected. Though strategic gold buyers could support a dip in a high $2,000s handle, a bear case could see prices compress below $3,000."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "Gold prices have reached records north of US$3,000/oz."
+        },
+        {
+            "fact_id": "7_1_1",
+            "fact_content": "Gold's price increased by ~25% to $3,300/oz during the first five months of 2025."
+        },
+        {
+            "fact_id": "7_2_2",
+            "fact_content": "Gold's price floor reset to $3,000/oz in 2025."
+        },
+        {
+            "fact_id": "7_2_3",
+            "fact_content": "Base case forecast suggests gold can sustain price levels between $3,100-$3,500/oz in 2025."
+        },
+        {
+            "fact_id": "7_2_4",
+            "fact_content": "Bull case scenario sees gold approaching $4,000/oz over the next six to nine months with a 30% probability."
+        },
+        {
+            "fact_id": "7_3_5",
+            "fact_content": "Bull case scenario sees gold prices scaling $3,500-$3,900/oz."
+        },
+        {
+            "fact_id": "7_4_6",
+            "fact_content": "Gold prices could test US$4,000/oz-$5,000/oz over the next 12-24 months."
+        },
+        {
+            "fact_id": "7_5_7",
+            "fact_content": "Base case scenario predicts gold prices between US$3,100-$3,500/oz with 50% probability."
+        },
+        {
+            "fact_id": "7_6_8",
+            "fact_content": "Bull case scenario predicts gold prices between US$3,500-$3,900/oz with 30% probability."
+        },
+        {
+            "fact_id": "7_6_9",
+            "fact_content": "Central bank gold demand could be north of 1,100-1,200t."
+        },
+        {
+            "fact_id": "7_7_10",
+            "fact_content": "Bear case scenario predicts gold prices between US$2,700-$3,100/oz with 20% probability."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "extreme",
+            "fact_content": "Gold prices have reached records north of US$3,000/oz.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Record",
+                    "value": "3001",
+                    "unit": "USD/oz"
+                }
+            ],
+            "fact_id": "7_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Gold's price increased by ~25% to $3,300/oz during the first five months of 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Increase",
+                    "value": "3300",
+                    "unit": "USD/oz"
+                },
+                {
+                    "label": "Percentage Increase",
+                    "value": "25",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Gold's price floor reset to $3,000/oz in 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Floor",
+                    "value": "3000",
+                    "unit": "USD/oz"
+                }
+            ],
+            "fact_id": "7_2_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Base case forecast suggests gold can sustain price levels between $3,100-$3,500/oz in 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Base Case",
+                    "value": "3100",
+                    "unit": "USD/oz"
+                },
+                {
+                    "label": "Gold Price Base Case",
+                    "value": "3500",
+                    "unit": "USD/oz"
+                }
+            ],
+            "fact_id": "7_2_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Bull case scenario sees gold approaching $4,000/oz over the next six to nine months with a 30% probability.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Bull Case",
+                    "value": "4000",
+                    "unit": "USD/oz"
+                }
+            ],
+            "fact_id": "7_2_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Bull case scenario sees gold prices scaling $3,500-$3,900/oz.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Bull Case",
+                    "value": "3500",
+                    "unit": "$/oz"
+                },
+                {
+                    "label": "Gold Price Bull Case",
+                    "value": "3900",
+                    "unit": "$/oz"
+                }
+            ],
+            "fact_id": "7_3_5"
+        },
+        {
+            "fact_type": "extreme",
+            "fact_content": "Gold prices could test US$4,000/oz-$5,000/oz over the next 12-24 months.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Test",
+                    "value": "4000",
+                    "unit": "USD/oz"
+                },
+                {
+                    "label": "Gold Price Test",
+                    "value": "5000",
+                    "unit": "USD/oz"
+                },
+                {
+                    "label": "Current Price Regime",
+                    "value": "3000",
+                    "unit": "USD/oz"
+                }
+            ],
+            "fact_id": "7_4_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Base case scenario predicts gold prices between US$3,100-$3,500/oz with 50% probability.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Base Case",
+                    "value": "3100",
+                    "unit": "US$/oz"
+                },
+                {
+                    "label": "Gold Price Base Case",
+                    "value": "3500",
+                    "unit": "US$/oz"
+                }
+            ],
+            "fact_id": "7_5_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Bull case scenario predicts gold prices between US$3,500-$3,900/oz with 30% probability.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Bull Case",
+                    "value": "3500",
+                    "unit": "USD/oz"
+                },
+                {
+                    "label": "Gold Price Bull Case",
+                    "value": "3900",
+                    "unit": "USD/oz"
+                }
+            ],
+            "fact_id": "7_6_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Central bank gold demand could be north of 1,100-1,200t.",
+            "vis_data": [
+                {
+                    "label": "Central Bank Gold Demand",
+                    "value": "1100",
+                    "unit": "t"
+                },
+                {
+                    "label": "Central Bank Gold Demand",
+                    "value": "1200",
+                    "unit": "t"
+                }
+            ],
+            "fact_id": "7_6_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Bear case scenario predicts gold prices between US$2,700-$3,100/oz with 20% probability.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Bear Case",
+                    "value": "2700",
+                    "unit": "USD/oz"
+                },
+                {
+                    "label": "Gold Price Bear Case",
+                    "value": "3100",
+                    "unit": "USD/oz"
+                },
+                {
+                    "label": "Probability",
+                    "value": "20",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_7_10"
+        }
+    ]
+}

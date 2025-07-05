@@ -1,0 +1,370 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Once hailed as the undisputed champion of the electric vehicle revolution, Tesla\u2019s stock has faced a brutal reckoning in 2025, shedding billions in market value as investor optimism collides with harsh realities. The company\u2019s stock has plummeted 50% from its December 2024 peak, marking nine consecutive weeks of decline. The shares, which rode a years-long wave of euphoria fuelled by Elon Musk\u2019s visionary promises and breakneck growth, have tumbled amid a perfect storm of challenges.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla\u2019s stock has plummeted 50% from its December 2024 peak.",
+                    "vis_data": [
+                        {
+                            "label": "Stock Decline",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "14_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla\u2019s stock has marked nine consecutive weeks of decline.",
+                    "vis_data": [
+                        {
+                            "label": "Weeks of Decline",
+                            "value": "9",
+                            "unit": "weeks"
+                        }
+                    ],
+                    "fact_id": "14_0_1"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Hype meets reality: Why Tesla crashed 50% in 2025",
+                "date": "2025-04-02",
+                "url": "https://fifthperson.com/tesla-crashed-50-in-2025/",
+                "id": 14
+            },
+            "para_id": "14_0"
+        },
+        {
+            "paragraph": "Tesla\u2019s financial performance has deteriorated significantly, weakening margins and undermining investor confidence. Tesla posted a earnings miss for Q4 2024, withrevenue of US$25.7 billionfalling approximately US$1.5 billion short of projections. This underperformance has raised serious concerns about Tesla\u2019s growth trajectory, especially as it coincides with the company\u2019s first annual sales decline in its history during 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's revenue for Q4 2024 was US$25.7 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Q4 2024 Revenue",
+                            "value": "25.7",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "14_1_2"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Tesla's revenue fell approximately US$1.5 billion short of projections.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue Shortfall",
+                            "value": "1.5",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "14_1_3"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Hype meets reality: Why Tesla crashed 50% in 2025",
+                "date": "2025-04-02",
+                "url": "https://fifthperson.com/tesla-crashed-50-in-2025/",
+                "id": 14
+            },
+            "para_id": "14_1"
+        },
+        {
+            "paragraph": "Additionally, Tesla\u2019s profit margin, excluding regulatory credits, hascontracted to 13.6%,significantly below analyst expectations of 16.2% and much narrower than in recent years. This margin compression reflects mounting competitive pressures and Tesla\u2019s inability to maintain premium pricing in an increasingly crowded electric vehicle market. The reliance on non-operational gains is particularly concerning \u2013US$600 millionof Tesla\u2019s fourth-quarter profit came from increased bitcoin holdings rather than its core automotive business.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's profit margin, excluding regulatory credits, has contracted to 13.6%.",
+                    "vis_data": [
+                        {
+                            "label": "Profit Margin",
+                            "value": "13.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "14_2_4"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Tesla's profit margin is significantly below analyst expectations of 16.2%.",
+                    "vis_data": [
+                        {
+                            "label": "Margin Expectation Gap",
+                            "value": "2.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "14_2_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "US$600 million of Tesla\u2019s fourth-quarter profit came from increased bitcoin holdings.",
+                    "vis_data": [
+                        {
+                            "label": "Bitcoin Profit",
+                            "value": "600",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "14_2_6"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Hype meets reality: Why Tesla crashed 50% in 2025",
+                "date": "2025-04-02",
+                "url": "https://fifthperson.com/tesla-crashed-50-in-2025/",
+                "id": 14
+            },
+            "para_id": "14_2"
+        },
+        {
+            "paragraph": "Chinese manufacturer BYD has emerged as Tesla\u2019s most formidable competitor, consistentlyoutperforming Teslain sales volume in China, the world\u2019s largest EV market. BYD\u2019s success is built on competitive pricing, strong government support, and products tailored to local preferences. The company\u2019s international expansion, including apartnership with Uber to deploy 100,000 vehiclesacross multiple regions, signals its ambition to challenge Tesla globally.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD plans to deploy 100,000 vehicles across multiple regions in partnership with Uber.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Uber Deployment",
+                            "value": "100000",
+                            "unit": "vehicles"
+                        }
+                    ],
+                    "fact_id": "14_3_7"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Hype meets reality: Why Tesla crashed 50% in 2025",
+                "date": "2025-04-02",
+                "url": "https://fifthperson.com/tesla-crashed-50-in-2025/",
+                "id": 14
+            },
+            "para_id": "14_3"
+        },
+        {
+            "paragraph": "BYD recently unveiled charging technology that candeliver up to 400 kilometres of range after just five minutes, surpassing Tesla\u2019s quickest version, which provides 275 kilometres after 15 minutes. This advancement threatens one of Tesla\u2019s key selling points \u2013 its supercharging network and battery technology. As competitors catch up technologically, Tesla\u2019s differentiation in the market continues to erode.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD's charging technology can deliver up to 400 kilometres of range after just five minutes.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Charging Range",
+                            "value": "400",
+                            "unit": "km"
+                        }
+                    ],
+                    "fact_id": "14_4_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla\u2019s quickest version provides 275 kilometres after 15 minutes.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Charging Range",
+                            "value": "275",
+                            "unit": "km"
+                        }
+                    ],
+                    "fact_id": "14_4_9"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Hype meets reality: Why Tesla crashed 50% in 2025",
+                "date": "2025-04-02",
+                "url": "https://fifthperson.com/tesla-crashed-50-in-2025/",
+                "id": 14
+            },
+            "para_id": "14_4"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "14_0",
+            "paragraph": "Once hailed as the undisputed champion of the electric vehicle revolution, Tesla\u2019s stock has faced a brutal reckoning in 2025, shedding billions in market value as investor optimism collides with harsh realities. The company\u2019s stock has plummeted 50% from its December 2024 peak, marking nine consecutive weeks of decline. The shares, which rode a years-long wave of euphoria fuelled by Elon Musk\u2019s visionary promises and breakneck growth, have tumbled amid a perfect storm of challenges."
+        },
+        {
+            "para_id": "14_1",
+            "paragraph": "Tesla\u2019s financial performance has deteriorated significantly, weakening margins and undermining investor confidence. Tesla posted a earnings miss for Q4 2024, withrevenue of US$25.7 billionfalling approximately US$1.5 billion short of projections. This underperformance has raised serious concerns about Tesla\u2019s growth trajectory, especially as it coincides with the company\u2019s first annual sales decline in its history during 2024."
+        },
+        {
+            "para_id": "14_2",
+            "paragraph": "Additionally, Tesla\u2019s profit margin, excluding regulatory credits, hascontracted to 13.6%,significantly below analyst expectations of 16.2% and much narrower than in recent years. This margin compression reflects mounting competitive pressures and Tesla\u2019s inability to maintain premium pricing in an increasingly crowded electric vehicle market. The reliance on non-operational gains is particularly concerning \u2013US$600 millionof Tesla\u2019s fourth-quarter profit came from increased bitcoin holdings rather than its core automotive business."
+        },
+        {
+            "para_id": "14_3",
+            "paragraph": "Chinese manufacturer BYD has emerged as Tesla\u2019s most formidable competitor, consistentlyoutperforming Teslain sales volume in China, the world\u2019s largest EV market. BYD\u2019s success is built on competitive pricing, strong government support, and products tailored to local preferences. The company\u2019s international expansion, including apartnership with Uber to deploy 100,000 vehiclesacross multiple regions, signals its ambition to challenge Tesla globally."
+        },
+        {
+            "para_id": "14_4",
+            "paragraph": "BYD recently unveiled charging technology that candeliver up to 400 kilometres of range after just five minutes, surpassing Tesla\u2019s quickest version, which provides 275 kilometres after 15 minutes. This advancement threatens one of Tesla\u2019s key selling points \u2013 its supercharging network and battery technology. As competitors catch up technologically, Tesla\u2019s differentiation in the market continues to erode."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "14_0_0",
+            "fact_content": "Tesla\u2019s stock has plummeted 50% from its December 2024 peak."
+        },
+        {
+            "fact_id": "14_0_1",
+            "fact_content": "Tesla\u2019s stock has marked nine consecutive weeks of decline."
+        },
+        {
+            "fact_id": "14_1_2",
+            "fact_content": "Tesla's revenue for Q4 2024 was US$25.7 billion."
+        },
+        {
+            "fact_id": "14_1_3",
+            "fact_content": "Tesla's revenue fell approximately US$1.5 billion short of projections."
+        },
+        {
+            "fact_id": "14_2_4",
+            "fact_content": "Tesla's profit margin, excluding regulatory credits, has contracted to 13.6%."
+        },
+        {
+            "fact_id": "14_2_5",
+            "fact_content": "Tesla's profit margin is significantly below analyst expectations of 16.2%."
+        },
+        {
+            "fact_id": "14_2_6",
+            "fact_content": "US$600 million of Tesla\u2019s fourth-quarter profit came from increased bitcoin holdings."
+        },
+        {
+            "fact_id": "14_3_7",
+            "fact_content": "BYD plans to deploy 100,000 vehicles across multiple regions in partnership with Uber."
+        },
+        {
+            "fact_id": "14_4_8",
+            "fact_content": "BYD's charging technology can deliver up to 400 kilometres of range after just five minutes."
+        },
+        {
+            "fact_id": "14_4_9",
+            "fact_content": "Tesla\u2019s quickest version provides 275 kilometres after 15 minutes."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "Tesla\u2019s stock has plummeted 50% from its December 2024 peak.",
+            "vis_data": [
+                {
+                    "label": "Stock Decline",
+                    "value": "50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "14_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Tesla\u2019s stock has marked nine consecutive weeks of decline.",
+            "vis_data": [
+                {
+                    "label": "Weeks of Decline",
+                    "value": "9",
+                    "unit": "weeks"
+                }
+            ],
+            "fact_id": "14_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla's revenue for Q4 2024 was US$25.7 billion.",
+            "vis_data": [
+                {
+                    "label": "Q4 2024 Revenue",
+                    "value": "25.7",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "14_1_2"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Tesla's revenue fell approximately US$1.5 billion short of projections.",
+            "vis_data": [
+                {
+                    "label": "Revenue Shortfall",
+                    "value": "1.5",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "14_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla's profit margin, excluding regulatory credits, has contracted to 13.6%.",
+            "vis_data": [
+                {
+                    "label": "Profit Margin",
+                    "value": "13.6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "14_2_4"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Tesla's profit margin is significantly below analyst expectations of 16.2%.",
+            "vis_data": [
+                {
+                    "label": "Margin Expectation Gap",
+                    "value": "2.6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "14_2_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "US$600 million of Tesla\u2019s fourth-quarter profit came from increased bitcoin holdings.",
+            "vis_data": [
+                {
+                    "label": "Bitcoin Profit",
+                    "value": "600",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "14_2_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "BYD plans to deploy 100,000 vehicles across multiple regions in partnership with Uber.",
+            "vis_data": [
+                {
+                    "label": "BYD Uber Deployment",
+                    "value": "100000",
+                    "unit": "vehicles"
+                }
+            ],
+            "fact_id": "14_3_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "BYD's charging technology can deliver up to 400 kilometres of range after just five minutes.",
+            "vis_data": [
+                {
+                    "label": "BYD Charging Range",
+                    "value": "400",
+                    "unit": "km"
+                }
+            ],
+            "fact_id": "14_4_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla\u2019s quickest version provides 275 kilometres after 15 minutes.",
+            "vis_data": [
+                {
+                    "label": "Tesla Charging Range",
+                    "value": "275",
+                    "unit": "km"
+                }
+            ],
+            "fact_id": "14_4_9"
+        }
+    ]
+}

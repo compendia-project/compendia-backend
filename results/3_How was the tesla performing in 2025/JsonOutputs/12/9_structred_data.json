@@ -1,0 +1,382 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Tesla (NASDAQ: TSLA) has released its Q2 2025 vehicle delivery and production report. As per the report, the company delivered over 384,000 vehicles in the second quarter of 2025, while deploying 9.6 GWh in energy storage. Vehicle production also reached 410,244 units for the quarter.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla delivered over 384,000 vehicles in Q2 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Vehicles Delivered",
+                            "value": "384000",
+                            "unit": "units"
+                        }
+                    ],
+                    "fact_id": "12_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla deployed 9.6 GWh in energy storage in Q2 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Energy Storage",
+                            "value": "9.6",
+                            "unit": "GWh"
+                        }
+                    ],
+                    "fact_id": "12_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla produced 410,244 vehicles in Q2 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Vehicles Produced",
+                            "value": "410244",
+                            "unit": "units"
+                        }
+                    ],
+                    "fact_id": "12_0_2"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Tesla delivers 384,000 vehicles in Q2 2025, deploys 9.6 GWh in energy storage",
+                "date": "2025-07-23",
+                "url": "https://www.teslarati.com/tesla-q2-205-vehicle-delivery-and-production-results/",
+                "id": 12
+            },
+            "para_id": "12_0"
+        },
+        {
+            "paragraph": "Of the 410,244 vehicles produced during the quarter, 396,835 were Model 3 and Model Y units, while 13,409 were attributed to Tesla\u2019s other models, which includes the Cybertruck and Model S/X variants. Deliveries followed a similar pattern, with 373,728 Model 3/Ys delivered and 10,394 from other models, totaling 384,122.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "396,835 of the 410,244 vehicles produced were Model 3 and Model Y units.",
+                    "vis_data": [
+                        {
+                            "label": "Model 3/Y Produced",
+                            "value": "396835",
+                            "unit": "units"
+                        }
+                    ],
+                    "fact_id": "12_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "13,409 of the 410,244 vehicles produced were other models.",
+                    "vis_data": [
+                        {
+                            "label": "Other Models Produced",
+                            "value": "13409",
+                            "unit": "units"
+                        }
+                    ],
+                    "fact_id": "12_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "373,728 Model 3/Ys were delivered.",
+                    "vis_data": [
+                        {
+                            "label": "Model 3/Y Delivered",
+                            "value": "373728",
+                            "unit": "units"
+                        }
+                    ],
+                    "fact_id": "12_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "10,394 vehicles from other models were delivered.",
+                    "vis_data": [
+                        {
+                            "label": "Other Models Delivered",
+                            "value": "10394",
+                            "unit": "units"
+                        }
+                    ],
+                    "fact_id": "12_1_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total deliveries were 384,122 vehicles.",
+                    "vis_data": [
+                        {
+                            "label": "Total Deliveries",
+                            "value": "384122",
+                            "unit": "units"
+                        }
+                    ],
+                    "fact_id": "12_1_7"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Tesla delivers 384,000 vehicles in Q2 2025, deploys 9.6 GWh in energy storage",
+                "date": "2025-07-23",
+                "url": "https://www.teslarati.com/tesla-q2-205-vehicle-delivery-and-production-results/",
+                "id": 12
+            },
+            "para_id": "12_1"
+        },
+        {
+            "paragraph": "Tesla (NASDAQ: TSLA) surged over four percent on Wednesday morning after the company reported better-than-expected deliveries. It was nearly right on consensus estimations, as Wall Street predicted the company would deliver 385,000 cars in Q2.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Tesla's stock surged over four percent after reporting better-than-expected deliveries.",
+                    "vis_data": [
+                        {
+                            "label": "Stock Surge",
+                            "value": "4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "12_2_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Wall Street predicted Tesla would deliver 385,000 cars in Q2.",
+                    "vis_data": [
+                        {
+                            "label": "Predicted Deliveries",
+                            "value": "385000",
+                            "unit": "units"
+                        }
+                    ],
+                    "fact_id": "12_2_9"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Tesla delivers 384,000 vehicles in Q2 2025, deploys 9.6 GWh in energy storage",
+                "date": "2025-07-23",
+                "url": "https://www.teslarati.com/tesla-q2-205-vehicle-delivery-and-production-results/",
+                "id": 12
+            },
+            "para_id": "12_2"
+        },
+        {
+            "paragraph": "Tesla reported that it delivered 384,122 vehicles in Q2. Many, including those inside the Tesla community, were anticipating deliveries in the 340,000 to 360,000 range, while Wall Street seemed to get it just right.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla delivered 384,122 vehicles in Q2.",
+                    "vis_data": [
+                        {
+                            "label": "Vehicles Delivered",
+                            "value": "384122",
+                            "unit": "units"
+                        }
+                    ],
+                    "fact_id": "12_3_10"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Tesla delivers 384,000 vehicles in Q2 2025, deploys 9.6 GWh in energy storage",
+                "date": "2025-07-23",
+                "url": "https://www.teslarati.com/tesla-q2-205-vehicle-delivery-and-production-results/",
+                "id": 12
+            },
+            "para_id": "12_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "12_0",
+            "paragraph": "Tesla (NASDAQ: TSLA) has released its Q2 2025 vehicle delivery and production report. As per the report, the company delivered over 384,000 vehicles in the second quarter of 2025, while deploying 9.6 GWh in energy storage. Vehicle production also reached 410,244 units for the quarter."
+        },
+        {
+            "para_id": "12_1",
+            "paragraph": "Of the 410,244 vehicles produced during the quarter, 396,835 were Model 3 and Model Y units, while 13,409 were attributed to Tesla\u2019s other models, which includes the Cybertruck and Model S/X variants. Deliveries followed a similar pattern, with 373,728 Model 3/Ys delivered and 10,394 from other models, totaling 384,122."
+        },
+        {
+            "para_id": "12_2",
+            "paragraph": "Tesla (NASDAQ: TSLA) surged over four percent on Wednesday morning after the company reported better-than-expected deliveries. It was nearly right on consensus estimations, as Wall Street predicted the company would deliver 385,000 cars in Q2."
+        },
+        {
+            "para_id": "12_3",
+            "paragraph": "Tesla reported that it delivered 384,122 vehicles in Q2. Many, including those inside the Tesla community, were anticipating deliveries in the 340,000 to 360,000 range, while Wall Street seemed to get it just right."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "12_0_0",
+            "fact_content": "Tesla delivered over 384,000 vehicles in Q2 2025."
+        },
+        {
+            "fact_id": "12_0_1",
+            "fact_content": "Tesla deployed 9.6 GWh in energy storage in Q2 2025."
+        },
+        {
+            "fact_id": "12_0_2",
+            "fact_content": "Tesla produced 410,244 vehicles in Q2 2025."
+        },
+        {
+            "fact_id": "12_1_3",
+            "fact_content": "396,835 of the 410,244 vehicles produced were Model 3 and Model Y units."
+        },
+        {
+            "fact_id": "12_1_4",
+            "fact_content": "13,409 of the 410,244 vehicles produced were other models."
+        },
+        {
+            "fact_id": "12_1_5",
+            "fact_content": "373,728 Model 3/Ys were delivered."
+        },
+        {
+            "fact_id": "12_1_6",
+            "fact_content": "10,394 vehicles from other models were delivered."
+        },
+        {
+            "fact_id": "12_1_7",
+            "fact_content": "Total deliveries were 384,122 vehicles."
+        },
+        {
+            "fact_id": "12_2_8",
+            "fact_content": "Tesla's stock surged over four percent after reporting better-than-expected deliveries."
+        },
+        {
+            "fact_id": "12_2_9",
+            "fact_content": "Wall Street predicted Tesla would deliver 385,000 cars in Q2."
+        },
+        {
+            "fact_id": "12_3_10",
+            "fact_content": "Tesla delivered 384,122 vehicles in Q2."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla delivered over 384,000 vehicles in Q2 2025.",
+            "vis_data": [
+                {
+                    "label": "Vehicles Delivered",
+                    "value": "384000",
+                    "unit": "units"
+                }
+            ],
+            "fact_id": "12_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla deployed 9.6 GWh in energy storage in Q2 2025.",
+            "vis_data": [
+                {
+                    "label": "Energy Storage",
+                    "value": "9.6",
+                    "unit": "GWh"
+                }
+            ],
+            "fact_id": "12_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla produced 410,244 vehicles in Q2 2025.",
+            "vis_data": [
+                {
+                    "label": "Vehicles Produced",
+                    "value": "410244",
+                    "unit": "units"
+                }
+            ],
+            "fact_id": "12_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "396,835 of the 410,244 vehicles produced were Model 3 and Model Y units.",
+            "vis_data": [
+                {
+                    "label": "Model 3/Y Produced",
+                    "value": "396835",
+                    "unit": "units"
+                }
+            ],
+            "fact_id": "12_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "13,409 of the 410,244 vehicles produced were other models.",
+            "vis_data": [
+                {
+                    "label": "Other Models Produced",
+                    "value": "13409",
+                    "unit": "units"
+                }
+            ],
+            "fact_id": "12_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "373,728 Model 3/Ys were delivered.",
+            "vis_data": [
+                {
+                    "label": "Model 3/Y Delivered",
+                    "value": "373728",
+                    "unit": "units"
+                }
+            ],
+            "fact_id": "12_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "10,394 vehicles from other models were delivered.",
+            "vis_data": [
+                {
+                    "label": "Other Models Delivered",
+                    "value": "10394",
+                    "unit": "units"
+                }
+            ],
+            "fact_id": "12_1_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Total deliveries were 384,122 vehicles.",
+            "vis_data": [
+                {
+                    "label": "Total Deliveries",
+                    "value": "384122",
+                    "unit": "units"
+                }
+            ],
+            "fact_id": "12_1_7"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Tesla's stock surged over four percent after reporting better-than-expected deliveries.",
+            "vis_data": [
+                {
+                    "label": "Stock Surge",
+                    "value": "4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "12_2_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Wall Street predicted Tesla would deliver 385,000 cars in Q2.",
+            "vis_data": [
+                {
+                    "label": "Predicted Deliveries",
+                    "value": "385000",
+                    "unit": "units"
+                }
+            ],
+            "fact_id": "12_2_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla delivered 384,122 vehicles in Q2.",
+            "vis_data": [
+                {
+                    "label": "Vehicles Delivered",
+                    "value": "384122",
+                    "unit": "units"
+                }
+            ],
+            "fact_id": "12_3_10"
+        }
+    ]
+}

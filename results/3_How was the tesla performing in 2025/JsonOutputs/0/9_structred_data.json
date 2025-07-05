@@ -1,0 +1,196 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Given these factors, Tesla\u2019s revenue growth is expected to slow slightly between 2024 and 2025, with recovery anticipated in 2026 as new markets mature and software services contribute more significantly to overall revenue. By 2028, Tesla is projected to achieve a revenue growth rate of approximately 30%, driven by increased vehicle sales and subscription-based software services.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "By 2028, Tesla is projected to achieve a revenue growth rate of approximately 30%.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue Growth Rate",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_0_0"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Tesla Financial Performance Forecast and Analysis",
+                "date": "2024-07-05",
+                "url": "https://www.ewadirect.com/proceedings/aemps/article/view/19041",
+                "id": 0
+            },
+            "para_id": "0_0"
+        },
+        {
+            "paragraph": "Tesla\u2019s employee-related costs are anticipated to rise over the forecast period for several reasons: Gigafactory Expansion: Tesla\u2019s global Gigafactory network expansion is a key factor in driving up salaries and benefits. The company is building new factories in the U.S., Europe, and China to meet the growing demand for EVs and energy storage products. As these factories become operational, Tesla will need to hire a significant number of employees, including manufacturing workers, engineers, and R&D staff. This workforce expansion will contribute to higher salaries and benefits, with Tesla\u2019s total salary expenses expected to rise by approximately 22% to 25% over the next five years.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's total salary expenses are expected to rise by approximately 22% to 25% over the next five years.",
+                    "vis_data": [
+                        {
+                            "label": "Salary Expenses Increase",
+                            "value": "22-25",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_1_1"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Tesla Financial Performance Forecast and Analysis",
+                "date": "2024-07-05",
+                "url": "https://www.ewadirect.com/proceedings/aemps/article/view/19041",
+                "id": 0
+            },
+            "para_id": "0_1"
+        },
+        {
+            "paragraph": "Given these dynamics, Tesla\u2019s total salary expenses are expected to exceed $13 billion by 2028.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's total salary expenses are expected to exceed $13 billion by 2028.",
+                    "vis_data": [
+                        {
+                            "label": "Salary Expenses",
+                            "value": "13",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "0_2_2"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Tesla Financial Performance Forecast and Analysis",
+                "date": "2024-07-05",
+                "url": "https://www.ewadirect.com/proceedings/aemps/article/view/19041",
+                "id": 0
+            },
+            "para_id": "0_2"
+        },
+        {
+            "paragraph": "Based on these assumptions, Tesla\u2019s CapEx is projected to reach $10 billion in 2024 and 2025 before decreasing slightly as Tesla recovers from its initial investment phase. By 2028, Tesla\u2019s capital expenditure will stabilize, allowing it to maintain its growth trajectory while improving financial efficiency.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla\u2019s CapEx is projected to reach $10 billion in 2024 and 2025.",
+                    "vis_data": [
+                        {
+                            "label": "CapEx 2024",
+                            "value": "10",
+                            "unit": "billion USD"
+                        },
+                        {
+                            "label": "CapEx 2025",
+                            "value": "10",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "0_3_3"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Tesla Financial Performance Forecast and Analysis",
+                "date": "2024-07-05",
+                "url": "https://www.ewadirect.com/proceedings/aemps/article/view/19041",
+                "id": 0
+            },
+            "para_id": "0_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "0_0",
+            "paragraph": "Given these factors, Tesla\u2019s revenue growth is expected to slow slightly between 2024 and 2025, with recovery anticipated in 2026 as new markets mature and software services contribute more significantly to overall revenue. By 2028, Tesla is projected to achieve a revenue growth rate of approximately 30%, driven by increased vehicle sales and subscription-based software services."
+        },
+        {
+            "para_id": "0_1",
+            "paragraph": "Tesla\u2019s employee-related costs are anticipated to rise over the forecast period for several reasons: Gigafactory Expansion: Tesla\u2019s global Gigafactory network expansion is a key factor in driving up salaries and benefits. The company is building new factories in the U.S., Europe, and China to meet the growing demand for EVs and energy storage products. As these factories become operational, Tesla will need to hire a significant number of employees, including manufacturing workers, engineers, and R&D staff. This workforce expansion will contribute to higher salaries and benefits, with Tesla\u2019s total salary expenses expected to rise by approximately 22% to 25% over the next five years."
+        },
+        {
+            "para_id": "0_2",
+            "paragraph": "Given these dynamics, Tesla\u2019s total salary expenses are expected to exceed $13 billion by 2028."
+        },
+        {
+            "para_id": "0_3",
+            "paragraph": "Based on these assumptions, Tesla\u2019s CapEx is projected to reach $10 billion in 2024 and 2025 before decreasing slightly as Tesla recovers from its initial investment phase. By 2028, Tesla\u2019s capital expenditure will stabilize, allowing it to maintain its growth trajectory while improving financial efficiency."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "By 2028, Tesla is projected to achieve a revenue growth rate of approximately 30%."
+        },
+        {
+            "fact_id": "0_1_1",
+            "fact_content": "Tesla's total salary expenses are expected to rise by approximately 22% to 25% over the next five years."
+        },
+        {
+            "fact_id": "0_2_2",
+            "fact_content": "Tesla's total salary expenses are expected to exceed $13 billion by 2028."
+        },
+        {
+            "fact_id": "0_3_3",
+            "fact_content": "Tesla\u2019s CapEx is projected to reach $10 billion in 2024 and 2025."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "By 2028, Tesla is projected to achieve a revenue growth rate of approximately 30%.",
+            "vis_data": [
+                {
+                    "label": "Revenue Growth Rate",
+                    "value": "30",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Tesla's total salary expenses are expected to rise by approximately 22% to 25% over the next five years.",
+            "vis_data": [
+                {
+                    "label": "Salary Expenses Increase",
+                    "value": "22-25",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla's total salary expenses are expected to exceed $13 billion by 2028.",
+            "vis_data": [
+                {
+                    "label": "Salary Expenses",
+                    "value": "13",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "0_2_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla\u2019s CapEx is projected to reach $10 billion in 2024 and 2025.",
+            "vis_data": [
+                {
+                    "label": "CapEx 2024",
+                    "value": "10",
+                    "unit": "billion USD"
+                },
+                {
+                    "label": "CapEx 2025",
+                    "value": "10",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "0_3_3"
+        }
+    ]
+}

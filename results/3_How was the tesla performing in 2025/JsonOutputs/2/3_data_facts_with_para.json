@@ -1,0 +1,59 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Tesla (TSLA) shares rose 3% shortly after markets opened Wednesday even though the electric vehicle maker reported worse-than-expected second-quarter deliveries and production figures.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla (TSLA) shares rose 3% shortly after markets opened Wednesday."
+                }
+            ]
+        },
+        {
+            "paragraph": "Tesla announced 384,122 deliveries, down 14% year-over-year, and 410,244 vehicles produced, down by roughly 600 vehicles.Analysts had expected394,380 deliveries and 434,230 vehicles produced, per estimates compiled by Visible Alpha.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla announced 384,122 deliveries."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Deliveries down 14% year-over-year."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "410,244 vehicles produced."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Production down by roughly 600 vehicles."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Analysts expected 394,380 deliveries."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Analysts expected 434,230 vehicles produced."
+                }
+            ]
+        },
+        {
+            "paragraph": "Shares entered the day down more than 25% since the start of the year, including a5% drop yesterdayas Musk and Trump publicly sparred again overTrump's \"One Big Beautiful Bill\"working its way through Congress. Options pricing suggeststraders see shares movingabout another 5% in either direction by the end of theholiday-shortened trading weekfollowing the data.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Shares entered the day down more than 25% since the start of the year."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Shares dropped 5% yesterday."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Traders see shares moving about another 5% in either direction by the end of the holiday-shortened trading week."
+                }
+            ]
+        }
+    ]
+}

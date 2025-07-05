@@ -1,0 +1,110 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "According to Goldman Sachs, gold prices will reach $2,300 by 2025. According to Bank of America analysts, prices may test $2,500 if inflation stays high and the Fed pauses rate hikes. However, Citigroup shows a more cautious picture, with analysts predicting that gold will remain near $2,200 (unless something big happens like a war).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Goldman Sachs predicts gold prices will reach $2,300 by 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Prediction 2025",
+                            "value": "2300",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "13_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bank of America analysts predict gold prices may test $2,500 if inflation stays high and the Fed pauses rate hikes.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Potential",
+                            "value": "2500",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "13_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Citigroup analysts predict gold will remain near $2,200 unless something big happens.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Stability",
+                            "value": "2200",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "13_0_2"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecast and predictions for 2025-2026",
+                "date": "2025-02-11",
+                "url": "https://www.dukascopy.com/swiss/english/marketwatch/articles/gold-price-prediction-forecast/",
+                "id": 13
+            },
+            "para_id": "13_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "13_0",
+            "paragraph": "According to Goldman Sachs, gold prices will reach $2,300 by 2025. According to Bank of America analysts, prices may test $2,500 if inflation stays high and the Fed pauses rate hikes. However, Citigroup shows a more cautious picture, with analysts predicting that gold will remain near $2,200 (unless something big happens like a war)."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "13_0_0",
+            "fact_content": "Goldman Sachs predicts gold prices will reach $2,300 by 2025."
+        },
+        {
+            "fact_id": "13_0_1",
+            "fact_content": "Bank of America analysts predict gold prices may test $2,500 if inflation stays high and the Fed pauses rate hikes."
+        },
+        {
+            "fact_id": "13_0_2",
+            "fact_content": "Citigroup analysts predict gold will remain near $2,200 unless something big happens."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Goldman Sachs predicts gold prices will reach $2,300 by 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Prediction 2025",
+                    "value": "2300",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "13_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Bank of America analysts predict gold prices may test $2,500 if inflation stays high and the Fed pauses rate hikes.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Potential",
+                    "value": "2500",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "13_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Citigroup analysts predict gold will remain near $2,200 unless something big happens.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Stability",
+                    "value": "2200",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "13_0_2"
+        }
+    ]
+}

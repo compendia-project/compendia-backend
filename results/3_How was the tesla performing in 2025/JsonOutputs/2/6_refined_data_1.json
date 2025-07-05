@@ -1,0 +1,129 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Tesla (TSLA) shares rose 3% shortly after markets opened Wednesday even though the electric vehicle maker reported worse-than-expected second-quarter deliveries and production figures.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla (TSLA) shares rose 3% shortly after markets opened Wednesday.",
+                    "vis_data": [
+                        {
+                            "label": "Share Increase",
+                            "value": "3",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Tesla announced 384,122 deliveries, down 14% year-over-year, and 410,244 vehicles produced, down by roughly 600 vehicles.Analysts had expected394,380 deliveries and 434,230 vehicles produced, per estimates compiled by Visible Alpha.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla announced 384,122 deliveries.",
+                    "vis_data": [
+                        {
+                            "label": "Deliveries",
+                            "value": "384122",
+                            "unit": "vehicles"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Deliveries down 14% year-over-year.",
+                    "vis_data": [
+                        {
+                            "label": "Delivery Decrease",
+                            "value": "14",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "410,244 vehicles produced.",
+                    "vis_data": [
+                        {
+                            "label": "Production",
+                            "value": "410244",
+                            "unit": "vehicles"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Production down by roughly 600 vehicles.",
+                    "vis_data": [
+                        {
+                            "label": "Production Decrease",
+                            "value": "600",
+                            "unit": "vehicles"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Analysts expected 394,380 deliveries.",
+                    "vis_data": [
+                        {
+                            "label": "Expected Deliveries",
+                            "value": "394380",
+                            "unit": "vehicles"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Analysts expected 434,230 vehicles produced.",
+                    "vis_data": [
+                        {
+                            "label": "Expected Production",
+                            "value": "434230",
+                            "unit": "vehicles"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Shares entered the day down more than 25% since the start of the year, including a5% drop yesterdayas Musk and Trump publicly sparred again overTrump's \"One Big Beautiful Bill\"working its way through Congress. Options pricing suggeststraders see shares movingabout another 5% in either direction by the end of theholiday-shortened trading weekfollowing the data.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Shares entered the day down more than 25% since the start of the year.",
+                    "vis_data": [
+                        {
+                            "label": "Year-to-Date Decrease",
+                            "value": "25+",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Shares dropped 5% yesterday.",
+                    "vis_data": [
+                        {
+                            "label": "Daily Decrease",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Traders see shares moving about another 5% in either direction by the end of the holiday-shortened trading week.",
+                    "vis_data": [
+                        {
+                            "label": "Expected Movement",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

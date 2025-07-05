@@ -1,0 +1,183 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "How do you fix one of the best-sellingelectric carsin the UK? That was the task for Tesla who have consistently seen the Model 3 and the Model Y in the top three sold EVs in the country. The answer is this; an updated Model 3 that\u2019s been improved and aggressively repriced: it now costs \u00a339,990 for the entry level rear-wheel drive trim.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The entry level rear-wheel drive trim of the updated Model 3 costs \u00a339,990.",
+                    "vis_data": [
+                        {
+                            "label": "Entry Level Model 3 Price",
+                            "value": "39990",
+                            "unit": "GBP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "That new styling also results in improved efficiency:\u0000a0The drag coefficient is now 0.219 \u2013 and with no changes to the batteries and motors, range has improved to up to 421 miles. Wind noise is also reduced by 30% according to Tesla. Other refinement-improvement changes include double-glazed acoustic glass, improved suspension bushes, seals and sound-dampening materials.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The drag coefficient of the updated Model 3 is 0.219.",
+                    "vis_data": [
+                        {
+                            "label": "Drag Coefficient",
+                            "value": "0.219",
+                            "unit": ""
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The range of the updated Model 3 has improved to up to 421 miles.",
+                    "vis_data": [
+                        {
+                            "label": "Updated Model 3 Range",
+                            "value": "421",
+                            "unit": "miles"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Wind noise is reduced by 30% according to Tesla.",
+                    "vis_data": [
+                        {
+                            "label": "Wind Noise Reduction",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The entry-level model gets a 323-mile range, 125mph top speed and a 5.8 second 0-60mph sprint time. The Long-Range model increases that to 436-miles, with the same top speed and a quicker sprint time of 4.9 seconds. Finally, the Long Range all-wheel-drive model has a slightly reduced range of 390-miles but it\u2019s the fastest non-Performance model with a 0-60mph time of 4.2 seconds. Top speed is the same.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The entry-level model gets a 323-mile range.",
+                    "vis_data": [
+                        {
+                            "label": "Entry-Level Model Range",
+                            "value": "323",
+                            "unit": "miles"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The entry-level model has a 125mph top speed.",
+                    "vis_data": [
+                        {
+                            "label": "Entry-Level Model Top Speed",
+                            "value": "125",
+                            "unit": "mph"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The entry-level model has a 5.8 second 0-60mph sprint time.",
+                    "vis_data": [
+                        {
+                            "label": "Entry-Level Model 0-60mph Time",
+                            "value": "5.8",
+                            "unit": "seconds"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long-Range model has a 436-mile range.",
+                    "vis_data": [
+                        {
+                            "label": "Long-Range Model Range",
+                            "value": "436",
+                            "unit": "miles"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long-Range model has a 4.9 second 0-60mph sprint time.",
+                    "vis_data": [
+                        {
+                            "label": "Long-Range Model 0-60mph Time",
+                            "value": "4.9",
+                            "unit": "seconds"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range all-wheel-drive model has a 390-mile range.",
+                    "vis_data": [
+                        {
+                            "label": "Long Range AWD Model Range",
+                            "value": "390",
+                            "unit": "miles"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range all-wheel-drive model has a 4.2 second 0-60mph sprint time.",
+                    "vis_data": [
+                        {
+                            "label": "Long Range AWD Model 0-60mph Time",
+                            "value": "4.2",
+                            "unit": "seconds"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The rear-wheel drive model uses a 57.5kWh battery, while the rest of the range use a larger 79kWh battery. Any advancements Highland gets in range from the last model are down to aero efficiency improvements.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The rear-wheel drive model uses a 57.5kWh battery.",
+                    "vis_data": [
+                        {
+                            "label": "RWD Model Battery Capacity",
+                            "value": "57.5",
+                            "unit": "kWh"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The rest of the range uses a 79kWh battery.",
+                    "vis_data": [
+                        {
+                            "label": "Other Models Battery Capacity",
+                            "value": "79",
+                            "unit": "kWh"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "As for charging? Tesla quotes 175 miles in 15 minutes for all models in this review.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla quotes 175 miles in 15 minutes for all models in this review.",
+                    "vis_data": [
+                        {
+                            "label": "Charging Range in 15 Minutes",
+                            "value": "175",
+                            "unit": "miles"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

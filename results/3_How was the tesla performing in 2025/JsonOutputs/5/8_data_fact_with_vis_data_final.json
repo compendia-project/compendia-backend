@@ -1,0 +1,31 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The BMW iX, an EV SUV built on a dedicated platform with a huge interior, impressive performance, and excellent range and charging, took top spot in the premium segment with a score of 790 out of 1,000, which also made it 2025\u00e2\u20ac\u2122s most satisfying EV to own, according to the survey. It was followed by another BMW, the i4 hatchback, with a score of 783; the Rivian R1S SUV; Tesla Model 3 sedan; and Polestar 2. Tesla\u00e2\u20ac\u2122s Model Y crossover, the Audi Q8 e-tron, and Cadillac Lyriq also ranked among the top models.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The BMW iX scored 790 out of 1,000.",
+                    "vis_data": [
+                        {
+                            "label": "BMW iX Score",
+                            "value": "790",
+                            "unit": "points"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The BMW i4 hatchback scored 783.",
+                    "vis_data": [
+                        {
+                            "label": "BMW i4 Score",
+                            "value": "783",
+                            "unit": "points"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "The implications of the predicted $3,100 per troy ounce price by Goldman Sachs for the global economy include potential increased investment in gold, shifts in central bank reserves, and impacts on related industries such as mining and jewelry.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The predicted gold price by Goldman Sachs is $3,100 per troy ounce for 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Predicted Gold Price 2025",
+                            "value": "3100",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "5_0_0"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold Price Analysis and Projections",
+                "date": "Unknown",
+                "url": "https://bytebridge.medium.com/gold-price-analysis-and-projections-23fd7997fd16",
+                "id": 5
+            },
+            "para_id": "5_0"
+        },
+        {
+            "paragraph": "If central bank purchases reach an average of 70 tonnes per month, gold prices could rise significantly, potentially reaching as high as $3,200 by the end of 2025.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Central bank purchases could reach an average of 70 tonnes per month.",
+                    "vis_data": [
+                        {
+                            "label": "Central Bank Purchases",
+                            "value": "70",
+                            "unit": "tonnes/month"
+                        }
+                    ],
+                    "fact_id": "5_1_1"
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Gold prices could potentially reach as high as $3,200 by the end of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Potential Gold Price 2025",
+                            "value": "3200",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "5_1_2"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold Price Analysis and Projections",
+                "date": "Unknown",
+                "url": "https://bytebridge.medium.com/gold-price-analysis-and-projections-23fd7997fd16",
+                "id": 5
+            },
+            "para_id": "5_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "5_0",
+            "paragraph": "The implications of the predicted $3,100 per troy ounce price by Goldman Sachs for the global economy include potential increased investment in gold, shifts in central bank reserves, and impacts on related industries such as mining and jewelry."
+        },
+        {
+            "para_id": "5_1",
+            "paragraph": "If central bank purchases reach an average of 70 tonnes per month, gold prices could rise significantly, potentially reaching as high as $3,200 by the end of 2025."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "The predicted gold price by Goldman Sachs is $3,100 per troy ounce for 2025."
+        },
+        {
+            "fact_id": "5_1_1",
+            "fact_content": "Central bank purchases could reach an average of 70 tonnes per month."
+        },
+        {
+            "fact_id": "5_1_2",
+            "fact_content": "Gold prices could potentially reach as high as $3,200 by the end of 2025."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The predicted gold price by Goldman Sachs is $3,100 per troy ounce for 2025.",
+            "vis_data": [
+                {
+                    "label": "Predicted Gold Price 2025",
+                    "value": "3100",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "5_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Central bank purchases could reach an average of 70 tonnes per month.",
+            "vis_data": [
+                {
+                    "label": "Central Bank Purchases",
+                    "value": "70",
+                    "unit": "tonnes/month"
+                }
+            ],
+            "fact_id": "5_1_1"
+        },
+        {
+            "fact_type": "extreme",
+            "fact_content": "Gold prices could potentially reach as high as $3,200 by the end of 2025.",
+            "vis_data": [
+                {
+                    "label": "Potential Gold Price 2025",
+                    "value": "3200",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "5_1_2"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Tesla claims the drag coefficient has been reduced by about 5%, but this is hard to prove without access to a wind tunnel.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Drag coefficient reduced by about 5%."
+                }
+            ]
+        },
+        {
+            "paragraph": "Tesla claims it doesn\u2019t affect range, but during my time with the car, I found that using it in the Reduced setting increased power consumption by around 3kW/100km. In other words, reducing the brake regeneration could mean a range reduction of around 20%.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Power consumption increased by around 3kW/100km in Reduced setting."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Range reduction of around 20% with reduced brake regeneration."
+                }
+            ]
+        },
+        {
+            "paragraph": "Tesla claims these changes reduce cabin noise by 20% and I can believe that.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Cabin noise reduced by 20%."
+                }
+            ]
+        },
+        {
+            "paragraph": "The boot is huge and has a capacity of 854L. If you hold the rear seats down, it increases the capacity to a whopping 2,138L.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Boot capacity is 854L."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Boot capacity increases to 2,138L with rear seats down."
+                }
+            ]
+        },
+        {
+            "paragraph": "The Model Y I tested was the Rear-Wheel Drive 110. Despite being the least powerful model in the lineup, it still felt quite brisk. Power output might just be 110kW (148hp), but the car has a rather sizeable 350nm of torque. Plant your foot to the carpet and you will feel that instantaneous surge of power that only EVs can deliver. Tesla claims 0 to 100km/h in 9.6 seconds, but it genuinely feels quicker. It\u2019s only at around highway speeds that it starts to run out of breath.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Power output is 110kW (148hp)."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Torque is 350nm."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "0 to 100km/h in 9.6 seconds."
+                }
+            ]
+        },
+        {
+            "paragraph": "Power consumption during my test drive of over 350km was 14.6kW/100km. Given that the Model Y has a battery capacity of around 60kWh, one could get around 250km of range if you wanted to keep your battery between 20% and 80% charge. For longer trips where you\u2019d charge the battery fully, you could probably cover 400km before needing to plug it into a charger. These figures are all very decent for a car of its type.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Power consumption was 14.6kW/100km."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Battery capacity is around 60kWh."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Range is around 250km with 20% to 80% charge."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Range is around 400km with full charge."
+                }
+            ]
+        }
+    ]
+}

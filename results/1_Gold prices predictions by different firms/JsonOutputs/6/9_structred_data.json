@@ -1,0 +1,518 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Drawing from these expert insights, they anticipate a slight uptick in gold prices also this year in general. The average cost could hover around $2,600 per ounce by year\u2019s end. However, it\u2019s crucial to note that this remains a forecast. Things can change, and there\u2019s always a level of uncertainty.For potential gold investors, experts from Morgan Stanley, among others, recommend some gold in a well-balanced, conservative portfolio to protect against inflation diluting the purchasing power of fiat currencies and geopolitical factors.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average cost could hover around $2,600 per ounce by year\u2019s end.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Forecast",
+                            "value": "2600",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_0_0"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price today: Gold spot (XAU/USD) rose as much as 25.5% to $2,790 per ounce in 2024, continuing its record-setting trend over recent weeks.",
+                "date": "Unknown",
+                "url": "https://capex.com/en/overview/gold-price-prediction",
+                "id": 6
+            },
+            "para_id": "6_0"
+        },
+        {
+            "paragraph": "For December 2026, Longforecast.com predicts a price of more nearly $3,8500. The maximum price forecast for 2028 sits near the $4,000 mark, and the minimum price forecast is $2,535.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "For December 2026, Longforecast.com predicts a price of nearly $3,8500.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Dec 2026",
+                            "value": "38500",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_1_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The maximum price forecast for 2028 sits near the $4,000 mark.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Max 2028",
+                            "value": "4000",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_1_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The minimum price forecast for 2028 is $2,535.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Min 2028",
+                            "value": "2535",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_1_3"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price today: Gold spot (XAU/USD) rose as much as 25.5% to $2,790 per ounce in 2024, continuing its record-setting trend over recent weeks.",
+                "date": "Unknown",
+                "url": "https://capex.com/en/overview/gold-price-prediction",
+                "id": 6
+            },
+            "para_id": "6_1"
+        },
+        {
+            "paragraph": "The gold price prediction for the next 5 years is $5,085, according to the forecasting agency Coin Price Forecast.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The gold price prediction for the next 5 years is $5,085, according to Coin Price Forecast.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price 5-Year Prediction",
+                            "value": "5085",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_2_4"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price today: Gold spot (XAU/USD) rose as much as 25.5% to $2,790 per ounce in 2024, continuing its record-setting trend over recent weeks.",
+                "date": "Unknown",
+                "url": "https://capex.com/en/overview/gold-price-prediction",
+                "id": 6
+            },
+            "para_id": "6_2"
+        },
+        {
+            "paragraph": "The World Bank, one of the key players among central banks and a global financial institution offering loans and grants to developing nations for various projects, recently forecasted an average gold price of $2,050 per ounce in 2025, a decrease from $2,350 per ounce in 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The World Bank forecasted an average gold price of $2,050 per ounce in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price 2025",
+                            "value": "2050",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_3_5"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A decrease from $2,350 per ounce in 2024 to $2,050 per ounce in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Decrease 2024-2025",
+                            "value": "300",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_3_6"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price today: Gold spot (XAU/USD) rose as much as 25.5% to $2,790 per ounce in 2024, continuing its record-setting trend over recent weeks.",
+                "date": "Unknown",
+                "url": "https://capex.com/en/overview/gold-price-prediction",
+                "id": 6
+            },
+            "para_id": "6_3"
+        },
+        {
+            "paragraph": "Citigroup forecasts that gold price is set to hit $3,000 per ounce due to significant expansion in financial flows.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Citigroup forecasts that gold price is set to hit $3,000 per ounce.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Forecast by Citigroup",
+                            "value": "3000",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_4_7"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price today: Gold spot (XAU/USD) rose as much as 25.5% to $2,790 per ounce in 2024, continuing its record-setting trend over recent weeks.",
+                "date": "Unknown",
+                "url": "https://capex.com/en/overview/gold-price-prediction",
+                "id": 6
+            },
+            "para_id": "6_4"
+        },
+        {
+            "paragraph": "Commerzbank raised the forecast for Gold to $2,600 per troy ounce by mid-2025.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Commerzbank raised the forecast for Gold to $2,600 per troy ounce by mid-2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Mid-2025",
+                            "value": "2600",
+                            "unit": "USD per troy ounce"
+                        }
+                    ],
+                    "fact_id": "6_5_8"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price today: Gold spot (XAU/USD) rose as much as 25.5% to $2,790 per ounce in 2024, continuing its record-setting trend over recent weeks.",
+                "date": "Unknown",
+                "url": "https://capex.com/en/overview/gold-price-prediction",
+                "id": 6
+            },
+            "para_id": "6_5"
+        },
+        {
+            "paragraph": "TD Securities forecast has been amended. They now believe that the price will show an average of $ 2,700 per ounce in 2025.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "TD Securities now believes that the price will show an average of $2,700 per ounce in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price 2025 by TD Securities",
+                            "value": "2700",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_6_9"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price today: Gold spot (XAU/USD) rose as much as 25.5% to $2,790 per ounce in 2024, continuing its record-setting trend over recent weeks.",
+                "date": "Unknown",
+                "url": "https://capex.com/en/overview/gold-price-prediction",
+                "id": 6
+            },
+            "para_id": "6_6"
+        },
+        {
+            "paragraph": "According to Coin Price Forecast, gold is expected to reach $2,820 by the end of 2025, indicating a 7% increase from the beginning of the year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "According to Coin Price Forecast, gold is expected to reach $2,820 by the end of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price End 2025",
+                            "value": "2820",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_7_10"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "A 7% increase from the beginning of the year to the end of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Increase 2025",
+                            "value": "7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_7_11"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price today: Gold spot (XAU/USD) rose as much as 25.5% to $2,790 per ounce in 2024, continuing its record-setting trend over recent weeks.",
+                "date": "Unknown",
+                "url": "https://capex.com/en/overview/gold-price-prediction",
+                "id": 6
+            },
+            "para_id": "6_7"
+        },
+        {
+            "paragraph": "Trading Economics forecasts that gold will trade at approximately $2,759 per troy ounce by the end of 2025.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Trading Economics forecasts that gold will trade at approximately $2,759 per troy ounce by the end of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price End 2025 by Trading Economics",
+                            "value": "2759",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "6_8_12"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price today: Gold spot (XAU/USD) rose as much as 25.5% to $2,790 per ounce in 2024, continuing its record-setting trend over recent weeks.",
+                "date": "Unknown",
+                "url": "https://capex.com/en/overview/gold-price-prediction",
+                "id": 6
+            },
+            "para_id": "6_8"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "6_0",
+            "paragraph": "Drawing from these expert insights, they anticipate a slight uptick in gold prices also this year in general. The average cost could hover around $2,600 per ounce by year\u2019s end. However, it\u2019s crucial to note that this remains a forecast. Things can change, and there\u2019s always a level of uncertainty.For potential gold investors, experts from Morgan Stanley, among others, recommend some gold in a well-balanced, conservative portfolio to protect against inflation diluting the purchasing power of fiat currencies and geopolitical factors."
+        },
+        {
+            "para_id": "6_1",
+            "paragraph": "For December 2026, Longforecast.com predicts a price of more nearly $3,8500. The maximum price forecast for 2028 sits near the $4,000 mark, and the minimum price forecast is $2,535."
+        },
+        {
+            "para_id": "6_2",
+            "paragraph": "The gold price prediction for the next 5 years is $5,085, according to the forecasting agency Coin Price Forecast."
+        },
+        {
+            "para_id": "6_3",
+            "paragraph": "The World Bank, one of the key players among central banks and a global financial institution offering loans and grants to developing nations for various projects, recently forecasted an average gold price of $2,050 per ounce in 2025, a decrease from $2,350 per ounce in 2024."
+        },
+        {
+            "para_id": "6_4",
+            "paragraph": "Citigroup forecasts that gold price is set to hit $3,000 per ounce due to significant expansion in financial flows."
+        },
+        {
+            "para_id": "6_5",
+            "paragraph": "Commerzbank raised the forecast for Gold to $2,600 per troy ounce by mid-2025."
+        },
+        {
+            "para_id": "6_6",
+            "paragraph": "TD Securities forecast has been amended. They now believe that the price will show an average of $ 2,700 per ounce in 2025."
+        },
+        {
+            "para_id": "6_7",
+            "paragraph": "According to Coin Price Forecast, gold is expected to reach $2,820 by the end of 2025, indicating a 7% increase from the beginning of the year."
+        },
+        {
+            "para_id": "6_8",
+            "paragraph": "Trading Economics forecasts that gold will trade at approximately $2,759 per troy ounce by the end of 2025."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "The average cost could hover around $2,600 per ounce by year\u2019s end."
+        },
+        {
+            "fact_id": "6_1_1",
+            "fact_content": "For December 2026, Longforecast.com predicts a price of nearly $3,8500."
+        },
+        {
+            "fact_id": "6_1_2",
+            "fact_content": "The maximum price forecast for 2028 sits near the $4,000 mark."
+        },
+        {
+            "fact_id": "6_1_3",
+            "fact_content": "The minimum price forecast for 2028 is $2,535."
+        },
+        {
+            "fact_id": "6_2_4",
+            "fact_content": "The gold price prediction for the next 5 years is $5,085, according to Coin Price Forecast."
+        },
+        {
+            "fact_id": "6_3_5",
+            "fact_content": "The World Bank forecasted an average gold price of $2,050 per ounce in 2025."
+        },
+        {
+            "fact_id": "6_3_6",
+            "fact_content": "A decrease from $2,350 per ounce in 2024 to $2,050 per ounce in 2025."
+        },
+        {
+            "fact_id": "6_4_7",
+            "fact_content": "Citigroup forecasts that gold price is set to hit $3,000 per ounce."
+        },
+        {
+            "fact_id": "6_5_8",
+            "fact_content": "Commerzbank raised the forecast for Gold to $2,600 per troy ounce by mid-2025."
+        },
+        {
+            "fact_id": "6_6_9",
+            "fact_content": "TD Securities now believes that the price will show an average of $2,700 per ounce in 2025."
+        },
+        {
+            "fact_id": "6_7_10",
+            "fact_content": "According to Coin Price Forecast, gold is expected to reach $2,820 by the end of 2025."
+        },
+        {
+            "fact_id": "6_7_11",
+            "fact_content": "A 7% increase from the beginning of the year to the end of 2025."
+        },
+        {
+            "fact_id": "6_8_12",
+            "fact_content": "Trading Economics forecasts that gold will trade at approximately $2,759 per troy ounce by the end of 2025."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The average cost could hover around $2,600 per ounce by year\u2019s end.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Forecast",
+                    "value": "2600",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "For December 2026, Longforecast.com predicts a price of nearly $3,8500.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Dec 2026",
+                    "value": "38500",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The maximum price forecast for 2028 sits near the $4,000 mark.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Max 2028",
+                    "value": "4000",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The minimum price forecast for 2028 is $2,535.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Min 2028",
+                    "value": "2535",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The gold price prediction for the next 5 years is $5,085, according to Coin Price Forecast.",
+            "vis_data": [
+                {
+                    "label": "Gold Price 5-Year Prediction",
+                    "value": "5085",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_2_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The World Bank forecasted an average gold price of $2,050 per ounce in 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price 2025",
+                    "value": "2050",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_3_5"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "A decrease from $2,350 per ounce in 2024 to $2,050 per ounce in 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Decrease 2024-2025",
+                    "value": "300",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_3_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Citigroup forecasts that gold price is set to hit $3,000 per ounce.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Forecast by Citigroup",
+                    "value": "3000",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_4_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Commerzbank raised the forecast for Gold to $2,600 per troy ounce by mid-2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Mid-2025",
+                    "value": "2600",
+                    "unit": "USD per troy ounce"
+                }
+            ],
+            "fact_id": "6_5_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "TD Securities now believes that the price will show an average of $2,700 per ounce in 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price 2025 by TD Securities",
+                    "value": "2700",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_6_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "According to Coin Price Forecast, gold is expected to reach $2,820 by the end of 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price End 2025",
+                    "value": "2820",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_7_10"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "A 7% increase from the beginning of the year to the end of 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Increase 2025",
+                    "value": "7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_7_11"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Trading Economics forecasts that gold will trade at approximately $2,759 per troy ounce by the end of 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price End 2025 by Trading Economics",
+                    "value": "2759",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "6_8_12"
+        }
+    ]
+}

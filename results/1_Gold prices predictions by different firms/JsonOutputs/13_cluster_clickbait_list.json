@@ -1,0 +1,1183 @@
+[
+    {
+        "cluster_id": 1,
+        "clickbait_list": [
+            {
+                "clickbait": "Goldman Sachs Forecast",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_0",
+                        "fact_group_content": "Goldman Sachs predicts gold prices will reach $2,300 by 2025."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Bank of America Insight",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_1",
+                        "fact_group_content": "Bank of America analysts predict gold prices may test $2,500 if inflation stays high and the Fed pauses rate hikes."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Citigroup's Gold Outlook",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_2",
+                        "fact_group_content": "Citigroup analysts predict gold will remain near $2,200 unless something big happens."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Recession Impact on Gold",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_3",
+                        "fact_group_content": "Gold could rise to as much as $3,880 a troy ounce in the event of a recession."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Global Gold ETF Holdings",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_4",
+                        "fact_group_content": "Global gold ETF holdings are worth about 1% of outstanding US Treasuries."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Year-to-Date Gold Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_5",
+                        "fact_group_content": "Gold prices climbed as much as 30% year-to-date."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "April Price Peak",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_6",
+                        "fact_group_content": "Prices peaked at $3,500/oz in April."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Central Bank Buying Trend",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_7",
+                        "fact_group_content": "Central bank buying is expected to amount to around 900 tonnes in 2025."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "JPMorgan's 2025 Prediction",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_8",
+                        "fact_group_content": "JPMorgan expected gold to average $3,675/oz by Q4 2025."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Dukascopy's Future Prices",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_9",
+                        "fact_group_content": "Dukascopy projects potential average price of $2,500 in 2027."
+                    },
+                    {
+                        "fact_group_id": "1_10",
+                        "fact_group_content": "Dukascopy projects price rising to $2,650 in 2028."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "ING's 2024 Forecast",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_11",
+                        "fact_group_content": "ING expects a fourth-quarter average of $2,100 per ounce in 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Longforecast's 2026 Estimate",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_12",
+                        "fact_group_content": "For December 2026, Longforecast.com predicts a price of nearly $3,8500."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "World Bank's 2025 Outlook",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_13",
+                        "fact_group_content": "The World Bank forecasted an average gold price of $2,050 per ounce in 2025."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "2025 Price Increase",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_14",
+                        "fact_group_content": "A 7% increase from the beginning of the year to the end of 2025."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "Goldman Sachs",
+            "Bank of America",
+            "Citigroup",
+            "recession",
+            "ETF holdings",
+            "year-to-date",
+            "central bank",
+            "JPMorgan",
+            "Dukascopy",
+            "ING",
+            "Longforecast.com",
+            "World Bank"
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "clickbait_list": [
+            {
+                "clickbait": "Gold Price Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_2",
+                        "fact_group_content": "Gold prices could potentially reach as high as $3,200 by the end of 2025."
+                    },
+                    {
+                        "fact_group_id": "9_3",
+                        "fact_group_content": "Gold was $3,220 a troy ounce on May 15."
+                    },
+                    {
+                        "fact_group_id": "9_4",
+                        "fact_group_content": "2025 breakout above $3,000/oz."
+                    },
+                    {
+                        "fact_group_id": "9_5",
+                        "fact_group_content": "Citi cut 0-3 month forecast from $3,500 to $3,300 per ounce."
+                    },
+                    {
+                        "fact_group_id": "9_6",
+                        "fact_group_content": "InvestingHaven estimates peak price of $5,155 by 2030."
+                    },
+                    {
+                        "fact_group_id": "9_7",
+                        "fact_group_content": "Dukascopy projects price rising to $2,950 by 2030."
+                    },
+                    {
+                        "fact_group_id": "9_12",
+                        "fact_group_content": "Commerzbank raised the forecast for Gold to $2,600 per troy ounce by mid-2025."
+                    }
+                ],
+                "number_of_facts": 7
+            },
+            {
+                "clickbait": "Central Bank Purchases",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_1",
+                        "fact_group_content": "Central bank purchases could reach an average of 70 tonnes per month."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Gold Price Stability",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_10",
+                        "fact_group_content": "Goldman Sachs analysts initially expected the price of gold to remain stable at around $1,970 an ounce between 2023 and 2026."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "World Bank Forecast",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_9",
+                        "fact_group_content": "The World Bank predicts the price of gold will be an average of $1,950 per ounce in 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Gold Price Trends",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_0",
+                        "fact_group_content": "In 2024, the average price for gold stood at 2,388 U.S. dollars per troy ounce."
+                    },
+                    {
+                        "fact_group_id": "9_8",
+                        "fact_group_content": "Gold prices hit $2,071 in December 2023."
+                    },
+                    {
+                        "fact_group_id": "9_11",
+                        "fact_group_content": "The minimum price forecast for 2028 is $2,535."
+                    }
+                ],
+                "number_of_facts": 3
+            }
+        ],
+        "important_words": [
+            "average",
+            "price",
+            "troy",
+            "ounce",
+            "central",
+            "bank",
+            "purchases",
+            "tonnes",
+            "month",
+            "potentially",
+            "breakout",
+            "forecast",
+            "estimates",
+            "peak",
+            "projects",
+            "rising",
+            "analysts",
+            "stable",
+            "initially",
+            "expected",
+            "remain",
+            "minimum",
+            "Commerzbank",
+            "raised"
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "clickbait_list": [
+            {
+                "clickbait": "Goldman Sachs Forecasts",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_1",
+                        "fact_group_content": "Goldman Sachs Research predicts gold will rise to $3,700 a troy ounce by the end of 2025."
+                    },
+                    {
+                        "fact_group_id": "3_6",
+                        "fact_group_content": "Goldman Sachs updated gold forecast to $3,700 by end of year."
+                    },
+                    {
+                        "fact_group_id": "3_7",
+                        "fact_group_content": "Goldman Sachs previous range was $3,100-$3,300."
+                    },
+                    {
+                        "fact_group_id": "3_8",
+                        "fact_group_content": "Goldman Sachs raised the gold price target for 2024 to $2,050 an ounce."
+                    },
+                    {
+                        "fact_group_id": "3_9",
+                        "fact_group_content": "Goldman Sachs hiked their 12-month gold forecasts to $2,050 an ounce."
+                    }
+                ],
+                "number_of_facts": 5
+            },
+            {
+                "clickbait": "Future Gold Price Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_2",
+                        "fact_group_content": "Prices are expected to rise toward $4,000/oz by the second quarter of 2026."
+                    },
+                    {
+                        "fact_group_id": "3_11",
+                        "fact_group_content": "Gold could be heading for $7,000 by 2025."
+                    },
+                    {
+                        "fact_group_id": "3_12",
+                        "fact_group_content": "Gold could reach $10,000 per ounce by 2050."
+                    },
+                    {
+                        "fact_group_id": "3_14",
+                        "fact_group_content": "Gold prices could test US$4,000/oz-$5,000/oz over the next 12-24 months."
+                    },
+                    {
+                        "fact_group_id": "3_17",
+                        "fact_group_content": "Gold price will likely surge to $3,956.22 by the end of 2025."
+                    },
+                    {
+                        "fact_group_id": "3_21",
+                        "fact_group_content": "Upward trend will continue to $5,102.00 between June and December 2027."
+                    }
+                ],
+                "number_of_facts": 6
+            },
+            {
+                "clickbait": "Gold Price Scenarios",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_13",
+                        "fact_group_content": "Bull case scenario sees gold prices scaling $3,500-$3,900/oz."
+                    },
+                    {
+                        "fact_group_id": "3_15",
+                        "fact_group_content": "Bear case scenario predicts gold prices between US$2,700-$3,100/oz with 20% probability."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "2026 Gold Price Range",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_19",
+                        "fact_group_content": "Gold will trade in the range of $3,266.00\u2013$5,155.30 in 2026."
+                    },
+                    {
+                        "fact_group_id": "3_20",
+                        "fact_group_content": "Yearly high of $4,633.00 in 2026."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Gold Price Trends",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_0",
+                        "fact_group_content": "The highest value recorded throughout the period considered was 2,388 U.S. dollars per troy ounce in 2024."
+                    },
+                    {
+                        "fact_group_id": "3_3",
+                        "fact_group_content": "Gold demand is projected to average around 710 tonnes a quarter on net this year."
+                    },
+                    {
+                        "fact_group_id": "3_4",
+                        "fact_group_content": "Immediate downside protected by the $3,326-3,325 area."
+                    },
+                    {
+                        "fact_group_id": "3_5",
+                        "fact_group_content": "Monthly swing low around the $3,248 region."
+                    },
+                    {
+                        "fact_group_id": "3_10",
+                        "fact_group_content": "Gold\u2019s price forecast for 2025 at the Bloomberg Terminal is between $1,709.47 and $2,727.94."
+                    },
+                    {
+                        "fact_group_id": "3_16",
+                        "fact_group_content": "XAUUSD will recover to $3,315.00 by the end of 2025."
+                    },
+                    {
+                        "fact_group_id": "3_18",
+                        "fact_group_content": "Average price could be around $3,154.82 by the end of the first half of 2025."
+                    }
+                ],
+                "number_of_facts": 7
+            }
+        ],
+        "important_words": [
+            "Goldman Sachs",
+            "forecast",
+            "rise",
+            "troy ounce",
+            "end",
+            "2025",
+            "prices",
+            "expected",
+            "demand",
+            "average",
+            "quarter",
+            "downside",
+            "protected",
+            "swing",
+            "region",
+            "target",
+            "hiked",
+            "12-month",
+            "heading",
+            "reach",
+            "per ounce",
+            "bull case",
+            "bear case",
+            "probability",
+            "trade",
+            "range",
+            "yearly",
+            "high",
+            "trend",
+            "continue"
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "clickbait_list": [
+            {
+                "clickbait": "Gold's Record Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_0",
+                        "fact_group_content": "In 2026, the average gold price is expected to increase, reaching 3,200 U.S. dollars per troy ounce."
+                    },
+                    {
+                        "fact_group_id": "5_1",
+                        "fact_group_content": "Goldman Sachs Research predicts gold will rise to $3,700 a troy ounce by the end of 2025."
+                    },
+                    {
+                        "fact_group_id": "5_3",
+                        "fact_group_content": "Gold has the potential to ascend toward $5,000 per ounce."
+                    },
+                    {
+                        "fact_group_id": "5_4",
+                        "fact_group_content": "Gold prices are expected to average $3,675/oz by the fourth quarter of 2025."
+                    },
+                    {
+                        "fact_group_id": "5_5",
+                        "fact_group_content": "Gold broke through the $2,900/oz barrier for the first time in February."
+                    },
+                    {
+                        "fact_group_id": "5_6",
+                        "fact_group_content": "Gold prices around the $3,300 mark per troy ounce."
+                    },
+                    {
+                        "fact_group_id": "5_9",
+                        "fact_group_content": "Citigroup forecasts that gold price is set to hit $3,000 per ounce."
+                    },
+                    {
+                        "fact_group_id": "5_10",
+                        "fact_group_content": "Gold prices have reached records north of US$3,000/oz."
+                    },
+                    {
+                        "fact_group_id": "5_11",
+                        "fact_group_content": "Gold's price floor reset to $3,000/oz in 2025."
+                    },
+                    {
+                        "fact_group_id": "5_12",
+                        "fact_group_content": "Bull case scenario sees gold prices scaling $3,500-$3,900/oz."
+                    }
+                ],
+                "number_of_facts": 10
+            },
+            {
+                "clickbait": "Goldman Sachs Forecasts",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_1",
+                        "fact_group_content": "Goldman Sachs Research predicts gold will rise to $3,700 a troy ounce by the end of 2025."
+                    },
+                    {
+                        "fact_group_id": "5_8",
+                        "fact_group_content": "Goldman Sachs raised the gold price target for 2024 to $2,050 an ounce."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Gold ETF Holdings",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_2",
+                        "fact_group_content": "Global gold ETF holdings are worth 0.5% of the S&P500 market cap."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Overnight Gold Swings",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_7",
+                        "fact_group_content": "Overnight swing high around the $3,365-3,366 region."
+                    },
+                    {
+                        "fact_group_id": "5_13",
+                        "fact_group_content": "The first target for new purchases is 3368."
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "average",
+            "increase",
+            "troy",
+            "ounce",
+            "Goldman",
+            "Sachs",
+            "Research",
+            "predicts",
+            "rise",
+            "end",
+            "global",
+            "ETF",
+            "holdings",
+            "worth",
+            "market",
+            "cap",
+            "potential",
+            "ascend",
+            "prices",
+            "expected",
+            "broke",
+            "barrier",
+            "first",
+            "February",
+            "around",
+            "mark",
+            "overnight",
+            "swing",
+            "high",
+            "region",
+            "raised",
+            "target",
+            "forecasts",
+            "set",
+            "records",
+            "north",
+            "floor",
+            "reset",
+            "bull",
+            "case",
+            "scenario",
+            "sees",
+            "scaling",
+            "target",
+            "purchases"
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "clickbait_list": [
+            {
+                "clickbait": "Gold Price Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_0",
+                        "fact_group_content": "The predicted gold price by Goldman Sachs is $3,100 per troy ounce for 2025."
+                    },
+                    {
+                        "fact_group_id": "4_1",
+                        "fact_group_content": "Gold prices could breach $4,000 per ounce in the near term."
+                    },
+                    {
+                        "fact_group_id": "4_2",
+                        "fact_group_content": "Prices are expected to average $3,675/oz by the final quarter of 2025."
+                    },
+                    {
+                        "fact_group_id": "4_6",
+                        "fact_group_content": "Gold may reach new all-time highs of $5,917.17\u2013$5,952.00."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Gold Support Levels",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_3",
+                        "fact_group_content": "100-period Simple Moving Average (SMA) pegged near the $3,352-3,355 area."
+                    },
+                    {
+                        "fact_group_id": "4_4",
+                        "fact_group_content": "Next relevant support near the $3,270 horizontal zone."
+                    },
+                    {
+                        "fact_group_id": "4_7",
+                        "fact_group_content": "Gold is testing the support (A) 3301 - 3286."
+                    },
+                    {
+                        "fact_group_id": "4_9",
+                        "fact_group_content": "The correction is expected to continue to the support (B) 3226 - 3203."
+                    },
+                    {
+                        "fact_group_id": "4_10",
+                        "fact_group_content": "Buy near support (A) 3226 - 3203."
+                    }
+                ],
+                "number_of_facts": 5
+            },
+            {
+                "clickbait": "Current Gold Trends",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_5",
+                        "fact_group_content": "The current gold price as of 05.07.2025 is $3 334.86."
+                    },
+                    {
+                        "fact_group_id": "4_8",
+                        "fact_group_content": "The second target for new purchases is the June high of 3451."
+                    },
+                    {
+                        "fact_group_id": "4_11",
+                        "fact_group_content": "The quotes are trading near $3,176.53 within a long-term uptrend."
+                    }
+                ],
+                "number_of_facts": 3
+            }
+        ],
+        "important_words": [
+            "predicted",
+            "Goldman Sachs",
+            "troy ounce",
+            "breach",
+            "average",
+            "quarter",
+            "Simple Moving Average",
+            "support",
+            "horizontal zone",
+            "testing",
+            "correction",
+            "trading",
+            "uptrend"
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "clickbait_list": [
+            {
+                "clickbait": "Gold's 2025 Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_0",
+                        "fact_group_content": "Gold prices could potentially reach as high as $3,200 by the end of 2025."
+                    },
+                    {
+                        "fact_group_id": "8_8",
+                        "fact_group_content": "According to Coin Price Forecast, gold is expected to reach $2,820 by the end of 2025."
+                    },
+                    {
+                        "fact_group_id": "8_9",
+                        "fact_group_content": "Price range in 2025: $2,729.00\u2013$3,633.00."
+                    },
+                    {
+                        "fact_group_id": "8_10",
+                        "fact_group_content": "Average price of gold to climb to $3,458.22 by mid-2025."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "2030's $7,000 Prediction",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_1",
+                        "fact_group_content": "Charlie Morris believes gold could hit $7,000 by 2030."
+                    },
+                    {
+                        "fact_group_id": "8_4",
+                        "fact_group_content": "Economist Charlie Morris predicts gold will reach $7,000 by 2030."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "2026 Price Fluctuations",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_11",
+                        "fact_group_content": "Gold will trade in the range of $3,266.00\u2013$5,155.30 in 2026."
+                    },
+                    {
+                        "fact_group_id": "8_12",
+                        "fact_group_content": "Yearly high of $4,633.00 in 2026."
+                    },
+                    {
+                        "fact_group_id": "8_13",
+                        "fact_group_content": "Gold may surge to $3,552.69 by the end of the first half of 2026."
+                    },
+                    {
+                        "fact_group_id": "8_14",
+                        "fact_group_content": "Experts predict further growth to $3,695.53 by the end of 2026."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "2024's Average Forecast",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_2",
+                        "fact_group_content": "ING expects gold prices to average $2,031 per ounce in 2024."
+                    },
+                    {
+                        "fact_group_id": "8_6",
+                        "fact_group_content": "A decrease from $2,350 per ounce in 2024 to $2,050 per ounce in 2025."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "2025's Price Range",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_7",
+                        "fact_group_content": "TD Securities now believes that the price will show an average of $2,700 per ounce in 2025."
+                    },
+                    {
+                        "fact_group_id": "8_5",
+                        "fact_group_content": "The gold price prediction for the next 5 years is $5,085, according to Coin Price Forecast."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "2027's Trend Reversal",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_15",
+                        "fact_group_content": "Analysts anticipate a trend reversal with a decline to approximately $4,600.34 in the second half of 2027."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "2023's World Bank Estimate",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_3",
+                        "fact_group_content": "The World Bank estimated the price of gold will be around $1,900 in 2023."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "Charlie",
+            "Morris",
+            "World",
+            "Bank",
+            "Economist",
+            "Coin",
+            "Price",
+            "Forecast",
+            "TD",
+            "Securities",
+            "ING",
+            "analysts",
+            "experts",
+            "surge",
+            "decline",
+            "average",
+            "range",
+            "high",
+            "growth",
+            "trend",
+            "reversal"
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "clickbait_list": [
+            {
+                "clickbait": "Gold's Bullish Forecast",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_0",
+                        "fact_group_content": "Gold could rise to as much as $3,880 a troy ounce in the event of a recession."
+                    },
+                    {
+                        "fact_group_id": "6_6",
+                        "fact_group_content": "Bull case scenario sees gold approaching $4,000/oz over the next six to nine months with a 30% probability."
+                    },
+                    {
+                        "fact_group_id": "6_8",
+                        "fact_group_content": "Bull case scenario predicts gold prices between US$3,500-$3,900/oz with 30% probability."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Gold's 2025 Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_1",
+                        "fact_group_content": "In 2025, gold moved above $3,000."
+                    },
+                    {
+                        "fact_group_id": "6_4",
+                        "fact_group_content": "Gold's price increased by ~25% to $3,300/oz during the first five months of 2025."
+                    },
+                    {
+                        "fact_group_id": "6_5",
+                        "fact_group_content": "Base case forecast suggests gold can sustain price levels between $3,100-$3,500/oz in 2025."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Gold's Price Fluctuations",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_2",
+                        "fact_group_content": "Gold prices peaked at $3,500/oz in April."
+                    },
+                    {
+                        "fact_group_id": "6_3",
+                        "fact_group_content": "Citi cut 6-12 month target from $3,000 to $2,800 per ounce."
+                    },
+                    {
+                        "fact_group_id": "6_10",
+                        "fact_group_content": "The XAUUSD is likely to undergo a downward correction to the key support level of $2,961.21."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Central Bank Gold Demand",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_9",
+                        "fact_group_content": "Central bank gold demand could be north of 1,100-1,200t."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Gold's Base Case Scenario",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_7",
+                        "fact_group_content": "Base case scenario predicts gold prices between US$3,100-$3,500/oz with 50% probability."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "recession",
+            "troy",
+            "ounce",
+            "Citi",
+            "target",
+            "forecast",
+            "sustain",
+            "levels",
+            "probability",
+            "central",
+            "bank",
+            "demand",
+            "XAUUSD",
+            "correction",
+            "support"
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "clickbait_list": [
+            {
+                "clickbait": "Payrolls Exceed Expectations",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_0",
+                        "fact_group_content": "Nonfarm Payrolls increased by 147,000 in June."
+                    },
+                    {
+                        "fact_group_id": "7_1",
+                        "fact_group_content": "Nonfarm Payrolls beat forecasts by 36,000 (147,000 actual vs 111,000 forecast)."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Unemployment Rate Declines",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_2",
+                        "fact_group_content": "Unemployment Rate edged down by 0.1% (from 4.2% to 4.1%)."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Wage Growth Slows",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_3",
+                        "fact_group_content": "Wage growth slowed by 0.2% (from 0.4% to 0.2%)."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Debt Legislation Impact",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_4",
+                        "fact_group_content": "Legislation will add $3.4 trillion to the nation\u2019s debt."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "Nonfarm",
+            "Payrolls",
+            "Unemployment",
+            "Rate",
+            "Wage",
+            "growth",
+            "Legislation",
+            "debt"
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "clickbait_list": [
+            {
+                "clickbait": "Gold's 2025 Forecast",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_1",
+                        "fact_group_content": "Trading Economics forecasts that gold will trade at approximately $2,759 per troy ounce by the end of 2025."
+                    },
+                    {
+                        "fact_group_id": "2_3",
+                        "fact_group_content": "Gold price will slide to $2,873.00 by mid-2025."
+                    },
+                    {
+                        "fact_group_id": "2_4",
+                        "fact_group_content": "Rally to continue, reaching $3,925.39 by the end of 2025."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "2026 Gold Price Range",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_5",
+                        "fact_group_content": "XAUUSD price may reach $3,315.00 at the beginning of 2026."
+                    },
+                    {
+                        "fact_group_id": "2_6",
+                        "fact_group_content": "Asset may increase to $3,958.00 by June 2026."
+                    },
+                    {
+                        "fact_group_id": "2_7",
+                        "fact_group_content": "Asset is expected to trade near $3,398.14 at the beginning of 2026."
+                    },
+                    {
+                        "fact_group_id": "2_8",
+                        "fact_group_content": "Price of gold is expected to range between $3,904.54 and $4,800.90 between January and June 2026."
+                    },
+                    {
+                        "fact_group_id": "2_9",
+                        "fact_group_content": "Experts predict a decline to $4,277.91 by the end of December 2026."
+                    }
+                ],
+                "number_of_facts": 5
+            },
+            {
+                "clickbait": "2027 Gold Price Peaks",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_10",
+                        "fact_group_content": "Some analysts expect new all-time highs above $5,000 in 2027."
+                    },
+                    {
+                        "fact_group_id": "2_11",
+                        "fact_group_content": "Price will likely fluctuate between $4,152.00 and $4,920.00 by June 2027."
+                    },
+                    {
+                        "fact_group_id": "2_12",
+                        "fact_group_content": "Price may reach $3,697.19 at the beginning of 2027."
+                    },
+                    {
+                        "fact_group_id": "2_13",
+                        "fact_group_content": "Trading instrument may edge higher to $3,994.61 by December 2027."
+                    },
+                    {
+                        "fact_group_id": "2_14",
+                        "fact_group_content": "Price may fluctuate within the range of $4,239.11\u2013$5,306.62 in the first half of 2027."
+                    },
+                    {
+                        "fact_group_id": "2_15",
+                        "fact_group_content": "Closing price of $5,093.63 at the end of June 2027."
+                    }
+                ],
+                "number_of_facts": 6
+            }
+        ],
+        "important_words": [
+            "average",
+            "hourly",
+            "earnings",
+            "retreated",
+            "trading",
+            "economics",
+            "forecasts",
+            "troy",
+            "ounce",
+            "rally",
+            "continue",
+            "reaching",
+            "asset",
+            "increase",
+            "expected",
+            "range",
+            "experts",
+            "predict",
+            "decline",
+            "analysts",
+            "expect",
+            "all-time",
+            "highs",
+            "fluctuate",
+            "closing"
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "clickbait_list": [
+            {
+                "clickbait": "UBS Gold Target",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_0",
+                        "fact_group_content": "UBS base-case target of $3,500/oz."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "InvestingHaven's 2027 Forecast",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_1",
+                        "fact_group_content": "InvestingHaven sees potential maximum gold price of $4,400 in 2027."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "JP Morgan's 2024 Outlook",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_2",
+                        "fact_group_content": "JP Morgan has an average price target of $2,175 per ounce for bullion in the final quarter of 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Bloomberg's Q1 2024 Range",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_3",
+                        "fact_group_content": "Gold\u2019s price forecast for Q1 2024 at Bloomberg Terminal is between $1,913.63-$2,224.22."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Harper's 2040 Prediction",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_4",
+                        "fact_group_content": "David Harper predicted the price of gold could reach $6,800 an ounce by 2040."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "2028 Maximum Forecast",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_6",
+                        "fact_group_content": "The maximum price forecast for 2028 sits near the $4,000 mark."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "2025 Broad Range",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_8",
+                        "fact_group_content": "Gold will trade in a broad range between $2,916.51 and $4,351.84 in 2025."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "2026 Closing Price",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_9",
+                        "fact_group_content": "Analysts forecast a closing price of $4,412.00 at the end of 2026."
+                    },
+                    {
+                        "fact_group_id": "10_10",
+                        "fact_group_content": "Closing price of $4,722.94 in June 2026."
+                    },
+                    {
+                        "fact_group_id": "10_11",
+                        "fact_group_content": "Experts predict a decline to $4,277.91 by the end of December 2026."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Mid-2027 Increase",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_13",
+                        "fact_group_content": "Gold will likely increase to $3,852.81 by mid-2027."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "2027 Price Fluctuation",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_14",
+                        "fact_group_content": "Price may fluctuate within the range of $4,239.11\u2013$5,306.62 in the first half of 2027."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "UBS",
+            "InvestingHaven",
+            "JP Morgan",
+            "Bloomberg",
+            "David Harper",
+            "TakeProfit",
+            "analysts",
+            "experts",
+            "forecast",
+            "target",
+            "average",
+            "maximum",
+            "closing",
+            "price",
+            "range",
+            "fluctuate",
+            "increase",
+            "decline"
+        ]
+    }
+]
