@@ -6,7 +6,7 @@ services:
     plan: free
     autoDeploy: false
     buildCommand: pip install -r requirements.txt && python -c "import nltk; nltk.download('stopwords', download_dir='/opt/render/project/src/nltk_data'); nltk.download('punkt', download_dir='/opt/render/project/src/nltk_data')"
-    startCommand: uvicorn main:app --host 0.0.0.0 --port 8000
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: NLTK_DATA
         value: /opt/render/project/src/nltk_data
