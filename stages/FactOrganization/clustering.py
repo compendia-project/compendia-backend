@@ -8,10 +8,6 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 import umap
-from common.config import CLUSTER_CONFIGS
-from common.gpt_helper import GPTHelper
-from common.utils import console
-from common.utils.timing_logger import LOGGER, log_execution_time
 from dotenv import load_dotenv
 from kneed import KneeLocator
 from nltk.corpus import stopwords
@@ -23,11 +19,117 @@ from sklearn.metrics import davies_bouldin_score, silhouette_score
 from sklearn.mixture import GaussianMixture
 from sklearn.preprocessing import RobustScaler
 
+from common.config import CLUSTER_CONFIGS
+from common.gpt_helper import GPTHelper
+from common.utils import console
+from common.utils.timing_logger import LOGGER, log_execution_time
+
 load_dotenv()
 
 gpt_helper = GPTHelper()
 
-STOPWORDS = set(stopwords.words("english"))
+# Initialize stopwords with error handling
+try:
+    STOPWORDS = set(stopwords.words("english"))
+except LookupError:
+    import nltk
+
+    try:
+        nltk.download("stopwords")
+        STOPWORDS = set(stopwords.words("english"))
+    except:
+        # Fallback to a basic set of common English stopwords
+        STOPWORDS = set(
+            [
+                "i",
+                "me",
+                "my",
+                "myself",
+                "we",
+                "our",
+                "ours",
+                "ourselves",
+                "you",
+                "your",
+                "yours",
+                "yourself",
+                "yourselves",
+                "he",
+                "him",
+                "his",
+                "himself",
+                "she",
+                "her",
+                "hers",
+                "herself",
+                "it",
+                "its",
+                "itself",
+                "they",
+                "them",
+                "their",
+                "theirs",
+                "themselves",
+                "what",
+                "which",
+                "who",
+                "whom",
+                "this",
+                "that",
+                "these",
+                "those",
+                "am",
+                "is",
+                "are",
+                "was",
+                "were",
+                "be",
+                "been",
+                "being",
+                "have",
+                "has",
+                "had",
+                "having",
+                "do",
+                "does",
+                "did",
+                "doing",
+                "a",
+                "an",
+                "the",
+                "and",
+                "but",
+                "if",
+                "or",
+                "because",
+                "as",
+                "until",
+                "while",
+                "of",
+                "at",
+                "by",
+                "for",
+                "with",
+                "through",
+                "during",
+                "before",
+                "after",
+                "above",
+                "below",
+                "up",
+                "down",
+                "in",
+                "out",
+                "on",
+                "off",
+                "over",
+                "under",
+                "again",
+                "further",
+                "then",
+                "once",
+            ]
+        )
 
 
 def process_text(text, query_embedding):
