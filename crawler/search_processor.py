@@ -3,6 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 import requests
 from bs4 import BeautifulSoup
+
 from common.utils.timing_logger import LOGGER, log_execution_time
 
 from .searchAPI import get_search_results
@@ -13,7 +14,11 @@ from .serper import get_webpage
 
 @log_execution_time
 def get_google_search_results(
-    query, num_results=10, csv_filename="search_results.csv", country_code="sg"
+    query,
+    num_results=10,
+    num_pages=2,
+    csv_filename="search_results.csv",
+    country_code="sg",
 ):
 
     ## serper settings for search results
@@ -22,7 +27,9 @@ def get_google_search_results(
     print("get_google_search_results")
 
     ## searchapi settings for search results
-    response = get_search_results(query, num_results, country_code=country_code)
+    response = get_search_results(
+        query, num_results, num_pages, country_code=country_code
+    )
     organic_results = response["organic_results"]
 
     with open(csv_filename, mode="w", newline="", encoding="utf-8") as csv_file:

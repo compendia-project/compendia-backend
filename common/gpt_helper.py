@@ -7,7 +7,7 @@ from .config import MODEL_CONFIG
 from .utils.console import console
 from .utils.timing_logger import LOGGER
 
-load_dotenv()
+load_dotenv(override=True)
 
 
 class GPTHelper:

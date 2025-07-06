@@ -1,8 +1,11 @@
+import os
+
 import requests
-from common.utils.timing_logger import LOGGER, log_execution_time
 from dotenv import load_dotenv
 
-load_dotenv()
+from common.utils.timing_logger import LOGGER, log_execution_time
+
+load_dotenv(override=True)
 
 
 @log_execution_time
@@ -21,9 +24,7 @@ def get_search_results(
         "gl": country_code,
         "page": num_pages,
         "num": num_results,
-        # "api_key": os.getenv("SEARCH_API_KEY"),
-        "api_key": "179uJNEszyAMibJ4PAZybxZf",
-        # "api_key": "n2rsLrW1ht91UHUGyWopgRyJ",
+        "api_key": os.getenv("SEARCH_API_KEY"),
     }
 
     response = requests.get(url, params=params)
@@ -41,7 +42,7 @@ def get_search_results(
 #     "engine": "google",
 #     "q": "Youth unemployment trends in Europe?",
 #     "gl": "sg",
-#     "api_key": "n2rsLrW1ht91UHUGyWopgRyJ",
+#     "api_key": "test",
 # }
 
 # response = requests.get(url, params=params)

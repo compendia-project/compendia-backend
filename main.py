@@ -1,5 +1,3 @@
-VERSION = "v10"
-
 import hashlib
 import os
 import re
@@ -8,7 +6,6 @@ from typing import Any, Optional
 
 from fastapi import FastAPI, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
 
 from common.utils import load_id, save_id, setup_logging
 from stages.story_generator import generate_story
@@ -55,38 +52,28 @@ def get_stories(
         description="Search term to filter items by name or description",
     ),
     web: Optional[str] = Query("pewresearch.org", description="Website to search"),
-    page_count: Optional[int] = Query(
-        1, ge=1, description="Number of pages to retrieve"
+    result_count_per_page: Optional[int] = Query(
+        1, ge=1, description="Number of results to retrieve per page"
     ),
     country_code: Optional[str] = Query(
         "sg", description="Country code to search from"
+    ),
+    num_pages: Optional[int] = Query(
+        2, ge=1, description="Number of max pages per search"
     ),
 ) -> Any:
 
     start_time = time.time()
     try:
-        print("web", web)
-        print("page_count", page_count)
-        # query = "Pros and cons of homeschooling statistics"
-        # query = "AI is a threat or not"
-        # query = "Is homeschooling preferred by people"
-        # query = "Global cancer patients burden"
-        # query = "Does AI leading to new jobs or job displacements"
-        # query = "Is homeschooling preferred by people copy 2"
-        # query = "Global cancer patients burden copy"
         query = query.strip()
         file_name = re.sub(r"[^a-zA-Z0-9\s]", "", query)
-        # id = 135
         id = load_id()
         file_name = f"{id}_{file_name}"
         unique_id = generate_unique_id(file_name)
-        print("file_name", file_name)
         file_path = os.path.join("", f"results/{file_name}")
         save_id(id + 1)
         ensure_directory_exists(file_path)
 
-        # web = "pewresearch.org" "yougov.co.uk"
-        # page_count = 5
         iterations = 1
         search_result_file = f"{file_path}/google_search_results.csv"
         output_path = f"{file_path}/story.html"
@@ -100,16 +87,14 @@ def get_stories(
         results = generate_story(
             search_query=query,
             web=web,
-            page_count=page_count,
+            result_count_per_page=result_count_per_page,
             iterations=iterations,
             search_result_file=search_result_file,
             output_path=output_path,
             results_path=results_path,
             country_code=country_code,
+            num_pages=num_pages,
         )
-        file_path = os.path.join("", output_path)
-
-        # Serve the HTML file
         return results
 
     finally:

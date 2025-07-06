@@ -65,7 +65,7 @@ export OPENAI_API_KEY="your-openai-api-key-here"
 ### Start the FastAPI Server
 
 ```bash
-uvicorn main:app --reload
+uvicorn main:app --reload --port 8000 --host 0.0.0.0
 ```
 
 The server will start at `http://localhost:8000`
@@ -117,4 +117,4 @@ This project is part of the Compendia research initiative.
 
 ---
 
-**Happy Data Storytelling! 📊✨**
+**Happy Data Storytelling! ✨**

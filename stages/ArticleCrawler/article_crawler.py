@@ -3,6 +3,7 @@ import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import pandas as pd
+
 from common.config import PROMPTS
 from common.gpt_helper import GPTHelper
 from common.utils import console, write_to_json
@@ -77,6 +78,7 @@ def collect_search_results(
     query,
     web,
     num_results=1,
+    num_pages=2,
     csv_filename="google_search_results.csv",
     country_code="sg",
 ):
@@ -91,6 +93,7 @@ def collect_search_results(
             get_google_search_results(
                 qr,
                 num_results=num_results,
+                num_pages=num_pages,
                 csv_filename=new_file_path,
                 country_code=country_code,
             )

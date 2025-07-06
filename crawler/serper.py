@@ -2,10 +2,11 @@ import json
 import os
 
 import requests
-from common.utils.timing_logger import LOGGER, log_execution_time
 from dotenv import load_dotenv
 
-load_dotenv()
+from common.utils.timing_logger import LOGGER, log_execution_time
+
+load_dotenv(override=True)
 
 
 @log_execution_time

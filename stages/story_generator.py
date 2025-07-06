@@ -628,21 +628,24 @@ def run_modify_recommendation(facts_list):
 def generate_story(
     search_query,
     web="pewresearch.org",
-    page_count=1,
+    result_count_per_page=1,
     iterations=1,
     search_result_file="google_search_pew.csv",
     output_path="story.html",
     results_path="JsonOutputs",
     country_code="sg",
+    num_pages=2,
 ):
     try:
         file_path = results_path
 
         print_status("Started collecting search results")
         collect_search_results(
-            search_query, web, num_results=page_count, csv_filename=search_result_file, country_code=country_code
+            search_query, web, num_results=result_count_per_page, num_pages=num_pages, csv_filename=search_result_file, country_code=country_code
         )
         print_status("Finished collecting search results")
+        
+        return None
 
         df = pd.read_csv(search_result_file)
         articles = df["Page_Content"].values

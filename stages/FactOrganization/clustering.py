@@ -24,7 +24,7 @@ from common.gpt_helper import GPTHelper
 from common.utils import console
 from common.utils.timing_logger import LOGGER, log_execution_time
 
-load_dotenv()
+load_dotenv(override=True)
 
 gpt_helper = GPTHelper()
 
