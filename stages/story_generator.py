@@ -645,7 +645,6 @@ def generate_story(
         )
         print_status("Finished collecting search results")
         
-        return None
 
         df = pd.read_csv(search_result_file)
         articles = df["Page_Content"].values
