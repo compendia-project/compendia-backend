@@ -60,6 +60,17 @@ Set up your OpenAI API key as an environment variable:
 export OPENAI_API_KEY="your-openai-api-key-here"
 ```
 
+Set up your [Serper](https://serper.dev/) API key as an environment variable:
+
+```bash
+export SERPER_API_KEY="your-serper-api-key-here"
+```
+Set up your [SearchApi](https://www.searchapi.io/) key as an environment variable:
+
+```bash
+export SEARCH_API_KEY="your-search-api-key-here"
+```
+
 ## 🚀 Running the Application
 
 ### Start the FastAPI Server
