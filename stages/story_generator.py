@@ -3,7 +3,7 @@ import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import pandas as pd
-from common.utils import chunk_array, console, merge_arrays, write_to_json
+from common.utils import console, write_to_json
 from common.utils.timing_logger import LOGGER, log_execution_time
 from stages.ArticleCrawler import collect_search_results
 from stages.FactExtraction import (
@@ -14,37 +14,24 @@ from stages.FactExtraction import (
     validate_data_extraction,
 )
 from stages.FactOrganization import (
-    calculate_scores,
     clickbait_generation,
     cluster_detail_generation,
     cluster_facts,
-    cluster_topics,
     correct_merged_facts,
-    fill_missing_entities,
     get_entities_in_merged_facts,
     get_missing_entities,
     handle_filling_data,
     identify_similar_facts,
     merge_facts,
     organize_cluster_story,
-    organize_data_by_topic,
     refine_cluster_detail,
     refine_merged_facts,
-    relatedness,
     structure_fact_groups,
-    structure_paragraphs,
     structure_paragraphs_with_meta_data,
-    temporySimilarityCalculation,
     validate_merged_facts,
-    vis_criticizer,
-    vis_recommender,
-    vis_refiner,
 )
 from stages.Presentation import (
     assign_colors,
-    create_storyline,
-    fill_template,
-    format_overview,
     generate_wordcloud,
     modify_recommendation,
     new_analyze_data,
@@ -145,7 +132,6 @@ def process_article(
     #     return None
 
     print_status(f"{id}: Started first data validation")
-    # validation_errors = validate_data_extraction(id, title, data_fact_with_vis_data)
     with ThreadPoolExecutor() as executor:
         validation_errors_nested = list(
             executor.map(
@@ -178,7 +164,6 @@ def process_article(
     i = 0
     print_status(f"{id}: Started iterative validation")
     while i < iterations and validation_errors["has_error"]:
-        # refined_data = refine_data(id, title, validation_errors)
         with ThreadPoolExecutor() as executor:
             refined_data_nested = list(
                 executor.map(
@@ -203,9 +188,6 @@ def process_article(
         )
 
         if iterations - i > 1:
-            # validation_errors = validate_data_extraction(
-            #     id, title, data_fact_with_vis_data
-            # )
             with ThreadPoolExecutor() as executor:
                 validation_errors_nested = list(
                     executor.map(
@@ -239,13 +221,6 @@ def process_article(
     )
     print_status(f"{id}: Finished iterative validation")
 
-    # try:
-    #     with open(f"{folder_path}/8_data_fact_with_vis_data_final.json", "r") as file:
-    #         data_fact_with_vis_data = json.load(file)
-    # except Exception as e:
-    #     console.print(e)
-    #     return None
-
     print_status(f"{id}: Started structuring data")
     structured_data = structure_paragraphs_with_meta_data(
         id, title, date, link, data_fact_with_vis_data
@@ -256,8 +231,6 @@ def process_article(
     print_status(f"{id}: Finished structuring data")
 
     return structured_data
-
-
 # -------------- End: Process Article  ----------
 
 
@@ -366,28 +339,16 @@ def process_assign_colors(fact):
 def process_merge_facts(fact_group):
     return merge_facts(fact_group)
 
-
 def process_validate_merged_facts(merged_facts):
     errors = validate_merged_facts(merged_facts)
     merged_facts["errors"] = errors["errors"]
     return merged_facts
 
-
 def process_refine_merged_facts(merged_facts):
     return refine_merged_facts(merged_facts)
 
-
 def process_correct_merged_facts(merged_facts):
     return correct_merged_facts(merged_facts)
-
-
-def get_culster_merged_facts(merged_facts):
-
-    for cluster in merged_facts:
-        new_cluster = {"cluster_id": cluster["cluster_id"]}
-
-    return cluster_topics(merged_facts)
-
 
 def get_merged_clusters(merged_facts):
     new_clusters = []
@@ -464,17 +425,14 @@ def process_wordcloud_generation(analysis, cluster_results):
 def process_cluster_entity_recognition(merged_facts_data):
     def process_cluster_merged_facts(cluster):
         with ThreadPoolExecutor() as executor:
-            # Process merged facts within each cluster in parallel
             processed_facts = list(
                 executor.map(
                     process_merged_fact_entity_recognition, cluster["merged_facts"]
                 )
             )
-        # Replace the original merged facts with processed facts
         cluster["merged_facts"] = processed_facts
         return cluster
 
-    # Process each cluster's merged facts in parallel
     with ThreadPoolExecutor() as executor:
         results = list(executor.map(process_cluster_merged_facts, merged_facts_data))
 
@@ -693,12 +651,6 @@ def generate_story(
 
         with open(f"{file_path}/2_clusters.json", "r") as file:
             clusters = json.load(file)
-
-        # TODO - Remove this later
-        # cluster_summaries = temporySimilarityCalculation(
-        #     clusters, "Global cancer patients burden"
-        # )
-        # write_to_json(cluster_summaries, file_path, "2_clusters.json")
 
         print_status("Started fact similarity check")
         fact_groups = process_fact_grouping(clusters)

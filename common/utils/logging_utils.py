@@ -1,4 +1,5 @@
 import logging
+import os
 
 
 class HTTPFilter(logging.Filter):
@@ -21,17 +22,34 @@ def setup_logging(log_path):
     Returns:
         logging.Logger: Configured logger instance
     """
-    logging.basicConfig(
-        filename=log_path,
-        level=logging.INFO,
-        format="%(asctime)s,%(levelname)s,%(funcName)s,%(message)s",
-        filemode="a",
-    )
-
-    # Create a global logger instance
+    # Ensure the directory exists
+    os.makedirs(os.path.dirname(log_path), exist_ok=True)
+    
+    # Get the global logger instance
     logger = logging.getLogger("project_logger")
+    
+    # Clear any existing handlers to avoid duplicates
+    logger.handlers.clear()
+    
+    # Set logger level
     logger.setLevel(logging.INFO)
-    logger.addFilter(HTTPFilter())
+    
+    # Create file handler
+    file_handler = logging.FileHandler(log_path, mode='a')
+    file_handler.setLevel(logging.INFO)
+    
+    # Create formatter
+    formatter = logging.Formatter("%(asctime)s,%(levelname)s,%(funcName)s,%(message)s")
+    file_handler.setFormatter(formatter)
+    
+    # Add filter to file handler
+    file_handler.addFilter(HTTPFilter())
+    
+    # Add handler to logger
+    logger.addHandler(file_handler)
+    
+    # Prevent propagation to root logger to avoid duplicate logs
+    logger.propagate = False
 
     # Disable Uvicorn HTTP access logs
     logging.getLogger("uvicorn.access").disabled = True
