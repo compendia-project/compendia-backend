@@ -7,6 +7,7 @@ from typing import Any, Optional
 
 from fastapi import FastAPI, HTTPException, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
 
 from common.utils import load_id, save_id, setup_logging
 from stages.story_generator import generate_story
@@ -44,29 +45,20 @@ async def root():
     return {"message": "Hello World"}
 
 
-@app.get("/stories")
-def get_stories(
-    request: Request,
-    query: Optional[str] = Query(
-        None,
-        min_length=1,
-        description="Search term to filter items by name or description",
-    ),
-    web: Optional[str] = Query("pewresearch.org", description="Website to search"),
-    result_count_per_page: Optional[int] = Query(
-        1, ge=1, description="Number of results to retrieve per page"
-    ),
-    country_code: Optional[str] = Query(
-        "sg", description="Country code to search from"
-    ),
-    num_pages: Optional[int] = Query(
-        2, ge=1, description="Number of max pages per search"
-    ),
-) -> Any:
+class StoryRequest(BaseModel):
+    query: str
+    web: str = "pewresearch.org"
+    result_count_per_page: int = 1
+    country_code: str = "sg"
+    num_pages: int = 2
+
+
+@app.post("/stories")
+def create_story(story_request: StoryRequest) -> Any:
 
     start_time = time.time()
     try:
-        query = query.strip()
+        query = story_request.query.strip()
         file_name = re.sub(r"[^a-zA-Z0-9\s]", "", query)
         id = load_id()
         file_name = f"{id}_{file_name}"
@@ -87,14 +79,14 @@ def get_stories(
 
         results = generate_story(
             search_query=query,
-            web=web,
-            result_count_per_page=result_count_per_page,
+            web=story_request.web,
+            result_count_per_page=story_request.result_count_per_page,
             iterations=iterations,
             search_result_file=search_result_file,
             output_path=output_path,
             results_path=results_path,
-            country_code=country_code,
-            num_pages=num_pages,
+            country_code=story_request.country_code,
+            num_pages=story_request.num_pages,
         )
         return results
 
