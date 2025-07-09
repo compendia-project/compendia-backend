@@ -14,7 +14,7 @@ from .fact_organization import (
     organize_data_by_topic,
     refine_cluster_detail,
     refine_merged_facts,
-    relatedness,
+    filter_relevant_paragraphs,
     structure_fact_groups,
     structure_paragraphs,
     structure_paragraphs_with_meta_data,
@@ -27,7 +27,7 @@ from .information_extraction import get_missing_entities
 
 __all__ = [
     "structure_paragraphs",
-    "relatedness",
+    "filter_relevant_paragraphs",
     "vis_recommender",
     "vis_criticizer",
     "vis_refiner",

@@ -1,13 +1,13 @@
 import json
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
-from typing import List
+
+from scipy import spatial
 
 from common.config import PROMPTS
 from common.gpt_helper import GPTHelper
 from common.utils import console
 from common.utils.timing_logger import LOGGER, log_execution_time
-from fastapi.encoders import jsonable_encoder
 from models.models import (
     ArticleDataFactVisDataMeta,
     ArticleVisRecommendation,
@@ -27,7 +27,6 @@ from models.models import (
     MergedFacts,
     MergedFactsEntities,
 )
-from scipy import spatial
 
 gpt_helper = GPTHelper()
 
@@ -197,29 +196,27 @@ def calculate_scores(query, data):
 
 
 @log_execution_time
-def relatedness(query, paragraphs: List[DataFactWithMetaData]):
+def filter_relevant_paragraphs(query, data_fact_with_vis_data):
     query_embedding = gpt_helper.get_embeddings(query)
 
     def process_paragraph(para):
         relatedness_score = calculate_relatedness(query_embedding, para["paragraph"])
         if relatedness_score > 0.3:
-            return DataFactWithRelatedness(
-                **para,
-                relatedness_score=relatedness_score,
-            )
+            para["relatedness_score"] = relatedness_score
+            return para
         return None
 
     with ThreadPoolExecutor() as executor:
         # Process paragraphs in parallel and collect results
-        results = list(executor.map(process_paragraph, paragraphs))
+        results = list(executor.map(process_paragraph, data_fact_with_vis_data))
 
     # Filter out None values and sort
     para_with_relatedness = [result for result in results if result is not None]
     sorted_data_facts = sorted(
-        para_with_relatedness, key=lambda x: x.relatedness_score, reverse=True
+        para_with_relatedness, key=lambda x: x["relatedness_score"], reverse=True
     )
 
-    sorted_data_facts = jsonable_encoder(sorted_data_facts)
+    # sorted_data_facts = jsonable_encoder(sorted_data_facts)
     return sorted_data_facts
 
 

@@ -29,6 +29,7 @@ from stages.FactOrganization import (
     structure_fact_groups,
     structure_paragraphs_with_meta_data,
     validate_merged_facts,
+    filter_relevant_paragraphs
 )
 from stages.Presentation import (
     assign_colors,
@@ -220,7 +221,22 @@ def process_article(
         data_fact_with_vis_data, folder_path, "8_data_fact_with_vis_data_final.json"
     )
     print_status(f"{id}: Finished iterative validation")
-
+    
+    # try:
+    #     with open(f"{folder_path}/8_data_fact_with_vis_data_final.json", "r") as file:
+    #         data_fact_with_vis_data = json.load(file)
+    # except Exception as e:
+    #     console.print(e)
+    #     return None
+    
+    filtered_data = filter_relevant_paragraphs(search_query, data_fact_with_vis_data["data_facts_with_vis_data"])
+    
+    data_fact_with_vis_data["data_facts_with_vis_data"] = filtered_data
+    
+    write_to_json(
+        data_fact_with_vis_data, folder_path, "8_2_data_fact_with_vis_data_filtered.json"
+    )
+    
     print_status(f"{id}: Started structuring data")
     structured_data = structure_paragraphs_with_meta_data(
         id, title, date, link, data_fact_with_vis_data
