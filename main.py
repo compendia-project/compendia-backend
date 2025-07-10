@@ -1,25 +1,33 @@
+import asyncio
 import hashlib
 import json
 import os
 import re
 import time
-from typing import Any, Optional
-
-from fastapi import FastAPI, HTTPException, Query, Request
-from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+from typing import Any
 
 from common.utils import load_id, save_id, setup_logging
+from fastapi import FastAPI, HTTPException, Request
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
 from stages.story_generator import generate_story
+
+# Simple in-memory cache for ongoing requests
+request_cache = {}
 
 app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins
-    allow_credentials=True,
+    allow_origins=[
+        "http://localhost:5173",  # Vite dev server
+        "https://compendia-new.onrender.com",
+        "https://compendia.onrender.com/",
+    ],  # Allows all origins
+    allow_credentials=True,  # Disable credentials to prevent preflight issues
     allow_methods=["*"],
     allow_headers=["*"],
+    max_age=86400,  # Cache preflight responses for 1 hour
 )
 
 
@@ -54,9 +62,36 @@ class StoryRequest(BaseModel):
 
 
 @app.post("/stories")
-def create_story(story_request: StoryRequest) -> Any:
+async def create_story(story_request: StoryRequest) -> Any:
 
     start_time = time.time()
+
+    # Create a cache key based on the request parameters
+    cache_key = hashlib.md5(
+        f"{story_request.query.strip()}_{story_request.web}_{story_request.result_count_per_page}_{story_request.country_code}_{story_request.num_pages}".encode()
+    ).hexdigest()
+
+    # Check if this request is already being processed
+    if cache_key in request_cache:
+        current_time = time.time()
+        cache_entry = request_cache[cache_key]
+
+        # If request is still being processed (within 30 minutes)
+        if current_time - cache_entry["start_time"] < 1800:  # 30 minutes
+            raise HTTPException(
+                status_code=429,
+                detail="A similar request is already being processed. Please wait or try a different query.",
+            )
+        else:
+            # Remove expired cache entry
+            del request_cache[cache_key]
+
+    # Add this request to the cache
+    request_cache[cache_key] = {
+        "start_time": start_time,
+        "query": story_request.query.strip(),
+    }
+
     try:
         query = story_request.query.strip()
         file_name = re.sub(r"[^a-zA-Z0-9\s]", "", query)
@@ -77,20 +112,29 @@ def create_story(story_request: StoryRequest) -> Any:
         LOGGER = setup_logging(log_path)
         LOGGER.info("Application started.")
 
-        results = generate_story(
-            search_query=query,
-            web=story_request.web,
-            result_count_per_page=story_request.result_count_per_page,
-            iterations=iterations,
-            search_result_file=search_result_file,
-            output_path=output_path,
-            results_path=results_path,
-            country_code=story_request.country_code,
-            num_pages=story_request.num_pages,
+        # Run the CPU-intensive story generation in a thread pool to avoid blocking
+        loop = asyncio.get_running_loop()
+        results = await loop.run_in_executor(
+            None,
+            lambda: generate_story(
+                search_query=query,
+                web=story_request.web,
+                result_count_per_page=story_request.result_count_per_page,
+                iterations=iterations,
+                search_result_file=search_result_file,
+                output_path=output_path,
+                results_path=results_path,
+                country_code=story_request.country_code,
+                num_pages=story_request.num_pages,
+            ),
         )
         return results
 
     finally:
+        # Remove request from cache when completed
+        if cache_key in request_cache:
+            del request_cache[cache_key]
+
         save_id(id + 1)
         total_time = time.time() - start_time
         LOGGER.info(f"Total time taken: {total_time} seconds")
