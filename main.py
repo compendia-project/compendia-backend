@@ -6,14 +6,16 @@ import re
 import time
 from typing import Any
 
-from common.utils import load_id, save_id, setup_logging
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+
+from common.utils import load_id, save_id, setup_logging
 from stages.story_generator import generate_story
 
 # Simple in-memory cache for ongoing requests
 request_cache = {}
+result_cache = {}  # Maps cache_key (hash) to completed results
 
 app = FastAPI()
 
@@ -48,6 +50,14 @@ def ensure_directory_exists(path: str):
     os.makedirs(path, exist_ok=True)
 
 
+def get_cached_result(cache_key: str) -> Any:
+    return result_cache.get(cache_key)
+
+
+def cache_result(cache_key: str, result: Any) -> None:
+    result_cache[cache_key] = result
+
+
 @app.get("/")
 async def root():
     return {"message": "Hello World"}
@@ -78,10 +88,15 @@ async def create_story(story_request: StoryRequest) -> Any:
 
         # If request is still being processed (within 30 minutes)
         if current_time - cache_entry["start_time"] < 1800:  # 30 minutes
-            raise HTTPException(
-                status_code=429,
-                detail="A similar request is already being processed. Please wait or try a different query.",
-            )
+            # Check if there's a cached result for this request
+            cached_result = get_cached_result(cache_key)
+            if cached_result:
+                return cached_result
+            else:
+                raise HTTPException(
+                    status_code=429,
+                    detail="A similar request is already being processed. Please wait or try a different query.",
+                )
         else:
             # Remove expired cache entry
             del request_cache[cache_key]
@@ -128,6 +143,10 @@ async def create_story(story_request: StoryRequest) -> Any:
                 num_pages=story_request.num_pages,
             ),
         )
+
+        # Cache the successful result
+        cache_result(cache_key, results)
+
         return results
 
     finally:
