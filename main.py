@@ -16,6 +16,7 @@ from stages.story_generator import generate_story
 # Simple in-memory cache for ongoing requests
 request_cache = {}
 result_cache = {}  # Maps cache_key (hash) to completed results
+processing_events = {}  # Maps cache_key to asyncio.Event for waiting requests
 
 app = FastAPI()
 
@@ -24,12 +25,12 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",  # Vite dev server
         "https://compendia-new.onrender.com",
-        "https://compendia.onrender.com/",
+        "https://compendia.onrender.com",
     ],  # Allows all origins
-    allow_credentials=True,  # Disable credentials to prevent preflight issues
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
-    max_age=86400,  # Cache preflight responses for 1 hour
+    max_age=86400,
 )
 
 
@@ -58,6 +59,34 @@ def cache_result(cache_key: str, result: Any) -> None:
     result_cache[cache_key] = result
 
 
+def cleanup_expired_cache():
+    """Clean up expired cache entries"""
+    current_time = time.time()
+    expired_keys = []
+
+    # Clean up request cache (entries older than 30 minutes)
+    for cache_key, cache_entry in request_cache.items():
+        if current_time - cache_entry["start_time"] > 1800:  # 30 minutes
+            expired_keys.append(cache_key)
+
+    for key in expired_keys:
+        if key in request_cache:
+            del request_cache[key]
+        # Also clean up corresponding processing events
+        if key in processing_events:
+            processing_events[key].set()  # Signal any waiting requests
+            del processing_events[key]
+
+    # Clean up result cache (entries older than 24 hours)
+    # Note: This is a simple implementation. In production, you might want to store timestamps with results
+    if len(result_cache) > 100:  # Simple size-based cleanup
+        # Remove oldest 20% of entries (this is a simplified approach)
+        keys_to_remove = list(result_cache.keys())[: len(result_cache) // 5]
+        for key in keys_to_remove:
+            if key in result_cache:
+                del result_cache[key]
+
+
 @app.get("/")
 async def root():
     return {"message": "Hello World"}
@@ -71,15 +100,29 @@ class StoryRequest(BaseModel):
     num_pages: int = 2
 
 
+@app.options("/stories")
+async def stories_options():
+    """Handle preflight OPTIONS requests for /stories endpoint"""
+    return {"message": "OK"}
+
+
 @app.post("/stories")
 async def create_story(story_request: StoryRequest) -> Any:
 
     start_time = time.time()
 
+    # Clean up expired cache entries before processing
+    cleanup_expired_cache()
+
     # Create a cache key based on the request parameters
     cache_key = hashlib.md5(
         f"{story_request.query.strip()}_{story_request.web}_{story_request.result_count_per_page}_{story_request.country_code}_{story_request.num_pages}".encode()
     ).hexdigest()
+
+    # First, check if there's already a cached result for this request
+    cached_result = get_cached_result(cache_key)
+    if cached_result:
+        return cached_result
 
     # Check if this request is already being processed
     if cache_key in request_cache:
@@ -88,23 +131,43 @@ async def create_story(story_request: StoryRequest) -> Any:
 
         # If request is still being processed (within 30 minutes)
         if current_time - cache_entry["start_time"] < 1800:  # 30 minutes
-            # Check if there's a cached result for this request
-            cached_result = get_cached_result(cache_key)
-            if cached_result:
-                return cached_result
-            else:
+            # Wait for the ongoing request to complete and return its result
+            try:
+                # Wait for the processing to complete (with timeout)
+                if cache_key in processing_events:
+                    await asyncio.wait_for(
+                        processing_events[cache_key].wait(), timeout=1800
+                    )  # 30 minutes max
+
+                # Check if result is now available after waiting
+                cached_result = get_cached_result(cache_key)
+                if cached_result:
+                    return cached_result
+
+                # If no result after waiting, the processing likely failed
+                raise HTTPException(
+                    status_code=500,
+                    detail="Request processing completed but no result was generated. Please try again.",
+                )
+
+            except asyncio.TimeoutError:
+                # If we've waited too long, return 429
                 raise HTTPException(
                     status_code=429,
-                    detail="A similar request is already being processed. Please wait or try a different query.",
+                    detail="Request processing is taking longer than expected. Please try again later.",
                 )
         else:
             # Remove expired cache entry
             del request_cache[cache_key]
 
-    # Add this request to the cache
+    # Create an event for waiting requests
+    processing_events[cache_key] = asyncio.Event()
+
+    # Add this request to the cache with processing status
     request_cache[cache_key] = {
         "start_time": start_time,
         "query": story_request.query.strip(),
+        "status": "processing",
     }
 
     try:
@@ -147,12 +210,38 @@ async def create_story(story_request: StoryRequest) -> Any:
         # Cache the successful result
         cache_result(cache_key, results)
 
+        # Mark request as completed and notify waiting requests
+        if cache_key in request_cache:
+            request_cache[cache_key]["status"] = "completed"
+
+        # Signal waiting requests that processing is complete
+        if cache_key in processing_events:
+            processing_events[cache_key].set()
+
         return results
 
-    finally:
-        # Remove request from cache when completed
+    except Exception as e:
+        # Mark request as failed and remove from cache
         if cache_key in request_cache:
             del request_cache[cache_key]
+
+        # Signal waiting requests that processing failed
+        if cache_key in processing_events:
+            processing_events[cache_key].set()
+
+        raise e
+
+    finally:
+        # Clean up: Remove request from cache when completed (if not already removed)
+        if (
+            cache_key in request_cache
+            and request_cache[cache_key].get("status") == "completed"
+        ):
+            del request_cache[cache_key]
+
+        # Clean up processing events
+        if cache_key in processing_events:
+            del processing_events[cache_key]
 
         save_id(id + 1)
         total_time = time.time() - start_time
