@@ -806,7 +806,16 @@ def validate_merged_facts(facts):
         system_prompt, user_prompt, response_format=Errors
     )
     console.print("[bold green]Checking Merged Facts Completed![/bold green]")
-    return json.loads(errors)
+    
+    # Handle parsing errors when response is truncated or invalid
+    try:
+        if errors is None:
+            return {"errors": []}
+        return json.loads(errors)
+    except (json.JSONDecodeError, TypeError) as e:
+        console.print(f"[bold red]Warning: Could not parse GPT response as JSON: {e}[/bold red]")
+        console.print("[bold yellow]Returning empty errors list[/bold yellow]")
+        return {"errors": []}
 
 
 @log_execution_time
