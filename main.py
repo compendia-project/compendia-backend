@@ -6,7 +6,7 @@ import re
 import time
 from typing import Any
 
-from fastapi import FastAPI, HTTPException, Request
+from fastapi import FastAPI, HTTPException, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
@@ -18,10 +18,22 @@ request_cache = {}
 result_cache = {}  # Maps cache_key (hash) to completed results
 processing_events = {}  # Maps cache_key to asyncio.Event for waiting requests
 
+# Global lock to ensure only one story generation runs at a time
+story_generation_lock = asyncio.Lock()
+
 # Initialize global logger
 LOGGER = None
 
 app = FastAPI()
+
+
+class StoryRequest(BaseModel):
+    query: str
+    web: str = "pewresearch.org"
+    result_count_per_page: int = 1
+    country_code: str = "sg"
+    num_pages: int = 2
+
 
 app.add_middleware(
     CORSMiddleware,
@@ -64,7 +76,6 @@ async def startup_event():
 
     except Exception as e:
         print(f"Warning: Logger initialization failed: {e}")
-        # Continue without logger rather than failing startup
 
 
 @app.on_event("shutdown")
@@ -194,24 +205,66 @@ async def health_check():
         raise HTTPException(status_code=503, detail="Service unhealthy")
 
 
-class StoryRequest(BaseModel):
-    query: str
-    web: str = "pewresearch.org"
-    result_count_per_page: int = 1
-    country_code: str = "sg"
-    num_pages: int = 2
-
-
+# Better OPTIONS handler
 @app.options("/stories")
 async def stories_options():
-    """Handle preflight OPTIONS requests for /stories endpoint"""
-    return {"message": "OK"}
+    return Response(
+        content='{"message": "OK"}',
+        media_type="application/json",
+        headers={
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "POST, OPTIONS",
+            "Access-Control-Allow-Headers": "Content-Type, Authorization",
+            "Access-Control-Max-Age": "86400",
+            "Cache-Control": "public, max-age=86400",
+        },
+    )
+
+
+# Global dictionary to track client retry attempts
+client_retry_tracker = {}
 
 
 @app.post("/stories")
-async def create_story(story_request: StoryRequest) -> Any:
+async def create_story(story_request: StoryRequest, request: Request) -> Any:
 
     start_time = time.time()
+
+    # Get client identifier for retry tracking
+    client_id = get_unique_identifier(request)
+    current_time = time.time()
+
+    # Clean up expired retry tracking entries (older than 5 minutes)
+    expired_clients = [
+        cid
+        for cid, data in client_retry_tracker.items()
+        if current_time - data.get("last_attempt", 0) > 300
+    ]
+    for cid in expired_clients:
+        del client_retry_tracker[cid]
+
+    # Track client retry attempts
+    if client_id not in client_retry_tracker:
+        client_retry_tracker[client_id] = {"count": 0, "last_attempt": current_time}
+    else:
+        client_data = client_retry_tracker[client_id]
+        time_since_last = current_time - client_data["last_attempt"]
+
+        # Reset count if enough time has passed (5 minutes)
+        if time_since_last > 300:
+            client_data["count"] = 0
+
+        client_data["count"] += 1
+        client_data["last_attempt"] = current_time
+
+        # Implement exponential backoff for rapid retries
+        if client_data["count"] > 1 and time_since_last < 30:  # Less than 30 seconds
+            backoff_time = min(2 ** (client_data["count"] - 1), 60)  # Max 60 seconds
+            raise HTTPException(
+                status_code=429,
+                detail=f"Too many rapid requests. Please wait {backoff_time} seconds before retrying.",
+                headers={"Retry-After": str(backoff_time)},
+            )
 
     # Clean up expired cache entries before processing
     cleanup_expired_cache()
@@ -221,10 +274,45 @@ async def create_story(story_request: StoryRequest) -> Any:
         f"{story_request.query.strip()}_{story_request.web}_{story_request.result_count_per_page}_{story_request.country_code}_{story_request.num_pages}".encode()
     ).hexdigest()
 
+    # Create a client-specific cache key for better retry handling
+    client_cache_key = f"{client_id}_{cache_key}"
+
     # First, check if there's already a cached result for this request
     cached_result = get_cached_result(cache_key)
     if cached_result:
+        # Reset retry count on successful cache hit
+        if client_id in client_retry_tracker:
+            client_retry_tracker[client_id]["count"] = 0
         return cached_result
+
+    # Check if another story generation is already in progress (regardless of cache key)
+    if story_generation_lock.locked():
+        # For browser retries, provide more informative response
+        if (
+            client_id in client_retry_tracker
+            and client_retry_tracker[client_id]["count"] > 1
+        ):
+            raise HTTPException(
+                status_code=202,
+                detail="Your request is being processed. Please wait and avoid refreshing the page.",
+                headers={"Retry-After": "30"},
+            )
+
+        # Wait for the ongoing story generation to complete
+        try:
+            await story_generation_lock.acquire()
+            story_generation_lock.release()
+
+            # After waiting, check if our specific request now has a cached result
+            cached_result = get_cached_result(cache_key)
+            if cached_result:
+                # Reset retry count on successful result
+                if client_id in client_retry_tracker:
+                    client_retry_tracker[client_id]["count"] = 0
+                return cached_result
+
+        except Exception:
+            pass
 
     # Check if this request is already being processed
     if cache_key in request_cache:
@@ -273,75 +361,90 @@ async def create_story(story_request: StoryRequest) -> Any:
     }
 
     try:
-        query = story_request.query.strip()
-        file_name = re.sub(r"[^a-zA-Z0-9\s]", "", query)
-        id = load_id()
-        file_name = f"{id}_{file_name}"
-        unique_id = generate_unique_id(file_name)
-        file_path = os.path.join("", f"results/{file_name}")
-        save_id(id + 1)
-        ensure_directory_exists(file_path)
+        # Acquire the global lock to ensure only one story generation runs at a time
+        async with story_generation_lock:
+            query = story_request.query.strip()
+            file_name = re.sub(r"[^a-zA-Z0-9\s]", "", query)
+            id = load_id()
+            file_name = f"{id}_{file_name}"
+            unique_id = generate_unique_id(file_name)
+            file_path = os.path.join("", f"results/{file_name}")
+            save_id(id + 1)
+            ensure_directory_exists(file_path)
 
-        iterations = 1
-        search_result_file = f"{file_path}/google_search_results.csv"
-        output_path = f"{file_path}/story.html"
-        results_path = f"{file_path}/JsonOutputs"
-        log_path = f"{file_path}/logs_{unique_id}.log"
+            iterations = 1
+            search_result_file = f"{file_path}/google_search_results.csv"
+            output_path = f"{file_path}/story.html"
+            results_path = f"{file_path}/JsonOutputs"
+            log_path = f"{file_path}/logs_{unique_id}.log"
 
-        global LOGGER
-        LOGGER = setup_logging(log_path)
-        LOGGER.info("Application started.")
+            global LOGGER
+            LOGGER = setup_logging(log_path)
+            LOGGER.info("Application started.")
 
-        # Run the CPU-intensive story generation in a thread pool to avoid blocking
-        loop = asyncio.get_running_loop()
-        try:
-            # Add timeout to prevent indefinite hanging
-            results = await asyncio.wait_for(
-                loop.run_in_executor(
-                    None,
-                    lambda: generate_story(
-                        search_query=query,
-                        web=story_request.web,
-                        result_count_per_page=story_request.result_count_per_page,
-                        iterations=iterations,
-                        search_result_file=search_result_file,
-                        output_path=output_path,
-                        results_path=results_path,
-                        country_code=story_request.country_code,
-                        num_pages=story_request.num_pages,
+            # Run the CPU-intensive story generation in a thread pool to avoid blocking
+            loop = asyncio.get_running_loop()
+            try:
+                # Add timeout to prevent indefinite hanging
+                results = await asyncio.wait_for(
+                    loop.run_in_executor(
+                        None,
+                        lambda: generate_story(
+                            search_query=query,
+                            web=story_request.web,
+                            result_count_per_page=story_request.result_count_per_page,
+                            iterations=iterations,
+                            search_result_file=search_result_file,
+                            output_path=output_path,
+                            results_path=results_path,
+                            country_code=story_request.country_code,
+                            num_pages=story_request.num_pages,
+                        ),
                     ),
-                ),
-                timeout=1800,  # 30 minutes timeout
-            )
-        except asyncio.TimeoutError:
-            if LOGGER:
-                LOGGER.error(f"Story generation timed out for query: {query}")
-            raise HTTPException(
-                status_code=504,
-                detail="Story generation timed out. Please try again with a simpler query.",
-            )
+                    timeout=1800,  # 30 minutes timeout
+                )
+            except asyncio.TimeoutError:
+                if LOGGER:
+                    LOGGER.error(f"Story generation timed out for query: {query}")
 
-        # Check if results are valid
-        if results is None:
-            if LOGGER:
-                LOGGER.error(f"Story generation returned None for query: {query}")
-            raise HTTPException(
-                status_code=500,
-                detail="Story generation failed to produce results. Please try again.",
-            )
+                # Provide different timeout messages based on retry count
+                if (
+                    client_id in client_retry_tracker
+                    and client_retry_tracker[client_id]["count"] > 1
+                ):
+                    detail = "Request timed out after multiple attempts. The query may be too complex. Please try a simpler query or wait before retrying."
+                else:
+                    detail = "Story generation timed out. Please try again with a simpler query or wait a moment before retrying."
 
-        # Cache the successful result
-        cache_result(cache_key, results)
+                raise HTTPException(
+                    status_code=504, detail=detail, headers={"Retry-After": "60"}
+                )
 
-        # Mark request as completed and notify waiting requests
-        if cache_key in request_cache:
-            request_cache[cache_key]["status"] = "completed"
+            # Check if results are valid
+            if results is None:
+                if LOGGER:
+                    LOGGER.error(f"Story generation returned None for query: {query}")
+                raise HTTPException(
+                    status_code=500,
+                    detail="Story generation failed to produce results. Please try again.",
+                )
 
-        # Signal waiting requests that processing is complete
-        if cache_key in processing_events:
-            processing_events[cache_key].set()
+            # Cache the successful result
+            cache_result(cache_key, results)
 
-        return results
+            # Reset client retry count on successful completion
+            if client_id in client_retry_tracker:
+                client_retry_tracker[client_id]["count"] = 0
+
+            # Mark request as completed and notify waiting requests
+            if cache_key in request_cache:
+                request_cache[cache_key]["status"] = "completed"
+
+            # Signal waiting requests that processing is complete
+            if cache_key in processing_events:
+                processing_events[cache_key].set()
+
+            return results
 
     except Exception as e:
         # Mark request as failed and remove from cache
