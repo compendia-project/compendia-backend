@@ -18,6 +18,9 @@ request_cache = {}
 result_cache = {}  # Maps cache_key (hash) to completed results
 processing_events = {}  # Maps cache_key to asyncio.Event for waiting requests
 
+# Initialize global logger
+LOGGER = None
+
 app = FastAPI()
 
 app.add_middleware(
@@ -32,6 +35,61 @@ app.add_middleware(
     allow_headers=["*"],
     max_age=86400,
 )
+
+
+@app.on_event("startup")
+async def startup_event():
+    """Initialize application on startup"""
+    global LOGGER
+    try:
+        # Initialize a basic logger if setup_logging fails
+        import logging
+
+        LOGGER = logging.getLogger(__name__)
+        LOGGER.setLevel(logging.INFO)
+
+        # Create console handler if no handlers exist
+        if not LOGGER.handlers:
+            handler = logging.StreamHandler()
+            formatter = logging.Formatter(
+                "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+            )
+            handler.setFormatter(formatter)
+            LOGGER.addHandler(handler)
+
+        LOGGER.info("Application startup completed")
+
+        # Clean up any stale cache on startup
+        cleanup_expired_cache()
+
+    except Exception as e:
+        print(f"Warning: Logger initialization failed: {e}")
+        # Continue without logger rather than failing startup
+
+
+@app.on_event("shutdown")
+async def shutdown_event():
+    """Clean up resources on shutdown"""
+    try:
+        # Signal all pending requests to stop
+        for event in processing_events.values():
+            event.set()
+
+        # Clear all caches
+        request_cache.clear()
+        result_cache.clear()
+        processing_events.clear()
+
+        if LOGGER:
+            LOGGER.info("Application shutdown completed")
+        else:
+            print("Application shutdown completed")
+
+    except Exception as e:
+        if LOGGER:
+            LOGGER.error(f"Error during shutdown: {e}")
+        else:
+            print(f"Error during shutdown: {e}")
 
 
 def get_unique_identifier(request: Request) -> str:
@@ -60,36 +118,80 @@ def cache_result(cache_key: str, result: Any) -> None:
 
 
 def cleanup_expired_cache():
-    """Clean up expired cache entries"""
-    current_time = time.time()
-    expired_keys = []
+    """Clean up expired cache entries with improved error handling"""
+    try:
+        current_time = time.time()
+        expired_keys = []
 
-    # Clean up request cache (entries older than 30 minutes)
-    for cache_key, cache_entry in request_cache.items():
-        if current_time - cache_entry["start_time"] > 1800:  # 30 minutes
-            expired_keys.append(cache_key)
+        # Clean up request cache (entries older than 30 minutes)
+        for cache_key, cache_entry in list(request_cache.items()):
+            try:
+                if current_time - cache_entry["start_time"] > 1800:  # 30 minutes
+                    expired_keys.append(cache_key)
+            except (KeyError, TypeError) as e:
+                # Handle corrupted cache entries
+                expired_keys.append(cache_key)
+                if LOGGER:
+                    LOGGER.warning(
+                        f"Corrupted cache entry found: {cache_key}, error: {e}"
+                    )
 
-    for key in expired_keys:
-        if key in request_cache:
-            del request_cache[key]
-        # Also clean up corresponding processing events
-        if key in processing_events:
-            processing_events[key].set()  # Signal any waiting requests
-            del processing_events[key]
+        for key in expired_keys:
+            try:
+                if key in request_cache:
+                    del request_cache[key]
+                # Also clean up corresponding processing events
+                if key in processing_events:
+                    processing_events[key].set()  # Signal any waiting requests
+                    del processing_events[key]
+            except Exception as e:
+                if LOGGER:
+                    LOGGER.error(f"Error cleaning up cache key {key}: {e}")
 
-    # Clean up result cache (entries older than 24 hours)
-    # Note: This is a simple implementation. In production, you might want to store timestamps with results
-    if len(result_cache) > 100:  # Simple size-based cleanup
-        # Remove oldest 20% of entries (this is a simplified approach)
-        keys_to_remove = list(result_cache.keys())[: len(result_cache) // 5]
-        for key in keys_to_remove:
-            if key in result_cache:
-                del result_cache[key]
+        # Clean up result cache with better size management
+        if len(result_cache) > 50:  # Reduced threshold for better memory management
+            try:
+                # Remove oldest 40% of entries for more aggressive cleanup
+                keys_to_remove = list(result_cache.keys())[: len(result_cache) * 2 // 5]
+                for key in keys_to_remove:
+                    if key in result_cache:
+                        del result_cache[key]
+                if LOGGER:
+                    LOGGER.info(
+                        f"Cleaned up {len(keys_to_remove)} result cache entries"
+                    )
+            except Exception as e:
+                if LOGGER:
+                    LOGGER.error(f"Error during result cache cleanup: {e}")
+
+    except Exception as e:
+        if LOGGER:
+            LOGGER.error(f"Critical error in cache cleanup: {e}")
 
 
 @app.get("/")
 async def root():
     return {"message": "Hello World"}
+
+
+@app.get("/health")
+async def health_check():
+    """Health check endpoint to monitor service status"""
+    try:
+        # Basic health checks
+        cache_size = len(result_cache)
+        active_requests = len(request_cache)
+
+        return {
+            "status": "healthy",
+            "cache_size": cache_size,
+            "active_requests": active_requests,
+            "timestamp": time.time(),
+        }
+    except Exception as e:
+        if LOGGER:
+            LOGGER.error(f"Health check failed: {e}")
+        raise HTTPException(status_code=503, detail="Service unhealthy")
 
 
 class StoryRequest(BaseModel):
@@ -192,20 +294,41 @@ async def create_story(story_request: StoryRequest) -> Any:
 
         # Run the CPU-intensive story generation in a thread pool to avoid blocking
         loop = asyncio.get_running_loop()
-        results = await loop.run_in_executor(
-            None,
-            lambda: generate_story(
-                search_query=query,
-                web=story_request.web,
-                result_count_per_page=story_request.result_count_per_page,
-                iterations=iterations,
-                search_result_file=search_result_file,
-                output_path=output_path,
-                results_path=results_path,
-                country_code=story_request.country_code,
-                num_pages=story_request.num_pages,
-            ),
-        )
+        try:
+            # Add timeout to prevent indefinite hanging
+            results = await asyncio.wait_for(
+                loop.run_in_executor(
+                    None,
+                    lambda: generate_story(
+                        search_query=query,
+                        web=story_request.web,
+                        result_count_per_page=story_request.result_count_per_page,
+                        iterations=iterations,
+                        search_result_file=search_result_file,
+                        output_path=output_path,
+                        results_path=results_path,
+                        country_code=story_request.country_code,
+                        num_pages=story_request.num_pages,
+                    ),
+                ),
+                timeout=1800,  # 30 minutes timeout
+            )
+        except asyncio.TimeoutError:
+            if LOGGER:
+                LOGGER.error(f"Story generation timed out for query: {query}")
+            raise HTTPException(
+                status_code=504,
+                detail="Story generation timed out. Please try again with a simpler query.",
+            )
+
+        # Check if results are valid
+        if results is None:
+            if LOGGER:
+                LOGGER.error(f"Story generation returned None for query: {query}")
+            raise HTTPException(
+                status_code=500,
+                detail="Story generation failed to produce results. Please try again.",
+            )
 
         # Cache the successful result
         cache_result(cache_key, results)
@@ -229,7 +352,14 @@ async def create_story(story_request: StoryRequest) -> Any:
         if cache_key in processing_events:
             processing_events[cache_key].set()
 
-        raise e
+        # Log the error for debugging
+        if LOGGER:
+            LOGGER.error(f"Story generation failed: {str(e)}")
+
+        # Return a proper HTTP error instead of re-raising
+        raise HTTPException(
+            status_code=500, detail=f"Story generation failed: {str(e)}"
+        )
 
     finally:
         # Clean up: Remove request from cache when completed (if not already removed)
@@ -245,7 +375,8 @@ async def create_story(story_request: StoryRequest) -> Any:
 
         save_id(id + 1)
         total_time = time.time() - start_time
-        LOGGER.info(f"Total time taken: {total_time} seconds")
+        if LOGGER:
+            LOGGER.info(f"Total time taken: {total_time} seconds")
 
 
 @app.get("/results/{folder_identifier}")
