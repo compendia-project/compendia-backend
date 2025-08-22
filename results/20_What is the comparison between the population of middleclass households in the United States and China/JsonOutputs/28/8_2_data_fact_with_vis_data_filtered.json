@@ -1,0 +1,42 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "A single-person-middle-income-earner in the US makes between US$26,000 and US$78,000 in a year (as per 2016 data) and a middle-income-three-member-household earns about US$45,000 to US$135,000,according to the Pew Research Center.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A single-person-middle-income-earner in the US makes between US$26,000 and US$78,000 in a year.",
+                    "vis_data": [
+                        {
+                            "label": "Single-person income lower",
+                            "value": "26000",
+                            "unit": "USD/year"
+                        },
+                        {
+                            "label": "Single-person income upper",
+                            "value": "78000",
+                            "unit": "USD/year"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "A middle-income-three-member-household in the US earns about US$45,000 to US$135,000.",
+                    "vis_data": [
+                        {
+                            "label": "Three-member household income lower",
+                            "value": "45000",
+                            "unit": "USD/year"
+                        },
+                        {
+                            "label": "Three-member household income upper",
+                            "value": "135000",
+                            "unit": "USD/year"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.472585245387534
+        }
+    ]
+}

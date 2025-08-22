@@ -1,0 +1,17 @@
+{
+    "title": "Population density",
+    "date": "2024-07-15",
+    "paragraphs": [
+        "World Population Prospects 2024 is the 28th edition of the official estimates and projections of the global population that have been published by the United Nations since 1951. The estimates are based on all available sources of data on population size and levels of fertility, mortality and international migration for 237 countries or areas. If you have questions about this dataset, please refer totheir FAQ. You can also exploredata sourcesfor each country or visittheir main pagefor more details.",
+        "Data are available by country and year, with global coverage and annual updates.",
+        "We have estimated the population density by using population estimates from multiple sources and land area estimates by the Food and Agriculture Organization of the United Nations.",
+        "We obtain it by dividing the population estimates by the land area estimates.",
+        "The population data is constructed by combining data from multiple sources:",
+        "1950-2023: Population records by the UN World Population Prospects (2024 revision).",
+        "2024-2100: Projections based on Medium variant by the UN World Population Prospects (2024 revision)."
+    ],
+    "id": 12,
+    "url": "https://ourworldindata.org/grapher/population-density",
+    "title_original": "Population density",
+    "date_original": "15 Jul 2024"
+}

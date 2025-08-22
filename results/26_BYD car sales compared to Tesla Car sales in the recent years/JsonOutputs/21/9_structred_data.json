@@ -1,0 +1,100 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Tesla sold 101,101 vehicles in January 2025, making it the 2nd most popular EV manufacturer after BYD.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla sold 101,101 vehicles in January 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Vehicles Sold",
+                            "value": "101101",
+                            "unit": "vehicles"
+                        }
+                    ],
+                    "fact_id": "21_0_0"
+                }
+            ],
+            "relatedness_score": 0.6156556696898154,
+            "article_meta_data": {
+                "title": "Tesla Sales, Revenue & Production Statistics",
+                "date": "2025-03-21",
+                "url": "https://backlinko.com/tesla-stats",
+                "id": 21
+            },
+            "para_id": "21_0"
+        },
+        {
+            "paragraph": "To put in a perspective, Tesla reached 113,978 vehicle registrations in January 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla reached 113,978 vehicle registrations in January 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Vehicle Registrations",
+                            "value": "113978",
+                            "unit": "vehicles"
+                        }
+                    ],
+                    "fact_id": "21_1_1"
+                }
+            ],
+            "relatedness_score": 0.5379472989453955,
+            "article_meta_data": {
+                "title": "Tesla Sales, Revenue & Production Statistics",
+                "date": "2025-03-21",
+                "url": "https://backlinko.com/tesla-stats",
+                "id": 21
+            },
+            "para_id": "21_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "21_0",
+            "paragraph": "Tesla sold 101,101 vehicles in January 2025, making it the 2nd most popular EV manufacturer after BYD."
+        },
+        {
+            "para_id": "21_1",
+            "paragraph": "To put in a perspective, Tesla reached 113,978 vehicle registrations in January 2024."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "21_0_0",
+            "fact_content": "Tesla sold 101,101 vehicles in January 2025."
+        },
+        {
+            "fact_id": "21_1_1",
+            "fact_content": "Tesla reached 113,978 vehicle registrations in January 2024."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla sold 101,101 vehicles in January 2025.",
+            "vis_data": [
+                {
+                    "label": "Tesla Vehicles Sold",
+                    "value": "101101",
+                    "unit": "vehicles"
+                }
+            ],
+            "fact_id": "21_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla reached 113,978 vehicle registrations in January 2024.",
+            "vis_data": [
+                {
+                    "label": "Tesla Vehicle Registrations",
+                    "value": "113978",
+                    "unit": "vehicles"
+                }
+            ],
+            "fact_id": "21_1_1"
+        }
+    ]
+}

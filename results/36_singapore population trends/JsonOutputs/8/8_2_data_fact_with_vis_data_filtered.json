@@ -1,0 +1,127 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In June 2023, Singapore\u2019s total population reached 5.92 million, indicating a substantial 5.0% increase compared to June 2022. Considering the population decline during 2020 and 2021 caused by the COVID-19 pandemic, the average growth rate in the total population over the past five years closely mirrors that of the preceding five-year period.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "5.0% increase in total population from June 2022 to June 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in Total Population",
+                            "value": "5.0",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.696801508448675
+        },
+        {
+            "paragraph": "The populations of citizens and permanent residents (PRs) saw a growth of 1.6% (from 3.55 million to 3.61 million) and 3.7% (from 0.52 million to 0.54 million) respectively from June 2022 to June 2023. The relaxation of COVID-19 travel restrictions played a significant role in this increase, as a larger number of citizens and PRs residing overseas returned to Singapore, contributing significantly to the rise in both populations.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "1.6% growth in Singapore Citizens from June 2022 to June 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Growth in Singapore Citizens",
+                            "value": "1.6",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "3.7% growth in Permanent Residents from June 2022 to June 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Growth in Permanent Residents",
+                            "value": "3.7",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6429775769006393
+        },
+        {
+            "paragraph": "As of June 2023, Singapore\u2019s population was characterised by 3.61 million Singapore Citizens (SCs) and 0.54 million Permanent Residents (PRs), collectively totalling 4.15 million residents. In addition to these residents, Singapore also comprises 1.77 million non-residents (NRs), encompassing foreign workers under various pass categories, dependents, and international students. The overall population of Singapore, a dynamic blend of residents and non-residents, reached 5.92 million in June 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "3.61 million Singapore Citizens as of June 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Singapore Citizens",
+                            "value": "3.61",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "0.54 million Permanent Residents as of June 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Permanent Residents",
+                            "value": "0.54",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "4.15 million residents (SCs and PRs) as of June 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Residents (SCs and PRs)",
+                            "value": "4.15",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1.77 million non-residents as of June 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Non-Residents",
+                            "value": "1.77",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "5.92 million total population of Singapore as of June 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Total Population",
+                            "value": "5.92",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6122585543486118
+        },
+        {
+            "paragraph": "As of June 2023, the non-resident population reached 1.77 million, marking a substantial increase of 13.1% compared to June 2022. This rise was primarily attributed to the notable growth in foreign employment across various sectors in Singapore during the period from June 2022 to June 2023 (as depicted in Chart 2). The surge was observed across all pass categories, with the most significant increase noted among Work Permit Holders in sectors such as Construction, Marine Shipyard, and Process. This was a response to contractors ramping up their workforce to make up for project delays caused by the constraints of the COVID-19 pandemic. Additionally, the remaining uptick in foreign employment was distributed across diverse sectors, as businesses sought to fill positions left vacant by non-resident individuals during the pandemic.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "13.1% increase in non-resident population from June 2022 to June 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in Non-Resident Population",
+                            "value": "13.1",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6096619298537717
+        }
+    ]
+}

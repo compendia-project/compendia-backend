@@ -1,0 +1,24 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day.",
+                    "vis_data": [
+                        {
+                            "label": "Australians reducing heart disease risk",
+                            "value": "90",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": [
+                        "Incorrect data value: should be '90%' instead of 'Nine out of 10'."
+                    ]
+                }
+            ]
+        }
+    ]
+}

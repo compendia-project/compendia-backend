@@ -1,0 +1,26 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year as high borrowing costs keep a lid on home values, according toa new report by SQM Research.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year."
+                }
+            ]
+        },
+        {
+            "paragraph": "But the forecasts change significantly under different scenarios. If inflation remains sticky and there are no rate cuts next year, Sydney prices could fall by double digits, and Melbourne by near double digits.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney prices could fall by double digits if inflation remains sticky and there are no rate cuts next year."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Melbourne prices could fall by near double digits if inflation remains sticky and there are no rate cuts next year."
+                }
+            ]
+        }
+    ]
+}

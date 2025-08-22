@@ -1,0 +1,49 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The cathedral is roughly 128 metres (420 ft) in length, and 12 metres (39 ft) wide in the nave. Its cruciform plan, elevated nave, transept and tower were borrowed from 11th-century Romanesque architecture, but its pointed arches and rib vaulting were strictly Gothic. Indeed, it was one of the first Gothic cathedrals to have arched exterior supports known as \"flying buttresses\". These were not incorporated into the initial architecture of the building, but were included when stress fractures began to appear in the thin upper walls as they cracked under the weight of the vault. In addition to the flying buttresses, over a dozen supporting piers were constructed to support the exterior walls and counteract the lateral thrust of the nave vaulting. Notre-Dame is also famous for its external statues and gargoyles arranged around the outside to serve as extra column supports and drainage pipes. As Gothic building designers hoped, the additional reinforcement provided by the buttresses, piers and other stone supports enabled the main walls of the cathedral to become non-structural, and thus a greater wall area was available for stained glass, in order to inspire worshippers and illuminate the cathedral's interior. Indeed, Notre-Dame Cathedral exemplifies the main contributions of Gothic art to Christian architecture: churches soared higher and were more awe-inspiring, while their stained glass windows let in more light and provided additional Biblical art for the congregation. Thus the clerestory windows of Notre-Dame's original nave were enlarged in the 13th century, filling the interior with light, thanks to the improvements achieved in structural support.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cathedral is roughly 128 metres (420 ft) in length.",
+                    "vis_data": [
+                        {
+                            "label": "Cathedral Length",
+                            "value": "128",
+                            "unit": "metres"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cathedral is 12 metres (39 ft) wide in the nave.",
+                    "vis_data": [
+                        {
+                            "label": "Nave Width",
+                            "value": "12",
+                            "unit": "metres"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6532460108114235
+        },
+        {
+            "paragraph": "Notre-Dame's stern facade is decorated with a mass of stone sculpture, notably around the central portal, which is flanked by statues depicting The Last Judgment. The facade design balances the verticality of the twin towers (69 metres in height) with the horizontal banding of the decorated galleries. This produces a simple but powerful western elevation, which dominates the square in front.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The twin towers are 69 metres in height.",
+                    "vis_data": [
+                        {
+                            "label": "Twin Towers Height",
+                            "value": "69",
+                            "unit": "metres"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5240062643061221
+        }
+    ]
+}

@@ -1,0 +1,1190 @@
+[
+    {
+        "cluster_id": 5,
+        "clickbait_list": [
+            {
+                "clickbait": "Budget Travel Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_1",
+                        "fact_group_content": "A budget traveler can expect to spend around 400,000 to 800,000 VND per day."
+                    },
+                    {
+                        "fact_group_id": "5_6",
+                        "fact_group_content": "$50 a day for 2 adults and 2 children."
+                    },
+                    {
+                        "fact_group_id": "5_20",
+                        "fact_group_content": "Previous travelers have typically spent from $9 to $52 per day."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Street Food Prices",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_8",
+                        "fact_group_content": "Street food starts from less than 1 USD per meal."
+                    },
+                    {
+                        "fact_group_id": "5_14",
+                        "fact_group_content": "Street stalls cost less than $5."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Restaurant Meal Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_0",
+                        "fact_group_content": "An average restaurant charges around 50,000\u20ab for a meal."
+                    },
+                    {
+                        "fact_group_id": "5_2",
+                        "fact_group_content": "Dining in restaurants could cost around $10-$15 per meal."
+                    },
+                    {
+                        "fact_group_id": "5_9",
+                        "fact_group_content": "A decent meal in restaurants and cafes costs around 60,000 to 150,000 VND."
+                    },
+                    {
+                        "fact_group_id": "5_12",
+                        "fact_group_content": "Lunch meals in Vietnam range from around 40,000 VND to 150,000 VND per person."
+                    },
+                    {
+                        "fact_group_id": "5_13",
+                        "fact_group_content": "Mid-range or tourist-oriented restaurants: From 100,000 VND to 250,000 VND."
+                    },
+                    {
+                        "fact_group_id": "5_22",
+                        "fact_group_content": "Meal for 2 People, Mid-range Restaurant, Three-course costs 500,000.00 \u20ab."
+                    }
+                ],
+                "number_of_facts": 6
+            },
+            {
+                "clickbait": "Wine and Beverage Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_4",
+                        "fact_group_content": "Cost of a bottle of wine: Standard Australian \u00a315."
+                    },
+                    {
+                        "fact_group_id": "5_23",
+                        "fact_group_content": "Bottle of Wine (Mid-Range) costs 269,726.25 \u20ab."
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "budget",
+            "traveler",
+            "spend",
+            "street",
+            "food",
+            "meal",
+            "restaurant",
+            "costs",
+            "bottle",
+            "wine",
+            "VND",
+            "USD",
+            "\u20ab"
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "clickbait_list": [
+            {
+                "clickbait": "Affordable Local Drinks",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_0",
+                        "fact_group_content": "A local beer costs 20,000\u20ab."
+                    },
+                    {
+                        "fact_group_id": "8_6",
+                        "fact_group_content": "Cost: 8-10,000 VND (USD $0.30-0.40 / \u00a30.25-35) for bia hoi"
+                    },
+                    {
+                        "fact_group_id": "8_7",
+                        "fact_group_content": "Cost: up to around 100,000 VND ($4.10 / \u00a33.25) for a beer"
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Budget Dining Options",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_2",
+                        "fact_group_content": "Budget restaurants offer meals for as low as $1 to $2 per person."
+                    },
+                    {
+                        "fact_group_id": "8_5",
+                        "fact_group_content": "Cost: around 225,000 VND per person ($9.25 / \u00a37.30)"
+                    },
+                    {
+                        "fact_group_id": "8_8",
+                        "fact_group_content": "McMeal at McDonalds (or Equivalent Combo Meal) costs 118,500.00 \u20ab."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Luxury Pho Experience",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_4",
+                        "fact_group_content": "Pho Thin by Sol in Saigon offers a bowl of Wagyu Beef Pho for around 288,000 VND."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Grocery Price Insights",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_9",
+                        "fact_group_content": "Milk (regular), (1 liter) costs 36,464.38 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "8_10",
+                        "fact_group_content": "Rice (white), (1kg) costs 24,484.78 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "8_11",
+                        "fact_group_content": "Local Cheese (1kg) costs 299,733.32 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "8_12",
+                        "fact_group_content": "Chicken Fillets (1kg) costs 96,253.80 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "8_13",
+                        "fact_group_content": "Apples (1kg) costs 73,254.89 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "8_14",
+                        "fact_group_content": "Oranges (1kg) costs 35,002.28 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "8_15",
+                        "fact_group_content": "Tomato (1kg) costs 28,689.66 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "8_16",
+                        "fact_group_content": "Potato (1kg) costs 29,142.86 \u20ab."
+                    }
+                ],
+                "number_of_facts": 8
+            },
+            {
+                "clickbait": "Cigarette and Egg Prices",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_17",
+                        "fact_group_content": "Cigarettes 20 Pack (Marlboro) costs 35,000.00 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "8_18",
+                        "fact_group_content": "Price: 35,000 \u2013 40,000 VND with an egg"
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "local",
+            "beer",
+            "cocktail",
+            "budget",
+            "restaurants",
+            "meals",
+            "tax",
+            "gratuity",
+            "Bali",
+            "Hoi An",
+            "Pho",
+            "Wagyu",
+            "Saigon",
+            "bia hoi",
+            "McMeal",
+            "McDonalds",
+            "milk",
+            "rice",
+            "cheese",
+            "chicken",
+            "fillets",
+            "apples",
+            "oranges",
+            "tomato",
+            "potato",
+            "cigarettes",
+            "Marlboro",
+            "egg"
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "clickbait_list": [
+            {
+                "clickbait": "Vietnamese Dining Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_2",
+                        "fact_group_content": "Cost of dinner in a 4 star hotel: \u00a320 excluding drinks."
+                    },
+                    {
+                        "fact_group_id": "7_6",
+                        "fact_group_content": "$100 per day for food and drink for 2 people."
+                    },
+                    {
+                        "fact_group_id": "7_7",
+                        "fact_group_content": "The average cost for a dinner in Vietnam ranges from around 50,000 VND to 200,000 VND per person."
+                    },
+                    {
+                        "fact_group_id": "7_9",
+                        "fact_group_content": "Upscale or luxury restaurants: From 300,000 VND and above for a meal."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Affordable Street Eats",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_10",
+                        "fact_group_content": "Street food stalls offer options for less than $5."
+                    },
+                    {
+                        "fact_group_id": "7_13",
+                        "fact_group_content": "The price of a banh mi typically ranges from 0.82 USD to 1.23 USD."
+                    },
+                    {
+                        "fact_group_id": "7_11",
+                        "fact_group_content": "Pho Soup costs d15,000."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Pho Pricing Insights",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_4",
+                        "fact_group_content": "1 bowl of pho cost 50,000 VND."
+                    },
+                    {
+                        "fact_group_id": "7_12",
+                        "fact_group_content": "A bowl of pho with beef in Hanoi costs around 1.23 USD to 4.11 USD."
+                    },
+                    {
+                        "fact_group_id": "7_17",
+                        "fact_group_content": "On average, you could expect to spend between 50,000 \u2013 75,000 VND for your bowl of Pho Bo."
+                    },
+                    {
+                        "fact_group_id": "7_18",
+                        "fact_group_content": "You can expect to pay between 50,000 VND and 70,000 VND for a bowl of Chicken Pho."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Bun Cha and Bun Rieu",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_5",
+                        "fact_group_content": "1 bowl of bun cha cost 70,000 VND."
+                    },
+                    {
+                        "fact_group_id": "7_14",
+                        "fact_group_content": "A bowl of bun rieu generally costs between 1.23 USD to 2.06 USD."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Pizza Hut Pricing",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_16",
+                        "fact_group_content": "A medium-sized pizza at Pizza Hut costs between 6.17 USD and 10 USD."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Breakfast in Vietnam",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_8",
+                        "fact_group_content": "Traditional breakfast options in Vietnam range from around 20,000 to 100,000 VND."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Hoppy Hour Deals",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_1",
+                        "fact_group_content": "Hoppy hour set, two dishes with one beer or soda for 109K."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Beer Composition",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_0",
+                        "fact_group_content": "Beer is 95% water."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Hu Tieu Nam Vang",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_15",
+                        "fact_group_content": "Hu tieu Nam Vang is typically priced between 1.65 USD to 3 USD."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Hanoi Beer Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_3",
+                        "fact_group_content": "My total bill for the standard set and 1x Hanoi beer was 220,000 VND."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "beer",
+            "hoppy",
+            "dinner",
+            "hotel",
+            "bill",
+            "pho",
+            "bun",
+            "cha",
+            "food",
+            "drink",
+            "average",
+            "Vietnam",
+            "traditional",
+            "breakfast",
+            "upscale",
+            "luxury",
+            "restaurants",
+            "street",
+            "stalls",
+            "soup",
+            "beef",
+            "Hanoi",
+            "banh",
+            "mi",
+            "rieu",
+            "hu",
+            "tieu",
+            "Nam",
+            "Vang",
+            "pizza",
+            "Hut",
+            "medium",
+            "sized"
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "clickbait_list": [
+            {
+                "clickbait": "Affordable Street Eats",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_0",
+                        "fact_group_content": "Local soup or rice dish costs between 25.000 and 50.000 Dong."
+                    },
+                    {
+                        "fact_group_id": "4_7",
+                        "fact_group_content": "Street food starts from as low as 15,000 VND per meal."
+                    },
+                    {
+                        "fact_group_id": "4_18",
+                        "fact_group_content": "Inexpensive Restaurant meal costs 50,000.00 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "4_20",
+                        "fact_group_content": "Price range: 40,000 \u2013 100,000 VND ($1.85 \u2013 $4.62)"
+                    },
+                    {
+                        "fact_group_id": "4_21",
+                        "fact_group_content": "Price: 30,000 VND for com tam suon nuong with rice and pork chop"
+                    },
+                    {
+                        "fact_group_id": "4_22",
+                        "fact_group_content": "Rice and pork: 30,000 VND (assumed)"
+                    },
+                    {
+                        "fact_group_id": "4_23",
+                        "fact_group_content": "Total bill: 68,000 VND ($3.15) for a full meal for 2"
+                    },
+                    {
+                        "fact_group_id": "4_24",
+                        "fact_group_content": "Price: 35,000 VND ($1.62) per bowl"
+                    },
+                    {
+                        "fact_group_id": "4_25",
+                        "fact_group_content": "Price: 40,000 VND ($1.85) for a bowl"
+                    },
+                    {
+                        "fact_group_id": "4_26",
+                        "fact_group_content": "Price: 17,000 VND ($0.80)"
+                    },
+                    {
+                        "fact_group_id": "4_28",
+                        "fact_group_content": "Price: 30,000 VND ($1.40)"
+                    }
+                ],
+                "number_of_facts": 11
+            },
+            {
+                "clickbait": "Mid-Range Dining Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_1",
+                        "fact_group_content": "Normal Vietnamese food places and restaurants can cost more than 300.000 Dong."
+                    },
+                    {
+                        "fact_group_id": "4_3",
+                        "fact_group_content": "Mid-range restaurants can cost around $10 to $20 per person."
+                    },
+                    {
+                        "fact_group_id": "4_10",
+                        "fact_group_content": "Pho Thin by Sol in Saigon offers a bowl of Wagyu Beef Pho for around 288,000 VND."
+                    },
+                    {
+                        "fact_group_id": "4_27",
+                        "fact_group_content": "Price: 110,000 VND ($5.09) for a giant special banh xeo"
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Luxury Meal Prices",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_2",
+                        "fact_group_content": "Paid 700.000 Dong for fresh grilled fish, some clams, and veggie in Co To."
+                    },
+                    {
+                        "fact_group_id": "4_8",
+                        "fact_group_content": "Sitdown Dinner (for Two) costs d110,000."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Daily Expenditure Insights",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_11",
+                        "fact_group_content": "Total expenditure for the whole week was 614,000VN\u0110 ($29)."
+                    },
+                    {
+                        "fact_group_id": "4_12",
+                        "fact_group_content": "Average expenditure per day was 87,000VN\u0110 ($4)."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Beverage and Miscellaneous Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_19",
+                        "fact_group_content": "Water (1.5 liter bottle) costs 12,739.37 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "4_17",
+                        "fact_group_content": "Cost: 10-15,000 VND (USD $0.40-0.60 / \u00a30.35-0.50) bottled"
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "International Chain Pricing",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_9",
+                        "fact_group_content": "Jollibee prices range from 5 USD to 8 USD."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Tax and Gratuity in Bali",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_5",
+                        "fact_group_content": "In Bali, it was common to see a 10% tax and 10% added gratuity to each cheque."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Apartment Rental Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_6",
+                        "fact_group_content": "The cost of renting an apartment in Vietnam ranges from 4 to 15 million VND per month."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "local",
+            "soup",
+            "rice",
+            "dish",
+            "costs",
+            "dong",
+            "vietnamese",
+            "food",
+            "places",
+            "restaurants",
+            "grilled",
+            "fish",
+            "clams",
+            "veggie",
+            "mid-range",
+            "person",
+            "bali",
+            "tax",
+            "gratuity",
+            "cheque",
+            "renting",
+            "apartment",
+            "vietnam",
+            "ranges",
+            "street",
+            "meal",
+            "sitdown",
+            "dinner",
+            "jollibee",
+            "prices",
+            "usd",
+            "pho",
+            "thin",
+            "sol",
+            "saigon",
+            "bowl",
+            "wagyu",
+            "beef",
+            "expenditure",
+            "week",
+            "average",
+            "day",
+            "portion",
+            "bottled",
+            "water",
+            "liter",
+            "bottle",
+            "price",
+            "range",
+            "com",
+            "tam",
+            "suon",
+            "nuong",
+            "rice",
+            "pork",
+            "chop",
+            "bill",
+            "full",
+            "giant",
+            "special",
+            "banh",
+            "xeo"
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "clickbait_list": [
+            {
+                "clickbait": "Vietnamese Food Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_0",
+                        "fact_group_content": "Normal Vietnamese food places and restaurants can cost more than 300.000 Dong."
+                    },
+                    {
+                        "fact_group_id": "2_1",
+                        "fact_group_content": "Cost: around 20,000 VND (USD $0.80 / \u00a30.65) per portion fresh"
+                    },
+                    {
+                        "fact_group_id": "2_5",
+                        "fact_group_content": "Price: 20,000 \u2013 30,000 VND ($0.92 \u2013 $1.38) for rice with 2 or 3 dishes"
+                    },
+                    {
+                        "fact_group_id": "2_9",
+                        "fact_group_content": "Price range: 200 \u2013 300,000 VND ($9.23 \u2013 $13.85) for a full meal of about 3 \u2013 4 dishes"
+                    },
+                    {
+                        "fact_group_id": "2_11",
+                        "fact_group_content": "Price: 30 \u2013 35,000 VND for plates of banh tam bi"
+                    },
+                    {
+                        "fact_group_id": "2_25",
+                        "fact_group_content": "Price: 30,000 \u2013 40,000 VND for a full banh mi op la"
+                    }
+                ],
+                "number_of_facts": 6
+            },
+            {
+                "clickbait": "Affordable Meal Prices",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_2",
+                        "fact_group_content": "Onion (1kg) costs 30,372.93 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "2_3",
+                        "fact_group_content": "Lettuce (1 head) costs 18,394.58 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "2_4",
+                        "fact_group_content": "Imported Beer (0.33 liter bottle) costs 38,641.56 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "2_12",
+                        "fact_group_content": "Price: 3,000 VND for a plate of Chinese donuts"
+                    },
+                    {
+                        "fact_group_id": "2_15",
+                        "fact_group_content": "Price: 28,000 VND ($1.29) for a bowl"
+                    },
+                    {
+                        "fact_group_id": "2_17",
+                        "fact_group_content": "Price: 17,000 VND ($0.80)"
+                    },
+                    {
+                        "fact_group_id": "2_18",
+                        "fact_group_content": "Price: 20,000 VND ($0.92) for a plate"
+                    },
+                    {
+                        "fact_group_id": "2_19",
+                        "fact_group_content": "Price: 22,000 VND ($1)"
+                    },
+                    {
+                        "fact_group_id": "2_21",
+                        "fact_group_content": "Price: 30,000 VND ($1.38)"
+                    },
+                    {
+                        "fact_group_id": "2_22",
+                        "fact_group_content": "Price: 30,000 VND ($1.38) for a plate of banh cuon"
+                    },
+                    {
+                        "fact_group_id": "2_23",
+                        "fact_group_content": "Price: 40,000 VND ($1.85)"
+                    },
+                    {
+                        "fact_group_id": "2_24",
+                        "fact_group_content": "Price: 35,000 VND ($1.62) per bowl of beef stew"
+                    },
+                    {
+                        "fact_group_id": "2_27",
+                        "fact_group_content": "Price: 45,000 VND ($2.08)"
+                    }
+                ],
+                "number_of_facts": 13
+            },
+            {
+                "clickbait": "Meal Costs for Groups",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_6",
+                        "fact_group_content": "Total bill: 104,000 VND"
+                    },
+                    {
+                        "fact_group_id": "2_8",
+                        "fact_group_content": "Total bill: 283,000 VND (about $13) for three people"
+                    },
+                    {
+                        "fact_group_id": "2_10",
+                        "fact_group_content": "Total bill: 126,000 VND ($5.86)"
+                    },
+                    {
+                        "fact_group_id": "2_14",
+                        "fact_group_content": "Total bill: 132,000 VND ($6.09) for a huge meal for two"
+                    },
+                    {
+                        "fact_group_id": "2_16",
+                        "fact_group_content": "Total bill: 70,000 VND ($3.23)"
+                    },
+                    {
+                        "fact_group_id": "2_26",
+                        "fact_group_content": "Total bill: 91,000 VND ($4.21) for two meals, tea, bread, and pate"
+                    }
+                ],
+                "number_of_facts": 6
+            },
+            {
+                "clickbait": "Bun Cha Combinations",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_20",
+                        "fact_group_content": "Price: 38,000 VND ($1.75) for bun cha combinations"
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Rice and Dishes",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_7",
+                        "fact_group_content": "Combination plate: 60,000 VND ($2.77)"
+                    },
+                    {
+                        "fact_group_id": "2_13",
+                        "fact_group_content": "Price: 65,000 VND ($3)"
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "Vietnamese",
+            "food",
+            "places",
+            "restaurants",
+            "cost",
+            "Dong",
+            "portion",
+            "fresh",
+            "onion",
+            "lettuce",
+            "imported",
+            "beer",
+            "bottle",
+            "rice",
+            "dishes",
+            "combination",
+            "plate",
+            "meal",
+            "banh",
+            "tam",
+            "bi",
+            "Chinese",
+            "donuts",
+            "bowl",
+            "bun",
+            "cha",
+            "combinations",
+            "beef",
+            "stew",
+            "banh",
+            "mi",
+            "op",
+            "la",
+            "tea",
+            "bread",
+            "pate"
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "clickbait_list": [
+            {
+                "clickbait": "Affordable Street Eats",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_0",
+                        "fact_group_content": "Pre-packaged meals, fresh fruits, and snacks can be found for as low as 10,000 VND (less than $1 USD)."
+                    },
+                    {
+                        "fact_group_id": "6_10",
+                        "fact_group_content": "Street food prices fluctuate between 1 USD to 4 USD."
+                    },
+                    {
+                        "fact_group_id": "6_14",
+                        "fact_group_content": "Cost: around 20,000 VND (USD $0.80 / \u00a30.65) (large snack size)"
+                    },
+                    {
+                        "fact_group_id": "6_19",
+                        "fact_group_content": "Price: 16,000 VND ($0.75)"
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Dining on a Budget",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_2",
+                        "fact_group_content": "My bowl of bun rieu cost 30,000 VND."
+                    },
+                    {
+                        "fact_group_id": "6_3",
+                        "fact_group_content": "A veggie burger with fries and a Diet Coke costs under $3 at Burgers Plus."
+                    },
+                    {
+                        "fact_group_id": "6_5",
+                        "fact_group_content": "The average daily cost for food in Vietnam is about $21 (d557098) per person."
+                    },
+                    {
+                        "fact_group_id": "6_7",
+                        "fact_group_content": "A bowl of bun bo Hue is priced between 1.65 USD to 2.88 USD."
+                    },
+                    {
+                        "fact_group_id": "6_9",
+                        "fact_group_content": "Nem nuong is usually priced around 1.23 USD to 2.06 USD per serving."
+                    },
+                    {
+                        "fact_group_id": "6_11",
+                        "fact_group_content": "Medium-sized meals at Burger King range from 2.06 USD to 6.17 USD."
+                    },
+                    {
+                        "fact_group_id": "6_16",
+                        "fact_group_content": "Combination plate: 60,000 VND ($2.77)"
+                    },
+                    {
+                        "fact_group_id": "6_18",
+                        "fact_group_content": "Price: 65,000 VND ($3) per bowl"
+                    },
+                    {
+                        "fact_group_id": "6_20",
+                        "fact_group_content": "Price: 60,000 VND ($2.77) per bowl"
+                    }
+                ],
+                "number_of_facts": 9
+            },
+            {
+                "clickbait": "Mid-Range Meal Deals",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_4",
+                        "fact_group_content": "Casual Lunch (for Two) costs d169,728."
+                    },
+                    {
+                        "fact_group_id": "6_6",
+                        "fact_group_content": "KFC combo prices range from 2 USD to 20 USD."
+                    },
+                    {
+                        "fact_group_id": "6_8",
+                        "fact_group_content": "Lotteria meal prices usually cost between 2 USD and 7 USD."
+                    },
+                    {
+                        "fact_group_id": "6_12",
+                        "fact_group_content": "Some more popular places with a good reputation will be closer to 100,000 VND per Bowl."
+                    },
+                    {
+                        "fact_group_id": "6_17",
+                        "fact_group_content": "Price range: 200 \u2013 300,000 VND ($9.23 \u2013 $13.85) for a full meal of about 3 \u2013 4 dishes"
+                    }
+                ],
+                "number_of_facts": 5
+            },
+            {
+                "clickbait": "Luxury Dining Options",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_15",
+                        "fact_group_content": "Bottle of Wine (Mid-Range) costs 269,726.25 \u20ab."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Variety in Meals",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_13",
+                        "fact_group_content": "A different dish was eaten for each of the 19 meals in one week."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "pre-packaged",
+            "meals",
+            "fruits",
+            "snacks",
+            "beer",
+            "bun",
+            "rieu",
+            "veggie",
+            "burger",
+            "fries",
+            "Diet",
+            "Coke",
+            "Burgers",
+            "Plus",
+            "lunch",
+            "average",
+            "daily",
+            "food",
+            "Vietnam",
+            "KFC",
+            "combo",
+            "prices",
+            "bowl",
+            "bun",
+            "bo",
+            "Hue",
+            "Lotteria",
+            "meal",
+            "nem",
+            "nuong",
+            "serving",
+            "street",
+            "fluctuate",
+            "medium-sized",
+            "Burger",
+            "King",
+            "popular",
+            "places",
+            "reputation",
+            "bowl",
+            "dish",
+            "week",
+            "bottle",
+            "wine",
+            "mid-range",
+            "combination",
+            "plate",
+            "full",
+            "dishes"
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "clickbait_list": [
+            {
+                "clickbait": "Vietnamese Food Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_0",
+                        "fact_group_content": "Cost of lunch in a local restaurant: \u00a33 excluding drinks."
+                    },
+                    {
+                        "fact_group_id": "1_1",
+                        "fact_group_content": "The additional nem cua be was 25,000 VND."
+                    },
+                    {
+                        "fact_group_id": "1_2",
+                        "fact_group_content": "$25 a day on lunch, dinner, and alcohol."
+                    },
+                    {
+                        "fact_group_id": "1_3",
+                        "fact_group_content": "A decent meal in restaurants and cafes costs around 60,000 to 150,000 VND."
+                    },
+                    {
+                        "fact_group_id": "1_4",
+                        "fact_group_content": "A budget traveler can expect to spend around 400,000 to 800,000 VND per day."
+                    },
+                    {
+                        "fact_group_id": "1_5",
+                        "fact_group_content": "Street food stalls or local restaurants: From 20,000 VND to 70,000 VND for a basic meal."
+                    },
+                    {
+                        "fact_group_id": "1_6",
+                        "fact_group_content": "Pho Soup costs d15,000."
+                    },
+                    {
+                        "fact_group_id": "1_7",
+                        "fact_group_content": "Western Dinner (for Two) costs d199,264."
+                    },
+                    {
+                        "fact_group_id": "1_8",
+                        "fact_group_content": "Bowl of Pho costs d20,000."
+                    },
+                    {
+                        "fact_group_id": "1_9",
+                        "fact_group_content": "Italian Dinner (for Food) costs d155,000."
+                    },
+                    {
+                        "fact_group_id": "1_10",
+                        "fact_group_content": "Previous travelers have typically spent from $9 to $52 per day."
+                    },
+                    {
+                        "fact_group_id": "1_11",
+                        "fact_group_content": "The average cost of food in Vietnam is $21 (d557,098) per day, per person."
+                    },
+                    {
+                        "fact_group_id": "1_12",
+                        "fact_group_content": "The price of a banh mi typically ranges from 0.82 USD to 1.23 USD."
+                    },
+                    {
+                        "fact_group_id": "1_13",
+                        "fact_group_content": "The price for a bowl of vegetarian pho will usually cost about 45,000 \u2013 50,000 VND at a local vegetarian shop."
+                    },
+                    {
+                        "fact_group_id": "1_14",
+                        "fact_group_content": "Cost: around 50-60,000 VND (USD $2.05-2.50 / \u00a31.60-1.95)"
+                    }
+                ],
+                "number_of_facts": 15
+            }
+        ],
+        "important_words": [
+            "lunch",
+            "restaurant",
+            "nem cua be",
+            "VND",
+            "meal",
+            "street food",
+            "pho",
+            "dinner",
+            "banh mi",
+            "vegetarian"
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "clickbait_list": [
+            {
+                "clickbait": "Vietnam's CPI Record",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_0",
+                        "fact_group_content": "Vietnam Consumer Price Index (CPI): Foods and Foodstuffs was 244.770 2000=100 in Oct 2009."
+                    },
+                    {
+                        "fact_group_id": "3_1",
+                        "fact_group_content": "All-time high of 244.770 2000=100 in Oct 2009."
+                    },
+                    {
+                        "fact_group_id": "3_2",
+                        "fact_group_content": "Record low of 98.500 2000=100 in Jul 2001."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Vietnam Meal Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_3",
+                        "fact_group_content": "The typical cost for a self-cooked meal in Vietnam ranges from 30,000 to 100,000 VND per person."
+                    },
+                    {
+                        "fact_group_id": "3_4",
+                        "fact_group_content": "Spending $2-3 for breakfast and lunch."
+                    },
+                    {
+                        "fact_group_id": "3_16",
+                        "fact_group_content": "Price: 25,000 VND ($1.15) for a plate"
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Beverage Prices in Vietnam",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_5",
+                        "fact_group_content": "Domestic Beer (0.5 liter draught) costs 25,000.00 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "3_6",
+                        "fact_group_content": "Imported Beer (0.33 liter bottle) costs 40,000.00 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "3_7",
+                        "fact_group_content": "Cappuccino (regular) costs 43,495.63 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "3_8",
+                        "fact_group_content": "Coke/Pepsi (0.33 liter bottle) costs 12,777.51 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "3_9",
+                        "fact_group_content": "Water (0.33 liter bottle) costs 7,519.55 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "3_15",
+                        "fact_group_content": "Domestic Beer (0.5 liter bottle) costs 21,631.96 \u20ab."
+                    }
+                ],
+                "number_of_facts": 6
+            },
+            {
+                "clickbait": "Grocery Costs in Vietnam",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_10",
+                        "fact_group_content": "Loaf of Fresh White Bread (500g) costs 24,056.76 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "3_11",
+                        "fact_group_content": "Rice (white), (1kg) costs 24,484.78 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "3_12",
+                        "fact_group_content": "Eggs (regular) (12) costs 38,624.44 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "3_13",
+                        "fact_group_content": "Beef Round (1kg) (or Equivalent Back Leg Red Meat) costs 267,141.37 \u20ab."
+                    },
+                    {
+                        "fact_group_id": "3_14",
+                        "fact_group_content": "Banana (1kg) costs 27,886.44 \u20ab."
+                    }
+                ],
+                "number_of_facts": 5
+            }
+        ],
+        "important_words": [
+            "Vietnam",
+            "Consumer",
+            "Price",
+            "Index",
+            "CPI",
+            "Foods",
+            "Foodstuffs",
+            "Oct",
+            "2009",
+            "high",
+            "low",
+            "Jul",
+            "2001",
+            "cost",
+            "self-cooked",
+            "meal",
+            "ranges",
+            "VND",
+            "person",
+            "breakfast",
+            "lunch",
+            "Domestic",
+            "Beer",
+            "Imported",
+            "Cappuccino",
+            "Coke",
+            "Pepsi",
+            "Water",
+            "Loaf",
+            "Fresh",
+            "White",
+            "Bread",
+            "Rice",
+            "Eggs",
+            "Beef",
+            "Round",
+            "Banana"
+        ]
+    }
+]

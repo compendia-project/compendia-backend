@@ -1,0 +1,288 @@
+[
+    {
+        "cluster_id": "1",
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "BYD and Tesla vehicle sales comparison for 2024."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "Tesla's financial performance in 2024."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "BYD's revenue and growth in 2024."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "BYD and Tesla EV deliveries in 2024."
+            },
+            {
+                "merged_id": "1_4",
+                "merged_content": "BYD's plug-in vehicle production milestone."
+            },
+            {
+                "merged_id": "1_5",
+                "merged_content": "BYD's global vehicle sales in 2024."
+            },
+            {
+                "merged_id": "1_6",
+                "merged_content": "BYD's net income vs analyst estimates."
+            },
+            {
+                "merged_id": "1_7",
+                "merged_content": "BYD's new-energy vehicle sales in Q1 2025."
+            },
+            {
+                "merged_id": "1_8",
+                "merged_content": "Tesla's sales decline in China in early 2025."
+            }
+        ]
+    },
+    {
+        "cluster_id": "9",
+        "facts": [
+            {
+                "merged_id": "9_0",
+                "merged_content": "Comparison of BYD and Tesla's annual and Q3 revenues."
+            },
+            {
+                "merged_id": "9_1",
+                "merged_content": "Comparison of BYD and Tesla's EV sales in 2024."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "BYD's sales and volume trends."
+            },
+            {
+                "merged_id": "9_3",
+                "merged_content": "Tesla's market share and delivery trends."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "BYD's net income in 2024."
+            },
+            {
+                "merged_id": "9_5",
+                "merged_content": "BYD's global sales in 2024."
+            },
+            {
+                "merged_id": "9_6",
+                "merged_content": "South Korea's tariff on Chinese EVs."
+            },
+            {
+                "merged_id": "9_7",
+                "merged_content": "Chinese electric car imports by the end of 2024."
+            }
+        ]
+    },
+    {
+        "cluster_id": "6",
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "BYD and Tesla's EV sales in Q4 2023."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Tesla's yearly EV sales in 2023."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "BYD's car deliveries in 2024."
+            },
+            {
+                "merged_id": "6_3",
+                "merged_content": "BYD's market share and sales increase."
+            },
+            {
+                "merged_id": "6_4",
+                "merged_content": "BYD's EV sales in December and Q1 2024."
+            },
+            {
+                "merged_id": "6_5",
+                "merged_content": "BYD and Tesla's revenue and volume changes."
+            },
+            {
+                "merged_id": "6_6",
+                "merged_content": "Electric car sales increase in 2024."
+            }
+        ]
+    },
+    {
+        "cluster_id": "4",
+        "facts": [
+            {
+                "merged_id": "4_0",
+                "merged_content": "BYD and Tesla EV sales comparison in 2024."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "BYD's revenue and net income in 2024."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "Tesla and BYD sales gap from 2021 to 2023."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "BYD and Tesla charging range comparison."
+            }
+        ]
+    },
+    {
+        "cluster_id": "5",
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "BYD and Tesla volume changes over the same period."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "BYD and Tesla vehicle sales comparison."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "BYD and Tesla sales in 2024."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "BYD and Tesla export and tariff details."
+            },
+            {
+                "merged_id": "5_4",
+                "merged_content": "Tesla's delivery and duty exemption details."
+            }
+        ]
+    },
+    {
+        "cluster_id": "3",
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "Tesla's market share and production trends."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "Tesla and BYD revenue comparison."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Tesla's vehicle sales and production growth."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "Tariff details in Chile."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "BYD's market share details."
+            },
+            {
+                "merged_id": "3_5",
+                "merged_content": "Price difference between Tesla and BYD in Thailand."
+            },
+            {
+                "merged_id": "3_6",
+                "merged_content": "Tesla's market share in China."
+            },
+            {
+                "merged_id": "3_7",
+                "merged_content": "New models entering the market."
+            },
+            {
+                "merged_id": "3_8",
+                "merged_content": "BYD's sales surge in China."
+            }
+        ]
+    },
+    {
+        "cluster_id": "10",
+        "facts": [
+            {
+                "merged_id": "10_0",
+                "merged_content": "Tesla and BYD sales trends in 2025."
+            },
+            {
+                "merged_id": "10_1",
+                "merged_content": "Tesla and BYD 2024 performance metrics."
+            },
+            {
+                "merged_id": "10_2",
+                "merged_content": "Tesla's market share and EPS in 2023."
+            },
+            {
+                "merged_id": "10_3",
+                "merged_content": "New models entered the market since 2020."
+            },
+            {
+                "merged_id": "10_4",
+                "merged_content": "BYD's electric vehicle sales in early 2025."
+            }
+        ]
+    },
+    {
+        "cluster_id": "7",
+        "facts": [
+            {
+                "merged_id": "7_0",
+                "merged_content": "Comparison of BYD and Tesla's revenue in 2024."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "Comparison of Tesla and BYD vehicle deliveries."
+            },
+            {
+                "merged_id": "7_2",
+                "merged_content": "Market share of BYD and Tesla in China."
+            },
+            {
+                "merged_id": "7_3",
+                "merged_content": "Sales and market trends in China for 2023 and 2024."
+            },
+            {
+                "merged_id": "7_4",
+                "merged_content": "Tesla's sales performance in January 2025."
+            }
+        ]
+    },
+    {
+        "cluster_id": "2",
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "Comparison of new BEV registrations by brand, including YTD changes for BYD, KIA, and MG."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "Global EV sales in 2023."
+            },
+            {
+                "merged_id": "2_2",
+                "merged_content": "BYD's export proportion in the previous year."
+            },
+            {
+                "merged_id": "2_3",
+                "merged_content": "Increase in registrations for TESLA, BMW, MINI, and MG, including YTD changes for BYD and KIA."
+            }
+        ]
+    },
+    {
+        "cluster_id": "8",
+        "facts": [
+            {
+                "merged_id": "8_0",
+                "merged_content": "Registrations increased for various car brands."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "New BEVs registered for various car brands."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "AUDI new BEVs registered."
+            }
+        ]
+    }
+]

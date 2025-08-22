@@ -1,0 +1,410 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Several powertrain configurations are available for the 2025 Model 3. The base Long Range RWD model has a single rear-mounted motor that produces 257 hp and 266 lb-ft of torque. In MotorTrend testing, this Model 3 accelerated to 60 mph in 5.6 seconds. Although it\u2019s rated by the EPA at 363 miles of driving range, our real-world range testing of earlier versions of the Model 3 has yielded shorter-than-advertised results. However, the Model 3\u2019s excellent efficiency will make it very cheap to fuel for those who can charge it at home.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The base Long Range RWD model produces 257 hp.",
+                    "vis_data": [
+                        {
+                            "label": "Base Long Range RWD Power",
+                            "value": "257",
+                            "unit": "hp"
+                        }
+                    ],
+                    "fact_id": "9_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The base Long Range RWD model produces 266 lb-ft of torque.",
+                    "vis_data": [
+                        {
+                            "label": "Base Long Range RWD Torque",
+                            "value": "266",
+                            "unit": "lb-ft"
+                        }
+                    ],
+                    "fact_id": "9_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The base Long Range RWD model accelerates to 60 mph in 5.6 seconds.",
+                    "vis_data": [
+                        {
+                            "label": "Base Long Range RWD Acceleration",
+                            "value": "5.6",
+                            "unit": "seconds"
+                        }
+                    ],
+                    "fact_id": "9_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The base Long Range RWD model is rated by the EPA at 363 miles of driving range.",
+                    "vis_data": [
+                        {
+                            "label": "Base Long Range RWD Range",
+                            "value": "363",
+                            "unit": "miles"
+                        }
+                    ],
+                    "fact_id": "9_0_3"
+                }
+            ],
+            "article_meta_data": {
+                "title": "2025 Tesla Model 3 Review: Expert Insights, Pricing, and Performance",
+                "date": "2025-06-17",
+                "url": "https://www.motortrend.com/cars/tesla/model-3/",
+                "id": 9
+            },
+            "para_id": "9_0"
+        },
+        {
+            "paragraph": "The available Long Range AWD model has dual motors for electric all-wheel drive. Total output from these motors measures 394 hp and 377 lb-ft. With this power, the 0\u201360-mph time is reduced to 4.0 seconds. The Model 3 Long Range AWD is EPA-rated for 346 miles of range.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range AWD model produces 394 hp.",
+                    "vis_data": [
+                        {
+                            "label": "Long Range AWD Power",
+                            "value": "394",
+                            "unit": "hp"
+                        }
+                    ],
+                    "fact_id": "9_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range AWD model produces 377 lb-ft of torque.",
+                    "vis_data": [
+                        {
+                            "label": "Long Range AWD Torque",
+                            "value": "377",
+                            "unit": "lb-ft"
+                        }
+                    ],
+                    "fact_id": "9_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range AWD model accelerates to 60 mph in 4.0 seconds.",
+                    "vis_data": [
+                        {
+                            "label": "Long Range AWD Acceleration",
+                            "value": "4.0",
+                            "unit": "seconds"
+                        }
+                    ],
+                    "fact_id": "9_1_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range AWD model is rated by the EPA at 346 miles of range.",
+                    "vis_data": [
+                        {
+                            "label": "Long Range AWD Range",
+                            "value": "346",
+                            "unit": "miles"
+                        }
+                    ],
+                    "fact_id": "9_1_7"
+                }
+            ],
+            "article_meta_data": {
+                "title": "2025 Tesla Model 3 Review: Expert Insights, Pricing, and Performance",
+                "date": "2025-06-17",
+                "url": "https://www.motortrend.com/cars/tesla/model-3/",
+                "id": 9
+            },
+            "para_id": "9_1"
+        },
+        {
+            "paragraph": "At a Tesla Supercharger, recharging the battery from 5 to 80 percent takes slightly more than 30 minutes. Although exclusive access to Superchargers has been a key perk for Tesla drivers, that privilege is lessening as the automaker opens its network to vehicles from other manufacturers.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Recharging the battery from 5 to 80 percent takes slightly more than 30 minutes at a Tesla Supercharger.",
+                    "vis_data": [
+                        {
+                            "label": "Supercharger Recharge Time",
+                            "value": "31",
+                            "unit": "minutes"
+                        }
+                    ],
+                    "fact_id": "9_2_8"
+                }
+            ],
+            "article_meta_data": {
+                "title": "2025 Tesla Model 3 Review: Expert Insights, Pricing, and Performance",
+                "date": "2025-06-17",
+                "url": "https://www.motortrend.com/cars/tesla/model-3/",
+                "id": 9
+            },
+            "para_id": "9_2"
+        },
+        {
+            "paragraph": "To showcase the sporty potential of electric power, Tesla builds the Model 3 Performance. This dual-motor variant produces 510 hp and launches to 60 mph in a Tesla-claimed 2.9 seconds. Adaptive suspension, larger brakes, and aerodynamic body details further elevate the Performance\u2019s performance. Inside, sport bucket seats are equipped, and within the touchscreen there are a variety of new settings, such as a Track model for driver-selectable motor torque split. Range falls to roughly 300 miles in EPA certification, potentially a worthwhile trade-off for the Model 3 Performance\u2019s power.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Model 3 Performance produces 510 hp.",
+                    "vis_data": [
+                        {
+                            "label": "Performance Model Power",
+                            "value": "510",
+                            "unit": "hp"
+                        }
+                    ],
+                    "fact_id": "9_3_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Model 3 Performance accelerates to 60 mph in 2.9 seconds.",
+                    "vis_data": [
+                        {
+                            "label": "Performance Model Acceleration",
+                            "value": "2.9",
+                            "unit": "seconds"
+                        }
+                    ],
+                    "fact_id": "9_3_10"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Model 3 Performance is rated by the EPA for roughly 300 miles of range.",
+                    "vis_data": [
+                        {
+                            "label": "Performance Model Range",
+                            "value": "300",
+                            "unit": "miles"
+                        }
+                    ],
+                    "fact_id": "9_3_11"
+                }
+            ],
+            "article_meta_data": {
+                "title": "2025 Tesla Model 3 Review: Expert Insights, Pricing, and Performance",
+                "date": "2025-06-17",
+                "url": "https://www.motortrend.com/cars/tesla/model-3/",
+                "id": 9
+            },
+            "para_id": "9_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "9_0",
+            "paragraph": "Several powertrain configurations are available for the 2025 Model 3. The base Long Range RWD model has a single rear-mounted motor that produces 257 hp and 266 lb-ft of torque. In MotorTrend testing, this Model 3 accelerated to 60 mph in 5.6 seconds. Although it\u2019s rated by the EPA at 363 miles of driving range, our real-world range testing of earlier versions of the Model 3 has yielded shorter-than-advertised results. However, the Model 3\u2019s excellent efficiency will make it very cheap to fuel for those who can charge it at home."
+        },
+        {
+            "para_id": "9_1",
+            "paragraph": "The available Long Range AWD model has dual motors for electric all-wheel drive. Total output from these motors measures 394 hp and 377 lb-ft. With this power, the 0\u201360-mph time is reduced to 4.0 seconds. The Model 3 Long Range AWD is EPA-rated for 346 miles of range."
+        },
+        {
+            "para_id": "9_2",
+            "paragraph": "At a Tesla Supercharger, recharging the battery from 5 to 80 percent takes slightly more than 30 minutes. Although exclusive access to Superchargers has been a key perk for Tesla drivers, that privilege is lessening as the automaker opens its network to vehicles from other manufacturers."
+        },
+        {
+            "para_id": "9_3",
+            "paragraph": "To showcase the sporty potential of electric power, Tesla builds the Model 3 Performance. This dual-motor variant produces 510 hp and launches to 60 mph in a Tesla-claimed 2.9 seconds. Adaptive suspension, larger brakes, and aerodynamic body details further elevate the Performance\u2019s performance. Inside, sport bucket seats are equipped, and within the touchscreen there are a variety of new settings, such as a Track model for driver-selectable motor torque split. Range falls to roughly 300 miles in EPA certification, potentially a worthwhile trade-off for the Model 3 Performance\u2019s power."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "The base Long Range RWD model produces 257 hp."
+        },
+        {
+            "fact_id": "9_0_1",
+            "fact_content": "The base Long Range RWD model produces 266 lb-ft of torque."
+        },
+        {
+            "fact_id": "9_0_2",
+            "fact_content": "The base Long Range RWD model accelerates to 60 mph in 5.6 seconds."
+        },
+        {
+            "fact_id": "9_0_3",
+            "fact_content": "The base Long Range RWD model is rated by the EPA at 363 miles of driving range."
+        },
+        {
+            "fact_id": "9_1_4",
+            "fact_content": "The Long Range AWD model produces 394 hp."
+        },
+        {
+            "fact_id": "9_1_5",
+            "fact_content": "The Long Range AWD model produces 377 lb-ft of torque."
+        },
+        {
+            "fact_id": "9_1_6",
+            "fact_content": "The Long Range AWD model accelerates to 60 mph in 4.0 seconds."
+        },
+        {
+            "fact_id": "9_1_7",
+            "fact_content": "The Long Range AWD model is rated by the EPA at 346 miles of range."
+        },
+        {
+            "fact_id": "9_2_8",
+            "fact_content": "Recharging the battery from 5 to 80 percent takes slightly more than 30 minutes at a Tesla Supercharger."
+        },
+        {
+            "fact_id": "9_3_9",
+            "fact_content": "The Model 3 Performance produces 510 hp."
+        },
+        {
+            "fact_id": "9_3_10",
+            "fact_content": "The Model 3 Performance accelerates to 60 mph in 2.9 seconds."
+        },
+        {
+            "fact_id": "9_3_11",
+            "fact_content": "The Model 3 Performance is rated by the EPA for roughly 300 miles of range."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The base Long Range RWD model produces 257 hp.",
+            "vis_data": [
+                {
+                    "label": "Base Long Range RWD Power",
+                    "value": "257",
+                    "unit": "hp"
+                }
+            ],
+            "fact_id": "9_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The base Long Range RWD model produces 266 lb-ft of torque.",
+            "vis_data": [
+                {
+                    "label": "Base Long Range RWD Torque",
+                    "value": "266",
+                    "unit": "lb-ft"
+                }
+            ],
+            "fact_id": "9_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The base Long Range RWD model accelerates to 60 mph in 5.6 seconds.",
+            "vis_data": [
+                {
+                    "label": "Base Long Range RWD Acceleration",
+                    "value": "5.6",
+                    "unit": "seconds"
+                }
+            ],
+            "fact_id": "9_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The base Long Range RWD model is rated by the EPA at 363 miles of driving range.",
+            "vis_data": [
+                {
+                    "label": "Base Long Range RWD Range",
+                    "value": "363",
+                    "unit": "miles"
+                }
+            ],
+            "fact_id": "9_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Long Range AWD model produces 394 hp.",
+            "vis_data": [
+                {
+                    "label": "Long Range AWD Power",
+                    "value": "394",
+                    "unit": "hp"
+                }
+            ],
+            "fact_id": "9_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Long Range AWD model produces 377 lb-ft of torque.",
+            "vis_data": [
+                {
+                    "label": "Long Range AWD Torque",
+                    "value": "377",
+                    "unit": "lb-ft"
+                }
+            ],
+            "fact_id": "9_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Long Range AWD model accelerates to 60 mph in 4.0 seconds.",
+            "vis_data": [
+                {
+                    "label": "Long Range AWD Acceleration",
+                    "value": "4.0",
+                    "unit": "seconds"
+                }
+            ],
+            "fact_id": "9_1_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Long Range AWD model is rated by the EPA at 346 miles of range.",
+            "vis_data": [
+                {
+                    "label": "Long Range AWD Range",
+                    "value": "346",
+                    "unit": "miles"
+                }
+            ],
+            "fact_id": "9_1_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Recharging the battery from 5 to 80 percent takes slightly more than 30 minutes at a Tesla Supercharger.",
+            "vis_data": [
+                {
+                    "label": "Supercharger Recharge Time",
+                    "value": "31",
+                    "unit": "minutes"
+                }
+            ],
+            "fact_id": "9_2_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Model 3 Performance produces 510 hp.",
+            "vis_data": [
+                {
+                    "label": "Performance Model Power",
+                    "value": "510",
+                    "unit": "hp"
+                }
+            ],
+            "fact_id": "9_3_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Model 3 Performance accelerates to 60 mph in 2.9 seconds.",
+            "vis_data": [
+                {
+                    "label": "Performance Model Acceleration",
+                    "value": "2.9",
+                    "unit": "seconds"
+                }
+            ],
+            "fact_id": "9_3_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Model 3 Performance is rated by the EPA for roughly 300 miles of range.",
+            "vis_data": [
+                {
+                    "label": "Performance Model Range",
+                    "value": "300",
+                    "unit": "miles"
+                }
+            ],
+            "fact_id": "9_3_11"
+        }
+    ]
+}

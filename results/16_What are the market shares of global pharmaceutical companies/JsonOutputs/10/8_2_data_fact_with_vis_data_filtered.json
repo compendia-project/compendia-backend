@@ -1,0 +1,21 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The pharmaceutical & biopharmaceutical companies segment dominated the market in 2024 owing to increasing investment by these companies in research and development (R&D) to bring new drugs and therapies to market, which necessitates extensive trials. The average cost of developing a new drug can exceed USD 2.6 billion, making efficient trial management critical for these companies. In addition, regulatory requirements are stringent in this sector, leading pharmaceutical firms to rely on established investigative site networks that can ensure compliance with Good Clinical Practice (GCP) guidelines and facilitate patient recruitment. The increasing prevalence of chronic diseases and an aging population further drive demand for innovative treatment options.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average cost of developing a new drug can exceed USD 2.6 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Drug Development Cost",
+                            "value": "2.6",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4579755797423526
+        }
+    ]
+}

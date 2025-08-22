@@ -1,0 +1,110 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "High blood pressure results from stiff, inflexible arteries. Exercise boosts the amount of blood circulating through your body by up to 25%, which, over time, encourages blood vessels to expand slightly and become more flexible. Exercise also spurs the production of nitric oxide, a molecule that relaxes and widens blood vessels.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise boosts the amount of blood circulating through your body by up to 25%.",
+                    "vis_data": [
+                        {
+                            "label": "Blood Circulation Increase",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "13_0_0"
+                }
+            ],
+            "relatedness_score": 0.47679153845238387,
+            "article_meta_data": {
+                "title": "The many ways exercise helps your heart",
+                "date": "2023-01-01",
+                "url": "https://www.health.harvard.edu/heart-health/the-many-ways-exercise-helps-your-heart",
+                "id": 13
+            },
+            "para_id": "13_0"
+        },
+        {
+            "paragraph": "Both aerobic and muscle-building exercises can lower blood pressure slightly in people with normal blood pressure. If you have high blood pressure (defined as 130/80 mm Hg or higher), the average reductions are greater \u2014 between 5 and 7 points in systolic pressure (the first number in the reading). \"That's similar to the reduction people experience from taking a blood pressure drug,\" says Dr. Baggish.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Exercise reduces systolic pressure by between 5 and 7 points in people with high blood pressure.",
+                    "vis_data": [
+                        {
+                            "label": "Systolic Pressure Reduction",
+                            "value": "5",
+                            "unit": "points"
+                        },
+                        {
+                            "label": "Systolic Pressure Reduction",
+                            "value": "7",
+                            "unit": "points"
+                        }
+                    ],
+                    "fact_id": "13_1_1"
+                }
+            ],
+            "relatedness_score": 0.46286715274222767,
+            "article_meta_data": {
+                "title": "The many ways exercise helps your heart",
+                "date": "2023-01-01",
+                "url": "https://www.health.harvard.edu/heart-health/the-many-ways-exercise-helps-your-heart",
+                "id": 13
+            },
+            "para_id": "13_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "13_0",
+            "paragraph": "High blood pressure results from stiff, inflexible arteries. Exercise boosts the amount of blood circulating through your body by up to 25%, which, over time, encourages blood vessels to expand slightly and become more flexible. Exercise also spurs the production of nitric oxide, a molecule that relaxes and widens blood vessels."
+        },
+        {
+            "para_id": "13_1",
+            "paragraph": "Both aerobic and muscle-building exercises can lower blood pressure slightly in people with normal blood pressure. If you have high blood pressure (defined as 130/80 mm Hg or higher), the average reductions are greater \u2014 between 5 and 7 points in systolic pressure (the first number in the reading). \"That's similar to the reduction people experience from taking a blood pressure drug,\" says Dr. Baggish."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "13_0_0",
+            "fact_content": "Exercise boosts the amount of blood circulating through your body by up to 25%."
+        },
+        {
+            "fact_id": "13_1_1",
+            "fact_content": "Exercise reduces systolic pressure by between 5 and 7 points in people with high blood pressure."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Exercise boosts the amount of blood circulating through your body by up to 25%.",
+            "vis_data": [
+                {
+                    "label": "Blood Circulation Increase",
+                    "value": "25",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "13_0_0"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Exercise reduces systolic pressure by between 5 and 7 points in people with high blood pressure.",
+            "vis_data": [
+                {
+                    "label": "Systolic Pressure Reduction",
+                    "value": "5",
+                    "unit": "points"
+                },
+                {
+                    "label": "Systolic Pressure Reduction",
+                    "value": "7",
+                    "unit": "points"
+                }
+            ],
+            "fact_id": "13_1_1"
+        }
+    ]
+}

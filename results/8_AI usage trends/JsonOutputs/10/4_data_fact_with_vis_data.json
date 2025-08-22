@@ -1,0 +1,90 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "According to a survey by consulting firmGartner, 79 percent of corporate strategists agree thatAIandanalyticswill be critical to their organization\u2019s success over the next two years. A separate survey byPwCfound that 73 percent of U.S. companies have already adopted AI in some aspect of their business\u2014putting others who haven\u2019t started experimenting at a disadvantage.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "79 percent of corporate strategists agree that AI and analytics will be critical to their organization\u2019s success over the next two years.",
+                    "vis_data": [
+                        {
+                            "label": "Strategists Agree AI Critical",
+                            "value": "79",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "73 percent of U.S. companies have already adopted AI in some aspect of their business.",
+                    "vis_data": [
+                        {
+                            "label": "Companies Adopted AI",
+                            "value": "73",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "These improvements can lead to significant gains in operational performance and employee effectiveness. According to management consulting firmMcKinsey, AI and other technologies have the potential to automate work activities that absorb 60 to 70 percent of employees\u2019 time, enabling them to focus on morestrategic initiatives.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "AI and other technologies have the potential to automate work activities that absorb 60 to 70 percent of employees\u2019 time.",
+                    "vis_data": [
+                        {
+                            "label": "Employee Time Automated",
+                            "value": "60-70",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Many business leaders are starting to recognize the quality assurance AI can offer. In aDeloitte survey, 59 percent of executives agreed that AI enabled them to glean more actionable insights from the analytics they were tracking.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "59 percent of executives agreed that AI enabled them to glean more actionable insights from the analytics they were tracking.",
+                    "vis_data": [
+                        {
+                            "label": "Executives Glean Insights",
+                            "value": "59",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "AI can also significantly optimize energy consumption in your facility\u2014an essential step towardmitigating climate changesinceoffice buildings consume nearly one-third of the world's energyand contribute roughly a quarter of global greenhouse gas emissions. By leveraging AI to analyze usage patterns and adjust energy consumption, companies can achieve substantial savings on utility bills while reducing their environmental impact.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Office buildings consume nearly one-third of the world's energy.",
+                    "vis_data": [
+                        {
+                            "label": "Energy Consumed by Offices",
+                            "value": "33.33",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Office buildings contribute roughly a quarter of global greenhouse gas emissions.",
+                    "vis_data": [
+                        {
+                            "label": "GHG Emissions by Offices",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

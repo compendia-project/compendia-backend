@@ -1,0 +1,176 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "From a population of 1 million in 1950, Singapore's resident population, comprising citizens and permanent migrants, has grown more than three and a half times to 3.7 million in 2009 (5.0 million, if foreigners with permits1are included). Singapore's demographic change from the late 1940s can be differentiated into three phases characterised by distinct population trends and socioeconomic developments, with a fourth phase now emerging.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore's resident population was 1 million in 1950.",
+                    "vis_data": [
+                        {
+                            "label": "Resident Population 1950",
+                            "value": "1000000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore's resident population grew to 3.7 million in 2009.",
+                    "vis_data": [
+                        {
+                            "label": "Resident Population 2009",
+                            "value": "3700000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore's total population including foreigners with permits was 5.0 million in 2009.",
+                    "vis_data": [
+                        {
+                            "label": "Total Population 2009",
+                            "value": "5000000",
+                            "unit": "people"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "With fertility below 1.3 and the new birth cohorts in the current 35,000 to 40,000 in the foreseeable future, the age structure imbalance will be accentuated. Singapore's dependency ratio will rise quickly in the near future, with the old dependency ratio overtaking the young dependency ratio in the future.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Fertility is below 1.3.",
+                    "vis_data": [
+                        {
+                            "label": "Fertility Rate",
+                            "value": "1.3",
+                            "unit": "rate"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "New birth cohorts are in the range of 35,000 to 40,000.",
+                    "vis_data": [
+                        {
+                            "label": "New Birth Cohorts",
+                            "value": "35000-40000",
+                            "unit": "people"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The first phase of high population growth between 3% and 6% per annum lasted from the late 1940s to the mid-1960s. Mortality declined tremendously after the Second World War.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "High population growth between 3% and 6% per annum from the late 1940s to the mid-1960s.",
+                    "vis_data": [
+                        {
+                            "label": "Population Growth Rate",
+                            "value": "3-6",
+                            "unit": "% per annum"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "After a period of significant decline in CBR, Singapore experienced saw a gentler fall of the Crude Birth Rate (CBR) (Figure 1) during the second phase (1970s to mid-1980s). Crude Death Rate (CDR) was low at around 5 per 1,000 population. Life expectancy further increased and infant mortality fell. Singapore's population growth was stable, ranging from 1.3% to 1.9% per annum.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Crude Death Rate was around 5 per 1,000 population.",
+                    "vis_data": [
+                        {
+                            "label": "Crude Death Rate",
+                            "value": "5",
+                            "unit": "per 1000 population"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Population growth was stable, ranging from 1.3% to 1.9% per annum during the second phase.",
+                    "vis_data": [
+                        {
+                            "label": "Stable Population Growth",
+                            "value": "1.3-1.9",
+                            "unit": "% per annum"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In 1975, fertility reached replacement level for the first time. Subsequently, sustained low fertility soon forced Singapore to re-examine its family planning and population policies.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Fertility reached replacement level in 1975.",
+                    "vis_data": [
+                        {
+                            "label": "Fertility Rate 1975",
+                            "value": "2.1",
+                            "unit": "rate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "When fertility fell to a then historic low of 1.4 in 1986, the Government decided to completely and fully reverse its two-child policy, thus beginning a third phase in Singapore's demographic development. The focus was on getting the people to recognise that there were repercussions from sustained sub-replacement fertility levels since 19756. The tagline in the late 1980s promoted \"Have Three or More if You Can Afford It\". By then, sub-replacement fertility levels had been around for just over 10 years.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Fertility fell to a historic low of 1.4 in 1986.",
+                    "vis_data": [
+                        {
+                            "label": "Fertility Rate 1986",
+                            "value": "1.4",
+                            "unit": "rate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Pro-natalist measures were set in place in 1987 with the hope of countering the strong downward pull on fertility7. A slight rise in TFR to around 1.8\u00e2\u001a\u00191.9 was experienced in the initial years following the new policy (Figure 3). This was short-lived, and fertility and births continued the general downward trend, despite additional incentives in 2001 and 20048.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "TFR rose slightly to around 1.8-1.9 in the initial years following the 1987 policy.",
+                    "vis_data": [
+                        {
+                            "label": "TFR Increase Post-1987",
+                            "value": "1.8-1.9",
+                            "unit": "rate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Recognising that the local population could not be depended on for generational replacement, encouraging more migrants to Singapore was a natural policy option9. Table 2 shows that in the 1950s prior to independence, net migration was substantial; it supplemented the high rates of natural increase to produce extraordinarily high rates of population growth from 1947 to 1957. Only in the second phase of demographic development was migration turned off. In the third phase starting from the late 1980s, migration again became an important component of population growth. These were permanent settlers who had applied for long term residence with a view to stay, live and work in Singapore, akin to the early migrants10. By 2009, permanent residents accounted for approximately 11% of the total population.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Permanent residents accounted for approximately 11% of the total population in 2009.",
+                    "vis_data": [
+                        {
+                            "label": "Permanent Residents 2009",
+                            "value": "11",
+                            "unit": "% of total population"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

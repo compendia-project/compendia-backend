@@ -1,0 +1,135 @@
+[
+    {
+        "cluster_id": 3,
+        "title": "Notre Dame",
+        "description": "Notre Dame Cathedral, completed in 1250, is a masterpiece of Gothic architecture. Its facade stands 45 meters tall, and the rose window spans 9.6 meters in diameter. The cathedral's construction began in 1182, with the nave initially featuring four bays. The building process often took over a century, reflecting the complexity and grandeur of such structures. The cathedral is 130 meters long, with two towers reaching 69 meters in height, and features a contemporary organ with five keyboards and 109 stops.",
+        "representative_facts": [
+            {
+                "fact_content": "Notre Dame Cathedral completed in 1250",
+                "fact_id": "3_0"
+            },
+            {
+                "fact_content": "Facade measures 45 meters in height",
+                "fact_id": "3_1"
+            },
+            {
+                "fact_content": "Rose window diameter is 9.6 meters",
+                "fact_id": "3_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "title": "Cathedral Dimensions",
+        "description": "Notre-Dame de Paris is notable for its impressive dimensions, including a facade width of 43.5 meters and a length of approximately 128 meters. The cathedral's vaults, reaching a height of 32 meters, were the tallest of their time. Additionally, the contemporary organ within the cathedral features nearly eight thousand pipes, showcasing its grandeur and architectural significance.",
+        "representative_facts": [
+            {
+                "fact_content": "Notre-Dame's vaults peaking at 32m high was the tallest building at that time",
+                "fact_id": "5_3"
+            },
+            {
+                "fact_content": "The cathedral is roughly 128 metres (420 ft) in length",
+                "fact_id": "5_2"
+            },
+            {
+                "fact_content": "The facade measures 43.5 meters in width",
+                "fact_id": "5_0"
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "title": "Cathedral Dimensions",
+        "description": "The architectural features of notable cathedrals include the facade of a cathedral reaching 69 meters in height, a west rose window with a diameter of 9.6 meters, and the Noyon cathedral's vault reaching 22 meters. Additionally, iron staples in Notre-Dame were designed earlier than tie-rods in Soissons cathedral, indicating advancements in construction techniques.",
+        "representative_facts": [
+            {
+                "fact_content": "The facade measures 69 meters in height with the towers",
+                "fact_id": "2_0"
+            },
+            {
+                "fact_content": "The west rose window is 9.6 metres (31 ft) in diameter",
+                "fact_id": "2_1"
+            },
+            {
+                "fact_content": "Noyon cathedral reached 22 m under the vault",
+                "fact_id": "2_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "title": "Notre Dame",
+        "description": "Notre Dame de Paris showcases typical Gothic architectural features, including its impressive height of 35 meters under the vault and the south rose window with a diameter of 12.9 meters. The cathedral originally had four levels, now reduced to three, and utilized iron staples designed decades before similar reinforcements in other cathedrals.",
+        "representative_facts": [
+            {
+                "fact_content": "Notre Dame is 35 meters high under the vault",
+                "fact_id": "1_1"
+            },
+            {
+                "fact_content": "The south rose in the transept is 12.9 metres (42 ft) in diameter",
+                "fact_id": "1_2"
+            },
+            {
+                "fact_content": "The cathedral originally rose on four levels and now rises on only three levels",
+                "fact_id": "1_0"
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "title": "Notre-Dame Dimensions",
+        "description": "Notre-Dame de Paris features impressive architectural dimensions, including a nave with ten bays and towers reaching 69 meters in height. The cathedral's transept spans 48 meters wide, and its iconic rose windows measure 13 meters in diameter, showcasing the grandeur of Gothic architecture.",
+        "representative_facts": [
+            {
+                "fact_content": "Notre Dame's towers are 69 meters high",
+                "fact_id": "6_3"
+            },
+            {
+                "fact_content": "Notre Dame's transept is 48 meters wide",
+                "fact_id": "6_2"
+            },
+            {
+                "fact_content": "The nave of Notre-Dame consists of ten bays",
+                "fact_id": "6_0"
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "title": "Notre-Dame Dimensions",
+        "description": "Notre-Dame de Paris features impressive architectural dimensions, including a nave that is 125 meters long and nearly 37 meters wide. The cathedral's rose window spans 39 feet in diameter, showcasing the grandeur typical of Gothic architecture. Additionally, the fl\u00e8che, a spire, weighed 750 tonnes, highlighting the structural complexity of the building.",
+        "representative_facts": [
+            {
+                "fact_content": "Notre-Dame's nave is 125 m long",
+                "fact_id": "4_3"
+            },
+            {
+                "fact_content": "Notre-Dame's nave is nearly 37 m wide",
+                "fact_id": "4_2"
+            },
+            {
+                "fact_content": "One rose window spans 39 feet in diameter",
+                "fact_id": "4_0"
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "title": "Notre Dame",
+        "description": "Notre Dame de Paris features iconic Gothic architecture, including a prominent rose window above the portal with a diameter of 9.6 meters and twin towers reaching 69 meters in height. The choir area, a significant part of the cathedral, was constructed between 1163 and 1177 CE. Additionally, the south rose in the transept, surrounded by claire-voie, measures 19 meters in diameter.",
+        "representative_facts": [
+            {
+                "fact_content": "The rose window above the portal measures 9.6 meters in diameter",
+                "fact_id": "7_0"
+            },
+            {
+                "fact_content": "The twin towers are 69 metres in height",
+                "fact_id": "7_1"
+            },
+            {
+                "fact_content": "The choir area was built from 1163 to 1177 CE",
+                "fact_id": "7_2"
+            }
+        ]
+    }
+]

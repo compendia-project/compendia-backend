@@ -1,0 +1,285 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Greater Sydney's property market remains one of the most expensive in Australia, with a median house price of $1,496,985 and a median unit price of $863,257. Combined, the city's median dwelling price sits at $1,210,222.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price is $1,496,985.",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1496985",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "16_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median unit price is $863,257.",
+                    "vis_data": [
+                        {
+                            "label": "Median Unit Price",
+                            "value": "863257",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "16_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median dwelling price is $1,210,222.",
+                    "vis_data": [
+                        {
+                            "label": "Median Dwelling Price",
+                            "value": "1210222",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "16_0_2"
+                }
+            ],
+            "relatedness_score": 0.6824383103430202,
+            "article_meta_data": {
+                "title": "Median house prices around Australia: July 2025",
+                "date": "Unknown",
+                "url": "https://www.yourmortgage.com.au/compare-home-loans/median-house-prices-around-australia",
+                "id": 16
+            },
+            "para_id": "16_0"
+        },
+        {
+            "paragraph": "While this reflects a 0.6% increase compared to June 2025, Sydney property values have seen a 56.7% increase over the past decade.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "0.6% increase compared to June 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Increase Since June 2025",
+                            "value": "0.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_1_3"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "56.7% increase over the past decade.",
+                    "vis_data": [
+                        {
+                            "label": "Decade Increase",
+                            "value": "56.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_1_4"
+                }
+            ],
+            "relatedness_score": 0.6252034027128036,
+            "article_meta_data": {
+                "title": "Median house prices around Australia: July 2025",
+                "date": "Unknown",
+                "url": "https://www.yourmortgage.com.au/compare-home-loans/median-house-prices-around-australia",
+                "id": 16
+            },
+            "para_id": "16_1"
+        },
+        {
+            "paragraph": "Among the suburbs experiencing the fastest price growth in the past 12 months areSt Marys (+8.4%),Richmond - Windsor (+6.7%), andFairfield (+6.5%).",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "St Marys experienced an 8.4% price growth in the past 12 months.",
+                    "vis_data": [
+                        {
+                            "label": "St Marys Growth",
+                            "value": "8.4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_2_5"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Richmond - Windsor experienced a 6.7% price growth in the past 12 months.",
+                    "vis_data": [
+                        {
+                            "label": "Richmond - Windsor Growth",
+                            "value": "6.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_2_6"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Fairfield experienced a 6.5% price growth in the past 12 months.",
+                    "vis_data": [
+                        {
+                            "label": "Fairfield Growth",
+                            "value": "6.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_2_7"
+                }
+            ],
+            "relatedness_score": 0.4318730298185782,
+            "article_meta_data": {
+                "title": "Median house prices around Australia: July 2025",
+                "date": "Unknown",
+                "url": "https://www.yourmortgage.com.au/compare-home-loans/median-house-prices-around-australia",
+                "id": 16
+            },
+            "para_id": "16_2"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "16_0",
+            "paragraph": "Greater Sydney's property market remains one of the most expensive in Australia, with a median house price of $1,496,985 and a median unit price of $863,257. Combined, the city's median dwelling price sits at $1,210,222."
+        },
+        {
+            "para_id": "16_1",
+            "paragraph": "While this reflects a 0.6% increase compared to June 2025, Sydney property values have seen a 56.7% increase over the past decade."
+        },
+        {
+            "para_id": "16_2",
+            "paragraph": "Among the suburbs experiencing the fastest price growth in the past 12 months areSt Marys (+8.4%),Richmond - Windsor (+6.7%), andFairfield (+6.5%)."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "16_0_0",
+            "fact_content": "Median house price is $1,496,985."
+        },
+        {
+            "fact_id": "16_0_1",
+            "fact_content": "Median unit price is $863,257."
+        },
+        {
+            "fact_id": "16_0_2",
+            "fact_content": "Median dwelling price is $1,210,222."
+        },
+        {
+            "fact_id": "16_1_3",
+            "fact_content": "0.6% increase compared to June 2025."
+        },
+        {
+            "fact_id": "16_1_4",
+            "fact_content": "56.7% increase over the past decade."
+        },
+        {
+            "fact_id": "16_2_5",
+            "fact_content": "St Marys experienced an 8.4% price growth in the past 12 months."
+        },
+        {
+            "fact_id": "16_2_6",
+            "fact_content": "Richmond - Windsor experienced a 6.7% price growth in the past 12 months."
+        },
+        {
+            "fact_id": "16_2_7",
+            "fact_content": "Fairfield experienced a 6.5% price growth in the past 12 months."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price is $1,496,985.",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1496985",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "16_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median unit price is $863,257.",
+            "vis_data": [
+                {
+                    "label": "Median Unit Price",
+                    "value": "863257",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "16_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median dwelling price is $1,210,222.",
+            "vis_data": [
+                {
+                    "label": "Median Dwelling Price",
+                    "value": "1210222",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "16_0_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "0.6% increase compared to June 2025.",
+            "vis_data": [
+                {
+                    "label": "Increase Since June 2025",
+                    "value": "0.6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_1_3"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "56.7% increase over the past decade.",
+            "vis_data": [
+                {
+                    "label": "Decade Increase",
+                    "value": "56.7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_1_4"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "St Marys experienced an 8.4% price growth in the past 12 months.",
+            "vis_data": [
+                {
+                    "label": "St Marys Growth",
+                    "value": "8.4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_2_5"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Richmond - Windsor experienced a 6.7% price growth in the past 12 months.",
+            "vis_data": [
+                {
+                    "label": "Richmond - Windsor Growth",
+                    "value": "6.7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_2_6"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Fairfield experienced a 6.5% price growth in the past 12 months.",
+            "vis_data": [
+                {
+                    "label": "Fairfield Growth",
+                    "value": "6.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_2_7"
+        }
+    ]
+}

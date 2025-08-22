@@ -1,0 +1,80 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "Even so, Thomas says gold is likely to break more records this year. Goldman Sachs Research predicts gold will rise to $3,700 a troy ounce by the end of 2025 (from $3,220 on May 15) as central banks buy many tonnes of the precious metal every month.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Goldman Sachs Research predicts gold will rise to $3,700 a troy ounce by the end of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Prediction 2025",
+                            "value": "3700",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold was $3,220 a troy ounce on May 15.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price on May 15",
+                            "value": "3220",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "In the event of a recession,Goldman Sachs Researchforecasts that gold could rise to as much as $3,880 a troy ounce.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold could rise to as much as $3,880 a troy ounce in the event of a recession.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price in Recession",
+                            "value": "3880",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "For example, global gold ETF holdings are worth only about 1% of outstanding US Treasuries and 0.5% of the S&P500 market cap.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Global gold ETF holdings are worth about 1% of outstanding US Treasuries.",
+                    "vis_data": [
+                        {
+                            "label": "Gold ETF vs US Treasuries",
+                            "value": "1",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Global gold ETF holdings are worth 0.5% of the S&P500 market cap.",
+                    "vis_data": [
+                        {
+                            "label": "Gold ETF vs S&P500",
+                            "value": "0.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

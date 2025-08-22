@@ -1,0 +1,85 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Ericsson has reported its full-year results for 2024, showing that sales increased by 2 per cent year-on-year.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sales increased by 2 per cent year-on-year.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Increase",
+                            "value": "2",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Operating profit excluding restructuring costs and impairments was at approximately \u00a3722 million (9.8 billion crowns), with adjusted EBITA margin at 14.1 per cent.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Operating profit excluding restructuring costs and impairments was approximately \u00a3722 million.",
+                    "vis_data": [
+                        {
+                            "label": "Operating Profit",
+                            "value": "722",
+                            "unit": "million \u00a3"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Operating profit excluding restructuring costs and impairments was approximately 9.8 billion crowns.",
+                    "vis_data": [
+                        {
+                            "label": "Operating Profit",
+                            "value": "9.8",
+                            "unit": "billion crowns"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted EBITA margin at 14.1 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted EBITA Margin",
+                            "value": "14.1",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Ericsson reported its adjusted gross margin at 46.3 per cent, an over 5 per cent increase compared to last year, driven by supply chain efficiency actions, commercial discipline and market mix.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted gross margin at 46.3 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted Gross Margin",
+                            "value": "46.3",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Adjusted gross margin increased by over 5 per cent compared to last year.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Margin Increase",
+                            "value": "over 5",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

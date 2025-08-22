@@ -1,0 +1,639 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "BCC Research has named Pfizer as the leading pharmaceutical drug manufacturer in the world. With pharmaceutical revenues of $79,557 million and a market share of 6%, this titan force is one to be reckoned with.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pfizer pharmaceutical revenues of $79,557 million.",
+                    "vis_data": [
+                        {
+                            "label": "Pfizer Revenues",
+                            "value": "79557",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "5_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Pfizer market share of 6%.",
+                    "vis_data": [
+                        {
+                            "label": "Pfizer Market Share",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_0_1"
+                }
+            ],
+            "relatedness_score": 0.669121268232945,
+            "article_meta_data": {
+                "title": "Who are the biggest global pharmaceutical companies?",
+                "date": "2023-03-02",
+                "url": "https://blog.bccresearch.com/largest-pharmaceutical-companies-in-world",
+                "id": 5
+            },
+            "para_id": "5_0"
+        },
+        {
+            "paragraph": "Sanofi comes in at number ten, with revenues of $31,879 million and a market share of 2.4%.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sanofi revenues of $31,879 million.",
+                    "vis_data": [
+                        {
+                            "label": "Sanofi Revenues",
+                            "value": "31879",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "5_1_2"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Sanofi market share of 2.4%.",
+                    "vis_data": [
+                        {
+                            "label": "Sanofi Market Share",
+                            "value": "2.4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_1_3"
+                }
+            ],
+            "relatedness_score": 0.661318460051256,
+            "article_meta_data": {
+                "title": "Who are the biggest global pharmaceutical companies?",
+                "date": "2023-03-02",
+                "url": "https://blog.bccresearch.com/largest-pharmaceutical-companies-in-world",
+                "id": 5
+            },
+            "para_id": "5_1"
+        },
+        {
+            "paragraph": "AbbVie, with revenues of $56,601 and a market share of 4.2%, is ranked by BCC Research as the third largest pharmaceutical company.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AbbVie revenues of $56,601.",
+                    "vis_data": [
+                        {
+                            "label": "AbbVie Revenues",
+                            "value": "56601",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "5_2_4"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "AbbVie market share of 4.2%.",
+                    "vis_data": [
+                        {
+                            "label": "AbbVie Market Share",
+                            "value": "4.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_2_5"
+                }
+            ],
+            "relatedness_score": 0.6455227066356388,
+            "article_meta_data": {
+                "title": "Who are the biggest global pharmaceutical companies?",
+                "date": "2023-03-02",
+                "url": "https://blog.bccresearch.com/largest-pharmaceutical-companies-in-world",
+                "id": 5
+            },
+            "para_id": "5_2"
+        },
+        {
+            "paragraph": "In 2021, Novartis enjoyed global revenues of $52,601 and a market share of 4%.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Novartis global revenues of $52,601 in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "Novartis Revenues",
+                            "value": "52601",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "5_3_6"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Novartis market share of 4%.",
+                    "vis_data": [
+                        {
+                            "label": "Novartis Market Share",
+                            "value": "4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_3_7"
+                }
+            ],
+            "relatedness_score": 0.6206833232841172,
+            "article_meta_data": {
+                "title": "Who are the biggest global pharmaceutical companies?",
+                "date": "2023-03-02",
+                "url": "https://blog.bccresearch.com/largest-pharmaceutical-companies-in-world",
+                "id": 5
+            },
+            "para_id": "5_3"
+        },
+        {
+            "paragraph": "In 2021, Roche made revenues of $49,279 million and had a market share of 3.7%.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Roche revenues of $49,279 million in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "Roche Revenues",
+                            "value": "49279",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "5_4_8"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Roche market share of 3.7%.",
+                    "vis_data": [
+                        {
+                            "label": "Roche Market Share",
+                            "value": "3.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_4_9"
+                }
+            ],
+            "relatedness_score": 0.6057778958704404,
+            "article_meta_data": {
+                "title": "Who are the biggest global pharmaceutical companies?",
+                "date": "2023-03-02",
+                "url": "https://blog.bccresearch.com/largest-pharmaceutical-companies-in-world",
+                "id": 5
+            },
+            "para_id": "5_4"
+        },
+        {
+            "paragraph": "At number two is the China National Pharmaceutical Group Corporation. The CNPGC had revenues of $58,447 million in 2021, and held a market share of 4.4%.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "CNPGC revenues of $58,447 million in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "CNPGC Revenues",
+                            "value": "58447",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "5_5_10"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "CNPGC market share of 4.4%.",
+                    "vis_data": [
+                        {
+                            "label": "CNPGC Market Share",
+                            "value": "4.4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_5_11"
+                }
+            ],
+            "relatedness_score": 0.5930212706457889,
+            "article_meta_data": {
+                "title": "Who are the biggest global pharmaceutical companies?",
+                "date": "2023-03-02",
+                "url": "https://blog.bccresearch.com/largest-pharmaceutical-companies-in-world",
+                "id": 5
+            },
+            "para_id": "5_5"
+        },
+        {
+            "paragraph": "With global revenues of $45,055 in 2021, BMS ranks as the seventh biggest manufacturer of pharmaceutical drugs.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BMS global revenues of $45,055 in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "BMS Revenues",
+                            "value": "45055",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "5_6_12"
+                }
+            ],
+            "relatedness_score": 0.5860703005167279,
+            "article_meta_data": {
+                "title": "Who are the biggest global pharmaceutical companies?",
+                "date": "2023-03-02",
+                "url": "https://blog.bccresearch.com/largest-pharmaceutical-companies-in-world",
+                "id": 5
+            },
+            "para_id": "5_6"
+        },
+        {
+            "paragraph": "At number five is Johnson & Johnson, who made $52,080 million in revenues in 2021 with a market share of 3.9%.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johnson & Johnson revenues of $52,080 million in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "Johnson & Johnson Revenues",
+                            "value": "52080",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "5_7_13"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Johnson & Johnson market share of 3.9%.",
+                    "vis_data": [
+                        {
+                            "label": "Johnson & Johnson Market Share",
+                            "value": "3.9",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_7_14"
+                }
+            ],
+            "relatedness_score": 0.5623380826135002,
+            "article_meta_data": {
+                "title": "Who are the biggest global pharmaceutical companies?",
+                "date": "2023-03-02",
+                "url": "https://blog.bccresearch.com/largest-pharmaceutical-companies-in-world",
+                "id": 5
+            },
+            "para_id": "5_7"
+        },
+        {
+            "paragraph": "Their market share stood at 2.8% in 2021, and the company enjoyed revenues of $36,541 million.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Market share of 2.8% in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "Market Share",
+                            "value": "2.8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_8_15"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Revenues of $36,541 million.",
+                    "vis_data": [
+                        {
+                            "label": "Revenues",
+                            "value": "36541",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "5_8_16"
+                }
+            ],
+            "relatedness_score": 0.4994215593949056,
+            "article_meta_data": {
+                "title": "Who are the biggest global pharmaceutical companies?",
+                "date": "2023-03-02",
+                "url": "https://blog.bccresearch.com/largest-pharmaceutical-companies-in-world",
+                "id": 5
+            },
+            "para_id": "5_8"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "5_0",
+            "paragraph": "BCC Research has named Pfizer as the leading pharmaceutical drug manufacturer in the world. With pharmaceutical revenues of $79,557 million and a market share of 6%, this titan force is one to be reckoned with."
+        },
+        {
+            "para_id": "5_1",
+            "paragraph": "Sanofi comes in at number ten, with revenues of $31,879 million and a market share of 2.4%."
+        },
+        {
+            "para_id": "5_2",
+            "paragraph": "AbbVie, with revenues of $56,601 and a market share of 4.2%, is ranked by BCC Research as the third largest pharmaceutical company."
+        },
+        {
+            "para_id": "5_3",
+            "paragraph": "In 2021, Novartis enjoyed global revenues of $52,601 and a market share of 4%."
+        },
+        {
+            "para_id": "5_4",
+            "paragraph": "In 2021, Roche made revenues of $49,279 million and had a market share of 3.7%."
+        },
+        {
+            "para_id": "5_5",
+            "paragraph": "At number two is the China National Pharmaceutical Group Corporation. The CNPGC had revenues of $58,447 million in 2021, and held a market share of 4.4%."
+        },
+        {
+            "para_id": "5_6",
+            "paragraph": "With global revenues of $45,055 in 2021, BMS ranks as the seventh biggest manufacturer of pharmaceutical drugs."
+        },
+        {
+            "para_id": "5_7",
+            "paragraph": "At number five is Johnson & Johnson, who made $52,080 million in revenues in 2021 with a market share of 3.9%."
+        },
+        {
+            "para_id": "5_8",
+            "paragraph": "Their market share stood at 2.8% in 2021, and the company enjoyed revenues of $36,541 million."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "Pfizer pharmaceutical revenues of $79,557 million."
+        },
+        {
+            "fact_id": "5_0_1",
+            "fact_content": "Pfizer market share of 6%."
+        },
+        {
+            "fact_id": "5_1_2",
+            "fact_content": "Sanofi revenues of $31,879 million."
+        },
+        {
+            "fact_id": "5_1_3",
+            "fact_content": "Sanofi market share of 2.4%."
+        },
+        {
+            "fact_id": "5_2_4",
+            "fact_content": "AbbVie revenues of $56,601."
+        },
+        {
+            "fact_id": "5_2_5",
+            "fact_content": "AbbVie market share of 4.2%."
+        },
+        {
+            "fact_id": "5_3_6",
+            "fact_content": "Novartis global revenues of $52,601 in 2021."
+        },
+        {
+            "fact_id": "5_3_7",
+            "fact_content": "Novartis market share of 4%."
+        },
+        {
+            "fact_id": "5_4_8",
+            "fact_content": "Roche revenues of $49,279 million in 2021."
+        },
+        {
+            "fact_id": "5_4_9",
+            "fact_content": "Roche market share of 3.7%."
+        },
+        {
+            "fact_id": "5_5_10",
+            "fact_content": "CNPGC revenues of $58,447 million in 2021."
+        },
+        {
+            "fact_id": "5_5_11",
+            "fact_content": "CNPGC market share of 4.4%."
+        },
+        {
+            "fact_id": "5_6_12",
+            "fact_content": "BMS global revenues of $45,055 in 2021."
+        },
+        {
+            "fact_id": "5_7_13",
+            "fact_content": "Johnson & Johnson revenues of $52,080 million in 2021."
+        },
+        {
+            "fact_id": "5_7_14",
+            "fact_content": "Johnson & Johnson market share of 3.9%."
+        },
+        {
+            "fact_id": "5_8_15",
+            "fact_content": "Market share of 2.8% in 2021."
+        },
+        {
+            "fact_id": "5_8_16",
+            "fact_content": "Revenues of $36,541 million."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Pfizer pharmaceutical revenues of $79,557 million.",
+            "vis_data": [
+                {
+                    "label": "Pfizer Revenues",
+                    "value": "79557",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "5_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Pfizer market share of 6%.",
+            "vis_data": [
+                {
+                    "label": "Pfizer Market Share",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Sanofi revenues of $31,879 million.",
+            "vis_data": [
+                {
+                    "label": "Sanofi Revenues",
+                    "value": "31879",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "5_1_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Sanofi market share of 2.4%.",
+            "vis_data": [
+                {
+                    "label": "Sanofi Market Share",
+                    "value": "2.4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "AbbVie revenues of $56,601.",
+            "vis_data": [
+                {
+                    "label": "AbbVie Revenues",
+                    "value": "56601",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "5_2_4"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "AbbVie market share of 4.2%.",
+            "vis_data": [
+                {
+                    "label": "AbbVie Market Share",
+                    "value": "4.2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_2_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Novartis global revenues of $52,601 in 2021.",
+            "vis_data": [
+                {
+                    "label": "Novartis Revenues",
+                    "value": "52601",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "5_3_6"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Novartis market share of 4%.",
+            "vis_data": [
+                {
+                    "label": "Novartis Market Share",
+                    "value": "4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_3_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Roche revenues of $49,279 million in 2021.",
+            "vis_data": [
+                {
+                    "label": "Roche Revenues",
+                    "value": "49279",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "5_4_8"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Roche market share of 3.7%.",
+            "vis_data": [
+                {
+                    "label": "Roche Market Share",
+                    "value": "3.7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_4_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "CNPGC revenues of $58,447 million in 2021.",
+            "vis_data": [
+                {
+                    "label": "CNPGC Revenues",
+                    "value": "58447",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "5_5_10"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "CNPGC market share of 4.4%.",
+            "vis_data": [
+                {
+                    "label": "CNPGC Market Share",
+                    "value": "4.4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_5_11"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "BMS global revenues of $45,055 in 2021.",
+            "vis_data": [
+                {
+                    "label": "BMS Revenues",
+                    "value": "45055",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "5_6_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Johnson & Johnson revenues of $52,080 million in 2021.",
+            "vis_data": [
+                {
+                    "label": "Johnson & Johnson Revenues",
+                    "value": "52080",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "5_7_13"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Johnson & Johnson market share of 3.9%.",
+            "vis_data": [
+                {
+                    "label": "Johnson & Johnson Market Share",
+                    "value": "3.9",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_7_14"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Market share of 2.8% in 2021.",
+            "vis_data": [
+                {
+                    "label": "Market Share",
+                    "value": "2.8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_8_15"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Revenues of $36,541 million.",
+            "vis_data": [
+                {
+                    "label": "Revenues",
+                    "value": "36541",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "5_8_16"
+        }
+    ]
+}

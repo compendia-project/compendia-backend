@@ -1,0 +1,655 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "At the other end of the spectrum, none of the 10 countries that are expected to see the biggest populationlossesby 2100 are in Africa. Instead, these countries tend to be in Asia and Europe, with the largest decrease by far projected in China. By 2100, China is expected to have 374 million fewer people than it does today; China\u2019s projected decline in people, in fact, is more than the entirecurrentpopulation of the United States. India is expected to overtake China as the world\u2019s most populous country by 2027.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "China is expected to have 374 million fewer people by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "China Population Decrease",
+                            "value": "-374",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "2_0_0"
+                }
+            ],
+            "relatedness_score": 0.5510326818968032,
+            "article_meta_data": {
+                "title": "The countries projected to gain and lose the most people by 2100",
+                "date": "2019-07-10",
+                "url": "https://www.pewresearch.org/short-reads/2019/07/10/for-world-population-day-a-look-at-the-countries-with-the-biggest-projected-gains-and-losses-by-2100/",
+                "id": 2
+            },
+            "para_id": "2_0"
+        },
+        {
+            "paragraph": "This changing of the guard is expected to occur because of sluggish population growth over the next eight decades in Mexico (+10% by 2100) and populationlossesin Brazil (-15%), Bangladesh (-8%) and Russia (-14%). Each of the four African countries, by contrast, is expected to more than double in population, with increases of 304% in the Democratic Republic of the Congo, 156% in Ethiopia, 378% in Tanzania and 120% in Egypt.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Mexico's population is expected to grow by 10% by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Mexico Population Growth",
+                            "value": "10",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_1"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Brazil's population is expected to decrease by 15% by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Brazil Population Decrease",
+                            "value": "-15",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_2"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Bangladesh's population is expected to decrease by 8% by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Bangladesh Population Decrease",
+                            "value": "-8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_3"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Russia's population is expected to decrease by 14% by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Russia Population Decrease",
+                            "value": "-14",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_4"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The Democratic Republic of the Congo's population is expected to increase by 304% by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "DR Congo Population Increase",
+                            "value": "304",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_5"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Ethiopia's population is expected to increase by 156% by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Ethiopia Population Increase",
+                            "value": "156",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_6"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tanzania's population is expected to increase by 378% by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Tanzania Population Increase",
+                            "value": "378",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_7"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Egypt's population is expected to increase by 120% by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Egypt Population Increase",
+                            "value": "120",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_8"
+                }
+            ],
+            "relatedness_score": 0.5226321478345787,
+            "article_meta_data": {
+                "title": "The countries projected to gain and lose the most people by 2100",
+                "date": "2019-07-10",
+                "url": "https://www.pewresearch.org/short-reads/2019/07/10/for-world-population-day-a-look-at-the-countries-with-the-biggest-projected-gains-and-losses-by-2100/",
+                "id": 2
+            },
+            "para_id": "2_1"
+        },
+        {
+            "paragraph": "On a percentage basis, all 10 countries that are projected to experience the biggest growth in population by 2100 are in Africa, led by Niger (581% increase), Angola (473%) and Tanzania (378%). The biggest percentage decreases in population are expected in Eastern European nations, led by Albania (-62%), Serbia (-52%), and Moldova and Bosnia-Herzegovina (both -50%).",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Niger is expected to have a 581% increase in population by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Niger Population Increase",
+                            "value": "581",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_2_9"
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Angola is expected to have a 473% increase in population by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Angola Population Increase",
+                            "value": "473",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_2_10"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Albania is expected to have a 62% decrease in population by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Albania Population Decrease",
+                            "value": "-62",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_2_11"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Serbia is expected to have a 52% decrease in population by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Serbia Population Decrease",
+                            "value": "-52",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_2_12"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Moldova is expected to have a 50% decrease in population by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Moldova Population Decrease",
+                            "value": "-50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_2_13"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Bosnia-Herzegovina is expected to have a 50% decrease in population by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Bosnia-Herzegovina Decrease",
+                            "value": "-50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_2_14"
+                }
+            ],
+            "relatedness_score": 0.52062432701061,
+            "article_meta_data": {
+                "title": "The countries projected to gain and lose the most people by 2100",
+                "date": "2019-07-10",
+                "url": "https://www.pewresearch.org/short-reads/2019/07/10/for-world-population-day-a-look-at-the-countries-with-the-biggest-projected-gains-and-losses-by-2100/",
+                "id": 2
+            },
+            "para_id": "2_2"
+        },
+        {
+            "paragraph": "Eight of the 10 countries that are expected to gain the most people by 2100 are in Africa: Nigeria (with the largest gain, 527 million), the Democratic Republic of the Congo, Tanzania, Ethiopia, Angola, Niger, Egypt and Sudan. (Thisrecent animation of the UN datashows African nations\u2019 long-term rise up the population ranks.) The two non-African nations on this list are Pakistan and the United States, which are projected to see population gains of 182 million and 103 million people, respectively.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Nigeria is expected to have the largest population gain of 527 million by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Nigeria Population Gain",
+                            "value": "527",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "2_3_15"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pakistan is projected to see a population gain of 182 million by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Pakistan Population Gain",
+                            "value": "182",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "2_3_16"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The United States is projected to see a population gain of 103 million by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "US Population Gain",
+                            "value": "103",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "2_3_17"
+                }
+            ],
+            "relatedness_score": 0.5064519789748625,
+            "article_meta_data": {
+                "title": "The countries projected to gain and lose the most people by 2100",
+                "date": "2019-07-10",
+                "url": "https://www.pewresearch.org/short-reads/2019/07/10/for-world-population-day-a-look-at-the-countries-with-the-biggest-projected-gains-and-losses-by-2100/",
+                "id": 2
+            },
+            "para_id": "2_3"
+        },
+        {
+            "paragraph": "Half the world\u2019s babies will be born in Africa by 2100, up from three-in-ten today.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Half the world's babies will be born in Africa by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Babies Born in Africa 2100",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_4_18"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Three-in-ten of the world's babies are born in Africa today.",
+                    "vis_data": [
+                        {
+                            "label": "Babies Born in Africa Today",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_4_19"
+                }
+            ],
+            "relatedness_score": 0.33653116481649237,
+            "article_meta_data": {
+                "title": "The countries projected to gain and lose the most people by 2100",
+                "date": "2019-07-10",
+                "url": "https://www.pewresearch.org/short-reads/2019/07/10/for-world-population-day-a-look-at-the-countries-with-the-biggest-projected-gains-and-losses-by-2100/",
+                "id": 2
+            },
+            "para_id": "2_4"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "2_0",
+            "paragraph": "At the other end of the spectrum, none of the 10 countries that are expected to see the biggest populationlossesby 2100 are in Africa. Instead, these countries tend to be in Asia and Europe, with the largest decrease by far projected in China. By 2100, China is expected to have 374 million fewer people than it does today; China\u2019s projected decline in people, in fact, is more than the entirecurrentpopulation of the United States. India is expected to overtake China as the world\u2019s most populous country by 2027."
+        },
+        {
+            "para_id": "2_1",
+            "paragraph": "This changing of the guard is expected to occur because of sluggish population growth over the next eight decades in Mexico (+10% by 2100) and populationlossesin Brazil (-15%), Bangladesh (-8%) and Russia (-14%). Each of the four African countries, by contrast, is expected to more than double in population, with increases of 304% in the Democratic Republic of the Congo, 156% in Ethiopia, 378% in Tanzania and 120% in Egypt."
+        },
+        {
+            "para_id": "2_2",
+            "paragraph": "On a percentage basis, all 10 countries that are projected to experience the biggest growth in population by 2100 are in Africa, led by Niger (581% increase), Angola (473%) and Tanzania (378%). The biggest percentage decreases in population are expected in Eastern European nations, led by Albania (-62%), Serbia (-52%), and Moldova and Bosnia-Herzegovina (both -50%)."
+        },
+        {
+            "para_id": "2_3",
+            "paragraph": "Eight of the 10 countries that are expected to gain the most people by 2100 are in Africa: Nigeria (with the largest gain, 527 million), the Democratic Republic of the Congo, Tanzania, Ethiopia, Angola, Niger, Egypt and Sudan. (Thisrecent animation of the UN datashows African nations\u2019 long-term rise up the population ranks.) The two non-African nations on this list are Pakistan and the United States, which are projected to see population gains of 182 million and 103 million people, respectively."
+        },
+        {
+            "para_id": "2_4",
+            "paragraph": "Half the world\u2019s babies will be born in Africa by 2100, up from three-in-ten today."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "2_0_0",
+            "fact_content": "China is expected to have 374 million fewer people by 2100."
+        },
+        {
+            "fact_id": "2_1_1",
+            "fact_content": "Mexico's population is expected to grow by 10% by 2100."
+        },
+        {
+            "fact_id": "2_1_2",
+            "fact_content": "Brazil's population is expected to decrease by 15% by 2100."
+        },
+        {
+            "fact_id": "2_1_3",
+            "fact_content": "Bangladesh's population is expected to decrease by 8% by 2100."
+        },
+        {
+            "fact_id": "2_1_4",
+            "fact_content": "Russia's population is expected to decrease by 14% by 2100."
+        },
+        {
+            "fact_id": "2_1_5",
+            "fact_content": "The Democratic Republic of the Congo's population is expected to increase by 304% by 2100."
+        },
+        {
+            "fact_id": "2_1_6",
+            "fact_content": "Ethiopia's population is expected to increase by 156% by 2100."
+        },
+        {
+            "fact_id": "2_1_7",
+            "fact_content": "Tanzania's population is expected to increase by 378% by 2100."
+        },
+        {
+            "fact_id": "2_1_8",
+            "fact_content": "Egypt's population is expected to increase by 120% by 2100."
+        },
+        {
+            "fact_id": "2_2_9",
+            "fact_content": "Niger is expected to have a 581% increase in population by 2100."
+        },
+        {
+            "fact_id": "2_2_10",
+            "fact_content": "Angola is expected to have a 473% increase in population by 2100."
+        },
+        {
+            "fact_id": "2_2_11",
+            "fact_content": "Albania is expected to have a 62% decrease in population by 2100."
+        },
+        {
+            "fact_id": "2_2_12",
+            "fact_content": "Serbia is expected to have a 52% decrease in population by 2100."
+        },
+        {
+            "fact_id": "2_2_13",
+            "fact_content": "Moldova is expected to have a 50% decrease in population by 2100."
+        },
+        {
+            "fact_id": "2_2_14",
+            "fact_content": "Bosnia-Herzegovina is expected to have a 50% decrease in population by 2100."
+        },
+        {
+            "fact_id": "2_3_15",
+            "fact_content": "Nigeria is expected to have the largest population gain of 527 million by 2100."
+        },
+        {
+            "fact_id": "2_3_16",
+            "fact_content": "Pakistan is projected to see a population gain of 182 million by 2100."
+        },
+        {
+            "fact_id": "2_3_17",
+            "fact_content": "The United States is projected to see a population gain of 103 million by 2100."
+        },
+        {
+            "fact_id": "2_4_18",
+            "fact_content": "Half the world's babies will be born in Africa by 2100."
+        },
+        {
+            "fact_id": "2_4_19",
+            "fact_content": "Three-in-ten of the world's babies are born in Africa today."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "extreme",
+            "fact_content": "China is expected to have 374 million fewer people by 2100.",
+            "vis_data": [
+                {
+                    "label": "China Population Decrease",
+                    "value": "-374",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "2_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Mexico's population is expected to grow by 10% by 2100.",
+            "vis_data": [
+                {
+                    "label": "Mexico Population Growth",
+                    "value": "10",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Brazil's population is expected to decrease by 15% by 2100.",
+            "vis_data": [
+                {
+                    "label": "Brazil Population Decrease",
+                    "value": "-15",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Bangladesh's population is expected to decrease by 8% by 2100.",
+            "vis_data": [
+                {
+                    "label": "Bangladesh Population Decrease",
+                    "value": "-8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_3"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Russia's population is expected to decrease by 14% by 2100.",
+            "vis_data": [
+                {
+                    "label": "Russia Population Decrease",
+                    "value": "-14",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_4"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The Democratic Republic of the Congo's population is expected to increase by 304% by 2100.",
+            "vis_data": [
+                {
+                    "label": "DR Congo Population Increase",
+                    "value": "304",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_5"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Ethiopia's population is expected to increase by 156% by 2100.",
+            "vis_data": [
+                {
+                    "label": "Ethiopia Population Increase",
+                    "value": "156",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_6"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Tanzania's population is expected to increase by 378% by 2100.",
+            "vis_data": [
+                {
+                    "label": "Tanzania Population Increase",
+                    "value": "378",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_7"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Egypt's population is expected to increase by 120% by 2100.",
+            "vis_data": [
+                {
+                    "label": "Egypt Population Increase",
+                    "value": "120",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_8"
+        },
+        {
+            "fact_type": "extreme",
+            "fact_content": "Niger is expected to have a 581% increase in population by 2100.",
+            "vis_data": [
+                {
+                    "label": "Niger Population Increase",
+                    "value": "581",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_2_9"
+        },
+        {
+            "fact_type": "extreme",
+            "fact_content": "Angola is expected to have a 473% increase in population by 2100.",
+            "vis_data": [
+                {
+                    "label": "Angola Population Increase",
+                    "value": "473",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_2_10"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Albania is expected to have a 62% decrease in population by 2100.",
+            "vis_data": [
+                {
+                    "label": "Albania Population Decrease",
+                    "value": "-62",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_2_11"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Serbia is expected to have a 52% decrease in population by 2100.",
+            "vis_data": [
+                {
+                    "label": "Serbia Population Decrease",
+                    "value": "-52",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_2_12"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Moldova is expected to have a 50% decrease in population by 2100.",
+            "vis_data": [
+                {
+                    "label": "Moldova Population Decrease",
+                    "value": "-50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_2_13"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Bosnia-Herzegovina is expected to have a 50% decrease in population by 2100.",
+            "vis_data": [
+                {
+                    "label": "Bosnia-Herzegovina Decrease",
+                    "value": "-50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_2_14"
+        },
+        {
+            "fact_type": "extreme",
+            "fact_content": "Nigeria is expected to have the largest population gain of 527 million by 2100.",
+            "vis_data": [
+                {
+                    "label": "Nigeria Population Gain",
+                    "value": "527",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "2_3_15"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Pakistan is projected to see a population gain of 182 million by 2100.",
+            "vis_data": [
+                {
+                    "label": "Pakistan Population Gain",
+                    "value": "182",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "2_3_16"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The United States is projected to see a population gain of 103 million by 2100.",
+            "vis_data": [
+                {
+                    "label": "US Population Gain",
+                    "value": "103",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "2_3_17"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Half the world's babies will be born in Africa by 2100.",
+            "vis_data": [
+                {
+                    "label": "Babies Born in Africa 2100",
+                    "value": "50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_4_18"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Three-in-ten of the world's babies are born in Africa today.",
+            "vis_data": [
+                {
+                    "label": "Babies Born in Africa Today",
+                    "value": "30",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_4_19"
+        }
+    ]
+}

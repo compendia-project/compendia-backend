@@ -1,0 +1,301 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Be prepared to fork out more than usual, my total bill for the standard set and 1x Hanoi beer was 220,000 VND \u2013 in the grand scheme of things that\u2019s about S$12+ but comparatively to typical Hanoi street food it\u2019s a lot more.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "My total bill for the standard set and 1x Hanoi beer was 220,000 VND.",
+                    "vis_data": [
+                        {
+                            "label": "Total Bill",
+                            "value": "220000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "15_0_0"
+                }
+            ],
+            "relatedness_score": 0.6018522074764934,
+            "article_meta_data": {
+                "title": "What to Eat in Hanoi: Street Food Recommendations for a Taste of Vietnam",
+                "date": "2024-01-21",
+                "url": "https://theoccasionaltraveller.com/hanoi-street-food-guide/",
+                "id": 15
+            },
+            "para_id": "15_0"
+        },
+        {
+            "paragraph": "1 bowl of pho cost 50,000 VND (about S$2.70) \u2013 good pho places in Singapore charge around 3-4x that price!",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "1 bowl of pho cost 50,000 VND.",
+                    "vis_data": [
+                        {
+                            "label": "Pho Cost",
+                            "value": "50000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Pho Cost",
+                            "value": "2.70",
+                            "unit": "S$"
+                        }
+                    ],
+                    "fact_id": "15_1_1"
+                }
+            ],
+            "relatedness_score": 0.5591225003748732,
+            "article_meta_data": {
+                "title": "What to Eat in Hanoi: Street Food Recommendations for a Taste of Vietnam",
+                "date": "2024-01-21",
+                "url": "https://theoccasionaltraveller.com/hanoi-street-food-guide/",
+                "id": 15
+            },
+            "para_id": "15_1"
+        },
+        {
+            "paragraph": "1 bowl of bun cha cost 70,000 VND. The additional nem cua be was 25,000 VND.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "1 bowl of bun cha cost 70,000 VND.",
+                    "vis_data": [
+                        {
+                            "label": "Bun Cha Cost",
+                            "value": "70000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "15_2_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The additional nem cua be was 25,000 VND.",
+                    "vis_data": [
+                        {
+                            "label": "Nem Cua Be Cost",
+                            "value": "25000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "15_2_3"
+                }
+            ],
+            "relatedness_score": 0.5252589887794935,
+            "article_meta_data": {
+                "title": "What to Eat in Hanoi: Street Food Recommendations for a Taste of Vietnam",
+                "date": "2024-01-21",
+                "url": "https://theoccasionaltraveller.com/hanoi-street-food-guide/",
+                "id": 15
+            },
+            "para_id": "15_2"
+        },
+        {
+            "paragraph": "My bowl of bun rieu cost 30,000 VND. If you get the one with everything in it it\u2019s 40,000 VND.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "My bowl of bun rieu cost 30,000 VND.",
+                    "vis_data": [
+                        {
+                            "label": "Bun Rieu Cost",
+                            "value": "30000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "15_3_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "If you get the one with everything in it it\u2019s 40,000 VND.",
+                    "vis_data": [
+                        {
+                            "label": "Bun Rieu with Everything",
+                            "value": "40000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "15_3_5"
+                }
+            ],
+            "relatedness_score": 0.5190555176832523,
+            "article_meta_data": {
+                "title": "What to Eat in Hanoi: Street Food Recommendations for a Taste of Vietnam",
+                "date": "2024-01-21",
+                "url": "https://theoccasionaltraveller.com/hanoi-street-food-guide/",
+                "id": 15
+            },
+            "para_id": "15_3"
+        },
+        {
+            "paragraph": "A bowl with everything in it from Ch\u00e1o s\u01b0\u1eddn c\u00f4 L\u00e0 cost me 30,000 VND.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A bowl with everything in it from Ch\u00e1o s\u01b0\u1eddn c\u00f4 L\u00e0 cost me 30,000 VND.",
+                    "vis_data": [
+                        {
+                            "label": "Ch\u00e1o S\u01b0\u1eddn Cost",
+                            "value": "30000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "15_4_6"
+                }
+            ],
+            "relatedness_score": 0.4906285152560437,
+            "article_meta_data": {
+                "title": "What to Eat in Hanoi: Street Food Recommendations for a Taste of Vietnam",
+                "date": "2024-01-21",
+                "url": "https://theoccasionaltraveller.com/hanoi-street-food-guide/",
+                "id": 15
+            },
+            "para_id": "15_4"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "15_0",
+            "paragraph": "Be prepared to fork out more than usual, my total bill for the standard set and 1x Hanoi beer was 220,000 VND \u2013 in the grand scheme of things that\u2019s about S$12+ but comparatively to typical Hanoi street food it\u2019s a lot more."
+        },
+        {
+            "para_id": "15_1",
+            "paragraph": "1 bowl of pho cost 50,000 VND (about S$2.70) \u2013 good pho places in Singapore charge around 3-4x that price!"
+        },
+        {
+            "para_id": "15_2",
+            "paragraph": "1 bowl of bun cha cost 70,000 VND. The additional nem cua be was 25,000 VND."
+        },
+        {
+            "para_id": "15_3",
+            "paragraph": "My bowl of bun rieu cost 30,000 VND. If you get the one with everything in it it\u2019s 40,000 VND."
+        },
+        {
+            "para_id": "15_4",
+            "paragraph": "A bowl with everything in it from Ch\u00e1o s\u01b0\u1eddn c\u00f4 L\u00e0 cost me 30,000 VND."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "My total bill for the standard set and 1x Hanoi beer was 220,000 VND."
+        },
+        {
+            "fact_id": "15_1_1",
+            "fact_content": "1 bowl of pho cost 50,000 VND."
+        },
+        {
+            "fact_id": "15_2_2",
+            "fact_content": "1 bowl of bun cha cost 70,000 VND."
+        },
+        {
+            "fact_id": "15_2_3",
+            "fact_content": "The additional nem cua be was 25,000 VND."
+        },
+        {
+            "fact_id": "15_3_4",
+            "fact_content": "My bowl of bun rieu cost 30,000 VND."
+        },
+        {
+            "fact_id": "15_3_5",
+            "fact_content": "If you get the one with everything in it it\u2019s 40,000 VND."
+        },
+        {
+            "fact_id": "15_4_6",
+            "fact_content": "A bowl with everything in it from Ch\u00e1o s\u01b0\u1eddn c\u00f4 L\u00e0 cost me 30,000 VND."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "My total bill for the standard set and 1x Hanoi beer was 220,000 VND.",
+            "vis_data": [
+                {
+                    "label": "Total Bill",
+                    "value": "220000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "15_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "1 bowl of pho cost 50,000 VND.",
+            "vis_data": [
+                {
+                    "label": "Pho Cost",
+                    "value": "50000",
+                    "unit": "VND"
+                },
+                {
+                    "label": "Pho Cost",
+                    "value": "2.70",
+                    "unit": "S$"
+                }
+            ],
+            "fact_id": "15_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "1 bowl of bun cha cost 70,000 VND.",
+            "vis_data": [
+                {
+                    "label": "Bun Cha Cost",
+                    "value": "70000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "15_2_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The additional nem cua be was 25,000 VND.",
+            "vis_data": [
+                {
+                    "label": "Nem Cua Be Cost",
+                    "value": "25000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "15_2_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "My bowl of bun rieu cost 30,000 VND.",
+            "vis_data": [
+                {
+                    "label": "Bun Rieu Cost",
+                    "value": "30000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "15_3_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "If you get the one with everything in it it\u2019s 40,000 VND.",
+            "vis_data": [
+                {
+                    "label": "Bun Rieu with Everything",
+                    "value": "40000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "15_3_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "A bowl with everything in it from Ch\u00e1o s\u01b0\u1eddn c\u00f4 L\u00e0 cost me 30,000 VND.",
+            "vis_data": [
+                {
+                    "label": "Ch\u00e1o S\u01b0\u1eddn Cost",
+                    "value": "30000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "15_4_6"
+        }
+    ]
+}

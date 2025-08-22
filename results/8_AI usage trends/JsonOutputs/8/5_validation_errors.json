@@ -1,0 +1,44 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "With theAI market expected to surpass $1.8 trillion by 2030, companies that delay adoption risk falling behind. This guide will provide a step-by-step approach to integrating AI into your business \u2014 covering key strategies, tools, and best practices to ensure a seamless and impactful implementation.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI market expected to surpass $1.8 trillion by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "AI Market Size",
+                            "value": "1800000000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": [
+                        "Value should be in trillions, not in absolute numbers. Consider using '1.8' with unit 'trillion USD'."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "AI is transforming industries at an unprecedented pace, driving both economic and operational benefits for businesses worldwide. Studies indicate that AI adoption could contributeover $15.7 trillion to the global economy by 2030, with companies already seeing significant cost savings and efficiency improvements. By automating workflows, AI enables organizations to reduce operational costs at the same time increasing productivity.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "AI Contribution to Economy",
+                            "value": "15700000000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": [
+                        "Missing space in 'contributeover' in the paragraph.",
+                        "The value should be 'over $15.7 trillion', but the exact value is not specified."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1455 @@
+{
+    "facts_with_meta": [
+        {
+            "paragraph": "Constructed in three stages, the cathedral was completed in 1250. This period witnessed Paris coming into its own force as a center of political power and commerce. No expense was spared in creating a church that would reflect the capital's newly won prestige. These were the 'development' years of early Gothic architecture, it was essential that Paris should contain an impressive cathedral featuring innovations to surpass such smaller towns as Sens and Noyon. An advantage which Paris possessed over other sites, was that the construction efforts were supported and encouraged by the the king, Louis VII.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cathedral was completed in 1250.",
+                    "vis_data": [
+                        {
+                            "label": "Cathedral Completion Year",
+                            "value": "1250",
+                            "unit": "year"
+                        }
+                    ],
+                    "fact_id": "16_0_0"
+                }
+            ],
+            "relatedness_score": 0.4860834762293742,
+            "article_meta_data": {
+                "title": "Notre Dame de Paris Historic Overview",
+                "date": "Unknown",
+                "url": "https://www.elore.com/el04ho01.html",
+                "id": 16
+            },
+            "para_id": "16_0"
+        },
+        {
+            "paragraph": "The architect of the 1200s adopted the traditional \u201charmonic facade\u201d concept on the western facade, meaning a symmetrical and tripartite facade. Its construction took fifty years from 1200 to 1250. This facade measures 43.5 meters in width and 45 meters in height, 69 meters with the towers. Three portals constitute the lower part: the central Last Judgment portal, the left Virgin portal, and the right Saint Anne portal. The Gallery of Kings forms the upper part. A small terrace, the Gallery of the Virgin, bordered by an openwork balustrade, overlooks the Gallery of Kings. At the center, a 9.6-meter diameter rose window pierces the facade. The two square towers remained unfinished.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The facade measures 43.5 meters in width.",
+                    "vis_data": [
+                        {
+                            "label": "Facade Width",
+                            "value": "43.5",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "10_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The facade measures 45 meters in height.",
+                    "vis_data": [
+                        {
+                            "label": "Facade Height",
+                            "value": "45",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "10_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The facade measures 69 meters in height with the towers.",
+                    "vis_data": [
+                        {
+                            "label": "Facade Height with Towers",
+                            "value": "69",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "10_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The rose window has a diameter of 9.6 meters.",
+                    "vis_data": [
+                        {
+                            "label": "Rose Window Diameter",
+                            "value": "9.6",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "10_0_3"
+                }
+            ],
+            "relatedness_score": 0.47227917339811787,
+            "article_meta_data": {
+                "title": "Exterior Architecture of Notre-Dame de Paris",
+                "date": "Unknown",
+                "url": "https://www.notredamedeparis.fr/en/understand/architecture/exterior-architecture/",
+                "id": 10
+            },
+            "para_id": "10_0"
+        },
+        {
+            "paragraph": "Notre-Dame\u2019s great organ \u2013 still there today \u2013 is located in front of the large rose window of the facade and was extended in 1992. The original organ was installed in Notre Dame during the Middle Ages (12th century), but its musical capacity was no longer enough for the cathedral. The contemporary organ features five keyboards, one hundred nine stops, and almost eight thousand pipes. According to the Notre-Dame website, it is France\u2019s largest organ.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The contemporary organ features five keyboards.",
+                    "vis_data": [
+                        {
+                            "label": "Keyboards",
+                            "value": "5",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "11_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The contemporary organ features one hundred nine stops.",
+                    "vis_data": [
+                        {
+                            "label": "Stops",
+                            "value": "109",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "11_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The contemporary organ features almost eight thousand pipes.",
+                    "vis_data": [
+                        {
+                            "label": "Pipes",
+                            "value": "8000",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "11_0_2"
+                }
+            ],
+            "relatedness_score": 0.44466271167354376,
+            "article_meta_data": {
+                "title": "Notre-Dame de Paris: a guide to the Gothic cathedral",
+                "date": "Unknown",
+                "url": "https://frenchmoments.eu/notre-dame-de-paris/",
+                "id": 11
+            },
+            "para_id": "11_0"
+        },
+        {
+            "paragraph": "The addition of 13th-century chapels around the nave darkened the interior of the building. However, Gothic architecture is designed to bathe the interior in light. In its first version in the 12th century, the cathedral rose on four levels: large arcades, galleries, roses, and high windows. These roses are still visible on the first bay and at the junction between the transept and the choir. To enhance the entry of light into the building, the high windows were enlarged in the 13th century. Since then, the cathedral has risen on only three levels.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The cathedral originally rose on four levels and now rises on only three levels.",
+                    "vis_data": [
+                        {
+                            "label": "Original Levels",
+                            "value": "4",
+                            "unit": "levels"
+                        },
+                        {
+                            "label": "Current Levels",
+                            "value": "3",
+                            "unit": "levels"
+                        }
+                    ],
+                    "fact_id": "0_0_0"
+                }
+            ],
+            "relatedness_score": 0.5541419582880222,
+            "article_meta_data": {
+                "title": "Interior Architecture of Notre-Dame de Paris",
+                "date": "Unknown",
+                "url": "https://www.notredamedeparis.fr/en/understand/architecture/interior-architecture/",
+                "id": 0
+            },
+            "para_id": "0_0"
+        },
+        {
+            "paragraph": "Reserved for the faithful during services, the nave requires a vast space to accommodate a large number of worshippers. It determines the dimensions of the building. Raised from the ground to the vaults, it forms the central vessel of the building. The construction of the nave of Notre-Dame began in 1182 with four bays. After a pause to build the west facade in 1208, construction resumed in 1218. It consists of ten bays. A bay corresponds to the space between each pillar. The first two bays support the building up to the towers and also serve as a transition after passing through the portal. Pillars, arcades, pilasters, and columns accentuate the effect of verticality. These verticals are broken horizontally by arcades and capitals. This regular rhythm between verticals and horizontals gives the nave great harmony.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The construction of the nave of Notre-Dame began in 1182 with four bays.",
+                    "vis_data": [
+                        {
+                            "label": "Initial Bays",
+                            "value": "4",
+                            "unit": "bays"
+                        }
+                    ],
+                    "fact_id": "0_1_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The nave of Notre-Dame consists of ten bays.",
+                    "vis_data": [
+                        {
+                            "label": "Total Bays",
+                            "value": "10",
+                            "unit": "bays"
+                        }
+                    ],
+                    "fact_id": "0_1_2"
+                }
+            ],
+            "relatedness_score": 0.5026414171565169,
+            "article_meta_data": {
+                "title": "Interior Architecture of Notre-Dame de Paris",
+                "date": "Unknown",
+                "url": "https://www.notredamedeparis.fr/en/understand/architecture/interior-architecture/",
+                "id": 0
+            },
+            "para_id": "0_1"
+        },
+        {
+            "paragraph": "There are three rose windows at Notre Dame, two of which span 43 ft in diameter and one at 39 feet. A stunning accomplishment for the time they were constructed. Specialized glass artisans infused cobalt iron oxide and silver oxide into molten glass to generate an array of colors in the rose window. Little of the original glass still exists, and much of it has been added over time to mimic the original condition.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Two rose windows span 43 ft in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "Rose Window Diameter",
+                            "value": "43",
+                            "unit": "ft"
+                        }
+                    ],
+                    "fact_id": "18_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "One rose window spans 39 feet in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "Rose Window Diameter",
+                            "value": "39",
+                            "unit": "ft"
+                        }
+                    ],
+                    "fact_id": "18_0_1"
+                }
+            ],
+            "relatedness_score": 0.4132941904130457,
+            "article_meta_data": {
+                "title": "The Story of Notre Dame Cathedral: A Chronicle of Construction and Restoration",
+                "date": "2024-05-14",
+                "url": "https://www.rostarchitects.com/articles/2024/5/14/notre-dame-cathedral",
+                "id": 18
+            },
+            "para_id": "18_0"
+        },
+        {
+            "paragraph": "Notre Dame is one of the oldest Gothic Cathedrals in France, the construction began in 1160 and was completed in 1345. Its huge flying buttresses hold up the massive structure 130 meters long and 35 meters high (under vault), with a transept 48 meters wide. Its towers are 69 meters high, reaching into the sky and offering that superb vantage point.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame is 130 meters long.",
+                    "vis_data": [
+                        {
+                            "label": "Length",
+                            "value": "130",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame is 35 meters high under the vault.",
+                    "vis_data": [
+                        {
+                            "label": "Height under vault",
+                            "value": "35",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame's transept is 48 meters wide.",
+                    "vis_data": [
+                        {
+                            "label": "Transept width",
+                            "value": "48",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame's towers are 69 meters high.",
+                    "vis_data": [
+                        {
+                            "label": "Tower height",
+                            "value": "69",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_0_3"
+                }
+            ],
+            "relatedness_score": 0.5542065488109493,
+            "article_meta_data": {
+                "title": "Gothic Cathedrals in France \u2013 Train Itinerary",
+                "date": "2025-05-31",
+                "url": "https://travelfrancebucketlist.com/gothic-cathedrals-in-france/",
+                "id": 15
+            },
+            "para_id": "15_0"
+        },
+        {
+            "paragraph": "The rose window on the front above the portal measures 9.6 meters in diameter while the two rose windows that adorn each of the arms of the transept are among the largest in Europe, with a diameter of 13 m.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The rose window on the front above the portal measures 9.6 meters in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "Front rose window diameter",
+                            "value": "9.6",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters.",
+                    "vis_data": [
+                        {
+                            "label": "Transept rose window diameter",
+                            "value": "13",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_1_5"
+                }
+            ],
+            "relatedness_score": 0.3607573005246263,
+            "article_meta_data": {
+                "title": "Gothic Cathedrals in France \u2013 Train Itinerary",
+                "date": "2025-05-31",
+                "url": "https://travelfrancebucketlist.com/gothic-cathedrals-in-france/",
+                "id": 15
+            },
+            "para_id": "15_1"
+        },
+        {
+            "paragraph": "The cathedral is roughly 128 metres (420 ft) in length, and 12 metres (39 ft) wide in the nave. Its cruciform plan, elevated nave, transept and tower were borrowed from 11th-century Romanesque architecture, but its pointed arches and rib vaulting were strictly Gothic. Indeed, it was one of the first Gothic cathedrals to have arched exterior supports known as \"flying buttresses\". These were not incorporated into the initial architecture of the building, but were included when stress fractures began to appear in the thin upper walls as they cracked under the weight of the vault. In addition to the flying buttresses, over a dozen supporting piers were constructed to support the exterior walls and counteract the lateral thrust of the nave vaulting. Notre-Dame is also famous for its external statues and gargoyles arranged around the outside to serve as extra column supports and drainage pipes. As Gothic building designers hoped, the additional reinforcement provided by the buttresses, piers and other stone supports enabled the main walls of the cathedral to become non-structural, and thus a greater wall area was available for stained glass, in order to inspire worshippers and illuminate the cathedral's interior. Indeed, Notre-Dame Cathedral exemplifies the main contributions of Gothic art to Christian architecture: churches soared higher and were more awe-inspiring, while their stained glass windows let in more light and provided additional Biblical art for the congregation. Thus the clerestory windows of Notre-Dame's original nave were enlarged in the 13th century, filling the interior with light, thanks to the improvements achieved in structural support.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cathedral is roughly 128 metres (420 ft) in length.",
+                    "vis_data": [
+                        {
+                            "label": "Cathedral Length",
+                            "value": "128",
+                            "unit": "metres"
+                        }
+                    ],
+                    "fact_id": "13_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cathedral is 12 metres (39 ft) wide in the nave.",
+                    "vis_data": [
+                        {
+                            "label": "Nave Width",
+                            "value": "12",
+                            "unit": "metres"
+                        }
+                    ],
+                    "fact_id": "13_0_1"
+                }
+            ],
+            "relatedness_score": 0.6532460108114235,
+            "article_meta_data": {
+                "title": "Notre-Dame Cathedral, Paris: History and Gothic Architectural Design",
+                "date": "Unknown",
+                "url": "http://www.visual-arts-cork.com/architecture/notre-dame-paris.htm",
+                "id": 13
+            },
+            "para_id": "13_0"
+        },
+        {
+            "paragraph": "Notre-Dame's stern facade is decorated with a mass of stone sculpture, notably around the central portal, which is flanked by statues depicting The Last Judgment. The facade design balances the verticality of the twin towers (69 metres in height) with the horizontal banding of the decorated galleries. This produces a simple but powerful western elevation, which dominates the square in front.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The twin towers are 69 metres in height.",
+                    "vis_data": [
+                        {
+                            "label": "Twin Towers Height",
+                            "value": "69",
+                            "unit": "metres"
+                        }
+                    ],
+                    "fact_id": "13_1_2"
+                }
+            ],
+            "relatedness_score": 0.5240062643061221,
+            "article_meta_data": {
+                "title": "Notre-Dame Cathedral, Paris: History and Gothic Architectural Design",
+                "date": "Unknown",
+                "url": "http://www.visual-arts-cork.com/architecture/notre-dame-paris.htm",
+                "id": 13
+            },
+            "para_id": "13_1"
+        },
+        {
+            "paragraph": "Gothic cathedrals have large walls of windows displaying colors from streaming sunlight, are encircled by a spider network of flying buttresses, and topped with ornamental gargoyles. Gothic architecture became a familiar feature of many great churches and castles in this period and led to towns competing to build the most significant and grandest cathedrals. Building a cathedral consumed the labor of surrounding towns, and occasionally took over 100 years to complete. Gothic cathedrals began to rise from the ground, stone by stone, to higher and higher heights, throughout the Western European Catholic region.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Building a cathedral occasionally took over 100 years to complete.",
+                    "vis_data": [
+                        {
+                            "label": "Cathedral Construction Time",
+                            "value": "101",
+                            "unit": "years"
+                        }
+                    ],
+                    "fact_id": "19_0_0"
+                }
+            ],
+            "relatedness_score": 0.5365968450256021,
+            "article_meta_data": {
+                "title": "Gothic Notre Dame",
+                "date": "2024-12-26",
+                "url": "https://human.libretexts.org/Courses/Palo_Verde_College/Introduction_to_Art/07%3A_The_Sacred_Buildings_of_Civilizations_(200_CE__1400_CE)/7.07%3A_Gothic_Notre_Dame_(Started_1163_CE)",
+                "id": 19
+            },
+            "para_id": "19_0"
+        },
+        {
+            "paragraph": "The cathedral was built in parts; the choir area from 1163 to 1177 CE, the high altar finished in 1218 CE, the transepts and nave by 1208 CE, and the western fa\u00e7ade and finishing details all finally completed by 1240 CE. Over the years, many different architects worked on the design of the building resulting in distinctive styles and heights of different sections and towers. Each architect specialized in distinct aspects of the building; for example, the work of one architect was to oversee the assembly of the rose windows. Other architects focused on the great halls beneath the towers.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The choir area was built from 1163 to 1177 CE.",
+                    "vis_data": [
+                        {
+                            "label": "Choir Area Construction",
+                            "value": "15",
+                            "unit": "years"
+                        }
+                    ],
+                    "fact_id": "19_1_1"
+                }
+            ],
+            "relatedness_score": 0.48011177905374014,
+            "article_meta_data": {
+                "title": "Gothic Notre Dame",
+                "date": "2024-12-26",
+                "url": "https://human.libretexts.org/Courses/Palo_Verde_College/Introduction_to_Art/07%3A_The_Sacred_Buildings_of_Civilizations_(200_CE__1400_CE)/7.07%3A_Gothic_Notre_Dame_(Started_1163_CE)",
+                "id": 19
+            },
+            "para_id": "19_1"
+        },
+        {
+            "paragraph": "The cathedral's fl\u00e8che (or spirelet) was located over the transept. The original fl\u00e8che was constructed in the 13th century, probably between 1220 and 1230. It was battered, weakened and bent by the wind over five centuries, and was removed in 1786. During the 19th-century restoration, Viollet-le-Duc recreated it, making a new version of oak covered with lead. The entire fl\u00e8che weighed 750 tonnes.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The entire fl\u00e8che weighed 750 tonnes.",
+                    "vis_data": [
+                        {
+                            "label": "Fl\u00e8che Weight",
+                            "value": "750",
+                            "unit": "tonnes"
+                        }
+                    ],
+                    "fact_id": "12_0_0"
+                }
+            ],
+            "relatedness_score": 0.4745042946789837,
+            "article_meta_data": {
+                "title": "Notre-Dame de Paris",
+                "date": "Unknown",
+                "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+                "id": 12
+            },
+            "para_id": "12_0"
+        },
+        {
+            "paragraph": "The stained glass windows of Notre-Dame, particularly the three rose windows, are among the most famous features of the cathedral. The west rose window, over the portals, was the first and smallest of the roses in Notre-Dame. It is 9.6 metres (31 ft) in diameter, and was made in about 1225, with the pieces of glass set in a thick circular stone frame. None of the original glass remains in this window; it was recreated in the 19th century.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The west rose window is 9.6 metres (31 ft) in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "West Rose Diameter",
+                            "value": "9.6",
+                            "unit": "metres"
+                        }
+                    ],
+                    "fact_id": "12_1_1"
+                }
+            ],
+            "relatedness_score": 0.4459681701568856,
+            "article_meta_data": {
+                "title": "Notre-Dame de Paris",
+                "date": "Unknown",
+                "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+                "id": 12
+            },
+            "para_id": "12_1"
+        },
+        {
+            "paragraph": "An important innovation in the 12th century was the introduction of the flying buttress. Before the buttresses, all of the weight of the roof pressed outward and down to the walls, and the abutments supporting them. With the flying buttress, the weight was carried by the ribs of the vault entirely outside the structure to a series of counter-supports, which were topped with stone pinnacles which gave them greater weight. The buttresses meant that the walls could be higher and thinner, and could have larger windows. The date of the first buttresses is not known with precision beyond an installation date in the 12th century. Art historian Andrew Tallon has argued, based on detailed laser scans of the entire structure, that the buttresses were part of the original design. According to Tallon, the scans indicate that \"the upper part of the building has not moved one smidgen in 800 years,\" whereas if they were added later some movement from prior to their addition would be expected. Tallon thus concluded that flying buttresses were present from the outset. The first buttresses were replaced by larger and stronger ones in the 14th century; these had a reach of fifteen metres (50 ft) between the walls and counter-supports.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The first buttresses had a reach of fifteen metres (50 ft) between the walls and counter-supports.",
+                    "vis_data": [
+                        {
+                            "label": "Buttress Reach",
+                            "value": "15",
+                            "unit": "metres"
+                        },
+                        {
+                            "label": "Buttress Reach",
+                            "value": "50",
+                            "unit": "ft"
+                        }
+                    ],
+                    "fact_id": "12_2_2"
+                }
+            ],
+            "relatedness_score": 0.4307066508960551,
+            "article_meta_data": {
+                "title": "Notre-Dame de Paris",
+                "date": "Unknown",
+                "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+                "id": 12
+            },
+            "para_id": "12_2"
+        },
+        {
+            "paragraph": "The two towers are 69 metres (226 ft) high. The towers were the last major element of the cathedral to be constructed. The south tower was built first, between 1220 and 1240, and the north tower between 1235 and 1250. The newer north tower is slightly larger, as can be seen when they are viewed from directly in front of the church. The contrefort or buttress of the north tower is also larger. The cathedral's main peal of bells is within these towers.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The two towers are 69 metres (226 ft) high.",
+                    "vis_data": [
+                        {
+                            "label": "Tower Height",
+                            "value": "69",
+                            "unit": "metres"
+                        },
+                        {
+                            "label": "Tower Height",
+                            "value": "226",
+                            "unit": "ft"
+                        }
+                    ],
+                    "fact_id": "12_3_3"
+                }
+            ],
+            "relatedness_score": 0.4277342194862135,
+            "article_meta_data": {
+                "title": "Notre-Dame de Paris",
+                "date": "Unknown",
+                "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+                "id": 12
+            },
+            "para_id": "12_3"
+        },
+        {
+            "paragraph": "The two transept windows are larger and contain a greater proportion of glass than the rose on the west fa\u00e7ade, because the new system of buttresses made the nave walls thinner and stronger. The north rose was created in about 1250, and the south rose in about 1260. The south rose in the transept is 12.9 metres (42 ft) in diameter; with the claire-voie surrounding it, a total of 19 metres (62 ft). It was given to the cathedral by King Louis IX of France, known as Saint Louis.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The south rose in the transept is 12.9 metres (42 ft) in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "South Rose Diameter",
+                            "value": "12.9",
+                            "unit": "metres"
+                        }
+                    ],
+                    "fact_id": "12_4_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "With the claire-voie surrounding it, the south rose in the transept has a total diameter of 19 metres (62 ft).",
+                    "vis_data": [
+                        {
+                            "label": "South Rose Total Diameter",
+                            "value": "19",
+                            "unit": "metres"
+                        }
+                    ],
+                    "fact_id": "12_4_5"
+                }
+            ],
+            "relatedness_score": 0.37860050273311496,
+            "article_meta_data": {
+                "title": "Notre-Dame de Paris",
+                "date": "Unknown",
+                "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+                "id": 12
+            },
+            "para_id": "12_4"
+        },
+        {
+            "paragraph": "Notre-Dame de Paris is an unprecedented monumental work in the history of Gothic and Christian architecture. With its vaults peaking at 32m high, the Parisian cathedral was the tallest building ever built at that time, even surpassing the greatest Ottonian or Romanesque achievements, such as the abbey church of Cluny (29.50 m). With its five-vessel nave, measuring nearly 37 m wide and 125 m long, Notre-Dame covers a considerable area, but it mostly impresses in terms of height: at the same period, the cathedrals of Laon, Senlis and Sens barely reached 24 m under the vault and only 22 m at Noyon. No comparable monument was built until the beginning of the 13th century, maybe two or three generations of builders later, with the cathedrals of Chartres, Bourges, Reims, Amiens or Beauvais, finally exceeding the height of Notre-Dame\u2019s vaults.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Notre-Dame's vaults peaking at 32m high was the tallest building at that time.",
+                    "vis_data": [
+                        {
+                            "label": "Notre-Dame Vault Height",
+                            "value": "32",
+                            "unit": "m"
+                        }
+                    ],
+                    "fact_id": "5_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The abbey church of Cluny was 29.50 m high.",
+                    "vis_data": [
+                        {
+                            "label": "Cluny Church Height",
+                            "value": "29.5",
+                            "unit": "m"
+                        }
+                    ],
+                    "fact_id": "5_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre-Dame's nave is nearly 37 m wide.",
+                    "vis_data": [
+                        {
+                            "label": "Notre-Dame Nave Width",
+                            "value": "37",
+                            "unit": "m"
+                        }
+                    ],
+                    "fact_id": "5_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre-Dame's nave is 125 m long.",
+                    "vis_data": [
+                        {
+                            "label": "Notre-Dame Nave Length",
+                            "value": "125",
+                            "unit": "m"
+                        }
+                    ],
+                    "fact_id": "5_0_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cathedrals of Laon, Senlis, and Sens reached 24 m under the vault.",
+                    "vis_data": [
+                        {
+                            "label": "Laon, Senlis, Sens Vault Height",
+                            "value": "24",
+                            "unit": "m"
+                        }
+                    ],
+                    "fact_id": "5_0_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Noyon cathedral reached 22 m under the vault.",
+                    "vis_data": [
+                        {
+                            "label": "Noyon Cathedral Vault Height",
+                            "value": "22",
+                            "unit": "m"
+                        }
+                    ],
+                    "fact_id": "5_0_5"
+                }
+            ],
+            "relatedness_score": 0.5822449721426065,
+            "article_meta_data": {
+                "title": "Notre-Dame de Paris: The first iron lady? Archaeometallurgical study and dating of the Parisian cathedral iron reinforcements",
+                "date": "2023-03-15",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280945",
+                "id": 5
+            },
+            "para_id": "5_0"
+        },
+        {
+            "paragraph": "Archaeological observations and radiocarbon dating performed on the iron staples sealed on the floor of the tribunes proves that the builders implemented them in the earliest phases of construction, most probably in the early 1160s. So far, these series of staples are the earliest known example of iron armatures used in the initial design of a Gothic monument. They were designed probably 15 to 20 years earlier than the tie-rods installed in Soissons cathedral southern transept and about 40 years before the iron reinforcements of Chartres or Bourges cathedral, which until now were considered as the first examples of a systematic use of iron in such masonries. These staples are placed on the floor of the tribunes, on the line corresponding to the extrados of the arches between the outer and inner ambulatory, as well as on the transverse arches of the outer ambulatory. Let us recall that the elevation of the building began with its outer shell, precisely where these staples were used. This metal grid, installed during the first construction phases, should be interpreted as the innovative reinforcement of the cross-ribs of the outer ambulatory peaking at almost 11 m high, which had to be maintained without any internal support and without the weight of the upper floors for a certain time. Whereas other buildings used wooden tie rods stretched between the arches and therefore visible as in Laon, Chartres, Soissons, Amiens, Reims, Tours, or Beauvais cathedrals that were eventually cut, or later on in the 13th century iron tie rods that were finally removed (as in Soissons, Reims or Beauvais), the first master builder of Notre-Dame de Paris made the bold choice of a system using a more durable material that could be more easily concealed. The same system was used in the bays of the nave, whose construction followed that of the choir, with the exception of the most western bay, which was built later. Dating of the nave staples could not be performed here, but the system resemblance suggests a continuity in construction techniques, even if different craftsmen were called upon, leading to slightly different sizes for the batches of staples. According to the study of the mouldings and careful measurement of architectural members, Bruzelius argues that a second architect was in charge roughly from 1170 to 1190 and started the construction of the nave whilst finishing the upper parts of the choir. We should therefore assume that this second architect adopted the construction techniques of the first master. What seems certain is that the easternmost bays of both sides of the nave (north and south) were built successively: the size difference of the staples clearly indicates that they belong to two different batches, such observations confirming Bruzelius\u2019 hypotheses.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Iron staples in Notre-Dame were designed 15 to 20 years earlier than tie-rods in Soissons cathedral.",
+                    "vis_data": [
+                        {
+                            "label": "Design Difference (Notre-Dame vs Soissons)",
+                            "value": "15-20",
+                            "unit": "years"
+                        }
+                    ],
+                    "fact_id": "5_1_6"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Iron staples in Notre-Dame were designed about 40 years before iron reinforcements in Chartres or Bourges cathedral.",
+                    "vis_data": [
+                        {
+                            "label": "Design Difference (Notre-Dame vs Chartres/Bourges)",
+                            "value": "40",
+                            "unit": "years"
+                        }
+                    ],
+                    "fact_id": "5_1_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cross-ribs of the outer ambulatory peaked at almost 11 m high.",
+                    "vis_data": [
+                        {
+                            "label": "Outer Ambulatory Height",
+                            "value": "11",
+                            "unit": "m"
+                        }
+                    ],
+                    "fact_id": "5_1_8"
+                }
+            ],
+            "relatedness_score": 0.5018347022011165,
+            "article_meta_data": {
+                "title": "Notre-Dame de Paris: The first iron lady? Archaeometallurgical study and dating of the Parisian cathedral iron reinforcements",
+                "date": "2023-03-15",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280945",
+                "id": 5
+            },
+            "para_id": "5_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "16_0",
+            "paragraph": "Constructed in three stages, the cathedral was completed in 1250. This period witnessed Paris coming into its own force as a center of political power and commerce. No expense was spared in creating a church that would reflect the capital's newly won prestige. These were the 'development' years of early Gothic architecture, it was essential that Paris should contain an impressive cathedral featuring innovations to surpass such smaller towns as Sens and Noyon. An advantage which Paris possessed over other sites, was that the construction efforts were supported and encouraged by the the king, Louis VII."
+        },
+        {
+            "para_id": "10_0",
+            "paragraph": "The architect of the 1200s adopted the traditional \u201charmonic facade\u201d concept on the western facade, meaning a symmetrical and tripartite facade. Its construction took fifty years from 1200 to 1250. This facade measures 43.5 meters in width and 45 meters in height, 69 meters with the towers. Three portals constitute the lower part: the central Last Judgment portal, the left Virgin portal, and the right Saint Anne portal. The Gallery of Kings forms the upper part. A small terrace, the Gallery of the Virgin, bordered by an openwork balustrade, overlooks the Gallery of Kings. At the center, a 9.6-meter diameter rose window pierces the facade. The two square towers remained unfinished."
+        },
+        {
+            "para_id": "11_0",
+            "paragraph": "Notre-Dame\u2019s great organ \u2013 still there today \u2013 is located in front of the large rose window of the facade and was extended in 1992. The original organ was installed in Notre Dame during the Middle Ages (12th century), but its musical capacity was no longer enough for the cathedral. The contemporary organ features five keyboards, one hundred nine stops, and almost eight thousand pipes. According to the Notre-Dame website, it is France\u2019s largest organ."
+        },
+        {
+            "para_id": "0_0",
+            "paragraph": "The addition of 13th-century chapels around the nave darkened the interior of the building. However, Gothic architecture is designed to bathe the interior in light. In its first version in the 12th century, the cathedral rose on four levels: large arcades, galleries, roses, and high windows. These roses are still visible on the first bay and at the junction between the transept and the choir. To enhance the entry of light into the building, the high windows were enlarged in the 13th century. Since then, the cathedral has risen on only three levels."
+        },
+        {
+            "para_id": "0_1",
+            "paragraph": "Reserved for the faithful during services, the nave requires a vast space to accommodate a large number of worshippers. It determines the dimensions of the building. Raised from the ground to the vaults, it forms the central vessel of the building. The construction of the nave of Notre-Dame began in 1182 with four bays. After a pause to build the west facade in 1208, construction resumed in 1218. It consists of ten bays. A bay corresponds to the space between each pillar. The first two bays support the building up to the towers and also serve as a transition after passing through the portal. Pillars, arcades, pilasters, and columns accentuate the effect of verticality. These verticals are broken horizontally by arcades and capitals. This regular rhythm between verticals and horizontals gives the nave great harmony."
+        },
+        {
+            "para_id": "18_0",
+            "paragraph": "There are three rose windows at Notre Dame, two of which span 43 ft in diameter and one at 39 feet. A stunning accomplishment for the time they were constructed. Specialized glass artisans infused cobalt iron oxide and silver oxide into molten glass to generate an array of colors in the rose window. Little of the original glass still exists, and much of it has been added over time to mimic the original condition."
+        },
+        {
+            "para_id": "15_0",
+            "paragraph": "Notre Dame is one of the oldest Gothic Cathedrals in France, the construction began in 1160 and was completed in 1345. Its huge flying buttresses hold up the massive structure 130 meters long and 35 meters high (under vault), with a transept 48 meters wide. Its towers are 69 meters high, reaching into the sky and offering that superb vantage point."
+        },
+        {
+            "para_id": "15_1",
+            "paragraph": "The rose window on the front above the portal measures 9.6 meters in diameter while the two rose windows that adorn each of the arms of the transept are among the largest in Europe, with a diameter of 13 m."
+        },
+        {
+            "para_id": "13_0",
+            "paragraph": "The cathedral is roughly 128 metres (420 ft) in length, and 12 metres (39 ft) wide in the nave. Its cruciform plan, elevated nave, transept and tower were borrowed from 11th-century Romanesque architecture, but its pointed arches and rib vaulting were strictly Gothic. Indeed, it was one of the first Gothic cathedrals to have arched exterior supports known as \"flying buttresses\". These were not incorporated into the initial architecture of the building, but were included when stress fractures began to appear in the thin upper walls as they cracked under the weight of the vault. In addition to the flying buttresses, over a dozen supporting piers were constructed to support the exterior walls and counteract the lateral thrust of the nave vaulting. Notre-Dame is also famous for its external statues and gargoyles arranged around the outside to serve as extra column supports and drainage pipes. As Gothic building designers hoped, the additional reinforcement provided by the buttresses, piers and other stone supports enabled the main walls of the cathedral to become non-structural, and thus a greater wall area was available for stained glass, in order to inspire worshippers and illuminate the cathedral's interior. Indeed, Notre-Dame Cathedral exemplifies the main contributions of Gothic art to Christian architecture: churches soared higher and were more awe-inspiring, while their stained glass windows let in more light and provided additional Biblical art for the congregation. Thus the clerestory windows of Notre-Dame's original nave were enlarged in the 13th century, filling the interior with light, thanks to the improvements achieved in structural support."
+        },
+        {
+            "para_id": "13_1",
+            "paragraph": "Notre-Dame's stern facade is decorated with a mass of stone sculpture, notably around the central portal, which is flanked by statues depicting The Last Judgment. The facade design balances the verticality of the twin towers (69 metres in height) with the horizontal banding of the decorated galleries. This produces a simple but powerful western elevation, which dominates the square in front."
+        },
+        {
+            "para_id": "19_0",
+            "paragraph": "Gothic cathedrals have large walls of windows displaying colors from streaming sunlight, are encircled by a spider network of flying buttresses, and topped with ornamental gargoyles. Gothic architecture became a familiar feature of many great churches and castles in this period and led to towns competing to build the most significant and grandest cathedrals. Building a cathedral consumed the labor of surrounding towns, and occasionally took over 100 years to complete. Gothic cathedrals began to rise from the ground, stone by stone, to higher and higher heights, throughout the Western European Catholic region."
+        },
+        {
+            "para_id": "19_1",
+            "paragraph": "The cathedral was built in parts; the choir area from 1163 to 1177 CE, the high altar finished in 1218 CE, the transepts and nave by 1208 CE, and the western fa\u00e7ade and finishing details all finally completed by 1240 CE. Over the years, many different architects worked on the design of the building resulting in distinctive styles and heights of different sections and towers. Each architect specialized in distinct aspects of the building; for example, the work of one architect was to oversee the assembly of the rose windows. Other architects focused on the great halls beneath the towers."
+        },
+        {
+            "para_id": "12_0",
+            "paragraph": "The cathedral's fl\u00e8che (or spirelet) was located over the transept. The original fl\u00e8che was constructed in the 13th century, probably between 1220 and 1230. It was battered, weakened and bent by the wind over five centuries, and was removed in 1786. During the 19th-century restoration, Viollet-le-Duc recreated it, making a new version of oak covered with lead. The entire fl\u00e8che weighed 750 tonnes."
+        },
+        {
+            "para_id": "12_1",
+            "paragraph": "The stained glass windows of Notre-Dame, particularly the three rose windows, are among the most famous features of the cathedral. The west rose window, over the portals, was the first and smallest of the roses in Notre-Dame. It is 9.6 metres (31 ft) in diameter, and was made in about 1225, with the pieces of glass set in a thick circular stone frame. None of the original glass remains in this window; it was recreated in the 19th century."
+        },
+        {
+            "para_id": "12_2",
+            "paragraph": "An important innovation in the 12th century was the introduction of the flying buttress. Before the buttresses, all of the weight of the roof pressed outward and down to the walls, and the abutments supporting them. With the flying buttress, the weight was carried by the ribs of the vault entirely outside the structure to a series of counter-supports, which were topped with stone pinnacles which gave them greater weight. The buttresses meant that the walls could be higher and thinner, and could have larger windows. The date of the first buttresses is not known with precision beyond an installation date in the 12th century. Art historian Andrew Tallon has argued, based on detailed laser scans of the entire structure, that the buttresses were part of the original design. According to Tallon, the scans indicate that \"the upper part of the building has not moved one smidgen in 800 years,\" whereas if they were added later some movement from prior to their addition would be expected. Tallon thus concluded that flying buttresses were present from the outset. The first buttresses were replaced by larger and stronger ones in the 14th century; these had a reach of fifteen metres (50 ft) between the walls and counter-supports."
+        },
+        {
+            "para_id": "12_3",
+            "paragraph": "The two towers are 69 metres (226 ft) high. The towers were the last major element of the cathedral to be constructed. The south tower was built first, between 1220 and 1240, and the north tower between 1235 and 1250. The newer north tower is slightly larger, as can be seen when they are viewed from directly in front of the church. The contrefort or buttress of the north tower is also larger. The cathedral's main peal of bells is within these towers."
+        },
+        {
+            "para_id": "12_4",
+            "paragraph": "The two transept windows are larger and contain a greater proportion of glass than the rose on the west fa\u00e7ade, because the new system of buttresses made the nave walls thinner and stronger. The north rose was created in about 1250, and the south rose in about 1260. The south rose in the transept is 12.9 metres (42 ft) in diameter; with the claire-voie surrounding it, a total of 19 metres (62 ft). It was given to the cathedral by King Louis IX of France, known as Saint Louis."
+        },
+        {
+            "para_id": "5_0",
+            "paragraph": "Notre-Dame de Paris is an unprecedented monumental work in the history of Gothic and Christian architecture. With its vaults peaking at 32m high, the Parisian cathedral was the tallest building ever built at that time, even surpassing the greatest Ottonian or Romanesque achievements, such as the abbey church of Cluny (29.50 m). With its five-vessel nave, measuring nearly 37 m wide and 125 m long, Notre-Dame covers a considerable area, but it mostly impresses in terms of height: at the same period, the cathedrals of Laon, Senlis and Sens barely reached 24 m under the vault and only 22 m at Noyon. No comparable monument was built until the beginning of the 13th century, maybe two or three generations of builders later, with the cathedrals of Chartres, Bourges, Reims, Amiens or Beauvais, finally exceeding the height of Notre-Dame\u2019s vaults."
+        },
+        {
+            "para_id": "5_1",
+            "paragraph": "Archaeological observations and radiocarbon dating performed on the iron staples sealed on the floor of the tribunes proves that the builders implemented them in the earliest phases of construction, most probably in the early 1160s. So far, these series of staples are the earliest known example of iron armatures used in the initial design of a Gothic monument. They were designed probably 15 to 20 years earlier than the tie-rods installed in Soissons cathedral southern transept and about 40 years before the iron reinforcements of Chartres or Bourges cathedral, which until now were considered as the first examples of a systematic use of iron in such masonries. These staples are placed on the floor of the tribunes, on the line corresponding to the extrados of the arches between the outer and inner ambulatory, as well as on the transverse arches of the outer ambulatory. Let us recall that the elevation of the building began with its outer shell, precisely where these staples were used. This metal grid, installed during the first construction phases, should be interpreted as the innovative reinforcement of the cross-ribs of the outer ambulatory peaking at almost 11 m high, which had to be maintained without any internal support and without the weight of the upper floors for a certain time. Whereas other buildings used wooden tie rods stretched between the arches and therefore visible as in Laon, Chartres, Soissons, Amiens, Reims, Tours, or Beauvais cathedrals that were eventually cut, or later on in the 13th century iron tie rods that were finally removed (as in Soissons, Reims or Beauvais), the first master builder of Notre-Dame de Paris made the bold choice of a system using a more durable material that could be more easily concealed. The same system was used in the bays of the nave, whose construction followed that of the choir, with the exception of the most western bay, which was built later. Dating of the nave staples could not be performed here, but the system resemblance suggests a continuity in construction techniques, even if different craftsmen were called upon, leading to slightly different sizes for the batches of staples. According to the study of the mouldings and careful measurement of architectural members, Bruzelius argues that a second architect was in charge roughly from 1170 to 1190 and started the construction of the nave whilst finishing the upper parts of the choir. We should therefore assume that this second architect adopted the construction techniques of the first master. What seems certain is that the easternmost bays of both sides of the nave (north and south) were built successively: the size difference of the staples clearly indicates that they belong to two different batches, such observations confirming Bruzelius\u2019 hypotheses."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "16_0_0",
+            "fact_content": "The cathedral was completed in 1250."
+        },
+        {
+            "fact_id": "10_0_0",
+            "fact_content": "The facade measures 43.5 meters in width."
+        },
+        {
+            "fact_id": "10_0_1",
+            "fact_content": "The facade measures 45 meters in height."
+        },
+        {
+            "fact_id": "10_0_2",
+            "fact_content": "The facade measures 69 meters in height with the towers."
+        },
+        {
+            "fact_id": "10_0_3",
+            "fact_content": "The rose window has a diameter of 9.6 meters."
+        },
+        {
+            "fact_id": "11_0_0",
+            "fact_content": "The contemporary organ features five keyboards."
+        },
+        {
+            "fact_id": "11_0_1",
+            "fact_content": "The contemporary organ features one hundred nine stops."
+        },
+        {
+            "fact_id": "11_0_2",
+            "fact_content": "The contemporary organ features almost eight thousand pipes."
+        },
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "The cathedral originally rose on four levels and now rises on only three levels."
+        },
+        {
+            "fact_id": "0_1_1",
+            "fact_content": "The construction of the nave of Notre-Dame began in 1182 with four bays."
+        },
+        {
+            "fact_id": "0_1_2",
+            "fact_content": "The nave of Notre-Dame consists of ten bays."
+        },
+        {
+            "fact_id": "18_0_0",
+            "fact_content": "Two rose windows span 43 ft in diameter."
+        },
+        {
+            "fact_id": "18_0_1",
+            "fact_content": "One rose window spans 39 feet in diameter."
+        },
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "Notre Dame is 130 meters long."
+        },
+        {
+            "fact_id": "15_0_1",
+            "fact_content": "Notre Dame is 35 meters high under the vault."
+        },
+        {
+            "fact_id": "15_0_2",
+            "fact_content": "Notre Dame's transept is 48 meters wide."
+        },
+        {
+            "fact_id": "15_0_3",
+            "fact_content": "Notre Dame's towers are 69 meters high."
+        },
+        {
+            "fact_id": "15_1_4",
+            "fact_content": "The rose window on the front above the portal measures 9.6 meters in diameter."
+        },
+        {
+            "fact_id": "15_1_5",
+            "fact_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters."
+        },
+        {
+            "fact_id": "13_0_0",
+            "fact_content": "The cathedral is roughly 128 metres (420 ft) in length."
+        },
+        {
+            "fact_id": "13_0_1",
+            "fact_content": "The cathedral is 12 metres (39 ft) wide in the nave."
+        },
+        {
+            "fact_id": "13_1_2",
+            "fact_content": "The twin towers are 69 metres in height."
+        },
+        {
+            "fact_id": "19_0_0",
+            "fact_content": "Building a cathedral occasionally took over 100 years to complete."
+        },
+        {
+            "fact_id": "19_1_1",
+            "fact_content": "The choir area was built from 1163 to 1177 CE."
+        },
+        {
+            "fact_id": "12_0_0",
+            "fact_content": "The entire fl\u00e8che weighed 750 tonnes."
+        },
+        {
+            "fact_id": "12_1_1",
+            "fact_content": "The west rose window is 9.6 metres (31 ft) in diameter."
+        },
+        {
+            "fact_id": "12_2_2",
+            "fact_content": "The first buttresses had a reach of fifteen metres (50 ft) between the walls and counter-supports."
+        },
+        {
+            "fact_id": "12_3_3",
+            "fact_content": "The two towers are 69 metres (226 ft) high."
+        },
+        {
+            "fact_id": "12_4_4",
+            "fact_content": "The south rose in the transept is 12.9 metres (42 ft) in diameter."
+        },
+        {
+            "fact_id": "12_4_5",
+            "fact_content": "With the claire-voie surrounding it, the south rose in the transept has a total diameter of 19 metres (62 ft)."
+        },
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "Notre-Dame's vaults peaking at 32m high was the tallest building at that time."
+        },
+        {
+            "fact_id": "5_0_1",
+            "fact_content": "The abbey church of Cluny was 29.50 m high."
+        },
+        {
+            "fact_id": "5_0_2",
+            "fact_content": "Notre-Dame's nave is nearly 37 m wide."
+        },
+        {
+            "fact_id": "5_0_3",
+            "fact_content": "Notre-Dame's nave is 125 m long."
+        },
+        {
+            "fact_id": "5_0_4",
+            "fact_content": "Cathedrals of Laon, Senlis, and Sens reached 24 m under the vault."
+        },
+        {
+            "fact_id": "5_0_5",
+            "fact_content": "Noyon cathedral reached 22 m under the vault."
+        },
+        {
+            "fact_id": "5_1_6",
+            "fact_content": "Iron staples in Notre-Dame were designed 15 to 20 years earlier than tie-rods in Soissons cathedral."
+        },
+        {
+            "fact_id": "5_1_7",
+            "fact_content": "Iron staples in Notre-Dame were designed about 40 years before iron reinforcements in Chartres or Bourges cathedral."
+        },
+        {
+            "fact_id": "5_1_8",
+            "fact_content": "Cross-ribs of the outer ambulatory peaked at almost 11 m high."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The cathedral was completed in 1250.",
+            "vis_data": [
+                {
+                    "label": "Cathedral Completion Year",
+                    "value": "1250",
+                    "unit": "year"
+                }
+            ],
+            "fact_id": "16_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The facade measures 43.5 meters in width.",
+            "vis_data": [
+                {
+                    "label": "Facade Width",
+                    "value": "43.5",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "10_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The facade measures 45 meters in height.",
+            "vis_data": [
+                {
+                    "label": "Facade Height",
+                    "value": "45",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "10_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The facade measures 69 meters in height with the towers.",
+            "vis_data": [
+                {
+                    "label": "Facade Height with Towers",
+                    "value": "69",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "10_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The rose window has a diameter of 9.6 meters.",
+            "vis_data": [
+                {
+                    "label": "Rose Window Diameter",
+                    "value": "9.6",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "10_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The contemporary organ features five keyboards.",
+            "vis_data": [
+                {
+                    "label": "Keyboards",
+                    "value": "5",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "11_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The contemporary organ features one hundred nine stops.",
+            "vis_data": [
+                {
+                    "label": "Stops",
+                    "value": "109",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "11_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The contemporary organ features almost eight thousand pipes.",
+            "vis_data": [
+                {
+                    "label": "Pipes",
+                    "value": "8000",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "11_0_2"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The cathedral originally rose on four levels and now rises on only three levels.",
+            "vis_data": [
+                {
+                    "label": "Original Levels",
+                    "value": "4",
+                    "unit": "levels"
+                },
+                {
+                    "label": "Current Levels",
+                    "value": "3",
+                    "unit": "levels"
+                }
+            ],
+            "fact_id": "0_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The construction of the nave of Notre-Dame began in 1182 with four bays.",
+            "vis_data": [
+                {
+                    "label": "Initial Bays",
+                    "value": "4",
+                    "unit": "bays"
+                }
+            ],
+            "fact_id": "0_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The nave of Notre-Dame consists of ten bays.",
+            "vis_data": [
+                {
+                    "label": "Total Bays",
+                    "value": "10",
+                    "unit": "bays"
+                }
+            ],
+            "fact_id": "0_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Two rose windows span 43 ft in diameter.",
+            "vis_data": [
+                {
+                    "label": "Rose Window Diameter",
+                    "value": "43",
+                    "unit": "ft"
+                }
+            ],
+            "fact_id": "18_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "One rose window spans 39 feet in diameter.",
+            "vis_data": [
+                {
+                    "label": "Rose Window Diameter",
+                    "value": "39",
+                    "unit": "ft"
+                }
+            ],
+            "fact_id": "18_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Notre Dame is 130 meters long.",
+            "vis_data": [
+                {
+                    "label": "Length",
+                    "value": "130",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Notre Dame is 35 meters high under the vault.",
+            "vis_data": [
+                {
+                    "label": "Height under vault",
+                    "value": "35",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Notre Dame's transept is 48 meters wide.",
+            "vis_data": [
+                {
+                    "label": "Transept width",
+                    "value": "48",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Notre Dame's towers are 69 meters high.",
+            "vis_data": [
+                {
+                    "label": "Tower height",
+                    "value": "69",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The rose window on the front above the portal measures 9.6 meters in diameter.",
+            "vis_data": [
+                {
+                    "label": "Front rose window diameter",
+                    "value": "9.6",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters.",
+            "vis_data": [
+                {
+                    "label": "Transept rose window diameter",
+                    "value": "13",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The cathedral is roughly 128 metres (420 ft) in length.",
+            "vis_data": [
+                {
+                    "label": "Cathedral Length",
+                    "value": "128",
+                    "unit": "metres"
+                }
+            ],
+            "fact_id": "13_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The cathedral is 12 metres (39 ft) wide in the nave.",
+            "vis_data": [
+                {
+                    "label": "Nave Width",
+                    "value": "12",
+                    "unit": "metres"
+                }
+            ],
+            "fact_id": "13_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The twin towers are 69 metres in height.",
+            "vis_data": [
+                {
+                    "label": "Twin Towers Height",
+                    "value": "69",
+                    "unit": "metres"
+                }
+            ],
+            "fact_id": "13_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Building a cathedral occasionally took over 100 years to complete.",
+            "vis_data": [
+                {
+                    "label": "Cathedral Construction Time",
+                    "value": "101",
+                    "unit": "years"
+                }
+            ],
+            "fact_id": "19_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The choir area was built from 1163 to 1177 CE.",
+            "vis_data": [
+                {
+                    "label": "Choir Area Construction",
+                    "value": "15",
+                    "unit": "years"
+                }
+            ],
+            "fact_id": "19_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The entire fl\u00e8che weighed 750 tonnes.",
+            "vis_data": [
+                {
+                    "label": "Fl\u00e8che Weight",
+                    "value": "750",
+                    "unit": "tonnes"
+                }
+            ],
+            "fact_id": "12_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The west rose window is 9.6 metres (31 ft) in diameter.",
+            "vis_data": [
+                {
+                    "label": "West Rose Diameter",
+                    "value": "9.6",
+                    "unit": "metres"
+                }
+            ],
+            "fact_id": "12_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The first buttresses had a reach of fifteen metres (50 ft) between the walls and counter-supports.",
+            "vis_data": [
+                {
+                    "label": "Buttress Reach",
+                    "value": "15",
+                    "unit": "metres"
+                },
+                {
+                    "label": "Buttress Reach",
+                    "value": "50",
+                    "unit": "ft"
+                }
+            ],
+            "fact_id": "12_2_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The two towers are 69 metres (226 ft) high.",
+            "vis_data": [
+                {
+                    "label": "Tower Height",
+                    "value": "69",
+                    "unit": "metres"
+                },
+                {
+                    "label": "Tower Height",
+                    "value": "226",
+                    "unit": "ft"
+                }
+            ],
+            "fact_id": "12_3_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The south rose in the transept is 12.9 metres (42 ft) in diameter.",
+            "vis_data": [
+                {
+                    "label": "South Rose Diameter",
+                    "value": "12.9",
+                    "unit": "metres"
+                }
+            ],
+            "fact_id": "12_4_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "With the claire-voie surrounding it, the south rose in the transept has a total diameter of 19 metres (62 ft).",
+            "vis_data": [
+                {
+                    "label": "South Rose Total Diameter",
+                    "value": "19",
+                    "unit": "metres"
+                }
+            ],
+            "fact_id": "12_4_5"
+        },
+        {
+            "fact_type": "extreme",
+            "fact_content": "Notre-Dame's vaults peaking at 32m high was the tallest building at that time.",
+            "vis_data": [
+                {
+                    "label": "Notre-Dame Vault Height",
+                    "value": "32",
+                    "unit": "m"
+                }
+            ],
+            "fact_id": "5_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The abbey church of Cluny was 29.50 m high.",
+            "vis_data": [
+                {
+                    "label": "Cluny Church Height",
+                    "value": "29.5",
+                    "unit": "m"
+                }
+            ],
+            "fact_id": "5_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Notre-Dame's nave is nearly 37 m wide.",
+            "vis_data": [
+                {
+                    "label": "Notre-Dame Nave Width",
+                    "value": "37",
+                    "unit": "m"
+                }
+            ],
+            "fact_id": "5_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Notre-Dame's nave is 125 m long.",
+            "vis_data": [
+                {
+                    "label": "Notre-Dame Nave Length",
+                    "value": "125",
+                    "unit": "m"
+                }
+            ],
+            "fact_id": "5_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cathedrals of Laon, Senlis, and Sens reached 24 m under the vault.",
+            "vis_data": [
+                {
+                    "label": "Laon, Senlis, Sens Vault Height",
+                    "value": "24",
+                    "unit": "m"
+                }
+            ],
+            "fact_id": "5_0_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Noyon cathedral reached 22 m under the vault.",
+            "vis_data": [
+                {
+                    "label": "Noyon Cathedral Vault Height",
+                    "value": "22",
+                    "unit": "m"
+                }
+            ],
+            "fact_id": "5_0_5"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Iron staples in Notre-Dame were designed 15 to 20 years earlier than tie-rods in Soissons cathedral.",
+            "vis_data": [
+                {
+                    "label": "Design Difference (Notre-Dame vs Soissons)",
+                    "value": "15-20",
+                    "unit": "years"
+                }
+            ],
+            "fact_id": "5_1_6"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Iron staples in Notre-Dame were designed about 40 years before iron reinforcements in Chartres or Bourges cathedral.",
+            "vis_data": [
+                {
+                    "label": "Design Difference (Notre-Dame vs Chartres/Bourges)",
+                    "value": "40",
+                    "unit": "years"
+                }
+            ],
+            "fact_id": "5_1_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cross-ribs of the outer ambulatory peaked at almost 11 m high.",
+            "vis_data": [
+                {
+                    "label": "Outer Ambulatory Height",
+                    "value": "11",
+                    "unit": "m"
+                }
+            ],
+            "fact_id": "5_1_8"
+        }
+    ]
+}

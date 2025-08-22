@@ -1,0 +1,43 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Notre-Dame\u2019s great organ \u2013 still there today \u2013 is located in front of the large rose window of the facade and was extended in 1992. The original organ was installed in Notre Dame during the Middle Ages (12th century), but its musical capacity was no longer enough for the cathedral. The contemporary organ features five keyboards, one hundred nine stops, and almost eight thousand pipes. According to the Notre-Dame website, it is France\u2019s largest organ.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The contemporary organ features five keyboards.",
+                    "vis_data": [
+                        {
+                            "label": "Keyboards",
+                            "value": "5",
+                            "unit": "count"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The contemporary organ features one hundred nine stops.",
+                    "vis_data": [
+                        {
+                            "label": "Stops",
+                            "value": "109",
+                            "unit": "count"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The contemporary organ features almost eight thousand pipes.",
+                    "vis_data": [
+                        {
+                            "label": "Pipes",
+                            "value": "8000",
+                            "unit": "count"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.44466271167354376
+        }
+    ]
+}

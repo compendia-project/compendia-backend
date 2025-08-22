@@ -1,0 +1,75 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "['Chinese electric vehicle (EV) maker BYD has reported annual revenue for 2024 that hasexceeded U.S. rival Tesla.', \"BBC News reports that the Shenzhen-based EV carmaker reported on March 25 that 2024 revenue rose by 29%, to 777 billion yuan ($107 billion), compared to the $97.7 billion reported by Elon Musk's Tesla.\", \"BYD sold around the same number of EVs as Tesla last year \u2013 1.76 million compared to 1.79 million, respectively. But when sales of the Chinese company's hybrid cars are taken into account it is much bigger, selling a record 4.3 million vehicles globally in 2024.\"]",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "2024 revenue rose by 29% for BYD.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue Growth",
+                            "value": "29",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD's 2024 revenue is 777 billion yuan ($107 billion).",
+                    "vis_data": [
+                        {
+                            "label": "BYD Revenue",
+                            "value": "777",
+                            "unit": "billion yuan"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's 2024 revenue is $97.7 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Revenue",
+                            "value": "97.7",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 1.76 million EVs in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "BYD EV Sales",
+                            "value": "1.76",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla sold 1.79 million EVs in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla EV Sales",
+                            "value": "1.79",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 4.3 million vehicles globally in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Global Sales",
+                            "value": "4.3",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "According to research completed by Exploding Topics, 77% of companies are either using or exploring the use of AI in their businesses, and 83% of companies claim that AI is a top priority in their business plans.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "77% of companies are either using or exploring the use of AI in their businesses.",
+                    "vis_data": [
+                        {
+                            "label": "Companies using/exploring AI",
+                            "value": "77",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "13_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "83% of companies claim that AI is a top priority in their business plans.",
+                    "vis_data": [
+                        {
+                            "label": "Companies prioritizing AI",
+                            "value": "83",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "13_0_1"
+                }
+            ],
+            "article_meta_data": {
+                "title": "131 AI Statistics and Trends (2025)",
+                "date": "Unknown",
+                "url": "https://www.nu.edu/blog/ai-statistics-trends/",
+                "id": 13
+            },
+            "para_id": "13_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "13_0",
+            "paragraph": "According to research completed by Exploding Topics, 77% of companies are either using or exploring the use of AI in their businesses, and 83% of companies claim that AI is a top priority in their business plans."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "13_0_0",
+            "fact_content": "77% of companies are either using or exploring the use of AI in their businesses."
+        },
+        {
+            "fact_id": "13_0_1",
+            "fact_content": "83% of companies claim that AI is a top priority in their business plans."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "77% of companies are either using or exploring the use of AI in their businesses.",
+            "vis_data": [
+                {
+                    "label": "Companies using/exploring AI",
+                    "value": "77",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "13_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "83% of companies claim that AI is a top priority in their business plans.",
+            "vis_data": [
+                {
+                    "label": "Companies prioritizing AI",
+                    "value": "83",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "13_0_1"
+        }
+    ]
+}

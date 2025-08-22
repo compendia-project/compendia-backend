@@ -1,0 +1,111 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "As of 2025, the population of Singapore is projected at 5.87 million, compared to 5.83 million in 2024. It ranks 115th in the world by population and 36th in Asia. The population growth rate in 2025 is projected at 0.63 percent, the 126th highest among 237 countries and dependent territories.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population of Singapore is projected at 5.87 million in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Population 2025",
+                            "value": "5.87",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "23_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population of Singapore is projected at 5.83 million in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population 2024",
+                            "value": "5.83",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "23_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population growth rate in 2025 is projected at 0.63 percent.",
+                    "vis_data": [
+                        {
+                            "label": "Growth Rate 2025",
+                            "value": "0.63",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_0_2"
+                }
+            ],
+            "relatedness_score": 0.6977323620958515,
+            "article_meta_data": {
+                "title": "Singapore Demographics 2025",
+                "date": "2025-06-22",
+                "url": "https://statisticstimes.com/demographics/country/singapore-demographics.php",
+                "id": 23
+            },
+            "para_id": "23_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "23_0",
+            "paragraph": "As of 2025, the population of Singapore is projected at 5.87 million, compared to 5.83 million in 2024. It ranks 115th in the world by population and 36th in Asia. The population growth rate in 2025 is projected at 0.63 percent, the 126th highest among 237 countries and dependent territories."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "23_0_0",
+            "fact_content": "The population of Singapore is projected at 5.87 million in 2025."
+        },
+        {
+            "fact_id": "23_0_1",
+            "fact_content": "The population of Singapore is projected at 5.83 million in 2024."
+        },
+        {
+            "fact_id": "23_0_2",
+            "fact_content": "The population growth rate in 2025 is projected at 0.63 percent."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The population of Singapore is projected at 5.87 million in 2025.",
+            "vis_data": [
+                {
+                    "label": "Population 2025",
+                    "value": "5.87",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "23_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The population of Singapore is projected at 5.83 million in 2024.",
+            "vis_data": [
+                {
+                    "label": "Population 2024",
+                    "value": "5.83",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "23_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The population growth rate in 2025 is projected at 0.63 percent.",
+            "vis_data": [
+                {
+                    "label": "Growth Rate 2025",
+                    "value": "0.63",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_0_2"
+        }
+    ]
+}

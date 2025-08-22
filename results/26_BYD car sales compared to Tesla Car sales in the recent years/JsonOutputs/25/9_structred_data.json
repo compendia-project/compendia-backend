@@ -1,0 +1,100 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "New car registrations data from the automotive intelligence firm shows that BYD's Europe volumes rose 359% in April from last year as the company continues its global expansion efforts.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD's Europe volumes rose 359% in April from last year.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Europe Volume Increase",
+                            "value": "359",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "25_0_0"
+                }
+            ],
+            "relatedness_score": 0.5983067181531259,
+            "article_meta_data": {
+                "title": "BYD beats Tesla in European EV sales despite higher tariffs",
+                "date": "2025-05-23",
+                "url": "https://www.cnbc.com/2025/05/23/byd-beats-tesla-in-european-ev-sales-despite-higher-tariffs-report.html",
+                "id": 25
+            },
+            "para_id": "25_0"
+        },
+        {
+            "paragraph": "Over the same period, Tesla reported yet another monthly drop, with total volumes down 49%, JATO said.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's total volumes down 49% over the same period.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Volume Decrease",
+                            "value": "49",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "25_1_1"
+                }
+            ],
+            "relatedness_score": 0.5212513613470757,
+            "article_meta_data": {
+                "title": "BYD beats Tesla in European EV sales despite higher tariffs",
+                "date": "2025-05-23",
+                "url": "https://www.cnbc.com/2025/05/23/byd-beats-tesla-in-european-ev-sales-despite-higher-tariffs-report.html",
+                "id": 25
+            },
+            "para_id": "25_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "25_0",
+            "paragraph": "New car registrations data from the automotive intelligence firm shows that BYD's Europe volumes rose 359% in April from last year as the company continues its global expansion efforts."
+        },
+        {
+            "para_id": "25_1",
+            "paragraph": "Over the same period, Tesla reported yet another monthly drop, with total volumes down 49%, JATO said."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "25_0_0",
+            "fact_content": "BYD's Europe volumes rose 359% in April from last year."
+        },
+        {
+            "fact_id": "25_1_1",
+            "fact_content": "Tesla's total volumes down 49% over the same period."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "BYD's Europe volumes rose 359% in April from last year.",
+            "vis_data": [
+                {
+                    "label": "BYD Europe Volume Increase",
+                    "value": "359",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "25_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Tesla's total volumes down 49% over the same period.",
+            "vis_data": [
+                {
+                    "label": "Tesla Volume Decrease",
+                    "value": "49",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "25_1_1"
+        }
+    ]
+}

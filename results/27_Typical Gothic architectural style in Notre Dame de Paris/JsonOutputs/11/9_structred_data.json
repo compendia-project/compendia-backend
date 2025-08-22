@@ -1,0 +1,111 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Notre-Dame\u2019s great organ \u2013 still there today \u2013 is located in front of the large rose window of the facade and was extended in 1992. The original organ was installed in Notre Dame during the Middle Ages (12th century), but its musical capacity was no longer enough for the cathedral. The contemporary organ features five keyboards, one hundred nine stops, and almost eight thousand pipes. According to the Notre-Dame website, it is France\u2019s largest organ.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The contemporary organ features five keyboards.",
+                    "vis_data": [
+                        {
+                            "label": "Keyboards",
+                            "value": "5",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "11_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The contemporary organ features one hundred nine stops.",
+                    "vis_data": [
+                        {
+                            "label": "Stops",
+                            "value": "109",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "11_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The contemporary organ features almost eight thousand pipes.",
+                    "vis_data": [
+                        {
+                            "label": "Pipes",
+                            "value": "8000",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "11_0_2"
+                }
+            ],
+            "relatedness_score": 0.44466271167354376,
+            "article_meta_data": {
+                "title": "Notre-Dame de Paris: a guide to the Gothic cathedral",
+                "date": "Unknown",
+                "url": "https://frenchmoments.eu/notre-dame-de-paris/",
+                "id": 11
+            },
+            "para_id": "11_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "11_0",
+            "paragraph": "Notre-Dame\u2019s great organ \u2013 still there today \u2013 is located in front of the large rose window of the facade and was extended in 1992. The original organ was installed in Notre Dame during the Middle Ages (12th century), but its musical capacity was no longer enough for the cathedral. The contemporary organ features five keyboards, one hundred nine stops, and almost eight thousand pipes. According to the Notre-Dame website, it is France\u2019s largest organ."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "11_0_0",
+            "fact_content": "The contemporary organ features five keyboards."
+        },
+        {
+            "fact_id": "11_0_1",
+            "fact_content": "The contemporary organ features one hundred nine stops."
+        },
+        {
+            "fact_id": "11_0_2",
+            "fact_content": "The contemporary organ features almost eight thousand pipes."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The contemporary organ features five keyboards.",
+            "vis_data": [
+                {
+                    "label": "Keyboards",
+                    "value": "5",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "11_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The contemporary organ features one hundred nine stops.",
+            "vis_data": [
+                {
+                    "label": "Stops",
+                    "value": "109",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "11_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The contemporary organ features almost eight thousand pipes.",
+            "vis_data": [
+                {
+                    "label": "Pipes",
+                    "value": "8000",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "11_0_2"
+        }
+    ]
+}

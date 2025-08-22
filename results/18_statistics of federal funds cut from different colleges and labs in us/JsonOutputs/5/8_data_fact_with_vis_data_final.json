@@ -1,0 +1,117 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Cuts to indirect funding from the NIH\u2014proposed to be capped at 15%\u2014and the shutdown of federal grant-making processes have already disrupted major research operations at public institutions like the University of California, Davis (UC Davis) and the University of Illinois. These are not isolated incidents. Across the nation, land-grant universities, minority-serving institutions, and research centers reliant on federal dollars are grappling with halted projects and staff layoffs.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cuts to indirect funding from the NIH proposed to be capped at 15%.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Funding Cap",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "A significant portion of public research in the U.S. is tied to federal funding. At UC Davis for example, researchers submitted $2.75 billion in federal grant proposals in fiscal year 2024. But with new rules in place, many of those dollars remain out of reach. Similar patterns are emerging nationwide, leaving institutions uncertain whether they can retain students or sustain vital programs. For instance, some graduate student enrollees at UC Davis who have not yet accepted their offers were moved to waitlists because of the unpredictability of current funding streams, UC President Michael Drake told Reuters.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "UC Davis researchers submitted $2.75 billion in federal grant proposals in fiscal year 2024.",
+                    "vis_data": [
+                        {
+                            "label": "UC Davis Grant Proposals",
+                            "value": "2750000000",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The NIH is the world\u2019s largest public funder of biomedical research, awarding over $48 billion annually\u2014more than 80% of which goes to grants at universities and hospitals. Harvard received nearly $488 million in NIH funding in FY 2024 alone.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The NIH awards over $48 billion annually for biomedical research.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Annual Funding",
+                            "value": "48000000000",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "More than 80% of NIH funding goes to grants at universities and hospitals.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Funding to Universities",
+                            "value": "80",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Harvard received nearly $488 million in NIH funding in FY 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Harvard NIH Funding",
+                            "value": "487999999",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Holmes, a STEM education researcher in Cornell\u2019s College of Arts and Sciences, recently learned that a $1.3 million project she co-authored had been recommended for funding\u2014only to see it stalled indefinitely due to the agency\u2019s funding freeze.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A $1.3 million project co-authored by Holmes was recommended for funding but stalled due to the funding freeze.",
+                    "vis_data": [
+                        {
+                            "label": "Holmes' Project Funding",
+                            "value": "1300000",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "\u201cIn October, my collaborators and I received notification that our $1.3M physics education research project was being recommended for funding,\u201d Holmes said in auniversity press release.The initiative was designed to help lab instructors nationwide adopt hands-on, research-based methods for teaching physics, with an anticipated reach of 45,000 STEM students annually.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Holmes' $1.3M physics education research project was recommended for funding.",
+                    "vis_data": [
+                        {
+                            "label": "Holmes' Project Funding",
+                            "value": "1300000",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The project was designed to reach 45,000 STEM students annually.",
+                    "vis_data": [
+                        {
+                            "label": "STEM Students Reached",
+                            "value": "45000",
+                            "unit": "students"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

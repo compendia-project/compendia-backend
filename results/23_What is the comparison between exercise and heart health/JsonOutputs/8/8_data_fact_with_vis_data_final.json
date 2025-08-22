@@ -1,0 +1,134 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Physical inactivity is a leading contributor to increased cardiovascular morbidity and mortality. Almost 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity, costing just over US$300 billion, or around US$ 27 billion annually (WHO 2022). Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease. Physical activity also helps in moderating cardiovascular disease risk factors such as high blood pressure, unhealthy weight and type 2 diabetes. For people with cardiovascular disease, hypertension, type 2 diabetes and many cancers, physical activity is an established and evidence-based part of treatment and management. For children and young people, physical activity affords important health benefits. Physical activity can also achieve important cross-sector goals. Increased walking and cycling can reduce journeys by vehicles, air pollution, and traffic congestion and contribute to increased safety and liveability in cities.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Almost 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity.",
+                    "vis_data": [
+                        {
+                            "label": "New NCD cases due to inactivity",
+                            "value": "500",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Physical inactivity will cost just over US$300 billion globally between 2020 and 2030.",
+                    "vis_data": [
+                        {
+                            "label": "Cost of inactivity (2020-2030)",
+                            "value": "300",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Physical inactivity will cost around US$ 27 billion annually.",
+                    "vis_data": [
+                        {
+                            "label": "Annual cost of inactivity",
+                            "value": "27",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease.",
+                    "vis_data": [
+                        {
+                            "label": "Risk reduction in active adults",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Physical inactivity is an important risk factor for cardiovascular disease. Evidence indicates there is an inverse dose-response relationship between physical activity and cardiovascular disease and mortality risk (Lee et al., 2012). In other words, the less physical activity, the greater risk of death from cardiovascular disease. The World Health Organization reports that about 7\u20138% of all cases of cardiovascular disease could be prevented if more people were physically active (WHO 2022). Indeed, by 2030, WHO estimates around 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity, costing US$ 27 billion annually (WHO 2022).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "About 7\u20138% of all cases of cardiovascular disease could be prevented if more people were physically active.",
+                    "vis_data": [
+                        {
+                            "label": "Preventable CVD cases",
+                            "value": "7",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Preventable CVD cases",
+                            "value": "8",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "WHO estimates around 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity.",
+                    "vis_data": [
+                        {
+                            "label": "New NCD cases due to inactivity",
+                            "value": "500",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Physical inactivity will cost US$ 27 billion annually.",
+                    "vis_data": [
+                        {
+                            "label": "Annual cost of inactivity",
+                            "value": "27",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Systematic reviews and meta-analyses have confirmed that moderate-to-vigorous physical activity (MVPA) decreases the likelihood of someone developing and suffering from coronary artery disease. Engaging in physical activity at a level that achieves or exceeds physical activity guidelines is associated with around a 35% reduction in risk of death from cardiovascular disease (Nocon et al., 2008). This is also reflected in recent systematic reviews conducted as part of global and national physical activity guideline processes. For example, the United Kingdom Chief Medical Officers\u2019 Physical Activity Guidelines conclude that physical activity reduces the risk of cardiovascular disease by 35% in adults and older adults (Department of Health and Social Care, 2019). The WHO has estimated physical inactivity to be the cause of approximately 30% of ischaemic heart disease (WHO, 2010).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Engaging in physical activity at a level that achieves or exceeds physical activity guidelines is associated with around a 35% reduction in risk of death from cardiovascular disease.",
+                    "vis_data": [
+                        {
+                            "label": "Risk reduction with MVPA",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Physical activity reduces the risk of cardiovascular disease by 35% in adults and older adults.",
+                    "vis_data": [
+                        {
+                            "label": "CVD risk reduction in adults",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Physical inactivity is the cause of approximately 30% of ischaemic heart disease.",
+                    "vis_data": [
+                        {
+                            "label": "Ischaemic heart disease due to inactivity",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

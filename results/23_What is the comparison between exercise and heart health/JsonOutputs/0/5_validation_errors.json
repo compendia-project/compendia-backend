@@ -1,0 +1,38 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "Physical activity recommendations from theAmerican Heart Associationstate adults should get:",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adults should get 300 total minutes of any physical activity weekly.",
+                    "vis_data": [
+                        {
+                            "label": "Weekly Physical Activity",
+                            "value": "300",
+                            "unit": "minutes"
+                        }
+                    ],
+                    "error": [
+                        "The paragraph does not explicitly mention '300 total minutes of any physical activity weekly'."
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Moderate to high intensity muscle strengthening at least twice a week.",
+                    "vis_data": [
+                        {
+                            "label": "Muscle Strengthening Frequency",
+                            "value": "2",
+                            "unit": "times per week"
+                        }
+                    ],
+                    "error": [
+                        "The paragraph does not explicitly mention 'Moderate to high intensity muscle strengthening at least twice a week'."
+                    ]
+                }
+            ]
+        }
+    ]
+}

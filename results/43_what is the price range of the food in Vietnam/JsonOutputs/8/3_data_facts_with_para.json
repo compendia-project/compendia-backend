@@ -1,0 +1,117 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "['RestaurantsEditRangeMeal, Inexpensive Restaurant50,000.00 \u20ab30,000.00-100,000.00Meal for 2 People, Mid-range Restaurant, Three-course500,000.00 \u20ab341,162.58-1,312,163.78McMeal at McDonalds (or Equivalent Combo Meal)118,500.00 \u20ab95,000.00-150,000.00Domestic Beer (0.5 liter draught)25,000.00 \u20ab15,000.00-50,000.00Imported Beer (0.33 liter bottle)40,000.00 \u20ab25,000.00-70,000.00Cappuccino (regular)43,495.63 \u20ab19,738.11-75,000.00Coke/Pepsi (0.33 liter bottle)12,777.51 \u20ab10,000.00-20,000.00Water (0.33 liter bottle)7,519.55 \u20ab5,000.00-15,000.00MarketsEditMilk (regular), (1 liter)36,464.38 \u20ab29,906.22-45,000.00Loaf of Fresh White Bread (500g)24,056.76 \u20ab10,000.00-50,000.00Rice (white), (1kg)24,484.78 \u20ab15,778.75-39,000.00Eggs (regular) (12)38,624.44 \u20ab24,000.00-51,282.00Local Cheese (1kg)299,733.32 \u20ab145,000.00-600,000.00Chicken Fillets (1kg)96,253.80 \u20ab50,000.00-150,000.00Beef Round (1kg) (or Equivalent Back Leg Red Meat)267,141.37 \u20ab150,000.00-360,000.00Apples (1kg)73,254.89 \u20ab35,000.00-130,000.00Banana (1kg)27,886.44 \u20ab15,000.00-50,000.00Oranges (1kg)35,002.28 \u20ab12,000.00-100,000.00Tomato (1kg)28,689.66 \u20ab12,000.00-50,000.00Potato (1kg)29,142.86 \u20ab15,000.00-45,000.00Onion (1kg)30,372.93 \u20ab15,000.00-50,000.00Lettuce (1 head)18,394.58 \u20ab10,000.00-30,000.00Water (1.5 liter bottle)12,739.37 \u20ab10,000.00-20,000.00Bottle of Wine (Mid-Range)269,726.25 \u20ab150,000.00-500,000.00Domestic Beer (0.5 liter bottle)21,631.96 \u20ab12,000.00-33,000.00Imported Beer (0.33 liter bottle)38,641.56 \u20ab18,000.00-70,000.00Cigarettes 20 Pack (Marlboro)35,000.00 \u20ab30,000.00-45,000.00']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Inexpensive Restaurant meal costs 50,000.00 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Meal for 2 People, Mid-range Restaurant, Three-course costs 500,000.00 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "McMeal at McDonalds (or Equivalent Combo Meal) costs 118,500.00 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Domestic Beer (0.5 liter draught) costs 25,000.00 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Imported Beer (0.33 liter bottle) costs 40,000.00 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cappuccino (regular) costs 43,495.63 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Coke/Pepsi (0.33 liter bottle) costs 12,777.51 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Water (0.33 liter bottle) costs 7,519.55 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Milk (regular), (1 liter) costs 36,464.38 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Loaf of Fresh White Bread (500g) costs 24,056.76 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Rice (white), (1kg) costs 24,484.78 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Eggs (regular) (12) costs 38,624.44 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Local Cheese (1kg) costs 299,733.32 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Chicken Fillets (1kg) costs 96,253.80 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Beef Round (1kg) (or Equivalent Back Leg Red Meat) costs 267,141.37 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Apples (1kg) costs 73,254.89 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Banana (1kg) costs 27,886.44 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Oranges (1kg) costs 35,002.28 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tomato (1kg) costs 28,689.66 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Potato (1kg) costs 29,142.86 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Onion (1kg) costs 30,372.93 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Lettuce (1 head) costs 18,394.58 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Water (1.5 liter bottle) costs 12,739.37 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bottle of Wine (Mid-Range) costs 269,726.25 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Domestic Beer (0.5 liter bottle) costs 21,631.96 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Imported Beer (0.33 liter bottle) costs 38,641.56 \u20ab."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cigarettes 20 Pack (Marlboro) costs 35,000.00 \u20ab."
+                }
+            ]
+        }
+    ]
+}

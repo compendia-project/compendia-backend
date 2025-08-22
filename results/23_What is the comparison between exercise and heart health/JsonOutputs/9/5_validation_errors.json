@@ -1,0 +1,80 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "Results:Exercise improved systolic blood pressure [SMD\u000f=\u000f\u22120.33 (95% CI, \u22120.62 to \u22120.05),p=\u000f0.02], diastolic blood pressure [SMD\u000f=\u000f\u22120.52 (95% CI, \u22120.92 to \u22120.12),p=\u000f0.01], and resting heart rate [SMD\u000f=\u000f\u22120.30 (95% CI, \u22120.50 to \u22120.10),p=\u000f0.004]. However, no significant effects were observed for total cholesterol [SMD\u000f=\u000f\u22120.03 (95% CI: \u22120.24 to 0.18),p=\u000f0.78], HDL cholesterol [SMD\u000f=\u000f0.06 (95% CI: \u22120.16 to 0.27),p=\u000f0.6], LDL cholesterol [SMD\u000f=\u000f\u22120.21 (95% CI: \u22120.59 to 0.18),p=\u000f0.29], triglycerides [SMD\u000f=\u000f\u22120.11 (95% CI: \u22120.42 to 0.21),p=\u000f0.51], or body mass index [SMD\u000f=\u000f0.01 (95% CI: \u22120.16 to 0.17),p=\u000f0.94].",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise improved systolic blood pressure with SMD = \u22120.33 (95% CI, \u22120.62 to \u22120.05), p = 0.02.",
+                    "vis_data": [
+                        {
+                            "label": "Systolic BP Improvement",
+                            "value": "-0.33",
+                            "unit": "SMD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise improved diastolic blood pressure with SMD = \u22120.52 (95% CI, \u22120.92 to \u22120.12), p = 0.01.",
+                    "vis_data": [
+                        {
+                            "label": "Diastolic BP Improvement",
+                            "value": "-0.52",
+                            "unit": "SMD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise improved resting heart rate with SMD = \u22120.30 (95% CI, \u22120.50 to \u22120.10), p = 0.004.",
+                    "vis_data": [
+                        {
+                            "label": "Resting Heart Rate Improvement",
+                            "value": "-0.30",
+                            "unit": "SMD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Eleven studies (20,21,23\u201329,32,33) reported systolic blood pressure and included 814 subjects. Two studies (23,26) divided the intervention group into two groups of different intensities. Thirteen were therefore included in the meta-analysis, and a random effects model was used due to the high heterogeneity present in this review (I2=\u000f70%,p<\u000f0.0001). The results showed that with a combined sample size of 832, there was sufficiently strong evidence of a small reduction in Systolic blood pressure in the exercise intervention group compared with the control group (SMD\u000f=\u000f\u22120.33, 95% CI\u000f=\u000f[\u22120.62, \u22120.05],p=\u000f0.02) (Figure 3). In addition, RCT and non-RCT were analyzed in separate subgroups, and the results showed that exercise was effective in lowering systolic blood pressure in the RCT group (SMD\u000f=\u000f\u22120.45, 95% CI\u000f=\u000f[\u22120.83, \u22120.08,p<\u000f0.001]), while the non-RCT group showed that exercise did not lower systolic blood pressure (SMD\u000f=\u000f0.01, 95% CI\u000f=\u000f[\u22120.21, 0.24,p=\u000f0.091]) (seeSupplementary file).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise was effective in lowering systolic blood pressure in the RCT group with SMD = \u22120.45, 95% CI = [\u22120.83, \u22120.08], p < 0.001.",
+                    "vis_data": [
+                        {
+                            "label": "RCT Systolic BP Improvement",
+                            "value": "-0.45",
+                            "unit": "SMD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Eleven studies (20,21,23\u201327,29,30,32,33) reported diastolic blood pressure and included 736 subjects. Two (23,26) studies divided the intervention group into two groups of different intensities. Therefore 13 were included in the meta-analysis, and a random effects model was used due to the high heterogeneity present in this review (I2=\u000f82%,p<\u000f0.00001). The results showed that with a combined sample size of 754, there was sufficiently strong evidence that the exercise intervention group significantly reduced diastolic blood pressure compared with the control group (SMD\u000f=\u000f\u22120.52, 95% CI\u000f=\u000f[\u22120.92, \u22120.12],p=\u000f0.01) (Figure 4). In addition, RCT and non-RCT were analyzed in separate subgroups, and the results showed that exercise was effective in lowering diastolic blood pressure in the RCT group (SMD\u000f=\u000f\u22120.72, 95% CI\u000f=\u000f[\u22121.27, \u22120.17,p<\u000f0.001]), while the non-RCT group showed that exercise did not lower diastolic blood pressure (SMD\u000f=\u000f0.01, 95% CI\u000f=\u000f[\u22120.21, 0.24,p=\u000f0.88]) (seeSupplementary file).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise was effective in lowering diastolic blood pressure in the RCT group with SMD = \u22120.72, 95% CI = [\u22121.27, \u22120.17], p < 0.001.",
+                    "vis_data": [
+                        {
+                            "label": "RCT Diastolic BP Improvement",
+                            "value": "-0.72",
+                            "unit": "SMD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

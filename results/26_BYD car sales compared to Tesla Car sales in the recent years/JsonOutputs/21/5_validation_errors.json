@@ -1,0 +1,42 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "Tesla sold101,101vehicles in January 2025, making it the 2nd most popular EV manufacturer after BYD.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla sold 101,101 vehicles in January 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Vehicles Sold",
+                            "value": "101101",
+                            "unit": "vehicles"
+                        }
+                    ],
+                    "error": [
+                        "Missing space in the paragraph between 'sold' and '101,101'.",
+                        "The fact content and vis_data value are correct, but the paragraph has a formatting issue."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "To put in a perspective, Tesla reached 113,978 vehicle registrations in January 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla reached 113,978 vehicle registrations in January 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Vehicle Registrations",
+                            "value": "113978",
+                            "unit": "vehicles"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

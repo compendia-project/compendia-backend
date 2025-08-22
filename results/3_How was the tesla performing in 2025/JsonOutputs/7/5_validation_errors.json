@@ -1,0 +1,51 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "While the Tesla Model Y and Model 3 have been the two best-selling models in the United States since 2020, the 110 new models that have entered the market since then have driven the market share of Tesla down from 60% in 2020 to 38% in 2024. Furthermore, 2024 was the first year in which Tesla saw a drop in sales in the United States, while other OEMs saw sales increase by 20% on aggregate.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Tesla's market share decreased from 60% in 2020 to 38% in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Market Share 2020",
+                            "value": "60",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Tesla Market Share 2024",
+                            "value": "38",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "110 new models entered the market since 2020.",
+                    "vis_data": [
+                        {
+                            "label": "New Models Entered",
+                            "value": "110",
+                            "unit": "models"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Other OEMs saw sales increase by 20% on aggregate in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "OEM Sales Increase 2024",
+                            "value": "20",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Sales increased by 2%* YoY, with 54%* growth in market area North America. Market area Europe and Latin America also grew, while the other market areas declined significantly. Reported sales were SEK 72.9 (71.9) b.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sales increased by 2% YoY.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Increase",
+                            "value": "2",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "54% growth in market area North America.",
+                    "vis_data": [
+                        {
+                            "label": "North America Growth",
+                            "value": "54",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Reported sales were SEK 72.9 b.",
+                    "vis_data": [
+                        {
+                            "label": "Reported Sales",
+                            "value": "72.9",
+                            "unit": "SEK b"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Sales declined by -5%*, impacted by a -6%* sales decrease in Networks. Reported sales were SEK 247.9 (263.4) b.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sales declined by -5%.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Decline",
+                            "value": "-5",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "-6% sales decrease in Networks.",
+                    "vis_data": [
+                        {
+                            "label": "Networks Sales Decrease",
+                            "value": "-6",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Reported sales were SEK 247.9 b.",
+                    "vis_data": [
+                        {
+                            "label": "Reported Sales",
+                            "value": "247.9",
+                            "unit": "SEK b"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2024 sales grew by 17% YoY, which was exceptional given market conditions. Growth was driven by strong demand for private 5G and neutral host solutions, as well as customer contract renewals, and expansion in WWAN & Security solutions. In Q4, sales growth also accelerated, boosting momentum heading into 2025.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "In 2024 sales grew by 17% YoY.",
+                    "vis_data": [
+                        {
+                            "label": "2024 Sales Growth",
+                            "value": "17",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

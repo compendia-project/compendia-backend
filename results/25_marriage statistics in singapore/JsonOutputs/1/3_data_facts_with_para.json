@@ -1,0 +1,61 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "The birth control policies were so effective that the birth rate declined from 6.55 births per woman in 1947 to 4.62 in 1965 to 1.7 in 1992.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Birth rate declined from 6.55 births per woman in 1947 to 4.62 in 1965."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Birth rate declined from 4.62 births per woman in 1965 to 1.7 in 1992."
+                }
+            ]
+        },
+        {
+            "paragraph": "Former Prime Minister Lee Kuan Yew felt that the drop in the birth rate among the well educated would cause a \u201cthinning of the gene pool\u201d. Lee felt that better-educated women should be mothers. He cited the 1980 census showing women with secondary or tertiary education were having an average of 1.65 children, compared with uneducated women who were having three children on average.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Women with secondary or tertiary education were having an average of 1.65 children compared with uneducated women who were having three children on average."
+                }
+            ]
+        },
+        {
+            "paragraph": "In sum, the absolute number of marriages has declined by 1,718 \u2013 from 26,081 in 2009 to 24,363 in 2010. This is a reverse in trend, as there was an increase in the absolute number of marriages yearly from 2005 to 2009.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The absolute number of marriages declined by 1,718 from 26,081 in 2009 to 24,363 in 2010."
+                }
+            ]
+        },
+        {
+            "paragraph": "Among ever-married females aged 40 to 49 years who were likely to have had children, the proportion with one child increased from 15 percent in 2000 to 19 percent in 2010, while those who were childless increased from 6.4 percent to 9.3 percent.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Proportion of ever-married females aged 40 to 49 with one child increased from 15% in 2000 to 19% in 2010."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Proportion of ever-married females aged 40 to 49 who were childless increased from 6.4% to 9.3%."
+                }
+            ]
+        },
+        {
+            "paragraph": "The number of divorces has also been rising, although at a more moderate pace in the last five years. Divorces and annulments increased by 19 cases from 7,386 in 2009 to 7,405 in 2010, a smaller increase compared to the increase of 170 cases from 2008 to 2009.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Divorces and annulments increased by 19 cases from 7,386 in 2009 to 7,405 in 2010."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Divorces and annulments increased by 170 cases from 2008 to 2009."
+                }
+            ]
+        }
+    ]
+}

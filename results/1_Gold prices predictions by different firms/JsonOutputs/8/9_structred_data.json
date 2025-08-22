@@ -1,0 +1,626 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "JPMorgan Chase & Co. foresees an opportunity in gold ahead of a potential US recession that could be caused by a new cycle of rate cuts by the US Federal Reserve. It had predicted that prices would push past $2,000 an ounce by the end of 2023. In December 2023, gold prices hit $2,071, reacting to a new central bank monetary policy and rising haven demand. As interest rates start to fall, prices could hit fresh records in 2024. JP Morgan has an average price target of $2,175 per ounce for bullion in the final quarter of 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold prices hit $2,071 in December 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Dec 2023",
+                            "value": "2071",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "JP Morgan has an average price target of $2,175 per ounce for bullion in the final quarter of 2024.",
+                    "vis_data": [
+                        {
+                            "label": "JP Morgan Target Q4 2024",
+                            "value": "2175",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_0_1"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_0"
+        },
+        {
+            "paragraph": "Gold\u2019s price forecast for Q1 2024 at Bloomberg Terminal is between $1,913.63-$2,224.22.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold\u2019s price forecast for Q1 2024 at Bloomberg Terminal is between $1,913.63-$2,224.22.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Forecast Q1 2024 Min",
+                            "value": "1913.63",
+                            "unit": "USD/ounce"
+                        },
+                        {
+                            "label": "Gold Price Forecast Q1 2024 Max",
+                            "value": "2224.22",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_1_2"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_1"
+        },
+        {
+            "paragraph": "Goldman Sachs commodity analysts expect the potential upside of the gold price to be closely tied to changes in US interest rates and dollar movements, leading them to raise the gold price target for 2024 to $2,050 an ounce. Increasing consumer demand from China and India could also affect the price of gold.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Goldman Sachs raised the gold price target for 2024 to $2,050 an ounce.",
+                    "vis_data": [
+                        {
+                            "label": "Goldman Sachs Target 2024",
+                            "value": "2050",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_2_3"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_2"
+        },
+        {
+            "paragraph": "ING anticipates continued strength in gold prices and expects them to average $2,031 per ounce in 2024, with a fourth-quarter average of $2,100 per ounce.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "ING expects gold prices to average $2,031 per ounce in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "ING Average 2024",
+                            "value": "2031",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_3_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "ING expects a fourth-quarter average of $2,100 per ounce in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "ING Q4 Average 2024",
+                            "value": "2100",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_3_5"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_3"
+        },
+        {
+            "paragraph": "The World Bank estimated that the price of gold will be around $1,900 in 2023, foreseeing that heightened geopolitical risks could make safe-haven assets more desirable to investors. In 2024, it predicts that the price will be an average of $1,950 per ounce.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The World Bank estimated the price of gold will be around $1,900 in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "World Bank Estimate 2023",
+                            "value": "1900",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_4_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The World Bank predicts the price of gold will be an average of $1,950 per ounce in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "World Bank Average 2024",
+                            "value": "1950",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_4_7"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_4"
+        },
+        {
+            "paragraph": "Many banks, including Goldman Sachs, Citi, ANZ, and Commerzbank, raised their initial forecasts for gold, as they were faced with the possibility of a banking crisis. Goldman Sachs analysts initially expected the price of gold to remain stable in the period between 2023 and 2026, at around $1,970 an ounce. They hiked their 12-month gold forecasts to $2,050 an ounce.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Goldman Sachs analysts initially expected the price of gold to remain stable at around $1,970 an ounce between 2023 and 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Goldman Sachs Stable 2023-2026",
+                            "value": "1970",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_5_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Goldman Sachs hiked their 12-month gold forecasts to $2,050 an ounce.",
+                    "vis_data": [
+                        {
+                            "label": "Goldman Sachs 12-Month Forecast",
+                            "value": "2050",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_5_9"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_5"
+        },
+        {
+            "paragraph": "Gold\u2019s price forecast for 2025 at the Bloomberg Terminal is between $1,709.47 and $2,727.94.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold\u2019s price forecast for 2025 at the Bloomberg Terminal is between $1,709.47 and $2,727.94.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Forecast 2025 Min",
+                            "value": "1709.47",
+                            "unit": "USD/ounce"
+                        },
+                        {
+                            "label": "Gold Price Forecast 2025 Max",
+                            "value": "2727.94",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_6_10"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_6"
+        },
+        {
+            "paragraph": "Bloomberg Intelligence Strategist Mike McGlone predicts that both gold and its \u201cdigital version,\u201d bitcoin, will appreciate by 2025. The price of gold has shown divergence strength, being up 84% since 2015, when the Fed just started its tightening, and could be heading for $7,000 by 2025.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold could be heading for $7,000 by 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Target 2025",
+                            "value": "7000",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_7_11"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_7"
+        },
+        {
+            "paragraph": "Despite the complexity of long-term price predictions, there are different scenarios and long-term price forecasts for gold from 2030-50. Those range from gold reaching $10,000 per ounce, replacing the US dollar alongside Bitcoin, and even the scenario of the world running out of gold by 2050, faced with growing demand.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold could reach $10,000 per ounce by 2050.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Target 2050",
+                            "value": "10000",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_8_12"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_8"
+        },
+        {
+            "paragraph": "The $7,000 an-ounce scenario seems to persist in gold forecasts for 2030. In the Rational Case for $7,000 Gold by 2030, economist Charlie Morris predicts the $7,000 price milestone. Morris describes gold as the leading major asset class in the 21st century, which is an extraordinary achievement given that gold doesn\u2019t pay a yield.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Economist Charlie Morris predicts gold will reach $7,000 by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Target 2030",
+                            "value": "7000",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_9_13"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_9"
+        },
+        {
+            "paragraph": "David Harper predicted that the price of gold could reach $6,800 an ounce by 2040, estimating a rate of return of 7.2% per year. This scenario, according to Harper, describes a reasonable return.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "David Harper predicted the price of gold could reach $6,800 an ounce by 2040.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Target 2040",
+                            "value": "6800",
+                            "unit": "USD/ounce"
+                        }
+                    ],
+                    "fact_id": "8_10_14"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold price forecasts for 2024-2050",
+                "date": "Unknown",
+                "url": "https://www.axi.com/int/blog/education/commodities/gold-price-forecasts",
+                "id": 8
+            },
+            "para_id": "8_10"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "8_0",
+            "paragraph": "JPMorgan Chase & Co. foresees an opportunity in gold ahead of a potential US recession that could be caused by a new cycle of rate cuts by the US Federal Reserve. It had predicted that prices would push past $2,000 an ounce by the end of 2023. In December 2023, gold prices hit $2,071, reacting to a new central bank monetary policy and rising haven demand. As interest rates start to fall, prices could hit fresh records in 2024. JP Morgan has an average price target of $2,175 per ounce for bullion in the final quarter of 2024."
+        },
+        {
+            "para_id": "8_1",
+            "paragraph": "Gold\u2019s price forecast for Q1 2024 at Bloomberg Terminal is between $1,913.63-$2,224.22."
+        },
+        {
+            "para_id": "8_2",
+            "paragraph": "Goldman Sachs commodity analysts expect the potential upside of the gold price to be closely tied to changes in US interest rates and dollar movements, leading them to raise the gold price target for 2024 to $2,050 an ounce. Increasing consumer demand from China and India could also affect the price of gold."
+        },
+        {
+            "para_id": "8_3",
+            "paragraph": "ING anticipates continued strength in gold prices and expects them to average $2,031 per ounce in 2024, with a fourth-quarter average of $2,100 per ounce."
+        },
+        {
+            "para_id": "8_4",
+            "paragraph": "The World Bank estimated that the price of gold will be around $1,900 in 2023, foreseeing that heightened geopolitical risks could make safe-haven assets more desirable to investors. In 2024, it predicts that the price will be an average of $1,950 per ounce."
+        },
+        {
+            "para_id": "8_5",
+            "paragraph": "Many banks, including Goldman Sachs, Citi, ANZ, and Commerzbank, raised their initial forecasts for gold, as they were faced with the possibility of a banking crisis. Goldman Sachs analysts initially expected the price of gold to remain stable in the period between 2023 and 2026, at around $1,970 an ounce. They hiked their 12-month gold forecasts to $2,050 an ounce."
+        },
+        {
+            "para_id": "8_6",
+            "paragraph": "Gold\u2019s price forecast for 2025 at the Bloomberg Terminal is between $1,709.47 and $2,727.94."
+        },
+        {
+            "para_id": "8_7",
+            "paragraph": "Bloomberg Intelligence Strategist Mike McGlone predicts that both gold and its \u201cdigital version,\u201d bitcoin, will appreciate by 2025. The price of gold has shown divergence strength, being up 84% since 2015, when the Fed just started its tightening, and could be heading for $7,000 by 2025."
+        },
+        {
+            "para_id": "8_8",
+            "paragraph": "Despite the complexity of long-term price predictions, there are different scenarios and long-term price forecasts for gold from 2030-50. Those range from gold reaching $10,000 per ounce, replacing the US dollar alongside Bitcoin, and even the scenario of the world running out of gold by 2050, faced with growing demand."
+        },
+        {
+            "para_id": "8_9",
+            "paragraph": "The $7,000 an-ounce scenario seems to persist in gold forecasts for 2030. In the Rational Case for $7,000 Gold by 2030, economist Charlie Morris predicts the $7,000 price milestone. Morris describes gold as the leading major asset class in the 21st century, which is an extraordinary achievement given that gold doesn\u2019t pay a yield."
+        },
+        {
+            "para_id": "8_10",
+            "paragraph": "David Harper predicted that the price of gold could reach $6,800 an ounce by 2040, estimating a rate of return of 7.2% per year. This scenario, according to Harper, describes a reasonable return."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "Gold prices hit $2,071 in December 2023."
+        },
+        {
+            "fact_id": "8_0_1",
+            "fact_content": "JP Morgan has an average price target of $2,175 per ounce for bullion in the final quarter of 2024."
+        },
+        {
+            "fact_id": "8_1_2",
+            "fact_content": "Gold\u2019s price forecast for Q1 2024 at Bloomberg Terminal is between $1,913.63-$2,224.22."
+        },
+        {
+            "fact_id": "8_2_3",
+            "fact_content": "Goldman Sachs raised the gold price target for 2024 to $2,050 an ounce."
+        },
+        {
+            "fact_id": "8_3_4",
+            "fact_content": "ING expects gold prices to average $2,031 per ounce in 2024."
+        },
+        {
+            "fact_id": "8_3_5",
+            "fact_content": "ING expects a fourth-quarter average of $2,100 per ounce in 2024."
+        },
+        {
+            "fact_id": "8_4_6",
+            "fact_content": "The World Bank estimated the price of gold will be around $1,900 in 2023."
+        },
+        {
+            "fact_id": "8_4_7",
+            "fact_content": "The World Bank predicts the price of gold will be an average of $1,950 per ounce in 2024."
+        },
+        {
+            "fact_id": "8_5_8",
+            "fact_content": "Goldman Sachs analysts initially expected the price of gold to remain stable at around $1,970 an ounce between 2023 and 2026."
+        },
+        {
+            "fact_id": "8_5_9",
+            "fact_content": "Goldman Sachs hiked their 12-month gold forecasts to $2,050 an ounce."
+        },
+        {
+            "fact_id": "8_6_10",
+            "fact_content": "Gold\u2019s price forecast for 2025 at the Bloomberg Terminal is between $1,709.47 and $2,727.94."
+        },
+        {
+            "fact_id": "8_7_11",
+            "fact_content": "Gold could be heading for $7,000 by 2025."
+        },
+        {
+            "fact_id": "8_8_12",
+            "fact_content": "Gold could reach $10,000 per ounce by 2050."
+        },
+        {
+            "fact_id": "8_9_13",
+            "fact_content": "Economist Charlie Morris predicts gold will reach $7,000 by 2030."
+        },
+        {
+            "fact_id": "8_10_14",
+            "fact_content": "David Harper predicted the price of gold could reach $6,800 an ounce by 2040."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Gold prices hit $2,071 in December 2023.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Dec 2023",
+                    "value": "2071",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "JP Morgan has an average price target of $2,175 per ounce for bullion in the final quarter of 2024.",
+            "vis_data": [
+                {
+                    "label": "JP Morgan Target Q4 2024",
+                    "value": "2175",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Gold\u2019s price forecast for Q1 2024 at Bloomberg Terminal is between $1,913.63-$2,224.22.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Forecast Q1 2024 Min",
+                    "value": "1913.63",
+                    "unit": "USD/ounce"
+                },
+                {
+                    "label": "Gold Price Forecast Q1 2024 Max",
+                    "value": "2224.22",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Goldman Sachs raised the gold price target for 2024 to $2,050 an ounce.",
+            "vis_data": [
+                {
+                    "label": "Goldman Sachs Target 2024",
+                    "value": "2050",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_2_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "ING expects gold prices to average $2,031 per ounce in 2024.",
+            "vis_data": [
+                {
+                    "label": "ING Average 2024",
+                    "value": "2031",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_3_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "ING expects a fourth-quarter average of $2,100 per ounce in 2024.",
+            "vis_data": [
+                {
+                    "label": "ING Q4 Average 2024",
+                    "value": "2100",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_3_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The World Bank estimated the price of gold will be around $1,900 in 2023.",
+            "vis_data": [
+                {
+                    "label": "World Bank Estimate 2023",
+                    "value": "1900",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_4_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The World Bank predicts the price of gold will be an average of $1,950 per ounce in 2024.",
+            "vis_data": [
+                {
+                    "label": "World Bank Average 2024",
+                    "value": "1950",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_4_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Goldman Sachs analysts initially expected the price of gold to remain stable at around $1,970 an ounce between 2023 and 2026.",
+            "vis_data": [
+                {
+                    "label": "Goldman Sachs Stable 2023-2026",
+                    "value": "1970",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_5_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Goldman Sachs hiked their 12-month gold forecasts to $2,050 an ounce.",
+            "vis_data": [
+                {
+                    "label": "Goldman Sachs 12-Month Forecast",
+                    "value": "2050",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_5_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Gold\u2019s price forecast for 2025 at the Bloomberg Terminal is between $1,709.47 and $2,727.94.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Forecast 2025 Min",
+                    "value": "1709.47",
+                    "unit": "USD/ounce"
+                },
+                {
+                    "label": "Gold Price Forecast 2025 Max",
+                    "value": "2727.94",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_6_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Gold could be heading for $7,000 by 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Target 2025",
+                    "value": "7000",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_7_11"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Gold could reach $10,000 per ounce by 2050.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Target 2050",
+                    "value": "10000",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_8_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Economist Charlie Morris predicts gold will reach $7,000 by 2030.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Target 2030",
+                    "value": "7000",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_9_13"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "David Harper predicted the price of gold could reach $6,800 an ounce by 2040.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Target 2040",
+                    "value": "6800",
+                    "unit": "USD/ounce"
+                }
+            ],
+            "fact_id": "8_10_14"
+        }
+    ]
+}

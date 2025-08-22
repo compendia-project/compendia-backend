@@ -1,0 +1,171 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "New AI statistics show that 35% of companies are using AI and 42% of companies are exploring AI for its implementation in the future.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "35% of companies are using AI.",
+                    "vis_data": [
+                        {
+                            "label": "Companies using AI",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "42% of companies are exploring AI for its implementation in the future.",
+                    "vis_data": [
+                        {
+                            "label": "Companies exploring AI",
+                            "value": "42",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Nowadays, 77% of businesses are using or exploring AI. Among them, 35% of companies are using AI and 42% of companies are exploring AI for its implementation in the future.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "77% of businesses are using or exploring AI.",
+                    "vis_data": [
+                        {
+                            "label": "Businesses using/exploring AI",
+                            "value": "77",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "35% of companies are using AI.",
+                    "vis_data": [
+                        {
+                            "label": "Companies using AI",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "42% of companies are exploring AI for its implementation in the future.",
+                    "vis_data": [
+                        {
+                            "label": "Companies exploring AI",
+                            "value": "42",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The growth of AI has been exponential in recent years. According to a report by Tractica, the global AI market is expected to grow from $9.5 billion in 2018 to $118.6 billion by 2025.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The global AI market is expected to grow from $9.5 billion in 2018 to $118.6 billion by 2025.",
+                    "vis_data": [
+                        {
+                            "label": "AI market 2018",
+                            "value": "9.5",
+                            "unit": "billion USD"
+                        },
+                        {
+                            "label": "AI market 2025",
+                            "value": "118.6",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "This represents a compound annual growth rate (CAGR) of 36.6%. The report also highlights that the adoption of AI is increasing across various industries, including healthcare, finance, and retail.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Compound annual growth rate (CAGR) of 36.6%.",
+                    "vis_data": [
+                        {
+                            "label": "CAGR",
+                            "value": "36.6",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "According to a report by Grand View Research, the global AI market in the business sector is expected to reach $25.7 billion by 2025, with a CAGR of 52% from 2019 to 2025.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The global AI market in the business sector is expected to reach $25.7 billion by 2025.",
+                    "vis_data": [
+                        {
+                            "label": "AI market business sector 2025",
+                            "value": "25.7",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "CAGR of 52% from 2019 to 2025.",
+                    "vis_data": [
+                        {
+                            "label": "CAGR business sector",
+                            "value": "52",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The AI market is booming, and the numbers speak for themselves. According to a report by MarketsandMarkets, the global AI market size was valued at USD 62.35 billion in 2020 and is expected to reach USD 309.6 billion by 2026, growing at a CAGR of 40.1% during the forecast period.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The global AI market size was valued at USD 62.35 billion in 2020.",
+                    "vis_data": [
+                        {
+                            "label": "AI market 2020",
+                            "value": "62.35",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The global AI market is expected to reach USD 309.6 billion by 2026.",
+                    "vis_data": [
+                        {
+                            "label": "AI market 2026",
+                            "value": "309.6",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "CAGR of 40.1% during the forecast period.",
+                    "vis_data": [
+                        {
+                            "label": "CAGR",
+                            "value": "40.1",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

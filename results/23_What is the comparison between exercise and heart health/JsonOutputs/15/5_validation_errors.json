@@ -1,0 +1,116 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals and five to seven mm Hg in individuals with HTN. The effects, however, depend on PA's duration, frequency, and intensity.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals.",
+                    "vis_data": [
+                        {
+                            "label": "BP reduction in normotensive",
+                            "value": "2-5",
+                            "unit": "mm Hg"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by five to seven mm Hg in individuals with HTN.",
+                    "vis_data": [
+                        {
+                            "label": "BP reduction in HTN",
+                            "value": "5-7",
+                            "unit": "mm Hg"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations and a 35% decrease in all-cause mortality in patients with HF. PA can reduce cardiomegaly and reverse left ventricular remodeling in heart failure patients with reduced ejection fraction (HfrEF).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations.",
+                    "vis_data": [
+                        {
+                            "label": "HF hospitalization reduction",
+                            "value": "28",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF.",
+                    "vis_data": [
+                        {
+                            "label": "All-cause mortality reduction",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "HFrEF patients experience a notable increase in exercise capacity, resulting in a symptomatic improvement of up to 25%. Lifelong exercise is linked to a lower risk of HFrEF due to its inverse association with LV stiffness.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "HFrEF patients experience a symptomatic improvement of up to 25%.",
+                    "vis_data": [
+                        {
+                            "label": "Symptomatic improvement",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Regular exercise leading to an elevation of 1 metabolic equivalent (MET) unit in cardiorespiratory fitness (CRF) has been found to reduce the risk of HF by 17%.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%.",
+                    "vis_data": [
+                        {
+                            "label": "HF risk reduction",
+                            "value": "17",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+                    "vis_data": [
+                        {
+                            "label": "Increased death risk",
+                            "value": "20-30",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": [
+                        "Value should be split into two separate values for clarity: '20%' and '30%'."
+                    ]
+                }
+            ]
+        }
+    ]
+}

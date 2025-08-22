@@ -1,0 +1,4564 @@
+[
+    {
+        "cluster_id": "7",
+        "merged_facts": [
+            {
+                "merged_content": "AI adoption and usage statistics across various sectors.",
+                "merged_data": [
+                    {
+                        "label": "Companies using/exploring AI",
+                        "value": "77",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Companies using AI",
+                        "value": "35",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Companies Adopted AI",
+                        "value": "73",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Businesses Using AI for One Function",
+                        "value": "approximately 75",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Adoption and Usage",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_0",
+                        "fact_group_content": "77% of companies are either using or exploring the use of AI in their businesses.",
+                        "fact_ids": [
+                            "13_0_0",
+                            "6_1_2"
+                        ],
+                        "article_ids": [
+                            "13",
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "77% of companies are either using or exploring the use of AI in their businesses.",
+                                "vis_data": [
+                                    {
+                                        "label": "Companies using/exploring AI",
+                                        "value": "77",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "13_0_0"
+                            },
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "77% of businesses are using or exploring AI.",
+                                "vis_data": [
+                                    {
+                                        "label": "Businesses using/exploring AI",
+                                        "value": "77",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_1_2"
+                            }
+                        ],
+                        "missing_entities": [
+                            "CARDINAL",
+                            "GPE"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "7_1",
+                        "fact_group_content": "35% of companies are using AI.",
+                        "fact_ids": [
+                            "6_1_3"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "35% of companies are using AI.",
+                                "vis_data": [
+                                    {
+                                        "label": "Companies using AI",
+                                        "value": "35",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_1_3"
+                            }
+                        ],
+                        "missing_entities": [
+                            "CARDINAL",
+                            "GPE"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "7_7",
+                        "fact_group_content": "73 percent of U.S. companies have already adopted AI in some aspect of their business.",
+                        "fact_ids": [
+                            "10_0_1"
+                        ],
+                        "article_ids": [
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "73 percent of U.S. companies have already adopted AI in some aspect of their business.",
+                                "vis_data": [
+                                    {
+                                        "label": "Companies Adopted AI",
+                                        "value": "73",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "10_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_13",
+                        "fact_group_content": "Nearly three out of four businesses have started using AI for at least one business function. AI adoption rates are the highest for organizations in India (59%), followed closely by the United Arab Emirates (58%). Businesses in Singapore (53%) and China (50%) are also leaders in AI use.",
+                        "fact_ids": [
+                            "5_4_5"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Nearly three out of four businesses have started using AI for at least one business function.",
+                                "vis_data": [
+                                    {
+                                        "label": "Businesses Using AI for One Function",
+                                        "value": "approximately 75",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_4_5"
+                            }
+                        ],
+                        "missing_entities": [
+                            "GPE"
+                        ]
+                    }
+                ],
+                "merged_id": "7_0"
+            },
+            {
+                "merged_content": "AI market growth projections and investments.",
+                "merged_data": [
+                    {
+                        "label": "AI market business sector 2025",
+                        "value": "25.7",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "AI Market 2024",
+                        "value": "214",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "AI Market 2030",
+                        "value": "1339",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "AI Market in Manufacturing 2024",
+                        "value": "5.94",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "AI Market Growth Projections",
+                    "x_axis": "Year",
+                    "y_axis": "Market Value (Billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_3",
+                        "fact_group_content": "The global AI market in the business sector is expected to reach $25.7 billion by 2025.",
+                        "fact_ids": [
+                            "6_4_7"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The global AI market in the business sector is expected to reach $25.7 billion by 2025.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI market business sector 2025",
+                                        "value": "25.7",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "6_4_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_11",
+                        "fact_group_content": "The AI market is estimated to have $214 billion revenue in 2024.",
+                        "fact_ids": [
+                            "5_0_1"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The AI market is estimated to have $214 billion revenue in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Market 2024",
+                                        "value": "214",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "5_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_10",
+                        "fact_group_content": "The AI market is projected to reach $1,339 billion by 2030.",
+                        "fact_ids": [
+                            "5_0_0"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The AI market is projected to reach $1,339 billion by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Market 2030",
+                                        "value": "1339",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "5_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_30",
+                        "fact_group_content": "The AI market value in manufacturing is projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032.",
+                        "fact_ids": [
+                            "12_13_25"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The AI market value in manufacturing is projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Market in Manufacturing 2024",
+                                        "value": "5.94",
+                                        "unit": "billion USD"
+                                    },
+                                    {
+                                        "label": "AI Market in Manufacturing 2032",
+                                        "value": "68.36",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "12_13_25"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_1"
+            },
+            {
+                "merged_content": "AI adoption rates in different countries.",
+                "merged_data": [
+                    {
+                        "label": "AI Adoption India",
+                        "value": "59",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI Adoption UAE",
+                        "value": "58",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI Adoption Singapore",
+                        "value": "53",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI Adoption China",
+                        "value": "50",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Adoption Rates by Country",
+                    "x_axis": "Country",
+                    "y_axis": "Adoption Rate (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_14",
+                        "fact_group_content": "AI adoption rates: India (59%), United Arab Emirates (58%), Singapore (53%), China (50%).",
+                        "fact_ids": [
+                            "5_5_7"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "rank",
+                                "fact_content": "AI adoption rates: India (59%), United Arab Emirates (58%), Singapore (53%), China (50%).",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Adoption India",
+                                        "value": "59",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "AI Adoption UAE",
+                                        "value": "58",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "AI Adoption Singapore",
+                                        "value": "53",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "AI Adoption China",
+                                        "value": "50",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_5_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_2"
+            },
+            {
+                "merged_content": "AI market growth and investment projections.",
+                "merged_data": [
+                    {
+                        "label": "AI Market 2024",
+                        "value": "214",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "U.S. AI Investment",
+                        "value": "109.1",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "China AI Investment",
+                        "value": "9.3",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "Canada AI Investment",
+                        "value": "2.4",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Market and Investment 2024",
+                    "x_axis": "Region",
+                    "y_axis": "Investment (Billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_11",
+                        "fact_group_content": "The AI market is estimated to have $214 billion revenue in 2024, with significant contributions from the United States.",
+                        "fact_ids": [
+                            "5_0_1"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The AI market is estimated to have $214 billion revenue in 2024, with significant contributions from the United States.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Market 2024",
+                                        "value": "214",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "5_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_20",
+                        "fact_group_content": "U.S. private AI investment grew to $109.1 billion in 2024.",
+                        "fact_ids": [
+                            "3_0_0"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "U.S. private AI investment grew to $109.1 billion in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "U.S. AI Investment",
+                                        "value": "109.1",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "3_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_21",
+                        "fact_group_content": "China's private AI investment was $9.3 billion in 2024.",
+                        "fact_ids": [
+                            "3_0_1"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China's private AI investment was $9.3 billion in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "China AI Investment",
+                                        "value": "9.3",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "3_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_23",
+                        "fact_group_content": "Canada pledged $2.4 billion for AI investment in 2024.",
+                        "fact_ids": [
+                            "3_4_27"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Canada pledged $2.4 billion for AI investment in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Canada AI Investment",
+                                        "value": "2.4",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "3_4_27"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_3"
+            },
+            {
+                "merged_content": "AI's impact on productivity and job security in marketing.",
+                "merged_data": [
+                    {
+                        "label": "AI Use in Marketing",
+                        "value": "93",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI Simplifies Marketing Tasks",
+                        "value": "75",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Job Security Concerns in Marketing",
+                        "value": "27",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Impact on Marketing",
+                    "x_axis": "Aspect",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_31",
+                        "fact_group_content": "93% of marketers leverage AI to generate content more efficiently.",
+                        "fact_ids": [
+                            "12_15_30"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "93% of marketers leverage AI to generate content more efficiently.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Use in Marketing",
+                                        "value": "93",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_15_30"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_32",
+                        "fact_group_content": "75% of marketers report that AI simplifies their job responsibilities.",
+                        "fact_ids": [
+                            "12_16_31"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "75% of marketers report that AI simplifies their job responsibilities.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Simplifies Marketing Tasks",
+                                        "value": "75",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_16_31"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_33",
+                        "fact_group_content": "27% of marketers express concerns that AI may challenge their job security.",
+                        "fact_ids": [
+                            "12_17_32"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "27% of marketers express concerns that AI may challenge their job security.",
+                                "vis_data": [
+                                    {
+                                        "label": "Job Security Concerns in Marketing",
+                                        "value": "27",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_17_32"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_4"
+            },
+            {
+                "merged_content": "AI's projected economic impact by 2030.",
+                "merged_data": [
+                    {
+                        "label": "AI Market 2030",
+                        "value": "1339",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "AI Market Size",
+                        "value": "1.8",
+                        "unit": "trillion USD"
+                    },
+                    {
+                        "label": "AI Contribution to Economy",
+                        "value": "15700000000000",
+                        "unit": "USD"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Economic Impact by 2030",
+                    "x_axis": "Aspect",
+                    "y_axis": "Value (USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_10",
+                        "fact_group_content": "The AI market is projected to reach $1,339 billion by 2030.",
+                        "fact_ids": [
+                            "5_0_0"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The AI market is projected to reach $1,339 billion by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Market 2030",
+                                        "value": "1339",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "5_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_5",
+                        "fact_group_content": "AI market expected to surpass $1.8 trillion by 2030.",
+                        "fact_ids": [
+                            "8_0_0"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI market expected to surpass $1.8 trillion by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Market Size",
+                                        "value": "1.8",
+                                        "unit": "trillion USD"
+                                    }
+                                ],
+                                "fact_id": "8_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_6",
+                        "fact_group_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030.",
+                        "fact_ids": [
+                            "8_1_1"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Contribution to Economy",
+                                        "value": "15700000000000",
+                                        "unit": "USD"
+                                    }
+                                ],
+                                "fact_id": "8_1_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_5"
+            }
+        ]
+    },
+    {
+        "cluster_id": "9",
+        "merged_facts": [
+            {
+                "merged_content": "77% of companies are either using or exploring the use of AI in their businesses. 35% of companies are using AI.",
+                "merged_data": [
+                    {
+                        "label": "Using/Exploring AI",
+                        "value": "77",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Using AI",
+                        "value": "35",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Adoption in Companies",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_0",
+                        "fact_group_content": "77% of companies are either using or exploring the use of AI in their businesses.",
+                        "fact_ids": [
+                            "13_0_0",
+                            "6_1_2"
+                        ],
+                        "article_ids": [
+                            "13",
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "77% of companies are either using or exploring the use of AI in their businesses.",
+                                "vis_data": [
+                                    {
+                                        "label": "Companies using/exploring AI",
+                                        "value": "77",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "13_0_0"
+                            },
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "77% of businesses are using or exploring AI.",
+                                "vis_data": [
+                                    {
+                                        "label": "Businesses using/exploring AI",
+                                        "value": "77",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "9_1",
+                        "fact_group_content": "35% of companies are using AI.",
+                        "fact_ids": [
+                            "6_1_3"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "35% of companies are using AI.",
+                                "vis_data": [
+                                    {
+                                        "label": "Companies using AI",
+                                        "value": "35",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_1_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_0"
+            },
+            {
+                "merged_content": "Compound annual growth rate (CAGR) of 36.6%. CAGR of 52% from 2019 to 2025.",
+                "merged_data": [
+                    {
+                        "label": "General CAGR",
+                        "value": "36.6",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "CAGR 2019-2025",
+                        "value": "52",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "CAGR in AI Sector",
+                    "x_axis": "CAGR Type",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_2",
+                        "fact_group_content": "Compound annual growth rate (CAGR) of 36.6%.",
+                        "fact_ids": [
+                            "6_3_6"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Compound annual growth rate (CAGR) of 36.6%.",
+                                "vis_data": [
+                                    {
+                                        "label": "CAGR",
+                                        "value": "36.6",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_3_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "9_4",
+                        "fact_group_content": "CAGR of 52% from 2019 to 2025.",
+                        "fact_ids": [
+                            "6_4_8"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "CAGR of 52% from 2019 to 2025.",
+                                "vis_data": [
+                                    {
+                                        "label": "CAGR business sector",
+                                        "value": "52",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_4_8"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_1"
+            },
+            {
+                "merged_content": "The global AI market in the business sector is expected to reach $25.7 billion by 2025. The AI market is estimated to have $214 billion revenue in 2024.",
+                "merged_data": [
+                    {
+                        "label": "AI Market 2025",
+                        "value": "25.7",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "AI Market 2024",
+                        "value": "214",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Market Revenue Projections",
+                    "x_axis": "Year",
+                    "y_axis": "Revenue (Billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_3",
+                        "fact_group_content": "The global AI market in the business sector is expected to reach $25.7 billion by 2025.",
+                        "fact_ids": [
+                            "6_4_7"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The global AI market in the business sector is expected to reach $25.7 billion by 2025.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI market business sector 2025",
+                                        "value": "25.7",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "6_4_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "9_8",
+                        "fact_group_content": "The AI market is estimated to have $214 billion revenue in 2024.",
+                        "fact_ids": [
+                            "5_0_1"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The AI market is estimated to have $214 billion revenue in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Market 2024",
+                                        "value": "214",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "5_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_2"
+            },
+            {
+                "merged_content": "AI market expected to surpass $1.8 trillion by 2030. The AI market is projected to reach $1,339 billion by 2030.",
+                "merged_data": [
+                    {
+                        "label": "AI Market 2030 (Trillion)",
+                        "value": "1.8",
+                        "unit": "trillion USD"
+                    },
+                    {
+                        "label": "AI Market 2030 (Billion)",
+                        "value": "1339",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Market Projections for 2030",
+                    "x_axis": "Projection Type",
+                    "y_axis": "Market Size"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_5",
+                        "fact_group_content": "AI market expected to surpass $1.8 trillion by 2030.",
+                        "fact_ids": [
+                            "8_0_0"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI market expected to surpass $1.8 trillion by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Market Size",
+                                        "value": "1.8",
+                                        "unit": "trillion USD"
+                                    }
+                                ],
+                                "fact_id": "8_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "9_7",
+                        "fact_group_content": "The AI market is projected to reach $1,339 billion by 2030.",
+                        "fact_ids": [
+                            "5_0_0"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The AI market is projected to reach $1,339 billion by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Market 2030",
+                                        "value": "1339",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "5_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_3"
+            },
+            {
+                "merged_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030.",
+                "merged_data": [
+                    {
+                        "label": "AI Contribution to Economy",
+                        "value": "15700",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "AI's Economic Contribution by 2030",
+                    "x_axis": "Year",
+                    "y_axis": "Contribution (Billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_6",
+                        "fact_group_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030.",
+                        "fact_ids": [
+                            "8_1_1"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Contribution to Economy",
+                                        "value": "15700000000000",
+                                        "unit": "USD"
+                                    }
+                                ],
+                                "fact_id": "8_1_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_4"
+            },
+            {
+                "merged_content": "The AI market is projected to reach $3,680.47 billion by 2034.",
+                "merged_data": [
+                    {
+                        "label": "Projected AI Market 2034",
+                        "value": "3680.47",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "AI Market Projection for 2034",
+                    "x_axis": "Year",
+                    "y_axis": "Market Size (Billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_17",
+                        "fact_group_content": "The AI market is projected to reach $3,680.47 billion by 2034.",
+                        "fact_ids": [
+                            "12_4_12"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The AI market is projected to reach $3,680.47 billion by 2034.",
+                                "vis_data": [
+                                    {
+                                        "label": "Projected AI Market 2034",
+                                        "value": "3680.47",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "12_4_12"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_5"
+            },
+            {
+                "merged_content": "The AI market value in manufacturing is projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032.",
+                "merged_data": [
+                    {
+                        "label": "AI Market in Manufacturing 2024",
+                        "value": "5.94",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "AI Market in Manufacturing 2032",
+                        "value": "68.36",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "AI Market Growth in Manufacturing",
+                    "x_axis": "Year",
+                    "y_axis": "Market Size (Billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_21",
+                        "fact_group_content": "The AI market value in manufacturing is projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032.",
+                        "fact_ids": [
+                            "12_13_25"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The AI market value in manufacturing is projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Market in Manufacturing 2024",
+                                        "value": "5.94",
+                                        "unit": "billion USD"
+                                    },
+                                    {
+                                        "label": "AI Market in Manufacturing 2032",
+                                        "value": "68.36",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "12_13_25"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_6"
+            },
+            {
+                "merged_content": "AI will displace around 85 million jobs. AI could create 97 million new jobs.",
+                "merged_data": [
+                    {
+                        "label": "Jobs Displaced by AI",
+                        "value": "85",
+                        "unit": "million"
+                    },
+                    {
+                        "label": "Jobs Created by AI",
+                        "value": "97",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Impact on Jobs",
+                    "x_axis": "Impact Type",
+                    "y_axis": "Jobs (Million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_26",
+                        "fact_group_content": "AI will displace around 85 million jobs.",
+                        "fact_ids": [
+                            "12_22_41"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI will displace around 85 million jobs.",
+                                "vis_data": [
+                                    {
+                                        "label": "Jobs Displaced by AI",
+                                        "value": "85",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "12_22_41"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "9_27",
+                        "fact_group_content": "AI could create 97 million new jobs.",
+                        "fact_ids": [
+                            "12_22_42"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI could create 97 million new jobs.",
+                                "vis_data": [
+                                    {
+                                        "label": "Jobs Created by AI",
+                                        "value": "97",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "12_22_42"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": "2",
+        "merged_facts": [
+            {
+                "merged_content": "AI adoption and exploration among companies.",
+                "merged_data": [
+                    {
+                        "label": "Companies prioritizing AI",
+                        "value": "83",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Companies using AI",
+                        "value": "35",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Companies exploring AI",
+                        "value": "42",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Adoption and Exploration",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_0",
+                        "fact_group_content": "83% of companies claim that AI is a top priority in their business plans.",
+                        "fact_ids": [
+                            "13_0_1"
+                        ],
+                        "article_ids": [
+                            "13"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "83% of companies claim that AI is a top priority in their business plans.",
+                                "vis_data": [
+                                    {
+                                        "label": "Companies prioritizing AI",
+                                        "value": "83",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "13_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_1",
+                        "fact_group_content": "35% of companies are using AI.",
+                        "fact_ids": [
+                            "6_0_0"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "35% of companies are using AI.",
+                                "vis_data": [
+                                    {
+                                        "label": "Companies using AI",
+                                        "value": "35",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_2",
+                        "fact_group_content": "42% of companies are exploring AI for its implementation in the future.",
+                        "fact_ids": [
+                            "6_0_1"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "42% of companies are exploring AI for its implementation in the future.",
+                                "vis_data": [
+                                    {
+                                        "label": "Companies exploring AI",
+                                        "value": "42",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "2_0"
+            },
+            {
+                "merged_content": "Global AI market growth from 2018 to 2026.",
+                "merged_data": [
+                    {
+                        "label": "AI market 2018",
+                        "value": "9.5",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "AI market 2025",
+                        "value": "118.6",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "AI market 2026",
+                        "value": "309.6",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Global AI Market Growth",
+                    "x_axis": "Year",
+                    "y_axis": "Market Size (billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_3",
+                        "fact_group_content": "The global AI market is expected to grow from $9.5 billion in 2018 to $118.6 billion by 2025.",
+                        "fact_ids": [
+                            "6_2_5"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "The global AI market is expected to grow from $9.5 billion in 2018 to $118.6 billion by 2025.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI market 2018",
+                                        "value": "9.5",
+                                        "unit": "billion USD"
+                                    },
+                                    {
+                                        "label": "AI market 2025",
+                                        "value": "118.6",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "6_2_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_4",
+                        "fact_group_content": "The global AI market is expected to reach USD 309.6 billion by 2026.",
+                        "fact_ids": [
+                            "6_5_10"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "The global AI market is expected to reach USD 309.6 billion by 2026.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI market 2026",
+                                        "value": "309.6",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "6_5_10"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "2_1"
+            },
+            {
+                "merged_content": "AI's impact on the financial industry by 2030.",
+                "merged_data": [
+                    {
+                        "label": "AI Savings in Finance by 2030",
+                        "value": "1000",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "AI's Financial Impact by 2030",
+                    "x_axis": "Impact",
+                    "y_axis": "Savings (billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_19",
+                        "fact_group_content": "AI is expected to save the financial industry up to $1 trillion annually by 2030.",
+                        "fact_ids": [
+                            "12_11_23"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI is expected to save the financial industry up to $1 trillion annually by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Savings in Finance by 2030",
+                                        "value": "1000",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "12_11_23"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "2_2"
+            },
+            {
+                "merged_content": "AI's potential to automate work activities.",
+                "merged_data": [
+                    {
+                        "label": "Employee Time Automated",
+                        "value": "60",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Employee Time Automated",
+                        "value": "70",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "AI's Automation Potential",
+                    "x_axis": "Activity",
+                    "y_axis": "Time Automated (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_6",
+                        "fact_group_content": "AI and other technologies have the potential to automate work activities that absorb 60 to 70 percent of employees\u2019 time.",
+                        "fact_ids": [
+                            "10_1_2"
+                        ],
+                        "article_ids": [
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "AI and other technologies have the potential to automate work activities that absorb 60 to 70 percent of employees\u2019 time.",
+                                "vis_data": [
+                                    {
+                                        "label": "Employee Time Automated",
+                                        "value": "60",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "Employee Time Automated",
+                                        "value": "70",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "10_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "2_3"
+            },
+            {
+                "merged_content": "AI usage among Americans aged 18 to 64.",
+                "merged_data": [
+                    {
+                        "label": "Americans Using AI",
+                        "value": "49",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Americans Using AI at Work",
+                        "value": "26",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Usage Among Americans",
+                    "x_axis": "Usage Context",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_9",
+                        "fact_group_content": "Less than half of Americans aged 18 to 64 use generative AI as of August 2024.",
+                        "fact_ids": [
+                            "7_1_2"
+                        ],
+                        "article_ids": [
+                            "7"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Less than half of Americans aged 18 to 64 use generative AI as of August 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Americans Using AI",
+                                        "value": "49",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "7_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_10",
+                        "fact_group_content": "Just over a quarter of Americans aged 18 to 64 use generative AI at work.",
+                        "fact_ids": [
+                            "7_1_3"
+                        ],
+                        "article_ids": [
+                            "7"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Just over a quarter of Americans aged 18 to 64 use generative AI at work.",
+                                "vis_data": [
+                                    {
+                                        "label": "Americans Using AI at Work",
+                                        "value": "26",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "7_1_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "2_4"
+            },
+            {
+                "merged_content": "AI's contribution to US GDP by 2030.",
+                "merged_data": [
+                    {
+                        "label": "US GDP Increase by AI 2030",
+                        "value": "21",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "AI's GDP Contribution by 2030",
+                    "x_axis": "Contribution",
+                    "y_axis": "Increase (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_11",
+                        "fact_group_content": "AI is expected to contribute a 21% net increase to the United States GDP by 2030.",
+                        "fact_ids": [
+                            "5_1_2"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "AI is expected to contribute a 21% net increase to the United States GDP by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "US GDP Increase by AI 2030",
+                                        "value": "21",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "2_5"
+            }
+        ]
+    },
+    {
+        "cluster_id": "3",
+        "merged_facts": [
+            {
+                "merged_content": "AI adoption trends in organizations from past years to 2024.",
+                "merged_data": [
+                    {
+                        "label": "AI Adoption (Past 6 years)",
+                        "value": "50",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI Adoption 2024",
+                        "value": "72",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "AI Adoption Trends in Organizations",
+                    "x_axis": "Year",
+                    "y_axis": "Adoption Rate (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_14",
+                        "fact_group_content": "AI adoption in organizations has remained around 50 percent over the past six years.",
+                        "fact_ids": [
+                            "12_1_3"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "AI adoption in organizations has remained around 50 percent over the past six years.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Adoption (Past 6 years)",
+                                        "value": "50",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_1_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_15",
+                        "fact_group_content": "In 2024, AI adoption in organizations rose to 72 percent.",
+                        "fact_ids": [
+                            "12_1_4"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "In 2024, AI adoption in organizations rose to 72 percent.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Adoption 2024",
+                                        "value": "72",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_1_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_0"
+            },
+            {
+                "merged_content": "Comparison of AI model origins in 2023 and 2024.",
+                "merged_data": [
+                    {
+                        "label": "Industry AI Models 2023",
+                        "value": "60",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Industry AI Models 2024",
+                        "value": "90",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "AI Model Origins by Year",
+                    "x_axis": "Year",
+                    "y_axis": "Industry Contribution (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_8",
+                        "fact_group_content": "Nearly 90% of notable AI models in 2024 came from industry.",
+                        "fact_ids": [
+                            "3_6_34"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Nearly 90% of notable AI models in 2024 came from industry.",
+                                "vis_data": [
+                                    {
+                                        "label": "Industry AI Models 2024",
+                                        "value": "90",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_6_34"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_9",
+                        "fact_group_content": "60% of notable AI models in 2023 came from industry.",
+                        "fact_ids": [
+                            "3_6_35"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "60% of notable AI models in 2023 came from industry.",
+                                "vis_data": [
+                                    {
+                                        "label": "Industry AI Models 2023",
+                                        "value": "60",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_6_35"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_1"
+            },
+            {
+                "merged_content": "Generative AI adoption rates and maturity in organizations.",
+                "merged_data": [
+                    {
+                        "label": "Generative AI Adoption",
+                        "value": "39.4",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Mature AI Initiatives",
+                        "value": "8",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Generative AI Adoption and Maturity",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_2",
+                        "fact_group_content": "Only 8% of organizations considered their generative AI initiatives mature in September 2024.",
+                        "fact_ids": [
+                            "7_0_1"
+                        ],
+                        "article_ids": [
+                            "7"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Only 8% of organizations considered their generative AI initiatives mature in September 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Mature AI Initiatives",
+                                        "value": "8",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "7_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_11",
+                        "fact_group_content": "The adoption rate of generative AI is currently at 39.4%.",
+                        "fact_ids": [
+                            "12_0_0"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The adoption rate of generative AI is currently at 39.4%.",
+                                "vis_data": [
+                                    {
+                                        "label": "Generative AI Adoption",
+                                        "value": "39.4",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_2"
+            },
+            {
+                "merged_content": "AI adoption rates in healthcare and automotive sectors.",
+                "merged_data": [
+                    {
+                        "label": "AI Adoption Healthcare",
+                        "value": "40",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI Adoption Automotive",
+                        "value": "18",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Adoption in Sectors",
+                    "x_axis": "Sector",
+                    "y_axis": "Adoption Rate (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_6",
+                        "fact_group_content": "Highest long-term AI adoption rate: healthcare (40%), automotive (18%).",
+                        "fact_ids": [
+                            "5_8_12"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "rank",
+                                "fact_content": "Highest long-term AI adoption rate: healthcare (40%), automotive (18%).",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Adoption Healthcare",
+                                        "value": "40",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "AI Adoption Automotive",
+                                        "value": "18",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_8_12"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_3"
+            },
+            {
+                "merged_content": "AI-related advancements affecting the global workforce.",
+                "merged_data": [
+                    {
+                        "label": "Global Workforce Affected by AI",
+                        "value": "15",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "AI Impact on Global Workforce",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_5",
+                        "fact_group_content": "AI-related advancements may affect around 15% of the global workforce between 2016 and 2030.",
+                        "fact_ids": [
+                            "5_7_11"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "AI-related advancements may affect around 15% of the global workforce between 2016 and 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "Global Workforce Affected by AI",
+                                        "value": "15",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_7_11"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_4"
+            },
+            {
+                "merged_content": "Saudi Arabia's Project Transcendence initiative.",
+                "merged_data": [
+                    {
+                        "label": "Saudi Arabia AI Initiative",
+                        "value": "100",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Saudi Arabia's AI Initiative",
+                    "x_axis": "Category",
+                    "y_axis": "Value"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_7",
+                        "fact_group_content": "Saudi Arabia\u2019s Project Transcendence represents a $100 billion initiative.",
+                        "fact_ids": [
+                            "3_4_31"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Saudi Arabia\u2019s Project Transcendence represents a $100 billion initiative.",
+                                "vis_data": [
+                                    {
+                                        "label": "Saudi Arabia AI Initiative",
+                                        "value": "100",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "3_4_31"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_5"
+            },
+            {
+                "merged_content": "AI startup funding in 2024.",
+                "merged_data": [
+                    {
+                        "label": "AI Startup Funding 2024",
+                        "value": "131.5",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "AI Startup Funding 2024",
+                    "x_axis": "Category",
+                    "y_axis": "Value"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_18",
+                        "fact_group_content": "AI and machine learning startups secured $131.5 billion in venture capital funding in 2024.",
+                        "fact_ids": [
+                            "12_5_14"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI and machine learning startups secured $131.5 billion in venture capital funding in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Startup Funding 2024",
+                                        "value": "131.5",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "12_5_14"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_6"
+            },
+            {
+                "merged_content": "Comparison of AI usage and adoption rates.",
+                "merged_data": [
+                    {
+                        "label": "AI Usage at Home",
+                        "value": "32.6",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Generative AI Adoption",
+                        "value": "65",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Usage and Adoption Rates",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_17",
+                        "fact_group_content": "AI usage was 32.6% at home.",
+                        "fact_ids": [
+                            "12_2_7"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "AI usage was 32.6% at home.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Usage at Home",
+                                        "value": "32.6",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_2_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_16",
+                        "fact_group_content": "Generative AI adoption has reached 65 percent in 2024.",
+                        "fact_ids": [
+                            "12_1_5"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Generative AI adoption has reached 65 percent in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Generative AI Adoption",
+                                        "value": "65",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_1_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_7"
+            },
+            {
+                "merged_content": "Comparison of technology adoption rates: PC, Internet, and Generative AI.",
+                "merged_data": [
+                    {
+                        "label": "PC Adoption (3 years)",
+                        "value": "20",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Internet Adoption (2 years)",
+                        "value": "20",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Generative AI Adoption",
+                        "value": "39.4",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Technology Adoption Rates",
+                    "x_axis": "Technology",
+                    "y_axis": "Adoption Rate (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_12",
+                        "fact_group_content": "Three years after the personal computer\u2019s mass introduction, its adoption rate was only 20%.",
+                        "fact_ids": [
+                            "12_0_1"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Three years after the personal computer\u2019s mass introduction, its adoption rate was only 20%.",
+                                "vis_data": [
+                                    {
+                                        "label": "PC Adoption (3 years)",
+                                        "value": "20",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_13",
+                        "fact_group_content": "The internet\u2019s adoption rate was 20% two years after its launch.",
+                        "fact_ids": [
+                            "12_0_2"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The internet\u2019s adoption rate was 20% two years after its launch.",
+                                "vis_data": [
+                                    {
+                                        "label": "Internet Adoption (2 years)",
+                                        "value": "20",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_11",
+                        "fact_group_content": "The adoption rate of generative AI is currently at 39.4% as of August 2024.",
+                        "fact_ids": [
+                            "12_0_0"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The adoption rate of generative AI is currently at 39.4% as of August 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Generative AI Adoption",
+                                        "value": "39.4",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_8"
+            },
+            {
+                "merged_content": "Public perception and impact of AI on jobs and productivity.",
+                "merged_data": [
+                    {
+                        "label": "Businesses Believe AI Increases Productivity",
+                        "value": "64",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Apprehension of Job Losses by AI",
+                        "value": "77",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Impact on Jobs and Productivity",
+                    "x_axis": "Perception",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_3",
+                        "fact_group_content": "64% of businesses believe AI will help increase their overall productivity.",
+                        "fact_ids": [
+                            "5_2_3"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "64% of businesses believe AI will help increase their overall productivity.",
+                                "vis_data": [
+                                    {
+                                        "label": "Businesses Believe AI Increases Productivity",
+                                        "value": "64",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_2_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_4",
+                        "fact_group_content": "77% of people are apprehensive that AI could bring about job losses.",
+                        "fact_ids": [
+                            "5_6_9"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "77% of people are apprehensive that AI could bring about job losses.",
+                                "vis_data": [
+                                    {
+                                        "label": "Apprehension of Job Losses by AI",
+                                        "value": "77",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_6_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_9"
+            },
+            {
+                "merged_content": "Exploration and adoption of AI in companies.",
+                "merged_data": [
+                    {
+                        "label": "Companies exploring AI",
+                        "value": "42",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Generative AI Adoption",
+                        "value": "39.4",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Exploration and Adoption",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_0",
+                        "fact_group_content": "42% of companies are exploring AI for its implementation in the future.",
+                        "fact_ids": [
+                            "6_1_4"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "42% of companies are exploring AI for its implementation in the future.",
+                                "vis_data": [
+                                    {
+                                        "label": "Companies exploring AI",
+                                        "value": "42",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_1_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_11",
+                        "fact_group_content": "The adoption rate of generative AI is currently at 39.4%.",
+                        "fact_ids": [
+                            "12_0_0"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The adoption rate of generative AI is currently at 39.4%.",
+                                "vis_data": [
+                                    {
+                                        "label": "Generative AI Adoption",
+                                        "value": "39.4",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_10"
+            },
+            {
+                "merged_content": "Greenhouse gas emissions from office buildings.",
+                "merged_data": [
+                    {
+                        "label": "GHG Emissions by Offices",
+                        "value": "25",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Office Buildings' GHG Emissions",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_1",
+                        "fact_group_content": "Office buildings contribute roughly a quarter of global greenhouse gas emissions.",
+                        "fact_ids": [
+                            "10_3_5"
+                        ],
+                        "article_ids": [
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Office buildings contribute roughly a quarter of global greenhouse gas emissions.",
+                                "vis_data": [
+                                    {
+                                        "label": "GHG Emissions by Offices",
+                                        "value": "25",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "10_3_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_11"
+            },
+            {
+                "merged_content": "Difference between top AI models.",
+                "merged_data": [
+                    {
+                        "label": "Top Model Difference",
+                        "value": "0.7",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Difference Between Top AI Models",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_10",
+                        "fact_group_content": "The top two models are now separated by just 0.7%.",
+                        "fact_ids": [
+                            "3_6_37"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "The top two models are now separated by just 0.7%.",
+                                "vis_data": [
+                                    {
+                                        "label": "Top Model Difference",
+                                        "value": "0.7",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_6_37"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_12"
+            }
+        ]
+    },
+    {
+        "cluster_id": "8",
+        "merged_facts": [
+            {
+                "merged_content": "The global AI market growth from 2018 to 2025.",
+                "merged_data": [
+                    {
+                        "label": "AI market 2018",
+                        "value": "9.5",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "AI market 2020",
+                        "value": "62.35",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "AI market 2025",
+                        "value": "118.6",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Global AI Market Growth",
+                    "x_axis": "Year",
+                    "y_axis": "Market Size (billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_0",
+                        "fact_group_content": "The global AI market is expected to grow from $9.5 billion in 2018 to $118.6 billion by 2025.",
+                        "fact_ids": [
+                            "6_2_5"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "The global AI market is expected to grow from $9.5 billion in 2018 to $118.6 billion by 2025.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI market 2018",
+                                        "value": "9.5",
+                                        "unit": "billion USD"
+                                    },
+                                    {
+                                        "label": "AI market 2025",
+                                        "value": "118.6",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "6_2_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "8_1",
+                        "fact_group_content": "The global AI market size was valued at USD 62.35 billion in 2020.",
+                        "fact_ids": [
+                            "6_5_9"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The global AI market size was valued at USD 62.35 billion in 2020.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI market 2020",
+                                        "value": "62.35",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "6_5_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_0"
+            },
+            {
+                "merged_content": "AI's impact on employment and investment.",
+                "merged_data": [
+                    {
+                        "label": "Workers Displaced by AI",
+                        "value": "400",
+                        "unit": "million"
+                    },
+                    {
+                        "label": "Generative AI Investment",
+                        "value": "33.9",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Impact on Employment and Investment",
+                    "x_axis": "Category",
+                    "y_axis": "Value"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_2",
+                        "fact_group_content": "AI could displace 400 million workers worldwide between 2016 and 2030, according to a McKinsey report.",
+                        "fact_ids": [
+                            "5_7_10"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI could displace 400 million workers worldwide between 2016 and 2030, according to a McKinsey report.",
+                                "vis_data": [
+                                    {
+                                        "label": "Workers Displaced by AI",
+                                        "value": "400",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "5_7_10"
+                            }
+                        ],
+                        "missing_entities": [
+                            "ORG",
+                            "MONEY"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "8_3",
+                        "fact_group_content": "Generative AI attracted $33.9 billion globally in private investment in 2024, an 18.7% increase from 2023.",
+                        "fact_ids": [
+                            "3_0_3"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Generative AI attracted $33.9 billion globally in private investment in 2024, an 18.7% increase from 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Generative AI Investment",
+                                        "value": "33.9",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "3_0_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_1"
+            },
+            {
+                "merged_content": "AI integration and usage in various sectors.",
+                "merged_data": [
+                    {
+                        "label": "Chatbot Use in Banks",
+                        "value": "85",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI in Portfolio Management",
+                        "value": "77",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI Integration in Manufacturing",
+                        "value": "97",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Integration and Usage",
+                    "x_axis": "Sector",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_6",
+                        "fact_group_content": "AI-powered chatbots provide automated customer service in 85% of banks.",
+                        "fact_ids": [
+                            "12_11_22"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "AI-powered chatbots provide automated customer service in 85% of banks.",
+                                "vis_data": [
+                                    {
+                                        "label": "Chatbot Use in Banks",
+                                        "value": "85",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_11_22"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "8_7",
+                        "fact_group_content": "77% of financial institutions utilize AI for portfolio management.",
+                        "fact_ids": [
+                            "12_12_24"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "77% of financial institutions utilize AI for portfolio management.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI in Portfolio Management",
+                                        "value": "77",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_12_24"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "8_9",
+                        "fact_group_content": "97% of manufacturing companies have integrated AI into their operations.",
+                        "fact_ids": [
+                            "12_14_28"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "97% of manufacturing companies have integrated AI into their operations.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Integration in Manufacturing",
+                                        "value": "97",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_14_28"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_2"
+            },
+            {
+                "merged_content": "AI's role in education and technology products.",
+                "merged_data": [
+                    {
+                        "label": "Teachers Supporting AI Education",
+                        "value": "81",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI in Products and Services",
+                        "value": "33",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI in Education and Tech Products",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_5",
+                        "fact_group_content": "81% of K\u201312 CS teachers in the U.S. say AI should be part of foundational CS education.",
+                        "fact_ids": [
+                            "3_5_33"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "81% of K\u201312 CS teachers in the U.S. say AI should be part of foundational CS education.",
+                                "vis_data": [
+                                    {
+                                        "label": "Teachers Supporting AI Education",
+                                        "value": "81",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_5_33"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "8_11",
+                        "fact_group_content": "One-third of technology leaders in the United States stated that AI is fully integrated into their products and services.",
+                        "fact_ids": [
+                            "12_20_39"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "One-third of technology leaders in the United States stated that AI is fully integrated into their products and services.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI in Products and Services",
+                                        "value": "33",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_20_39"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_3"
+            },
+            {
+                "merged_content": "AI's impact on manufacturing and productivity.",
+                "merged_data": [
+                    {
+                        "label": "AI Defect Detection Accuracy",
+                        "value": "90",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Productivity Gains by AI 2025",
+                        "value": "20-30",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "AI in Manufacturing and Productivity",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_8",
+                        "fact_group_content": "AI has achieved a 90% accuracy rate in defect detection in manufacturing as of 2024.",
+                        "fact_ids": [
+                            "12_13_27"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI has achieved a 90% accuracy rate in defect detection in manufacturing as of 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Defect Detection Accuracy",
+                                        "value": "90",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_13_27"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "8_10",
+                        "fact_group_content": "AI is predicted to drive productivity gains ranging from 20% to 30% in various sectors by 2025.",
+                        "fact_ids": [
+                            "12_19_36"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "AI is predicted to drive productivity gains ranging from 20% to 30% in various sectors by 2025.",
+                                "vis_data": [
+                                    {
+                                        "label": "Productivity Gains by AI 2025",
+                                        "value": "20-30",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_19_36"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_4"
+            }
+        ]
+    },
+    {
+        "cluster_id": "5",
+        "merged_facts": [
+            {
+                "merged_content": "AI perception and usage statistics.",
+                "merged_data": [
+                    {
+                        "label": "Strategists Agree AI Critical",
+                        "value": "79",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI Increasing Productivity",
+                        "value": "61",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI Streamlining Processes",
+                        "value": "42",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Concern About Technical Skills",
+                        "value": "35",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Perception Among Professionals",
+                    "x_axis": "Aspect",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_0",
+                        "fact_group_content": "79 percent of corporate strategists agree that AI and analytics will be critical to their organization\u2019s success over the next two years.",
+                        "fact_ids": [
+                            "10_0_0"
+                        ],
+                        "article_ids": [
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "79 percent of corporate strategists agree that AI and analytics will be critical to their organization\u2019s success over the next two years.",
+                                "vis_data": [
+                                    {
+                                        "label": "Strategists Agree AI Critical",
+                                        "value": "79",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "10_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "5_1",
+                        "fact_group_content": "Over 60% of business owners believe AI will increase productivity.",
+                        "fact_ids": [
+                            "5_11_17"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Over 60% of business owners believe AI will increase productivity.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Increasing Productivity",
+                                        "value": "61",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_11_17"
+                            }
+                        ],
+                        "missing_entities": [
+                            "DATE"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "5_2",
+                        "fact_group_content": "42% believe AI will streamline job processes.",
+                        "fact_ids": [
+                            "5_11_19"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "42% believe AI will streamline job processes.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Streamlining Processes",
+                                        "value": "42",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_11_19"
+                            }
+                        ],
+                        "missing_entities": [
+                            "DATE"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "5_3",
+                        "fact_group_content": "35% worry about having the technical skills to use AI effectively.",
+                        "fact_ids": [
+                            "5_12_21"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "35% worry about having the technical skills to use AI effectively.",
+                                "vis_data": [
+                                    {
+                                        "label": "Concern About Technical Skills",
+                                        "value": "35",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_12_21"
+                            }
+                        ],
+                        "missing_entities": [
+                            "DATE"
+                        ]
+                    }
+                ],
+                "merged_id": "5_0"
+            },
+            {
+                "merged_content": "AI adoption and usage in 2023.",
+                "merged_data": [
+                    {
+                        "label": "AI Usage 2023",
+                        "value": "55",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Daily AI Use at Work",
+                        "value": "10.6",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Adoption in 2023",
+                    "x_axis": "Usage",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_4",
+                        "fact_group_content": "55% of organizations reported using AI in 2023.",
+                        "fact_ids": [
+                            "3_0_5"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "55% of organizations reported using AI in 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Usage 2023",
+                                        "value": "55",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_0_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "5_11",
+                        "fact_group_content": "Daily AI use was 10.6% at work in August 2024.",
+                        "fact_ids": [
+                            "12_2_9"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Daily AI use was 10.6% at work in August 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Daily AI Use at Work",
+                                        "value": "10.6",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_2_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_1"
+            },
+            {
+                "merged_content": "AI model production in Europe.",
+                "merged_data": [
+                    {
+                        "label": "Europe AI Models",
+                        "value": "3",
+                        "unit": "models"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "AI Models Produced in Europe",
+                    "x_axis": "Year",
+                    "y_axis": "Models"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_5",
+                        "fact_group_content": "Europe produced three notable AI models in 2024.",
+                        "fact_ids": [
+                            "3_1_10"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Europe produced three notable AI models in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Europe AI Models",
+                                        "value": "3",
+                                        "unit": "models"
+                                    }
+                                ],
+                                "fact_id": "3_1_10"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_2"
+            },
+            {
+                "merged_content": "Growth in AI-related metrics.",
+                "merged_data": [
+                    {
+                        "label": "U.S. Optimism Growth",
+                        "value": "4",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Performance Difference Reduction",
+                        "value": "6.3",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Legislative Mentions Increase",
+                        "value": "21.3",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Growth in AI Metrics",
+                    "x_axis": "Metric",
+                    "y_axis": "Percentage Increase"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_6",
+                        "fact_group_content": "Optimism in the United States grew by 4% since 2022.",
+                        "fact_ids": [
+                            "3_2_21"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Optimism in the United States grew by 4% since 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "U.S. Optimism Growth",
+                                        "value": "4",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_21"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "5_7",
+                        "fact_group_content": "Performance difference between open-weight and closed models reduced from 8% to 1.7% on some benchmarks in a single year.",
+                        "fact_ids": [
+                            "3_3_24"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Performance difference between open-weight and closed models reduced from 8% to 1.7% on some benchmarks in a single year.",
+                                "vis_data": [
+                                    {
+                                        "label": "Performance Difference Reduction",
+                                        "value": "6.3",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_3_24"
+                            }
+                        ],
+                        "missing_entities": [
+                            "GPE"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "5_8",
+                        "fact_group_content": "Legislative mentions of AI rose 21.3% across 75 countries since 2023.",
+                        "fact_ids": [
+                            "3_4_26"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Legislative mentions of AI rose 21.3% across 75 countries since 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Legislative Mentions Increase",
+                                        "value": "21.3",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_4_26"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_3"
+            },
+            {
+                "merged_content": "AI investment by China and France.",
+                "merged_data": [
+                    {
+                        "label": "China Semiconductor Fund",
+                        "value": "47.5",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "France AI Investment",
+                        "value": "109",
+                        "unit": "billion EUR"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Investment by Country",
+                    "x_axis": "Country",
+                    "y_axis": "Investment (Billion)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_9",
+                        "fact_group_content": "China launched a $47.5 billion semiconductor fund.",
+                        "fact_ids": [
+                            "3_4_28"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China launched a $47.5 billion semiconductor fund.",
+                                "vis_data": [
+                                    {
+                                        "label": "China Semiconductor Fund",
+                                        "value": "47.5",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "3_4_28"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "5_10",
+                        "fact_group_content": "France committed \u20ac109 billion for AI investment.",
+                        "fact_ids": [
+                            "3_4_29"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "France committed \u20ac109 billion for AI investment.",
+                                "vis_data": [
+                                    {
+                                        "label": "France AI Investment",
+                                        "value": "109",
+                                        "unit": "billion EUR"
+                                    }
+                                ],
+                                "fact_id": "3_4_29"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_4"
+            },
+            {
+                "merged_content": "ChatGPT usage among teens in 2024.",
+                "merged_data": [
+                    {
+                        "label": "ChatGPT Use by Teens 2024",
+                        "value": "26",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "ChatGPT Usage by Teens",
+                    "x_axis": "Year",
+                    "y_axis": "Usage Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_12",
+                        "fact_group_content": "26% of teens used ChatGPT for schoolwork in 2024.",
+                        "fact_ids": [
+                            "12_7_17"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "26% of teens used ChatGPT for schoolwork in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "ChatGPT Use by Teens 2024",
+                                        "value": "26",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_7_17"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_5"
+            }
+        ]
+    },
+    {
+        "cluster_id": "1",
+        "merged_facts": [
+            {
+                "merged_content": "AI adoption and perception among businesses and consumers.",
+                "merged_data": [
+                    {
+                        "label": "Companies Adopted AI",
+                        "value": "73",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Executives Glean Insights",
+                        "value": "59",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Belief in ChatGPT Benefits",
+                        "value": "97",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "AI Improving Customer Relationships",
+                        "value": "64",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Consumer Trust in AI Businesses",
+                        "value": "65",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Adoption and Perception",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_0",
+                        "fact_group_content": "73 percent of U.S. companies have already adopted AI in some aspect of their business, according to a survey by PwC.",
+                        "fact_ids": [
+                            "10_0_1"
+                        ],
+                        "article_ids": [
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "73 percent of U.S. companies have already adopted AI in some aspect of their business, according to a survey by PwC.",
+                                "vis_data": [
+                                    {
+                                        "label": "Companies Adopted AI",
+                                        "value": "73",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "10_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "1_1",
+                        "fact_group_content": "59 percent of executives agreed that AI enabled them to glean more actionable insights from the analytics they were tracking, according to a Deloitte survey.",
+                        "fact_ids": [
+                            "10_2_3"
+                        ],
+                        "article_ids": [
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "59 percent of executives agreed that AI enabled them to glean more actionable insights from the analytics they were tracking, according to a Deloitte survey.",
+                                "vis_data": [
+                                    {
+                                        "label": "Executives Glean Insights",
+                                        "value": "59",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "10_2_3"
+                            }
+                        ],
+                        "missing_entities": [
+                            "GPE"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "1_2",
+                        "fact_group_content": "97% of business owners believe ChatGPT will benefit their businesses in the United States.",
+                        "fact_ids": [
+                            "5_9_13"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "97% of business owners believe ChatGPT will benefit their businesses in the United States.",
+                                "vis_data": [
+                                    {
+                                        "label": "Belief in ChatGPT Benefits",
+                                        "value": "97",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_9_13"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "1_3",
+                        "fact_group_content": "64% of business owners believe AI can improve customer relationships, as reported by Forbes Advisor.",
+                        "fact_ids": [
+                            "5_10_16"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "64% of business owners believe AI can improve customer relationships, as reported by Forbes Advisor.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Improving Customer Relationships",
+                                        "value": "64",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_10_16"
+                            }
+                        ],
+                        "missing_entities": [
+                            "GPE"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "1_4",
+                        "fact_group_content": "65% of consumers trust businesses that employ AI technology.",
+                        "fact_ids": [
+                            "5_13_22"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "65% of consumers trust businesses that employ AI technology.",
+                                "vis_data": [
+                                    {
+                                        "label": "Consumer Trust in AI Businesses",
+                                        "value": "65",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_13_22"
+                            }
+                        ],
+                        "missing_entities": [
+                            "ORG",
+                            "GPE"
+                        ]
+                    }
+                ],
+                "merged_id": "1_0"
+            },
+            {
+                "merged_content": "AI model production in 2024 by country.",
+                "merged_data": [
+                    {
+                        "label": "U.S. AI Models",
+                        "value": "40",
+                        "unit": "models"
+                    },
+                    {
+                        "label": "China AI Models",
+                        "value": "15",
+                        "unit": "models"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Model Production 2024",
+                    "x_axis": "Country",
+                    "y_axis": "Models"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_7",
+                        "fact_group_content": "U.S.-based institutions produced 40 notable AI models in 2024.",
+                        "fact_ids": [
+                            "3_1_8"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "U.S.-based institutions produced 40 notable AI models in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "U.S. AI Models",
+                                        "value": "40",
+                                        "unit": "models"
+                                    }
+                                ],
+                                "fact_id": "3_1_8"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "1_8",
+                        "fact_group_content": "China produced 15 notable AI models in 2024.",
+                        "fact_ids": [
+                            "3_1_9"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China produced 15 notable AI models in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "China AI Models",
+                                        "value": "15",
+                                        "unit": "models"
+                                    }
+                                ],
+                                "fact_id": "3_1_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_1"
+            },
+            {
+                "merged_content": "Perception of AI benefits in different countries.",
+                "merged_data": [
+                    {
+                        "label": "Thailand AI Optimism",
+                        "value": "77",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Canada AI Optimism",
+                        "value": "40",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Perception by Country",
+                    "x_axis": "Country",
+                    "y_axis": "Optimism (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_9",
+                        "fact_group_content": "77% in Thailand see AI products and services as more beneficial than harmful.",
+                        "fact_ids": [
+                            "3_2_13"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "77% in Thailand see AI products and services as more beneficial than harmful.",
+                                "vis_data": [
+                                    {
+                                        "label": "Thailand AI Optimism",
+                                        "value": "77",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_13"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "1_10",
+                        "fact_group_content": "40% in Canada see AI products and services as more beneficial than harmful.",
+                        "fact_ids": [
+                            "3_2_14"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "40% in Canada see AI products and services as more beneficial than harmful.",
+                                "vis_data": [
+                                    {
+                                        "label": "Canada AI Optimism",
+                                        "value": "40",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_14"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_2"
+            },
+            {
+                "merged_content": "U.S. private AI investment in 2024.",
+                "merged_data": [
+                    {
+                        "label": "U.S. AI Investment",
+                        "value": "109.1",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "U.S. AI Investment 2024",
+                    "x_axis": "Year",
+                    "y_axis": "Investment (USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_5",
+                        "fact_group_content": "U.S. private AI investment grew to $109.1 billion in 2024.",
+                        "fact_ids": [
+                            "3_0_0"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "U.S. private AI investment grew to $109.1 billion in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "U.S. AI Investment",
+                                        "value": "109.1",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "3_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_3"
+            },
+            {
+                "merged_content": "AI business usage increase from 2023 to 2024.",
+                "merged_data": [
+                    {
+                        "label": "AI Usage Increase",
+                        "value": "23",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "AI Usage Increase 2023-2024",
+                    "x_axis": "Year",
+                    "y_axis": "Increase (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_6",
+                        "fact_group_content": "AI business usage increased from 55% in 2023 to 78% in 2024.",
+                        "fact_ids": [
+                            "3_0_6"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "AI business usage increased from 55% in 2023 to 78% in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Usage Increase",
+                                        "value": "23",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_0_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_4"
+            },
+            {
+                "merged_content": "AI expected to boost manufacturing productivity by 2035.",
+                "merged_data": [
+                    {
+                        "label": "Productivity Boost by AI in Manufacturing",
+                        "value": "40",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "AI Boost in Manufacturing by 2035",
+                    "x_axis": "Year",
+                    "y_axis": "Productivity Boost (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_11",
+                        "fact_group_content": "AI is expected to boost manufacturing productivity by 40% by 2035.",
+                        "fact_ids": [
+                            "12_14_29"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "AI is expected to boost manufacturing productivity by 40% by 2035.",
+                                "vis_data": [
+                                    {
+                                        "label": "Productivity Boost by AI in Manufacturing",
+                                        "value": "40",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_14_29"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_5"
+            },
+            {
+                "merged_content": "Current AI adoption in U.S. businesses.",
+                "merged_data": [
+                    {
+                        "label": "AI Adoption in US Businesses",
+                        "value": "5",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "AI Adoption in U.S. Businesses",
+                    "x_axis": "Year",
+                    "y_axis": "Adoption (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_12",
+                        "fact_group_content": "Only 5% of businesses in the U.S. are currently utilizing AI technology.",
+                        "fact_ids": [
+                            "12_21_40"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Only 5% of businesses in the U.S. are currently utilizing AI technology.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Adoption in US Businesses",
+                                        "value": "5",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_21_40"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": "4",
+        "merged_facts": [
+            {
+                "merged_content": "The U.K.'s private AI investment and India's AI investment in 2024.",
+                "merged_data": [
+                    {
+                        "label": "U.K. AI Investment",
+                        "value": "4.5",
+                        "unit": "billion USD"
+                    },
+                    {
+                        "label": "India AI Investment",
+                        "value": "1.25",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Investment in 2024",
+                    "x_axis": "Country",
+                    "y_axis": "Investment (billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_0",
+                        "fact_group_content": "The U.K.'s private AI investment was $4.5 billion in 2024.",
+                        "fact_ids": [
+                            "3_0_2"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The U.K.'s private AI investment was $4.5 billion in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "U.K. AI Investment",
+                                        "value": "4.5",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "3_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "4_7",
+                        "fact_group_content": "India pledged $1.25 billion for AI investment in 2024.",
+                        "fact_ids": [
+                            "3_4_30"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "India pledged $1.25 billion for AI investment in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "India AI Investment",
+                                        "value": "1.25",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "3_4_30"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_0"
+            },
+            {
+                "merged_content": "AI usage and optimism in 2024.",
+                "merged_data": [
+                    {
+                        "label": "AI Usage 2024",
+                        "value": "78",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "China AI Optimism",
+                        "value": "83",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Usage and Optimism in 2024",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_1",
+                        "fact_group_content": "78% of organizations in the U.S. reported using AI in 2024.",
+                        "fact_ids": [
+                            "3_0_4"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "78% of organizations in the U.S. reported using AI in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "AI Usage 2024",
+                                        "value": "78",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_0_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "4_2",
+                        "fact_group_content": "83% in China see AI products and services as more beneficial than harmful in 2024.",
+                        "fact_ids": [
+                            "3_2_11"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "83% in China see AI products and services as more beneficial than harmful in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "China AI Optimism",
+                                        "value": "83",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_11"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_1"
+            },
+            {
+                "merged_content": "Optimism growth in Canada and Great Britain since 2022.",
+                "merged_data": [
+                    {
+                        "label": "Canada Optimism Growth",
+                        "value": "8",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Great Britain Optimism Growth",
+                        "value": "8",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Optimism Growth Since 2022",
+                    "x_axis": "Country",
+                    "y_axis": "Growth (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_3",
+                        "fact_group_content": "Optimism in Canada grew by 8% since 2022.",
+                        "fact_ids": [
+                            "3_2_19"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Optimism in Canada grew by 8% since 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Canada Optimism Growth",
+                                        "value": "8",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_19"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "4_4",
+                        "fact_group_content": "Optimism in Great Britain grew by 8% since 2022.",
+                        "fact_ids": [
+                            "3_2_20"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Optimism in Great Britain grew by 8% since 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Great Britain Optimism Growth",
+                                        "value": "8",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_20"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_2"
+            },
+            {
+                "merged_content": "Hardware cost decline trend.",
+                "merged_data": [
+                    {
+                        "label": "Hardware Cost Decline",
+                        "value": "30",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Annual Hardware Cost Decline",
+                    "x_axis": "Trend",
+                    "y_axis": "Decline (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_5",
+                        "fact_group_content": "Hardware costs have declined by 30% annually.",
+                        "fact_ids": [
+                            "3_3_22"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "Hardware costs have declined by 30% annually.",
+                                "vis_data": [
+                                    {
+                                        "label": "Hardware Cost Decline",
+                                        "value": "30",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_3_22"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_3"
+            },
+            {
+                "merged_content": "U.S. AI regulations in 2024.",
+                "merged_data": [
+                    {
+                        "label": "U.S. AI Regulations",
+                        "value": "59",
+                        "unit": "regulations"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "U.S. AI Regulations 2024",
+                    "x_axis": "Regulations",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_6",
+                        "fact_group_content": "U.S. federal agencies introduced 59 AI-related regulations in 2024.",
+                        "fact_ids": [
+                            "3_4_25"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "U.S. federal agencies introduced 59 AI-related regulations in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "U.S. AI Regulations",
+                                        "value": "59",
+                                        "unit": "regulations"
+                                    }
+                                ],
+                                "fact_id": "3_4_25"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_4"
+            },
+            {
+                "merged_content": "Global AI industry value in 2024.",
+                "merged_data": [
+                    {
+                        "label": "Global AI Industry Value 2024",
+                        "value": "638.23",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Global AI Industry Value 2024",
+                    "x_axis": "Industry",
+                    "y_axis": "Value (billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_10",
+                        "fact_group_content": "The global AI industry is valued at approximately $638.23 billion as of 2024.",
+                        "fact_ids": [
+                            "12_3_11"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The global AI industry is valued at approximately $638.23 billion as of 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Global AI Industry Value 2024",
+                                        "value": "638.23",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "12_3_11"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_5"
+            },
+            {
+                "merged_content": "Daily AI use at home.",
+                "merged_data": [
+                    {
+                        "label": "Daily AI Use at Home",
+                        "value": "6.4",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Daily AI Use at Home",
+                    "x_axis": "Usage",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_9",
+                        "fact_group_content": "Daily AI use was 6.4% at home.",
+                        "fact_ids": [
+                            "12_2_10"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Daily AI use was 6.4% at home.",
+                                "vis_data": [
+                                    {
+                                        "label": "Daily AI Use at Home",
+                                        "value": "6.4",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_2_10"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_6"
+            },
+            {
+                "merged_content": "E-commerce AI chatbot interactions.",
+                "merged_data": [
+                    {
+                        "label": "Order Status Inquiries via Chatbots",
+                        "value": "20",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "E-commerce AI Chatbot Interactions",
+                    "x_axis": "Interactions",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_11",
+                        "fact_group_content": "20% of interactions with e-commerce AI chatbots involved order status and shipping.",
+                        "fact_ids": [
+                            "12_18_34"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "20% of interactions with e-commerce AI chatbots involved order status and shipping.",
+                                "vis_data": [
+                                    {
+                                        "label": "Order Status Inquiries via Chatbots",
+                                        "value": "20",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_18_34"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_7"
+            },
+            {
+                "merged_content": "Top model performance difference.",
+                "merged_data": [
+                    {
+                        "label": "Top Model Difference",
+                        "value": "0.7",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Top Model Performance Difference",
+                    "x_axis": "Models",
+                    "y_axis": "Difference (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_8",
+                        "fact_group_content": "The top two models are now separated by just 0.7%.",
+                        "fact_ids": [
+                            "3_6_37"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "The top two models are now separated by just 0.7%.",
+                                "vis_data": [
+                                    {
+                                        "label": "Top Model Difference",
+                                        "value": "0.7",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_6_37"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_8"
+            }
+        ]
+    },
+    {
+        "cluster_id": "6",
+        "merged_facts": [
+            {
+                "merged_content": "Perception of AI products and services as beneficial in different countries.",
+                "merged_data": [
+                    {
+                        "label": "Indonesia",
+                        "value": "80",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "U.S.",
+                        "value": "39",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Netherlands",
+                        "value": "36",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Optimism by Country",
+                    "x_axis": "Country",
+                    "y_axis": "Optimism (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_0",
+                        "fact_group_content": "80% in Indonesia see AI products and services as more beneficial than harmful.",
+                        "fact_ids": [
+                            "3_2_12"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "80% in Indonesia see AI products and services as more beneficial than harmful.",
+                                "vis_data": [
+                                    {
+                                        "label": "Indonesia AI Optimism",
+                                        "value": "80",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_12"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_1",
+                        "fact_group_content": "39% in the United States see AI products and services as more beneficial than harmful.",
+                        "fact_ids": [
+                            "3_2_15"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "39% in the United States see AI products and services as more beneficial than harmful.",
+                                "vis_data": [
+                                    {
+                                        "label": "U.S. AI Optimism",
+                                        "value": "39",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_15"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_2",
+                        "fact_group_content": "36% in the Netherlands see AI products and services as more beneficial than harmful.",
+                        "fact_ids": [
+                            "3_2_16"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "36% in the Netherlands see AI products and services as more beneficial than harmful.",
+                                "vis_data": [
+                                    {
+                                        "label": "Netherlands AI Optimism",
+                                        "value": "36",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_16"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_0"
+            },
+            {
+                "merged_content": "Growth in AI optimism in Germany and France since 2022.",
+                "merged_data": [
+                    {
+                        "label": "Germany",
+                        "value": "10",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "France",
+                        "value": "10",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "AI Optimism Growth Since 2022",
+                    "x_axis": "Country",
+                    "y_axis": "Growth (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_3",
+                        "fact_group_content": "Optimism in Germany grew by 10% since 2022.",
+                        "fact_ids": [
+                            "3_2_17"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Optimism in Germany grew by 10% since 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Germany Optimism Growth",
+                                        "value": "10",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_17"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_4",
+                        "fact_group_content": "Optimism in France grew by 10% since 2022.",
+                        "fact_ids": [
+                            "3_2_18"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Optimism in France grew by 10% since 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "France Optimism Growth",
+                                        "value": "10",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "3_2_18"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_1"
+            }
+        ]
+    }
+]

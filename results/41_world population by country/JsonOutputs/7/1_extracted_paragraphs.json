@@ -1,0 +1,12 @@
+{
+    "title": "The 2024 Revision of World Population Prospects",
+    "date": "Unknown",
+    "paragraphs": [
+        "The 2024 Revision of World Population Prospects is the twenty-eighth edition of official United Nations population estimates and projections that have been prepared by the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat. It presents population estimates from 1950 to the present for 237 countries or areas, underpinned by analyses of historical demographic trends. This latest assessment considers the results of 1,910 national population censuses conducted between 1950 and 2023, as well as information from vital registration systems and from 3,189 nationally representative sample surveys. The 2024 revision also presents population projections to the year 2100 that reflect a range of plausible outcomes at the global, regional and national levels.",
+        "The main results are presented in a series of Excel files displaying key demographic indicators for each UN development group, World Bank income group, geographic region, Sustainable Development Goals (SDGs) region, subregion and country or area for selected periods or dates within 1950-2100. An online database (Data Portal) provides access to a subset of key indicators and interactive data visualization, including an open API for programmatic access. For advanced users who need to use these data in a database form or statistical software, we recommend to use the CSV format for bulk download. Special Aggregates also provide additional groupings of countries (e.g., geographic, economic and trade, political, UN-related). Since the 2022 revision, the estimates and projections are presented in one-year intervals of age and time instead of the five-year intervals used previously. The various datasets disaggregated by age are available in two forms: by standard 5-year age groups and single ages."
+    ],
+    "id": 7,
+    "url": "https://population.un.org/wpp/",
+    "title_original": "World Population Prospects 2024",
+    "date_original": "nan"
+}

@@ -1,0 +1,31 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Tesla\u2019s ambitious goal to produce a Cybercab every five seconds represents a paradigm shift in automotive manufacturing. This rate dramatically outpaces the Model Y\u2019s production time of 35 seconds, showcasing Tesla\u2019s prowess in optimizing manufacturing processes. Such efficiency could reshape public transit dynamics, offering a glimpse into a future where electric cabs dominate urban landscapes.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla aims to produce a Cybercab every five seconds.",
+                    "vis_data": [
+                        {
+                            "label": "Cybercab Production Time",
+                            "value": "5",
+                            "unit": "seconds"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Model Y\u2019s production time is 35 seconds.",
+                    "vis_data": [
+                        {
+                            "label": "Model Y Production Time",
+                            "value": "35",
+                            "unit": "seconds"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

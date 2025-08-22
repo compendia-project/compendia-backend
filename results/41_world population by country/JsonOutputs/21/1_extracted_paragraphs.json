@@ -1,0 +1,17 @@
+{
+    "title": "World Population Density Interactive Map",
+    "date": "Unknown",
+    "paragraphs": [
+        "This interactive map shows population density in 2020, measured in residents per square kilometre. The data is from the Global Human Settlement Layer (GHSL) 2023 produced by the European Commission JRC and the Center for International Earth Science Information Network at Columbia University. Integrating huge volumes of satellite data with national census data, the GHSL describes in detail the settlement geography of the entire globe, and has applications for a wide range of research and policy related to urban growth, development and sustainability. The GHSL records the complexity and diversity of human settlement, beyond simple rural-urban divisions.",
+        "This website has received 500,000 visitors since 2020, illustrating the widespread interest in global population geography. Some introductory highlights from the data are discussed below with links for further information.",
+        "At the global scale, the world population density map highlights the immense concentration of humanity in India and China. Both countries have a population of 1.4 billion, with India set to move ahead of China and reach 1.5 billion by 2030. While India has many of the world's largest cities, it retains a huge rural population of around 900 million people.",
+        "The \"Interactive Stats\" checkbox at the top left of the map turns on density statistics for countries and cities which have been calculated from the GHSL data (1km scale). Roll your mouse over areas to see density and population statistics over time. Zoom in and out to switch between country and city statistics. The population data is from the United Nations World Population Prospects 2022, and includes a predicted population for 2030. More discussion on the density statistics can be found on this Citygeographics article.",
+        "Different countries around the world have radically different settlement patterns. If we look at the USA, which is renowned for lower density suburban living, the bar chart of population by density class peaks at 1-2km2.",
+        "The Population Weighted Density statistic summarises this chart, measuring 2.2k pp/km2 (persons per square km) for 2020. This is the lowest recorded density of any large developed country. Small countries such as Norway and New Zealand have similar Population Weighted Density results to the USA.",
+        "Latin America has for geographical and cultural reasons much higher population densities than the USA. Mexico has more than twice the Population Weighted Density at 5.7k pp/km2, while Colombia's is one of the highest in the world at 13.5k pp/km2, as the Colombian population is strongly concentrated in high density cities, such as Bogot\u00e1 and Medell\u00edn."
+    ],
+    "id": 21,
+    "url": "https://luminocity3d.org/WorldPopDen/",
+    "title_original": "World Population Density Interactive Map",
+    "date_original": "nan"
+}

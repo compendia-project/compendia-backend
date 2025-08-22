@@ -1,0 +1,25 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "According toEricsson's latest financial reports the company's current revenue (TTM) is$23.84 Billion USD. In 2024 the company made a revenue of$23.35 Billion USDa decrease over the revenue in the year 2023 that were of$25.01 Billion USD. The revenue is the total amount of income that a company generates by the sale of goods or services. Unlike with theearningsno expenses are subtracted.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson's current revenue (TTM) is $23.84 Billion USD."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 2024, Ericsson made a revenue of $23.35 Billion USD."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 2023, Ericsson's revenue was $25.01 Billion USD."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Ericsson's revenue decreased from $25.01 Billion USD in 2023 to $23.35 Billion USD in 2024."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "The Model Y remains much the same size, and at 4.79-metres long it\u2019s still a rival for a huge array of other electric SUVs, ranging from premium stuff like thePorsche MacanandAudi Q6 e-tronthrough to more affordable alternatives like theFord Mustang Mach-E, BYD Sealion 7, Peugeot E-3008,Skoda Enyaq,Kia EV6,Renault Scenic E-Techand Toyota bZ4X.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Model Y is 4.79-metres long.",
+                    "vis_data": [
+                        {
+                            "label": "Model Y Length",
+                            "value": "4.79",
+                            "unit": "metres"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "For this 2025 Model Y, Tesla has given it a new fascia with a lower front splitter and a sleek, full-width headlight that\u2019s a bit reminiscent of theCybertruckor Robotaxi. Or of Cyclops from X-Men, if you ask me. You get the gist \u2013 it\u2019s all very futuristic and minimalist, and I actually rather like it. It\u2019s also key to the improved aerodynamics that have allowed Tesla to squeeze an extra 20 miles or so out of the official range figures, making this one of the longest range electric SUVs you can buy.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla squeezed an extra 20 miles out of the official range figures for the 2025 Model Y.",
+                    "vis_data": [
+                        {
+                            "label": "Extra Range",
+                            "value": "20",
+                            "unit": "miles"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The Model Y Rear-Wheel Drive has an official WLTP range of 311 miles, and a 0-60mph time of 5.6 seconds. The Long Range Rear-Wheel Drive has up to 387 miles of WLTP range and a 0-60mph of 5.4 seconds, with the Long Range All-Wheel Drive offering 364 miles of range (WLTP) and a 0-60mph time of 4.6 seconds. The Performance model is almost inevitable, but details haven't yet been confirmed.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Model Y Rear-Wheel Drive has an official WLTP range of 311 miles.",
+                    "vis_data": [
+                        {
+                            "label": "RWD Range",
+                            "value": "311",
+                            "unit": "miles"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Model Y Rear-Wheel Drive has a 0-60mph time of 5.6 seconds.",
+                    "vis_data": [
+                        {
+                            "label": "RWD 0-60mph",
+                            "value": "5.6",
+                            "unit": "seconds"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range Rear-Wheel Drive has up to 387 miles of WLTP range.",
+                    "vis_data": [
+                        {
+                            "label": "LR RWD Range",
+                            "value": "387",
+                            "unit": "miles"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range Rear-Wheel Drive has a 0-60mph time of 5.4 seconds.",
+                    "vis_data": [
+                        {
+                            "label": "LR RWD 0-60mph",
+                            "value": "5.4",
+                            "unit": "seconds"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range All-Wheel Drive offers 364 miles of range (WLTP).",
+                    "vis_data": [
+                        {
+                            "label": "LR AWD Range",
+                            "value": "364",
+                            "unit": "miles"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range All-Wheel Drive has a 0-60mph time of 4.6 seconds.",
+                    "vis_data": [
+                        {
+                            "label": "LR AWD 0-60mph",
+                            "value": "4.6",
+                            "unit": "seconds"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Rapid charging speeds peak at 250kW, which is nothing new for the Model Y, but still makes this one of the fastest-charging electric family cars. It\u2019s up there with the Porsche Macan, Audi Q6 e-tron and Kia EV6 for that, and will manage a 10-80% top-up in well under 30 minutes.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Rapid charging speeds peak at 250kW for the Model Y.",
+                    "vis_data": [
+                        {
+                            "label": "Charging Speed",
+                            "value": "250",
+                            "unit": "kW"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Model Y will manage a 10-80% top-up in well under 30 minutes.",
+                    "vis_data": [
+                        {
+                            "label": "Top-up Time",
+                            "value": "30",
+                            "unit": "minutes"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "You do lose 20-litres of space in the 2025 Tesla Model Y\u2019s boot, as a result of the new, electrically-folding rear seats, but the boot space is still pretty huge with a total load capacity of 2,138 litres including the frunk. More than that, the rear seats now fold flat electrically and the bootlid is powered, too. There\u2019s also a funky, magnetic loadbay cover that you can fold up and back, and that can also be stowed away in a dedicated cubby under the boot floor. Speaking as a dog owner, this sort of stuff is a lifesaver when you want to get the dog in the boot, but don\u2019t want to leave the loadbay cover behind.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "You lose 20-litres of space in the 2025 Tesla Model Y\u2019s boot.",
+                    "vis_data": [
+                        {
+                            "label": "Boot Space Loss",
+                            "value": "20",
+                            "unit": "litres"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The boot space of the 2025 Tesla Model Y is 2,138 litres including the frunk.",
+                    "vis_data": [
+                        {
+                            "label": "Total Boot Space",
+                            "value": "2138",
+                            "unit": "litres"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The rest of the interior is improved with better material finish and ambient lighting, while the glass also reflects 26% more of the sunlight to keep the interior cool in the summer and reduce glare.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The glass reflects 26% more of the sunlight.",
+                    "vis_data": [
+                        {
+                            "label": "Sunlight Reflection",
+                            "value": "26",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The Long Range Rear-Wheel Drive starts from \u00a348,990, while the Long Range All-Wheel Drive starting from \u00a351,990, which is actually some \u00a31,000 cheaper than previously! Either of these are great value, as is the-entry level Model Y Rear-Wheel Drive that starts at \u00a344,990. Deliveries of these rather better value models are due to start in early summer 2025, so there's not too long to wait.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range Rear-Wheel Drive starts from \u00a348,990.",
+                    "vis_data": [
+                        {
+                            "label": "LR RWD Price",
+                            "value": "48990",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Long Range All-Wheel Drive starts from \u00a351,990.",
+                    "vis_data": [
+                        {
+                            "label": "LR AWD Price",
+                            "value": "51990",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The Long Range All-Wheel Drive is \u00a31,000 cheaper than previously.",
+                    "vis_data": [
+                        {
+                            "label": "Price Reduction",
+                            "value": "1000",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The entry-level Model Y Rear-Wheel Drive starts at \u00a344,990.",
+                    "vis_data": [
+                        {
+                            "label": "Entry RWD Price",
+                            "value": "44990",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "The AP analysis looked at federal funding for nearly 100 colleges currently under investigation for programs the administration has deemed as illegally pushing diversity, equity and inclusion, or for not doing enough to combat antisemitism. Those schools took in over $33 billion in federal revenue in the 2022-2023 academic year. That\u2019s before taking into account federal student aid, which represents billions more in tuition and room-and-board payments.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Nearly 100 colleges took in over $33 billion in federal revenue in the 2022-2023 academic year."
+                }
+            ]
+        },
+        {
+            "paragraph": "For most of the schools, around 10% to 13% of their revenue came from federal contracts or research funding, according to the analysis. For some prestigious research universities, however, federal money represented up to half of their revenue.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "For most schools, around 10% to 13% of their revenue came from federal contracts or research funding."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "For some prestigious research universities, federal money represented up to half of their revenue."
+                }
+            ]
+        },
+        {
+            "paragraph": "Perhaps no school is more vulnerable than Johns Hopkins University, which received $4 billion in federal funds, close to 40% of its revenue, according to the analysis. Much of that went to defense research, paying for projects like missile design, submarine technology and precision tracking systems in outer space. Billions of dollars also went to medical research for topics such as immunology and transplants, aging, neuroscience and mental health.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins University received $4 billion in federal funds."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Federal funds accounted for close to 40% of Johns Hopkins University's revenue."
+                }
+            ]
+        },
+        {
+            "paragraph": "In the 2022-2023 academic year, Columbia got close to a fifth of its revenue from federal sources, around $1.2 billion. An audit shows that much of Columbia\u2019s federal money went to research and development, including $166 million for global AIDS programs, $99 million to study aging, $28 million for cancer biology and $24 million for drug abuse and addiction research.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Columbia got close to a fifth of its revenue from federal sources in the 2022-2023 academic year."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received around $1.2 billion from federal sources in the 2022-2023 academic year."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $166 million for global AIDS programs."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $99 million to study aging."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $28 million for cancer biology."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $24 million for drug abuse and addiction research."
+                }
+            ]
+        }
+    ]
+}

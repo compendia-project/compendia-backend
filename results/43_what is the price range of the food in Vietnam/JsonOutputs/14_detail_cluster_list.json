@@ -1,0 +1,154 @@
+[
+    {
+        "cluster_id": 5,
+        "title": "Vietnam Food",
+        "description": "Food prices in Vietnam vary widely, with street food being the most affordable option, often costing less than $1 per meal. Dining in restaurants can range from 40,000 VND to 250,000 VND per person, depending on the type of establishment. Budget travelers can expect to spend between 400,000 to 800,000 VND per day on meals.",
+        "representative_facts": [
+            {
+                "fact_content": "Street food starts from less than 1 USD per meal",
+                "fact_id": "5_8"
+            },
+            {
+                "fact_content": "Dining in restaurants could cost around $10-$15 per meal",
+                "fact_id": "5_2"
+            },
+            {
+                "fact_content": "A budget traveler can expect to spend around 400,000 to 800,000 VND per day",
+                "fact_id": "5_1"
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "title": "Vietnam Prices",
+        "description": "In Vietnam, food and beverage prices vary widely, offering options for different budgets. Local beers can be as cheap as 20,000 VND, while a meal at budget restaurants ranges from $1 to $2 per person. More upscale options, like a Wagyu Beef Pho, can cost around 288,000 VND. Additionally, a McMeal at McDonald's is priced at 118,500 VND, and basic groceries like rice and milk are relatively affordable.",
+        "representative_facts": [
+            {
+                "fact_content": "Local beer costs 20,000 VND",
+                "fact_id": "8_0"
+            },
+            {
+                "fact_content": "Budget meals cost $1-$2 per person",
+                "fact_id": "8_2"
+            },
+            {
+                "fact_content": "Wagyu Beef Pho costs 288,000 VND",
+                "fact_id": "8_4"
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "title": "Vietnam Food",
+        "description": "In Vietnam, food prices vary widely depending on the type of meal and location. Street food is highly affordable, with options like pho and banh mi costing just a few dollars. Mid-range dining can range from 50,000 VND to 200,000 VND per person, while upscale restaurants charge 300,000 VND and above. A daily budget of $100 can cover food and drinks for two people.",
+        "representative_facts": [
+            {
+                "fact_content": "Street food stalls offer options for less than $5",
+                "fact_id": "7_10"
+            },
+            {
+                "fact_content": "Average dinner cost in Vietnam ranges from 50,000 VND to 200,000 VND per person",
+                "fact_id": "7_7"
+            },
+            {
+                "fact_content": "Upscale restaurants: From 300,000 VND and above for a meal",
+                "fact_id": "7_9"
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "title": "Vietnam Food",
+        "description": "Food prices in Vietnam vary widely, with street food starting as low as 15,000 VND per meal, while mid-range restaurant meals can cost between $10 to $20 per person. Local dishes like soup or rice can range from 25,000 to 50,000 VND, and more upscale options like Wagyu Beef Pho can reach 288,000 VND.",
+        "representative_facts": [
+            {
+                "fact_content": "Street food starts from 15,000 VND per meal",
+                "fact_id": "4_7"
+            },
+            {
+                "fact_content": "Local soup or rice dish costs 25,000 to 50,000 Dong",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "Mid-range restaurants cost $10 to $20 per person",
+                "fact_id": "4_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "title": "Vietnamese Prices",
+        "description": "Vietnamese food prices vary widely, with meals ranging from inexpensive street food to pricier restaurant options. A typical meal can cost between 20,000 to 300,000 VND, depending on the type and location. Common items like rice dishes and banh mi are affordable, while full meals at restaurants can be more expensive.",
+        "representative_facts": [
+            {
+                "fact_content": "Normal Vietnamese food places and restaurants can cost more than 300,000 Dong",
+                "fact_id": "2_0"
+            },
+            {
+                "fact_content": "Price range: 200 \u2013 300,000 VND ($9.23 \u2013 $13.85) for a full meal of about 3 \u2013 4 dishes",
+                "fact_id": "2_9"
+            },
+            {
+                "fact_content": "Price: 20,000 \u2013 30,000 VND ($0.92 \u2013 $1.38) for rice with 2 or 3 dishes",
+                "fact_id": "2_5"
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "title": "Food Prices",
+        "description": "Food prices in Vietnam vary widely, offering affordable options for both locals and tourists. Street food and pre-packaged meals can be found for less than $1, while casual dining and fast food meals range from $2 to $20. The average daily cost for food is approximately $21 per person, reflecting the diverse and economical culinary landscape.",
+        "representative_facts": [
+            {
+                "fact_content": "Pre-packaged meals, fresh fruits, and snacks can be found for as low as 10,000 VND (less than $1 USD)",
+                "fact_id": "6_0"
+            },
+            {
+                "fact_content": "The average daily cost for food in Vietnam is about $21 (d557098) per person",
+                "fact_id": "6_5"
+            },
+            {
+                "fact_content": "Street food prices fluctuate between 1 USD to 4 USD",
+                "fact_id": "6_10"
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "title": "Vietnam Food",
+        "description": "Food prices in Vietnam vary widely depending on the type of meal and location. Street food and local restaurants offer meals ranging from 20,000 to 70,000 VND, while more upscale dining can cost between 60,000 to 150,000 VND. On average, travelers spend about $21 per day on food, with budget travelers spending between 400,000 to 800,000 VND daily.",
+        "representative_facts": [
+            {
+                "fact_content": "Street food costs 20,000 to 70,000 VND",
+                "fact_id": "1_5"
+            },
+            {
+                "fact_content": "Average food cost is $21 per day",
+                "fact_id": "1_11"
+            },
+            {
+                "fact_content": "Budget travelers spend 400,000 to 800,000 VND daily",
+                "fact_id": "1_4"
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "title": "Vietnam Prices",
+        "description": "In Vietnam, the Consumer Price Index for foods and foodstuffs reached an all-time high in October 2009. The cost of living for meals varies, with self-cooked meals ranging from 30,000 to 100,000 VND per person. Common food and beverage prices include domestic beer at 25,000 VND for 0.5 liters and a loaf of fresh white bread at 24,056.76 VND.",
+        "representative_facts": [
+            {
+                "fact_content": "Vietnam CPI for foods hit 244.770 in Oct 2009",
+                "fact_id": "3_0"
+            },
+            {
+                "fact_content": "Self-cooked meals cost 30,000-100,000 VND per person",
+                "fact_id": "3_3"
+            },
+            {
+                "fact_content": "Domestic beer (0.5 liter) costs 25,000 VND",
+                "fact_id": "3_5"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "A total of 26,328 couples registered their marriages in 2024, down from 28,310 in 2023 and 29,389 in 2022, during a post-pandemic surge when Covid-19 rules were relaxed. The 2022 figure is the highest since data on marriages was first published in 1961.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "26,328 couples registered their marriages in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "28,310 couples registered their marriages in 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "29,389 couples registered their marriages in 2022."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The 2022 figure of 29,389 is the highest since data on marriages was first published in 1961."
+                }
+            ]
+        },
+        {
+            "paragraph": "The number of civil marriages involving brides aged 25 to 29fell by 988 in 2024, andby 506for those aged 30 to 34.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The number of civil marriages involving brides aged 25 to 29 fell by 988 in 2024."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The number of civil marriages involving brides aged 30 to 34 fell by 506 in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "Similarly, civil marriages involving grooms aged 25 to 29fell by 758 in 2024, andby 583for those aged 30 to 34.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Civil marriages involving grooms aged 25 to 29 fell by 758 in 2024."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Civil marriages involving grooms aged 30 to 34 fell by 583 in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2024, a total of 7,382 marriages ended in a divorce or an annulment, a 3.7 per cent increase from 7,118 in 2023, according to data from the Department of Statistics Singapore (DOS) on July 7.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "7,382 marriages ended in a divorce or an annulment in 2024."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "3.7% increase in divorces or annulments from 2023 to 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "Marriages have been more stable in recent years. The average number of marital dissolutions per year between 2020 and 2024 was 7,291, lower than the yearly average of 7,536 between 2015 and 2019.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average number of marital dissolutions per year between 2020 and 2024 was 7,291."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The yearly average of marital dissolutions between 2015 and 2019 was 7,536."
+                }
+            ]
+        },
+        {
+            "paragraph": "The median age at which people got married in 2024 remained similar to that in 2023. Grooms in Singapore got married at the median age of31.1, while brides wedded at the median age of29.6 in 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Grooms got married at the median age of 31.1 in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Brides got married at the median age of 29.6 in 2024."
+                }
+            ]
+        }
+    ]
+}

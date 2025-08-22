@@ -1,0 +1,192 @@
+[
+    {
+        "cluster_id": 1,
+        "title": "Gold Forecasts",
+        "description": "Various financial institutions have provided predictions for future gold prices, with estimates ranging from $2,050 to $3,880 per ounce depending on economic conditions such as inflation and potential recessions. Central bank purchases and market dynamics are expected to influence these prices significantly. Notably, Goldman Sachs, Bank of America, and JPMorgan have all projected substantial increases in gold prices over the coming years.",
+        "representative_facts": [
+            {
+                "fact_content": "Goldman Sachs predicts gold prices will reach $2,300 by 2025",
+                "fact_id": "1_0"
+            },
+            {
+                "fact_content": "Bank of America analysts predict gold prices may test $2,500 if inflation stays high and the Fed pauses rate hikes",
+                "fact_id": "1_1"
+            },
+            {
+                "fact_content": "JPMorgan expected gold to average $3,675/oz by Q4 2025",
+                "fact_id": "1_8"
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "title": "Gold Forecasts",
+        "description": "Gold prices are projected to fluctuate significantly over the coming years, with various forecasts indicating potential highs and lows. In 2024, the average price for gold was $2,388 per troy ounce, with predictions suggesting it could reach as high as $3,200 by the end of 2025. Long-term forecasts vary, with some estimates predicting a peak price of $5,155 by 2030, while others suggest a more conservative rise to $2,950. Central bank purchases and market dynamics will likely influence these trends.",
+        "representative_facts": [
+            {
+                "fact_content": "Gold prices could reach $3,200 by end of 2025",
+                "fact_id": "9_2"
+            },
+            {
+                "fact_content": "InvestingHaven estimates peak price of $5,155 by 2030",
+                "fact_id": "9_6"
+            },
+            {
+                "fact_content": "Commerzbank raised forecast to $2,600 by mid-2025",
+                "fact_id": "9_12"
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "title": "Gold Forecasts",
+        "description": "Gold prices are projected to rise significantly in the coming years, with predictions reaching as high as $4,000 per ounce by 2026 and potentially $10,000 by 2050. Goldman Sachs has updated its forecast, predicting a rise to $3,700 by the end of 2025. Various scenarios suggest a range of outcomes, with some forecasts indicating a potential surge to $5,000 per ounce within the next two years.",
+        "representative_facts": [
+            {
+                "fact_content": "Goldman Sachs predicts gold will rise to $3,700 a troy ounce by end of 2025",
+                "fact_id": "3_1"
+            },
+            {
+                "fact_content": "Prices expected to rise toward $4,000/oz by Q2 2026",
+                "fact_id": "3_2"
+            },
+            {
+                "fact_content": "Gold could reach $10,000 per ounce by 2050",
+                "fact_id": "3_12"
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "title": "Gold Forecasts",
+        "description": "Gold prices are projected to rise significantly in the coming years, with predictions ranging from $3,000 to $5,000 per ounce. Goldman Sachs and Citigroup are among the firms forecasting substantial increases, with Goldman Sachs predicting a rise to $3,700 by the end of 2025. The average price is expected to reach $3,675 per ounce by late 2025, reflecting a strong upward trend in the gold market.",
+        "representative_facts": [
+            {
+                "fact_content": "Goldman Sachs predicts gold will rise to $3,700 a troy ounce by end of 2025",
+                "fact_id": "5_1"
+            },
+            {
+                "fact_content": "Gold prices expected to average $3,675/oz by Q4 2025",
+                "fact_id": "5_4"
+            },
+            {
+                "fact_content": "Citigroup forecasts gold price to hit $3,000 per ounce",
+                "fact_id": "5_9"
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "title": "Gold Forecasts",
+        "description": "Gold prices are projected to experience significant fluctuations, with predictions ranging from $3,100 to potentially over $5,900 per ounce. Goldman Sachs forecasts a price of $3,100 per troy ounce for 2025, while other estimates suggest prices could breach $4,000 in the near term. The average price is expected to be around $3,675 by the end of 2025, indicating a volatile market with potential for both substantial gains and corrections.",
+        "representative_facts": [
+            {
+                "fact_content": "Goldman Sachs predicts $3,100 per troy ounce for 2025",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "Prices could breach $4,000 per ounce soon",
+                "fact_id": "4_1"
+            },
+            {
+                "fact_content": "Average price expected to be $3,675/oz by Q4 2025",
+                "fact_id": "4_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "title": "Gold Forecasts",
+        "description": "Gold prices are projected to experience significant fluctuations over the next few years, with predictions ranging from moderate increases to substantial surges. By 2025, estimates suggest prices could reach between $2,729 and $3,633, with some forecasts predicting even higher values by 2030. Analysts anticipate a potential peak in 2026, followed by a possible decline in 2027.",
+        "representative_facts": [
+            {
+                "fact_content": "Gold prices could reach $3,200 by end of 2025",
+                "fact_id": "8_0"
+            },
+            {
+                "fact_content": "Charlie Morris predicts gold at $7,000 by 2030",
+                "fact_id": "8_1"
+            },
+            {
+                "fact_content": "Gold may surge to $3,552.69 by mid-2026",
+                "fact_id": "8_13"
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "title": "Gold Forecasts",
+        "description": "Gold prices are projected to fluctuate significantly, with potential peaks and corrections. In 2025, gold prices have already surpassed $3,000, with predictions suggesting they could reach as high as $4,000 per ounce under certain scenarios. However, forecasts also indicate possible corrections, with prices potentially dropping to key support levels. The demand from central banks is expected to remain strong, influencing these price movements.",
+        "representative_facts": [
+            {
+                "fact_content": "Gold prices peaked at $3,500/oz in April",
+                "fact_id": "6_2"
+            },
+            {
+                "fact_content": "Gold's price increased by ~25% to $3,300/oz during the first five months of 2025",
+                "fact_id": "6_4"
+            },
+            {
+                "fact_content": "Bull case scenario sees gold approaching $4,000/oz over the next six to nine months with a 30% probability",
+                "fact_id": "6_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "title": "Employment Data",
+        "description": "The employment data for June shows a positive trend with Nonfarm Payrolls increasing by 147,000, surpassing expectations by 36,000. The unemployment rate slightly decreased by 0.1%, indicating a modest improvement in the job market. However, wage growth experienced a slowdown, decreasing by 0.2%.",
+        "representative_facts": [
+            {
+                "fact_content": "Nonfarm Payrolls increased by 147,000 in June",
+                "fact_id": "7_0"
+            },
+            {
+                "fact_content": "Nonfarm Payrolls beat forecasts by 36,000 (147,000 actual vs 111,000 forecast)",
+                "fact_id": "7_1"
+            },
+            {
+                "fact_content": "Unemployment Rate edged down by 0.1% (from 4.2% to 4.1%)",
+                "fact_id": "7_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "title": "Gold Forecasts",
+        "description": "Gold prices are projected to experience significant fluctuations over the next few years, with predictions ranging from declines to new all-time highs. By the end of 2025, gold is expected to trade around $2,759 per troy ounce, with potential increases to $3,925.39. In 2026, prices may range between $3,904.54 and $4,800.90, while 2027 could see prices reaching above $5,000.",
+        "representative_facts": [
+            {
+                "fact_content": "Trading Economics forecasts gold at $2,759 per troy ounce by end of 2025",
+                "fact_id": "2_1"
+            },
+            {
+                "fact_content": "Gold price may range between $3,904.54 and $4,800.90 between January and June 2026",
+                "fact_id": "2_8"
+            },
+            {
+                "fact_content": "Analysts expect new all-time highs above $5,000 in 2027",
+                "fact_id": "2_10"
+            }
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "title": "Gold Forecasts",
+        "description": "Gold prices are projected to experience significant fluctuations over the coming years, with various firms providing diverse forecasts. UBS has set a base-case target of $3,500 per ounce, while InvestingHaven predicts a potential maximum of $4,400 by 2027. JP Morgan anticipates an average price of $2,175 per ounce in late 2024. Long-term predictions include a potential rise to $6,800 by 2040, with prices possibly reaching $4,000 by 2028. Analysts foresee a broad trading range and potential peaks in the mid-$4,000s by 2026 and 2027.",
+        "representative_facts": [
+            {
+                "fact_content": "UBS base-case target of $3,500/oz",
+                "fact_id": "10_0"
+            },
+            {
+                "fact_content": "InvestingHaven sees potential maximum gold price of $4,400 in 2027",
+                "fact_id": "10_1"
+            },
+            {
+                "fact_content": "JP Morgan has an average price target of $2,175 per ounce for bullion in the final quarter of 2024",
+                "fact_id": "10_2"
+            }
+        ]
+    }
+]

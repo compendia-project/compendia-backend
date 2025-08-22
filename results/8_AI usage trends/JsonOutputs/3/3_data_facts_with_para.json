@@ -1,0 +1,227 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "In 2024, U.S. private AI investment grew to $109.1 billion\u2014nearly 12 times China\u2019s $9.3 billion and 24 times the U.K.\u2019s $4.5 billion. Generative AI saw particularly strong momentum, attracting $33.9 billion globally in private investment\u2014an 18.7% increase from 2023. AI business usage is also accelerating: 78% of organizations reported using AI in 2024, up from 55% the year before. Meanwhile, a growing body of research confirms that AI boosts productivity and, in most cases, helps narrow skill gaps across the workforce.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "U.S. private AI investment grew to $109.1 billion in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China's private AI investment was $9.3 billion in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The U.K.'s private AI investment was $4.5 billion in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Generative AI attracted $33.9 billion globally in private investment in 2024."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "78% of organizations reported using AI in 2024."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "55% of organizations reported using AI in 2023."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "U.S. private AI investment is nearly 12 times China's investment."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "U.S. private AI investment is 24 times the U.K.'s investment."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "AI business usage increased from 55% in 2023 to 78% in 2024."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Generative AI investment increased by 18.7% from 2023 to 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2024, U.S.-based institutions produced 40 notable AI models, significantly outpacing China\u2019s 15 and Europe\u2019s three. While the U.S. maintains its lead in quantity, Chinese models have rapidly closed the quality gap: performance differences on major benchmarks such as MMLU and HumanEval shrank from double digits in 2023 to near parity in 2024. Meanwhile, China continues to lead in AI publications and patents. At the same time, model development is increasingly global, with notable launches from regions such as the Middle East, Latin America, and Southeast Asia.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "U.S.-based institutions produced 40 notable AI models in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China produced 15 notable AI models in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Europe produced three notable AI models in 2024."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Performance differences on major benchmarks shrank from double digits in 2023 to near parity in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "In countries like China (83%), Indonesia (80%), and Thailand (77%), strong majorities see AI products and services as more beneficial than harmful. In contrast, optimism remains far lower in places like Canada (40%), the United States (39%), and the Netherlands (36%). Still, sentiment is shifting: since 2022, optimism has grown significantly in several previously skeptical countries\u2014including Germany (+10%), France (+10%), Canada (+8%), Great Britain (+8%), and the United States (+4%).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "83% in China see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "80% in Indonesia see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "77% in Thailand see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "40% in Canada see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "39% in the United States see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "36% in the Netherlands see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Optimism in Germany grew by 10% since 2022."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Optimism in France grew by 10% since 2022."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Optimism in Canada grew by 8% since 2022."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Optimism in Great Britain grew by 8% since 2022."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Optimism in the United States grew by 4% since 2022."
+                }
+            ]
+        },
+        {
+            "paragraph": "Driven by increasingly capable small models, the inference cost for a system performing at the level of GPT-3.5 dropped over 280-fold between November 2022 and October 2024. At the hardware level, costs have declined by 30% annually, while energy efficiency has improved by 40% each year. Open-weight models are also closing the gap with closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year. Together, these trends are rapidly lowering the barriers to advanced AI.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Inference cost for a system performing at the level of GPT-3.5 dropped over 280-fold between November 2022 and October 2024."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Hardware costs have declined by 30% annually."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Energy efficiency has improved by 40% each year."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Performance difference between open-weight and closed models reduced from 8% to 1.7% on some benchmarks in a single year."
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2024, U.S. federal agencies introduced 59 AI-related regulations\u2014more than double the number in 2023\u2014and issued by twice as many agencies. Globally, legislative mentions of AI rose 21.3% across 75 countries since 2023, marking a ninefold increase since 2016. Alongside growing attention, governments are investing at scale: Canada pledged $2.4 billion, China launched a $47.5 billion semiconductor fund, France committed \u20ac109 billion, India pledged $1.25 billion, and Saudi Arabia\u2019s Project Transcendence represents a $100 billion initiative.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "U.S. federal agencies introduced 59 AI-related regulations in 2024."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Number of AI-related regulations in the U.S. more than doubled from 2023 to 2024."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Legislative mentions of AI rose 21.3% across 75 countries since 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Canada pledged $2.4 billion for AI investment."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China launched a $47.5 billion semiconductor fund."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "France committed \u20ac109 billion for AI investment."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "India pledged $1.25 billion for AI investment."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Saudi Arabia\u2019s Project Transcendence represents a $100 billion initiative."
+                }
+            ]
+        },
+        {
+            "paragraph": "Two-thirds of countries now offer or plan to offer K\u201312 CS education\u2014twice as many as in 2019\u2014with Africa and Latin America making the most progress. In the U.S., the number of graduates with bachelor\u2019s degrees in computing has increased 22% over the last 10 years. Yet access remains limited in many African countries due to basic infrastructure gaps like electricity. In the U.S., 81% of K\u201312 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Two-thirds of countries now offer or plan to offer K\u201312 CS education, twice as many as in 2019."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The number of graduates with bachelor\u2019s degrees in computing in the U.S. increased 22% over the last 10 years."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "81% of K\u201312 CS teachers in the U.S. say AI should be part of foundational CS education."
+                }
+            ]
+        },
+        {
+            "paragraph": "Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to grow rapidly\u2014training compute doubles every five months, datasets every eight, and power use annually. Yet performance gaps are shrinking: the score difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two are now separated by just 0.7%. The frontier is increasingly competitive\u2014and increasingly crowded.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Nearly 90% of notable AI models in 2024 came from industry."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "60% of notable AI models in 2023 came from industry."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Training compute doubles every five months."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Datasets double every eight months."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Power use doubles annually."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Score difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The top two models are now separated by just 0.7%."
+                }
+            ]
+        }
+    ]
+}

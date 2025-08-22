@@ -1,0 +1,452 @@
+[
+    {
+        "cluster_id": 7,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "7_0",
+                "merged_content": "AI adoption and usage statistics across various sectors.",
+                "order_id": 1,
+                "narrative": "AI is being increasingly adopted across various sectors, showcasing its growing importance in modern industries."
+            },
+            {
+                "merged_id": "7_2",
+                "merged_content": "AI adoption rates in different countries.",
+                "order_id": 2,
+                "narrative": "Different countries are adopting AI at varying rates, reflecting diverse levels of technological advancement and policy support."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "AI market growth projections and investments.",
+                "order_id": 3,
+                "narrative": "The AI market is projected to grow significantly, with substantial investments fueling its expansion."
+            },
+            {
+                "merged_id": "7_3",
+                "merged_content": "AI market growth and investment projections.",
+                "order_id": 4,
+                "narrative": "Projections indicate a robust growth trajectory for the AI market, driven by increasing investments."
+            },
+            {
+                "merged_id": "7_4",
+                "merged_content": "AI's impact on productivity and job security in marketing.",
+                "order_id": 5,
+                "narrative": "In marketing, AI is enhancing productivity but also raising concerns about job security."
+            },
+            {
+                "merged_id": "7_5",
+                "merged_content": "AI's projected economic impact by 2030.",
+                "order_id": 6,
+                "narrative": "By 2030, AI is expected to have a profound economic impact, reshaping industries and economies globally."
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "number_of_facts": 9,
+        "facts": [
+            {
+                "merged_id": "9_0",
+                "merged_content": "77% of companies are either using or exploring the use of AI in their businesses. 35% of companies are using AI.",
+                "order_id": 1,
+                "narrative": "AI is becoming a cornerstone in business strategies, with 77% of companies either using or exploring its potential, and 35% actively integrating it into their operations."
+            },
+            {
+                "merged_id": "9_1",
+                "merged_content": "Compound annual growth rate (CAGR) of 36.6%. CAGR of 52% from 2019 to 2025.",
+                "order_id": 2,
+                "narrative": "The AI market is experiencing rapid growth, with a compound annual growth rate of 36.6%, and an even more impressive 52% CAGR from 2019 to 2025."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "The global AI market in the business sector is expected to reach $25.7 billion by 2025. The AI market is estimated to have $214 billion revenue in 2024.",
+                "order_id": 3,
+                "narrative": "By 2025, the global AI market in the business sector is projected to reach $25.7 billion, with an estimated revenue of $214 billion in 2024."
+            },
+            {
+                "merged_id": "9_3",
+                "merged_content": "AI market expected to surpass $1.8 trillion by 2030.",
+                "order_id": 4,
+                "narrative": "Looking further ahead, the AI market is expected to surpass a staggering $1.8 trillion by 2030."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "The AI market is projected to reach $1,339 billion by 2030.",
+                "order_id": 5,
+                "narrative": "Projections indicate that the AI market will reach $1,339 billion by 2030, highlighting its expansive growth."
+            },
+            {
+                "merged_id": "9_5",
+                "merged_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030.",
+                "order_id": 6,
+                "narrative": "AI adoption is poised to significantly impact the global economy, potentially contributing over $15.7 trillion by 2030."
+            },
+            {
+                "merged_id": "9_6",
+                "merged_content": "The AI market is projected to reach $3,680.47 billion by 2034.",
+                "order_id": 7,
+                "narrative": "By 2034, the AI market is projected to reach an astonishing $3,680.47 billion, underscoring its transformative potential."
+            },
+            {
+                "merged_id": "9_7",
+                "merged_content": "The AI market value in manufacturing is projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032.",
+                "order_id": 8,
+                "narrative": "In manufacturing, the AI market value is expected to skyrocket from $5.94 billion in 2024 to $68.36 billion by 2032."
+            },
+            {
+                "merged_id": "9_8",
+                "merged_content": "AI will displace around 85 million jobs. AI could create 97 million new jobs.",
+                "order_id": 9,
+                "narrative": "While AI is set to displace around 85 million jobs, it also holds the promise of creating 97 million new jobs, reshaping the workforce landscape."
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "AI adoption and exploration among companies.",
+                "order_id": 1,
+                "narrative": "Companies worldwide are increasingly adopting and exploring AI technologies, recognizing their potential to transform business operations."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "Global AI market growth from 2018 to 2026.",
+                "order_id": 2,
+                "narrative": "The global AI market is experiencing significant growth, with projections indicating a substantial increase from 2018 to 2026."
+            },
+            {
+                "merged_id": "2_4",
+                "merged_content": "AI usage among Americans aged 18 to 64.",
+                "order_id": 3,
+                "narrative": "In the United States, AI usage is prevalent among individuals aged 18 to 64, reflecting its integration into daily life."
+            },
+            {
+                "merged_id": "2_3",
+                "merged_content": "AI's potential to automate work activities.",
+                "order_id": 4,
+                "narrative": "AI holds the potential to automate numerous work activities, reshaping the workforce and enhancing productivity."
+            },
+            {
+                "merged_id": "2_2",
+                "merged_content": "AI's impact on the financial industry by 2030.",
+                "order_id": 5,
+                "narrative": "By 2030, AI is expected to have a profound impact on the financial industry, revolutionizing processes and decision-making."
+            },
+            {
+                "merged_id": "2_5",
+                "merged_content": "AI's contribution to US GDP by 2030.",
+                "order_id": 6,
+                "narrative": "AI is projected to significantly contribute to the US GDP by 2030, underscoring its economic importance."
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "number_of_facts": 13,
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "AI adoption trends in organizations from past years to 2024.",
+                "order_id": 1,
+                "narrative": "AI adoption has been steadily increasing in organizations over the years, with significant growth expected by 2024."
+            },
+            {
+                "merged_id": "3_10",
+                "merged_content": "Exploration and adoption of AI in companies.",
+                "order_id": 2,
+                "narrative": "Companies are actively exploring and adopting AI technologies to enhance their operations and competitiveness."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Generative AI adoption rates and maturity in organizations.",
+                "order_id": 3,
+                "narrative": "Generative AI is seeing rising adoption rates, with many organizations reaching maturity in its implementation."
+            },
+            {
+                "merged_id": "3_8",
+                "merged_content": "Comparison of technology adoption rates: PC, Internet, and Generative AI.",
+                "order_id": 4,
+                "narrative": "Generative AI is being adopted at a rate comparable to the historical adoption of PCs and the Internet."
+            },
+            {
+                "merged_id": "3_7",
+                "merged_content": "Comparison of AI usage and adoption rates.",
+                "order_id": 5,
+                "narrative": "AI usage and adoption rates vary across industries, reflecting different levels of integration and reliance on AI technologies."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "AI adoption rates in healthcare and automotive sectors.",
+                "order_id": 6,
+                "narrative": "The healthcare and automotive sectors are leading in AI adoption, leveraging its capabilities for innovation and efficiency."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "Comparison of AI model origins in 2023 and 2024.",
+                "order_id": 7,
+                "narrative": "AI models developed in 2023 and 2024 show diverse origins, indicating a broadening of the AI development landscape."
+            },
+            {
+                "merged_id": "3_12",
+                "merged_content": "Difference between top AI models.",
+                "order_id": 8,
+                "narrative": "Top AI models differ in their design and application, offering varied solutions to complex problems."
+            },
+            {
+                "merged_id": "3_6",
+                "merged_content": "AI startup funding in 2024.",
+                "order_id": 9,
+                "narrative": "AI startups are receiving substantial funding in 2024, fueling innovation and growth in the sector."
+            },
+            {
+                "merged_id": "3_5",
+                "merged_content": "Saudi Arabia's Project Transcendence initiative.",
+                "order_id": 10,
+                "narrative": "Saudi Arabia's Project Transcendence is a significant initiative aimed at advancing AI capabilities and integration."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "AI-related advancements affecting the global workforce.",
+                "order_id": 11,
+                "narrative": "AI advancements are reshaping the global workforce, impacting job roles and productivity."
+            },
+            {
+                "merged_id": "3_9",
+                "merged_content": "Public perception and impact of AI on jobs and productivity.",
+                "order_id": 12,
+                "narrative": "Public perception of AI is mixed, with concerns about job displacement balanced by potential productivity gains."
+            },
+            {
+                "merged_id": "3_11",
+                "merged_content": "Greenhouse gas emissions from office buildings.",
+                "order_id": 13,
+                "narrative": "AI is also being explored for its potential to reduce greenhouse gas emissions from office buildings, contributing to sustainability efforts."
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "number_of_facts": 5,
+        "facts": [
+            {
+                "merged_id": "8_0",
+                "merged_content": "The global AI market growth from 2018 to 2025.",
+                "order_id": 1,
+                "narrative": "The global AI market is experiencing significant growth, with projections indicating a substantial increase from 2018 to 2025."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "AI integration and usage in various sectors.",
+                "order_id": 2,
+                "narrative": "This growth is driven by AI's integration and usage across various sectors, transforming industries and enhancing capabilities."
+            },
+            {
+                "merged_id": "8_4",
+                "merged_content": "AI's impact on manufacturing and productivity.",
+                "order_id": 3,
+                "narrative": "In manufacturing, AI is revolutionizing productivity, streamlining processes, and increasing efficiency."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "AI's impact on employment and investment.",
+                "order_id": 4,
+                "narrative": "The rise of AI also impacts employment and investment, reshaping job markets and attracting significant financial interest."
+            },
+            {
+                "merged_id": "8_3",
+                "merged_content": "AI's role in education and technology products.",
+                "order_id": 5,
+                "narrative": "Furthermore, AI plays a crucial role in education and technology products, enhancing learning experiences and driving innovation."
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "AI perception and usage statistics.",
+                "order_id": 1,
+                "narrative": "In recent years, AI has become a significant part of technological advancement, with its perception and usage statistics showing a steady increase."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "AI adoption and usage in 2023.",
+                "order_id": 2,
+                "narrative": "The year 2023 marked a notable rise in AI adoption and usage, as more industries integrated AI technologies into their operations."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "AI model production in Europe.",
+                "order_id": 3,
+                "narrative": "Europe has emerged as a key player in AI model production, contributing significantly to the global AI landscape."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "Growth in AI-related metrics.",
+                "order_id": 4,
+                "narrative": "AI-related metrics have shown remarkable growth, reflecting the increasing reliance on AI technologies across various sectors."
+            },
+            {
+                "merged_id": "5_4",
+                "merged_content": "AI investment by China and France.",
+                "order_id": 5,
+                "narrative": "China and France have made substantial investments in AI, underscoring their commitment to leading in AI innovation."
+            },
+            {
+                "merged_id": "5_5",
+                "merged_content": "ChatGPT usage among teens in 2024.",
+                "order_id": 6,
+                "narrative": "Looking ahead to 2024, ChatGPT is expected to see widespread usage among teens, highlighting the growing influence of AI in everyday life."
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "AI adoption and perception among businesses and consumers.",
+                "order_id": 1,
+                "narrative": "The adoption and perception of AI are rapidly evolving among businesses and consumers, reflecting a growing interest and reliance on this technology."
+            },
+            {
+                "merged_id": "1_6",
+                "merged_content": "Current AI adoption in U.S. businesses.",
+                "order_id": 2,
+                "narrative": "Currently, U.S. businesses are increasingly adopting AI, integrating it into various operations to enhance efficiency and innovation."
+            },
+            {
+                "merged_id": "1_4",
+                "merged_content": "AI business usage increase from 2023 to 2024.",
+                "order_id": 3,
+                "narrative": "From 2023 to 2024, there is a notable increase in AI usage among businesses, indicating a trend towards more widespread implementation."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "U.S. private AI investment in 2024.",
+                "order_id": 4,
+                "narrative": "In 2024, private investment in AI within the U.S. is substantial, underscoring the confidence in AI's potential to drive future growth."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "AI model production in 2024 by country.",
+                "order_id": 5,
+                "narrative": "In 2024, countries are ramping up AI model production, showcasing a global race to lead in AI technology development."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "Perception of AI benefits in different countries.",
+                "order_id": 6,
+                "narrative": "Different countries perceive the benefits of AI in varied ways, reflecting cultural and economic differences in AI adoption and expectations."
+            },
+            {
+                "merged_id": "1_5",
+                "merged_content": "AI expected to boost manufacturing productivity by 2035.",
+                "order_id": 7,
+                "narrative": "Looking ahead, AI is expected to significantly boost manufacturing productivity by 2035, promising transformative impacts on the industry."
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "number_of_facts": 12,
+        "facts": [
+            {
+                "merged_id": "4_8",
+                "merged_content": "Global AI industry value in 2024.",
+                "order_id": 1,
+                "narrative": "In 2024, the global AI industry is valued at an impressive figure, reflecting its growing influence across various sectors."
+            },
+            {
+                "merged_id": "4_0",
+                "merged_content": "The U.K.'s private AI investment in 2024.",
+                "order_id": 2,
+                "narrative": "The U.K. is making significant strides in AI, with substantial private investments fueling advancements in the field."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "India's AI investment in 2024.",
+                "order_id": 3,
+                "narrative": "India is also ramping up its AI investments, showcasing its commitment to becoming a leader in AI technology."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "AI usage in the U.S. in 2024.",
+                "order_id": 4,
+                "narrative": "In the U.S., AI usage is becoming increasingly prevalent, integrating into daily life and business operations."
+            },
+            {
+                "merged_id": "4_7",
+                "merged_content": "U.S. AI regulations in 2024.",
+                "order_id": 5,
+                "narrative": "To manage this growth, the U.S. has implemented new AI regulations, aiming to balance innovation with ethical considerations."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "AI optimism in China in 2024.",
+                "order_id": 6,
+                "narrative": "China remains optimistic about AI's potential, continuing to invest heavily in its development and application."
+            },
+            {
+                "merged_id": "4_4",
+                "merged_content": "Optimism growth in Canada since 2022.",
+                "order_id": 7,
+                "narrative": "Since 2022, Canada has seen a notable increase in optimism towards AI, driven by successful implementations and innovations."
+            },
+            {
+                "merged_id": "4_5",
+                "merged_content": "Optimism growth in Great Britain since 2022.",
+                "order_id": 8,
+                "narrative": "Similarly, Great Britain has experienced a surge in AI optimism, reflecting positive public and private sector engagement."
+            },
+            {
+                "merged_id": "4_6",
+                "merged_content": "Annual hardware cost decline.",
+                "order_id": 9,
+                "narrative": "The annual decline in hardware costs is making AI technology more accessible, further accelerating its adoption."
+            },
+            {
+                "merged_id": "4_9",
+                "merged_content": "Daily AI use at home.",
+                "order_id": 10,
+                "narrative": "AI is now a staple in many households, with daily use becoming the norm for tasks ranging from personal assistance to home automation."
+            },
+            {
+                "merged_id": "4_10",
+                "merged_content": "E-commerce AI chatbot interactions.",
+                "order_id": 11,
+                "narrative": "In e-commerce, AI chatbots are revolutionizing customer interactions, providing efficient and personalized service."
+            },
+            {
+                "merged_id": "4_11",
+                "merged_content": "Top model performance difference.",
+                "order_id": 12,
+                "narrative": "The performance difference among top AI models highlights the rapid advancements and competitive nature of the industry."
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "number_of_facts": 2,
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "Perception of AI products and services as beneficial in different countries. 80% in Indonesia, 39% in the U.S., and 36% in the Netherlands see AI products and services as more beneficial than harmful.",
+                "order_id": 1,
+                "narrative": "The perception of AI products and services varies significantly across countries. In Indonesia, a striking 80% of people view AI as more beneficial than harmful, while in the U.S. and the Netherlands, the figures are notably lower at 39% and 36%, respectively."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Growth in AI optimism in Germany and France since 2022. Both countries saw a 10% increase in optimism.",
+                "order_id": 2,
+                "narrative": "Meanwhile, Germany and France have experienced a notable shift in AI optimism, with both countries witnessing a 10% increase in positive perceptions since 2022."
+            }
+        ]
+    }
+]

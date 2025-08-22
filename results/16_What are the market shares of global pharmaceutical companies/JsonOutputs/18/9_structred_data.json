@@ -1,0 +1,194 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "The global pharmaceuticals market size was valued at USD 1,661.26 billion in 2023. The market is projected to grow from USD 1,763.90 billion in 2024 to USD 3,148.31 billion by 2032, exhibiting a CAGR of 7.5% during the forecast period. North America dominated the pharmaceuticals market with a market share of 45.10% in 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The global pharmaceuticals market size was valued at USD 1,661.26 billion in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Global Market Size 2023",
+                            "value": "1661.26",
+                            "unit": "USD billion"
+                        }
+                    ],
+                    "fact_id": "18_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The market is projected to grow from USD 1,763.90 billion in 2024 to USD 3,148.31 billion by 2032.",
+                    "vis_data": [
+                        {
+                            "label": "Market Size 2024",
+                            "value": "1763.90",
+                            "unit": "USD billion"
+                        },
+                        {
+                            "label": "Market Size 2032",
+                            "value": "3148.31",
+                            "unit": "USD billion"
+                        }
+                    ],
+                    "fact_id": "18_0_1"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The market is exhibiting a CAGR of 7.5% during the forecast period.",
+                    "vis_data": [
+                        {
+                            "label": "CAGR 2024-2032",
+                            "value": "7.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "18_0_2"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "North America dominated the pharmaceuticals market with a market share of 45.10% in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "North America Market Share 2023",
+                            "value": "45.10",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "18_0_3"
+                }
+            ],
+            "relatedness_score": 0.6219581692308023,
+            "article_meta_data": {
+                "title": "Pharmaceutical Market Size, Share & Growth Report, 2032",
+                "date": "2025-06-16",
+                "url": "https://www.fortunebusinessinsights.com/impact-of-covid-19-on-pharmaceuticals-market-102685",
+                "id": 18
+            },
+            "para_id": "18_0"
+        },
+        {
+            "paragraph": "The market size in North America stood at USD 749.27 billion in 2023. The dominance of this region is attributable to many factors, such as advancements in clinical trials and drug manufacturing in the U.S. and Canada. This factor is provoking key players to develop innovative products in the region, thereby driving market growth. Additionally, the increasing number of drug approvals is also a major factor favoring the market's growth in the region.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The market size in North America stood at USD 749.27 billion in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "North America Market Size 2023",
+                            "value": "749.27",
+                            "unit": "USD billion"
+                        }
+                    ],
+                    "fact_id": "18_1_4"
+                }
+            ],
+            "relatedness_score": 0.5266661406366101,
+            "article_meta_data": {
+                "title": "Pharmaceutical Market Size, Share & Growth Report, 2032",
+                "date": "2025-06-16",
+                "url": "https://www.fortunebusinessinsights.com/impact-of-covid-19-on-pharmaceuticals-market-102685",
+                "id": 18
+            },
+            "para_id": "18_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "18_0",
+            "paragraph": "The global pharmaceuticals market size was valued at USD 1,661.26 billion in 2023. The market is projected to grow from USD 1,763.90 billion in 2024 to USD 3,148.31 billion by 2032, exhibiting a CAGR of 7.5% during the forecast period. North America dominated the pharmaceuticals market with a market share of 45.10% in 2023."
+        },
+        {
+            "para_id": "18_1",
+            "paragraph": "The market size in North America stood at USD 749.27 billion in 2023. The dominance of this region is attributable to many factors, such as advancements in clinical trials and drug manufacturing in the U.S. and Canada. This factor is provoking key players to develop innovative products in the region, thereby driving market growth. Additionally, the increasing number of drug approvals is also a major factor favoring the market's growth in the region."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "18_0_0",
+            "fact_content": "The global pharmaceuticals market size was valued at USD 1,661.26 billion in 2023."
+        },
+        {
+            "fact_id": "18_0_1",
+            "fact_content": "The market is projected to grow from USD 1,763.90 billion in 2024 to USD 3,148.31 billion by 2032."
+        },
+        {
+            "fact_id": "18_0_2",
+            "fact_content": "The market is exhibiting a CAGR of 7.5% during the forecast period."
+        },
+        {
+            "fact_id": "18_0_3",
+            "fact_content": "North America dominated the pharmaceuticals market with a market share of 45.10% in 2023."
+        },
+        {
+            "fact_id": "18_1_4",
+            "fact_content": "The market size in North America stood at USD 749.27 billion in 2023."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The global pharmaceuticals market size was valued at USD 1,661.26 billion in 2023.",
+            "vis_data": [
+                {
+                    "label": "Global Market Size 2023",
+                    "value": "1661.26",
+                    "unit": "USD billion"
+                }
+            ],
+            "fact_id": "18_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The market is projected to grow from USD 1,763.90 billion in 2024 to USD 3,148.31 billion by 2032.",
+            "vis_data": [
+                {
+                    "label": "Market Size 2024",
+                    "value": "1763.90",
+                    "unit": "USD billion"
+                },
+                {
+                    "label": "Market Size 2032",
+                    "value": "3148.31",
+                    "unit": "USD billion"
+                }
+            ],
+            "fact_id": "18_0_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The market is exhibiting a CAGR of 7.5% during the forecast period.",
+            "vis_data": [
+                {
+                    "label": "CAGR 2024-2032",
+                    "value": "7.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "18_0_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "North America dominated the pharmaceuticals market with a market share of 45.10% in 2023.",
+            "vis_data": [
+                {
+                    "label": "North America Market Share 2023",
+                    "value": "45.10",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "18_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The market size in North America stood at USD 749.27 billion in 2023.",
+            "vis_data": [
+                {
+                    "label": "North America Market Size 2023",
+                    "value": "749.27",
+                    "unit": "USD billion"
+                }
+            ],
+            "fact_id": "18_1_4"
+        }
+    ]
+}

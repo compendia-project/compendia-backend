@@ -1,0 +1,77 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "SINGAPORE: The number of couples that got married last year dipped by 3.7 per cent compared to 2022, while there was a slight increase in marriages that ended in divorce,\u0000a0the Singapore Department of Statistics said on Monday (Jul 15).",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The number of couples that got married last year dipped by 3.7 per cent compared to 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Marriage Dip",
+                            "value": "3.7",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.7011318787967973
+        },
+        {
+            "paragraph": "A total of 28,310 marriages were registered in 2023, marking a decline from the record high of 29,389 marriages the year before.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "28,310 marriages were registered in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2023",
+                            "value": "28310",
+                            "unit": "count"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "29,389 marriages were the record high the year before 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Record High Marriages",
+                            "value": "29389",
+                            "unit": "count"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4822989908153259
+        },
+        {
+            "paragraph": "The median age at first marriage in 2023 also went up\u0000compared to 2013 - from 30.2 years to 31 years for grooms and 28.1 years to 29.5 years\u0000for brides.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The median age at first marriage for grooms increased from 30.2 years in 2013 to 31 years in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Grooms' Median Age Increase",
+                            "value": "0.8",
+                            "unit": "years"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The median age at first marriage for brides increased from 28.1 years in 2013 to 29.5 years in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Brides' Median Age Increase",
+                            "value": "1.4",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4398006049518739
+        }
+    ]
+}

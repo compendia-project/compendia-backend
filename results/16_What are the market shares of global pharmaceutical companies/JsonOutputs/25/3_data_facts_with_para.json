@@ -1,0 +1,163 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Pfizer was the biggest company in the world by pharmaceutical sales in 2024. Among the rest of the top five there was change, however, as Merck & Co climbed above Johnson & Johnson and AbbVie to take second place, and Novartis was replaced in fifth place by Roche.",
+            "facts": [
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Pfizer was the biggest company in the world by pharmaceutical sales in 2024."
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Merck & Co climbed to second place in pharmaceutical sales."
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Novartis was replaced in fifth place by Roche."
+                }
+            ]
+        },
+        {
+            "paragraph": "Pfizer\u2019s position at the top of the pack belies the challenges the company has faced beyond the COVID-19 windfall revenues it enjoyed from the Comirnaty vaccine and the Paxlovid (nirmatrelvir/ritonavir) antiviral pill. With activist investors bemoaning returns on R&D and M&A investment and the loss of about $17bn in revenues looming from exclusivity expiries in 2025\u20132030, the company has been culling its pipeline and looking externally for assets.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pfizer faces a loss of about $17bn in revenues from exclusivity expiries in 2025\u20132030."
+                }
+            ]
+        },
+        {
+            "paragraph": "Although CEO Albert Bourla believes recent acquisitions including most notably the2023 Seagen purchasehave brought in about $20bn in 2030 risk-adjusted revenues, the company is unlikely to report dazzling growth in 2025. In February, it forecast essentially flat revenues for the full year, with the possibility of a decline or a small increase over 2024. Chief financial officer Dave Denton also confirmed that the company had available around$10bn\u201315bn for business development this year, but would be looking for strategic pipeline enhancements rather than near-term LoE (loss of exclusivity) plugs.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Recent acquisitions brought in about $20bn in 2030 risk-adjusted revenues for Pfizer."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pfizer had available around $10bn\u201315bn for business development in 2025."
+                }
+            ]
+        },
+        {
+            "paragraph": "Merck & Co, rising from fourth to second place, also expectsrevenue growth to flattenin 2025. With a pause on shipments of its Gardasil HPV vaccine to China, once a major growth market for the product, investors were spooked despite the company continuing to drive growth from the blockbuster checkpoint inhibitor Keytruda (pembrolizumab) as it expanded market share and reached new oncology indications.",
+            "facts": [
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Merck & Co rose from fourth to second place in pharmaceutical sales."
+                }
+            ]
+        },
+        {
+            "paragraph": "Johnson & Johnson\u2019s head of innovative medicine talked up the division\u2019sachievement of its $57bn sales targeta year early during the company\u2019s earnings call. However, the business\u2019s 2024 revenue growth put it in the bottom half of its top 10 pharma peer set. The company is predicting slower growth in 2025 because of the impact of the Inflation Reduction Act redesign of Medicare Part D, in which three of the first 10 drugs up for price negotiation are J&J drugs. One of those drugs, and currently its second biggest seller, is Stelara (ustekinumab), which is also going to be hit by its recent loss of exclusivity in the US.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johnson & Johnson achieved its $57bn sales target a year early."
+                }
+            ]
+        },
+        {
+            "paragraph": "AbbVie may have slipped in the rankings but the company grew its 2024 sales. This was despite the ongoing decline in revenues for its once biggest product, Humira, which lost exclusivity in the US at the start of 2023 and experienced $5bn of US sales erosion in 2024 alone. AbbVie has been successfully renewing its immunology franchise through strong growth of Skyrizi (risankizumab) and Rinvoq (upadacitinib). While the company is forecasting revenue growth of about 5.7% in 2025, it expects theMedicare Part D redesign to dampen growthwith about 4% of downward pressure on sales.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Humira experienced $5bn of US sales erosion in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "AbbVie is forecasting revenue growth of about 5.7% in 2025."
+                }
+            ]
+        },
+        {
+            "paragraph": "Roche recovered in 2024 following a difficult 2023 that was hit by declines in COVID-19 products, something that affected its diagnostics business more than its pharma business. In our leaderboard, diagnostics division sales are excluded (as are other companies\u2019 non-pharma businesses).",
+            "facts": []
+        },
+        {
+            "paragraph": "The company enjoyed growth from key drivers including Vabysmo (faricimab), launched in 2022 for ophthalmology indications including wet age-related macular degeneration; Hemlibra (emicizumab) for hemophila A; and its top-selling drug Ocrevus (ocrelizumab) for multiple sclerosis. These more than offset the ongoing biosimilar erosion of its one-time powerhouse trio of oncology antibodies, Avastin (bevacizumab), Herceptin (trastuzumab) and MabThera/Rituxan (rituximab) and other biologics. Roche forecastcontinued growth in 2025, with group sales expected to increase in the mid- single digit range.",
+            "facts": []
+        },
+        {
+            "paragraph": "The fastest-growing companies in the top 10 were AstraZeneca, with all of its key therapy areas seeing sales rise by double-digit percentages, and Eli Lilly, driven by its tirzepatide GIP/GLP-1 receptor agonist products for diabetes and obesity, Mounjaro and Zepbound. Lilly\u2019s32% riseenabled it to edge GSK out of the top 10, while Lilly\u2019s rival in the GLP-1 space,Novo Nordisk grew by 25%to reach 11th place, leaving GSK in 12th position. Lilly is expecting another revenue rise of around 32% in 2025, and analysts are expecting it to grow its share of the GLP-1 market across diabetes and obesity (it ended 2024 with 34% compared with Novo Nordisk\u2019s 63%). Novo Nordisk for its part predicted 2025 revenue growth of 16\u201324%.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Lilly's 32% rise enabled it to edge GSK out of the top 10."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Novo Nordisk grew by 25% to reach 11th place."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Lilly ended 2024 with 34% share of the GLP-1 market."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Novo Nordisk ended 2024 with 63% share of the GLP-1 market."
+                }
+            ]
+        },
+        {
+            "paragraph": "AstraZeneca isaiming to reach $80bnin sales by 2030 from $54bn in 2024, but price pressures in the US and China represent a challenge this year. However, it still guided for revenue growth at a high single-digit percentage rate in 2025. The company is aiming to launch 20 new medicines by 2030, and key readouts in 2025 and early 2026 \u2014 particularly in oncology \u2014 will give a clearer idea of how successful it will be.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AstraZeneca is aiming to reach $80bn in sales by 2030 from $54bn in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "Novartis\u2019s slippage on the league table in 2024 reflects the spin-out of its Sandoz generics and biosimilars business in October 2023. Its core pharmaceutical business performed strongly, however,",
+            "facts": []
+        },
+        {
+            "paragraph": "with the company reporting12% growth of net pharma salesto $50.3bn. Key growth drivers included heart failure drug Entresto (sacubitril/valsartan), which will nevertheless face loss of exclusivity in the US this year. CEO Vas Narasimhan believes CDK4/6 inhibitor breast cancer drug Kisqali (ribociclib) will help drive ongoing growth and could eventually reach annual sales of $8bn. Kisqali sales grew by 49% to $3bn in 2024. The company forecasts mid- to high-single digit percentage net sales growth in 2025.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Novartis reported 12% growth of net pharma sales to $50.3bn."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Kisqali sales grew by 49% to $3bn in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "Despite its 2024 growth, Bristol Myers Squibb is going to be hit hard by losses of exclusivity over the next five years. The company\u2019s 2025 guidance is for adecline of nearly $3bnon 2024\u2019s revenues. BMS is implementing cost-cutting plans with recently appointed CEO Christopher Boerner adding $2bn in cuts in 2025\u20132027 toa $1.5bn plan already in place since last year. However, he highlighted \u201ca multitude of important data readouts over the next 24 months with the potential to launch 10 or more new medicines and pursue over 30 indication expansion opportunities over the next five years.\u201d",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bristol Myers Squibb's 2025 guidance is for a decline of nearly $3bn on 2024\u2019s revenues."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BMS is implementing $2bn in cuts in 2025\u20132027."
+                }
+            ]
+        },
+        {
+            "paragraph": "Sanofi was buoyed by blockbuster sales of its RSV drug, Beyfortus (nirsevimab), in its first year on the market and its immunology drug, Dupixent (dupilumab), reaching annual sales of more than",
+            "facts": []
+        },
+        {
+            "paragraph": "\u20ac13bn. The French firm reported 11.3% company sales growth at constant currencies and predicted mid-to-high single-digit percentage sales growth in 2025, at constant exchange rates. The firm is selling a controlling stake in its Opella consumer health firm to focus on its science-driven pharma business, andCEO Paul Hudson is bullishabout making Sanofi the \u201cworld\u2019s leading immunology company\u201d both through internal development and through dealmaking.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sanofi reported 11.3% company sales growth at constant currencies."
+                }
+            ]
+        },
+        {
+            "paragraph": "GSK slipped in the rankings but still enjoyeddecent growth in 2024. CEO Emma Walmsley upgraded the UK firm\u2019s guidance for 2031 revenues for the second time in a year, from \u00a338bn to \u00a340bn (about",
+            "facts": []
+        },
+        {
+            "paragraph": "$50bn). Vaccine sales dragged on 2024 results as shingles, flu and RSV shots fell back versus the prior year, but GSK\u2019s other key therapeutic areas, including HIV, respiratory/immunology, oncology and respiratory, grew.",
+            "facts": []
+        }
+    ]
+}

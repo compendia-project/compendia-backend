@@ -1,0 +1,2194 @@
+[
+    {
+        "cluster_id": "1",
+        "merged_facts": [
+            {
+                "merged_content": "Per capita disposable income growth over 10 years.",
+                "merged_data": [
+                    {
+                        "label": "10 Years Ago",
+                        "value": "16500",
+                        "unit": "yuan"
+                    },
+                    {
+                        "label": "Now",
+                        "value": "36883",
+                        "unit": "yuan"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Per Capita Income Growth",
+                    "x_axis": "Time",
+                    "y_axis": "Income (yuan)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_0",
+                        "fact_group_content": "Per capita disposable income grew from 16,500 yuan to 36,883 yuan in the past 10 years.",
+                        "fact_ids": [
+                            "25_0_0"
+                        ],
+                        "article_ids": [
+                            "25"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Per capita disposable income grew from 16,500 yuan to 36,883 yuan in the past 10 years.",
+                                "vis_data": [
+                                    {
+                                        "label": "Per Capita Income 10 Years Ago",
+                                        "value": "16500",
+                                        "unit": "yuan"
+                                    },
+                                    {
+                                        "label": "Per Capita Income Now",
+                                        "value": "36883",
+                                        "unit": "yuan"
+                                    }
+                                ],
+                                "fact_id": "25_0_0"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "1_0"
+            },
+            {
+                "merged_content": "Middle class population and income distribution.",
+                "merged_data": [
+                    {
+                        "label": "Middle Class Adults",
+                        "value": "664",
+                        "unit": "million"
+                    },
+                    {
+                        "label": "Middle-Income Population 2001",
+                        "value": "32",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Middle Class Population",
+                    "x_axis": "Category",
+                    "y_axis": "Population (million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_1",
+                        "fact_group_content": "664 million adults are part of the middle class this year, with nearly 110 million of those people being Chinese and 92 million Americans.",
+                        "fact_ids": [
+                            "17_0_0"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "664 million adults are part of the middle class this year, with nearly 110 million of those people being Chinese and 92 million Americans.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle Class Adults",
+                                        "value": "664",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "17_0_0"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "1_9",
+                        "fact_group_content": "China's middle-income population was 32 million in 2001.",
+                        "fact_ids": [
+                            "23_1_2"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China's middle-income population was 32 million in 2001.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle-Income Population 2001",
+                                        "value": "32",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "23_1_2"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "1_1"
+            },
+            {
+                "merged_content": "Middle class income range in the US.",
+                "merged_data": [
+                    {
+                        "label": "Lower",
+                        "value": "45000",
+                        "unit": "USD/year"
+                    },
+                    {
+                        "label": "Upper",
+                        "value": "135000",
+                        "unit": "USD/year"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "US Middle Class Income Range",
+                    "x_axis": "Income Range",
+                    "y_axis": "Income (USD/year)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_2",
+                        "fact_group_content": "A middle-income-three-member-household in the US earns about US$45,000 to US$135,000.",
+                        "fact_ids": [
+                            "28_0_1"
+                        ],
+                        "article_ids": [
+                            "28"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "A middle-income-three-member-household in the US earns about US$45,000 to US$135,000.",
+                                "vis_data": [
+                                    {
+                                        "label": "Three-member household income lower",
+                                        "value": "45000",
+                                        "unit": "USD/year"
+                                    },
+                                    {
+                                        "label": "Three-member household income upper",
+                                        "value": "135000",
+                                        "unit": "USD/year"
+                                    }
+                                ],
+                                "fact_id": "28_0_1"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "1_2"
+            },
+            {
+                "merged_content": "China's share of global GDP today.",
+                "merged_data": [
+                    {
+                        "label": "China's GDP Share",
+                        "value": "17",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "China's Global GDP Share",
+                    "x_axis": "Country",
+                    "y_axis": "GDP Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_3",
+                        "fact_group_content": "China generates about 17 percent of global GDP today.",
+                        "fact_ids": [
+                            "29_0_2"
+                        ],
+                        "article_ids": [
+                            "29"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China generates about 17 percent of global GDP today.",
+                                "vis_data": [
+                                    {
+                                        "label": "China's share of global GDP",
+                                        "value": "17",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "29_0_2"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "1_3"
+            },
+            {
+                "merged_content": "China's middle class population projections.",
+                "merged_data": [
+                    {
+                        "label": "2011",
+                        "value": "18",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "2030",
+                        "value": "70",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "China Middle Class Population",
+                    "x_axis": "Year",
+                    "y_axis": "Population (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_4",
+                        "fact_group_content": "Over 70% of China\u2019s population could be middle class by 2030.",
+                        "fact_ids": [
+                            "13_0_0"
+                        ],
+                        "article_ids": [
+                            "13"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Over 70% of China\u2019s population could be middle class by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "China Middle Class Population",
+                                        "value": "70",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "13_0_0"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "1_8",
+                        "fact_group_content": "18% of China\u2019s population was middle income in 2011.",
+                        "fact_ids": [
+                            "9_0_0"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "18% of China\u2019s population was middle income in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "China Middle Income 2011",
+                                        "value": "18",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "9_0_0"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "1_4"
+            },
+            {
+                "merged_content": "China and India's middle class impact by 2030.",
+                "merged_data": [
+                    {
+                        "label": "Global Middle Class Population",
+                        "value": "66.67",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Middle Class Consumption",
+                        "value": "59",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "China & India Middle Class Impact",
+                    "x_axis": "Category",
+                    "y_axis": "Impact (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_5",
+                        "fact_group_content": "China and India will represent roughly two-thirds of the global middle-class population and 59% of middle-class consumption by 2030.",
+                        "fact_ids": [
+                            "13_0_2"
+                        ],
+                        "article_ids": [
+                            "13"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "China and India will represent roughly two-thirds of the global middle-class population and 59% of middle-class consumption by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "China & India Global Middle Class Population",
+                                        "value": "66.67",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "China & India Middle Class Consumption",
+                                        "value": "59",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "13_0_2"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "1_6",
+                        "fact_group_content": "China and India will represent 59% of middle-class consumption by 2030.",
+                        "fact_ids": [
+                            "13_0_3"
+                        ],
+                        "article_ids": [
+                            "13"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "China and India will represent 59% of middle-class consumption by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "China & India Middle Class Consumption",
+                                        "value": "59",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "13_0_3"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "1_5"
+            },
+            {
+                "merged_content": "Middle class spending in 2015.",
+                "merged_data": [
+                    {
+                        "label": "2015",
+                        "value": "35",
+                        "unit": "trillion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Global Middle Class Spending",
+                    "x_axis": "Year",
+                    "y_axis": "Spending (trillion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_7",
+                        "fact_group_content": "Middle-class spending in 2015 was roughly $35 trillion.",
+                        "fact_ids": [
+                            "13_0_5"
+                        ],
+                        "article_ids": [
+                            "13"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Middle-class spending in 2015 was roughly $35 trillion.",
+                                "vis_data": [
+                                    {
+                                        "label": "Global Middle Class Spending 2015",
+                                        "value": "35",
+                                        "unit": "trillion USD"
+                                    }
+                                ],
+                                "fact_id": "13_0_5"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "1_6"
+            },
+            {
+                "merged_content": "Middle-income share in 2001 and 2011.",
+                "merged_data": [
+                    {
+                        "label": "2001",
+                        "value": "3",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "2011",
+                        "value": "12",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Middle-Income Share",
+                    "x_axis": "Year",
+                    "y_axis": "Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_10",
+                        "fact_group_content": "The share of China's middle-income population was 3% in 2001.",
+                        "fact_ids": [
+                            "23_1_5"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of China's middle-income population was 3% in 2001.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle-Income Share 2001",
+                                        "value": "3",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_1_5"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "1_12",
+                        "fact_group_content": "The share of the middle-income population in North America was 12% in 2011.",
+                        "fact_ids": [
+                            "23_3_14"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of the middle-income population in North America was 12% in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle-Income Share 2011",
+                                        "value": "12",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_3_14"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "1_7"
+            },
+            {
+                "merged_content": "Poverty rate in China in 2001.",
+                "merged_data": [
+                    {
+                        "label": "2001",
+                        "value": "41",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Poverty Rate in China",
+                    "x_axis": "Year",
+                    "y_axis": "Rate (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_11",
+                        "fact_group_content": "The poverty rate in China was 41% in 2001.",
+                        "fact_ids": [
+                            "23_2_7"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The poverty rate in China was 41% in 2001.",
+                                "vis_data": [
+                                    {
+                                        "label": "Poverty Rate 2001",
+                                        "value": "41",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_2_7"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "1_8"
+            }
+        ],
+        "errors": [
+            "In 'Middle class population and income distribution', the merged data combines unrelated data points: 'Middle Class Adults' and 'Middle-Income Population 2001'. This is an Irrelevant Merging Error. Suggestion: split the merged fact.",
+            "In 'Middle class income range in the US', the x-axis title 'Income Range' exceeds 20 characters.",
+            "In 'China's share of global GDP today', the x-axis title 'Country' is not suitable as there is only one data point related to China. Suggestion: use a more descriptive x-axis title.",
+            "In 'China's middle class population projections', the recommendation is a line chart, but the data points are percentages and do not represent a continuous time series. Suggestion: use a bar chart instead.",
+            "In 'China and India's middle class impact by 2030', the label 'Global Middle Class Population' exceeds 15 characters.",
+            "In 'Middle class spending in 2015', the recommendation is 'text', but the data is numerical and could be better represented with a bar chart.",
+            "In 'Middle-income share in 2001 and 2011', the merged data combines unrelated data points: 'Middle-Income Share 2001' and 'Middle-Income Share 2011'. This is an Irrelevant Merging Error. Suggestion: split the merged fact.",
+            "In 'Poverty rate in China in 2001', the recommendation is 'isotype', but there is only one data point, making it unsuitable for an isotype chart. Suggestion: use a bar chart instead."
+        ]
+    },
+    {
+        "cluster_id": "5",
+        "merged_facts": [
+            {
+                "merged_content": "Middle-income group size and distribution in the US and China.",
+                "merged_data": [
+                    {
+                        "label": "Middle-Income Group",
+                        "value": "400",
+                        "unit": "million people"
+                    },
+                    {
+                        "label": "American Middle Class Adults",
+                        "value": "92",
+                        "unit": "million people"
+                    },
+                    {
+                        "label": "China Middle Income Increase",
+                        "value": "203",
+                        "unit": "million people"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Middle-Income Group Distribution",
+                    "x_axis": "Region",
+                    "y_axis": "Population (Million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_0",
+                        "fact_group_content": "Middle-income group of more than 400 million people in China over the past 10 years.",
+                        "fact_ids": [
+                            "25_0_1"
+                        ],
+                        "article_ids": [
+                            "25"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Middle-income group of more than 400 million people in China over the past 10 years.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle-Income Group",
+                                        "value": "400",
+                                        "unit": "million people"
+                                    }
+                                ],
+                                "fact_id": "25_0_1"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "5_1",
+                        "fact_group_content": "92 million middle class adults are Americans in 2015.",
+                        "fact_ids": [
+                            "17_0_3"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "92 million middle class adults are Americans in 2015.",
+                                "vis_data": [
+                                    {
+                                        "label": "American Middle Class Adults",
+                                        "value": "92",
+                                        "unit": "million people"
+                                    }
+                                ],
+                                "fact_id": "17_0_3"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "5_3",
+                        "fact_group_content": "203 million people in China crossed the middle-income threshold of $10 per day from 2001 to 2011.",
+                        "fact_ids": [
+                            "9_0_2"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "203 million people in China crossed the middle-income threshold of $10 per day from 2001 to 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "China Middle Income Increase",
+                                        "value": "203",
+                                        "unit": "million people"
+                                    }
+                                ],
+                                "fact_id": "9_0_2"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "5_0"
+            },
+            {
+                "merged_content": "US middle class and low-income population shares in 2001 and 2016.",
+                "merged_data": [
+                    {
+                        "label": "US Middle Class Population 2016",
+                        "value": "52",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "US Population Income Shares",
+                    "x_axis": "Year",
+                    "y_axis": "Population Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_2",
+                        "fact_group_content": "52% of the US population was classified as middle class in 2016.",
+                        "fact_ids": [
+                            "7_0_0"
+                        ],
+                        "article_ids": [
+                            "7"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "52% of the US population was classified as middle class in 2016.",
+                                "vis_data": [
+                                    {
+                                        "label": "US Middle Class Population 2016",
+                                        "value": "52",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "7_0_0"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "5_1"
+            },
+            {
+                "merged_content": "Low-income population share in North America in 2001.",
+                "merged_data": [
+                    {
+                        "label": "Low-Income Share 2001",
+                        "value": "17",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Low-Income Population Share",
+                    "x_axis": "Year",
+                    "y_axis": "Population Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_5",
+                        "fact_group_content": "The share of the low-income population in North America was 17% in 2001.",
+                        "fact_ids": [
+                            "23_3_15"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of the low-income population in North America was 17% in 2001.",
+                                "vis_data": [
+                                    {
+                                        "label": "Low-Income Share 2001",
+                                        "value": "17",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_3_15"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "5_2"
+            },
+            {
+                "merged_content": "China's total population size.",
+                "merged_data": [
+                    {
+                        "label": "China Population",
+                        "value": "1300",
+                        "unit": "million people"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "China's Total Population",
+                    "x_axis": "Population",
+                    "y_axis": "Million People"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_4",
+                        "fact_group_content": "China is home to more than 1.3 billion people.",
+                        "fact_ids": [
+                            "9_1_3"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China is home to more than 1.3 billion people.",
+                                "vis_data": [
+                                    {
+                                        "label": "China Population",
+                                        "value": "1300",
+                                        "unit": "million people"
+                                    }
+                                ],
+                                "fact_id": "9_1_3"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "5_3"
+            }
+        ],
+        "errors": [
+            "Illogical Merging Error in merged_content 'Middle-income group size and distribution in the US and China.' - The data points 'Middle-Income Group', 'American Middle Class Adults', and 'China Middle Income Increase' are not logically combined. Suggestion: Split the merged fact.",
+            "Irrelevant Merging Error in merged_content 'Middle-income group size and distribution in the US and China.' - The data points 'American Middle Class Adults' and 'China Middle Income Increase' are unrelated. Suggestion: Split the merged fact.",
+            "Chart title 'Middle-Income Group Distribution' exceeds 40 characters.",
+            "Label 'American Middle Class Adults' exceeds 15 characters.",
+            "Label 'China Middle Income Increase' exceeds 15 characters.",
+            "Label 'US Middle Class Population 2016' exceeds 15 characters.",
+            "Label 'Low-Income Share 2001' exceeds 15 characters.",
+            "Label 'China Population' exceeds 15 characters.",
+            "X-axis title 'Population' exceeds 20 characters.",
+            "Y-axis title 'Million People' exceeds 20 characters."
+        ]
+    },
+    {
+        "cluster_id": "7",
+        "merged_facts": [
+            {
+                "merged_content": "664 million adults are part of the middle class this year. 110 million middle class adults are Chinese. 92 million were Americans.",
+                "merged_data": [
+                    {
+                        "label": "Middle Class Adults",
+                        "value": "664",
+                        "unit": "million"
+                    },
+                    {
+                        "label": "Chinese Middle Class Adults",
+                        "value": "110",
+                        "unit": "million"
+                    },
+                    {
+                        "label": "American Middle Class Adults",
+                        "value": "92",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Middle Class Population",
+                    "x_axis": "Category",
+                    "y_axis": "Population (million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_0",
+                        "fact_group_content": "664 million adults are part of the middle class this year, nearly 15 percent of the world\u2019s total adult population. Nearly 110 million of those people were Chinese, and 92 million were Americans.",
+                        "fact_ids": [
+                            "17_0_0"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "664 million adults are part of the middle class this year, nearly 15 percent of the world\u2019s total adult population. Nearly 110 million of those people were Chinese, and 92 million were Americans.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle Class Adults",
+                                        "value": "664",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "17_0_0"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "7_2",
+                        "fact_group_content": "110 million middle class adults are Chinese in 2015.",
+                        "fact_ids": [
+                            "17_0_2"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "110 million middle class adults are Chinese in 2015.",
+                                "vis_data": [
+                                    {
+                                        "label": "Chinese Middle Class Adults",
+                                        "value": "110",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "17_0_2"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "7_0"
+            },
+            {
+                "merged_content": "15 percent of the world\u2019s total adult population is part of the middle class.",
+                "merged_data": [
+                    {
+                        "label": "Middle Class Proportion",
+                        "value": "15",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Global Middle Class Proportion",
+                    "x_axis": "Category",
+                    "y_axis": "Proportion (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_1",
+                        "fact_group_content": "15 percent of the world\u2019s total adult population is part of the middle class.",
+                        "fact_ids": [
+                            "17_0_1"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "15 percent of the world\u2019s total adult population is part of the middle class.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle Class Proportion",
+                                        "value": "15",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "17_0_1"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "7_1"
+            },
+            {
+                "merged_content": "A single-person-middle-income-earner in the US makes between US$26,000 and US$78,000 in a year.",
+                "merged_data": [
+                    {
+                        "label": "Single-person income lower",
+                        "value": "26000",
+                        "unit": "USD/year"
+                    },
+                    {
+                        "label": "Single-person income upper",
+                        "value": "78000",
+                        "unit": "USD/year"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "US Middle Income Range",
+                    "x_axis": "Income Range",
+                    "y_axis": "USD/year"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_3",
+                        "fact_group_content": "A single-person-middle-income-earner in the US makes between US$26,000 and US$78,000 in a year (as per 2016 data).",
+                        "fact_ids": [
+                            "28_0_0"
+                        ],
+                        "article_ids": [
+                            "28"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "A single-person-middle-income-earner in the US makes between US$26,000 and US$78,000 in a year (as per 2016 data).",
+                                "vis_data": [
+                                    {
+                                        "label": "Single-person income lower",
+                                        "value": "26000",
+                                        "unit": "USD/year"
+                                    },
+                                    {
+                                        "label": "Single-person income upper",
+                                        "value": "78000",
+                                        "unit": "USD/year"
+                                    }
+                                ],
+                                "fact_id": "28_0_0"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "7_2"
+            },
+            {
+                "merged_content": "China's middle class could consume nearly $10 trillion in goods and services by 2030. Middle-class consumption is expected to tally $64 trillion by 2030.",
+                "merged_data": [
+                    {
+                        "label": "China Middle Class Consumption",
+                        "value": "10",
+                        "unit": "trillion USD"
+                    },
+                    {
+                        "label": "Global Middle Class Consumption 2030",
+                        "value": "64",
+                        "unit": "trillion USD"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "2030 Middle Class Consumption",
+                    "x_axis": "Region",
+                    "y_axis": "Consumption (trillion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_4",
+                        "fact_group_content": "China's middle class could consume nearly $10 trillion in goods and services by 2030.",
+                        "fact_ids": [
+                            "13_0_1"
+                        ],
+                        "article_ids": [
+                            "13"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China's middle class could consume nearly $10 trillion in goods and services by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "China Middle Class Consumption",
+                                        "value": "10",
+                                        "unit": "trillion USD"
+                                    }
+                                ],
+                                "fact_id": "13_0_1"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "7_5",
+                        "fact_group_content": "Middle-class consumption is expected to tally $64 trillion by 2030, with China and India leading the charge.",
+                        "fact_ids": [
+                            "13_0_4"
+                        ],
+                        "article_ids": [
+                            "13"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Middle-class consumption is expected to tally $64 trillion by 2030, with China and India leading the charge.",
+                                "vis_data": [
+                                    {
+                                        "label": "Global Middle Class Consumption 2030",
+                                        "value": "64",
+                                        "unit": "trillion USD"
+                                    }
+                                ],
+                                "fact_id": "13_0_4"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "7_3"
+            },
+            {
+                "merged_content": "707 million people in China were in the middle-income bracket by 2018.",
+                "merged_data": [
+                    {
+                        "label": "Middle Class Population 2018",
+                        "value": "707",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "China Middle Class 2018",
+                    "x_axis": "Year",
+                    "y_axis": "Population (million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_6",
+                        "fact_group_content": "707 million people in China were in the middle-income bracket by 2018.",
+                        "fact_ids": [
+                            "7_1_2"
+                        ],
+                        "article_ids": [
+                            "7"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "707 million people in China were in the middle-income bracket by 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle Class Population 2018",
+                                        "value": "707",
+                                        "unit": "million"
+                                    },
+                                    {
+                                        "label": "Middle Class Proportion 2018",
+                                        "value": "50",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "7_1_2"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "7_4"
+            },
+            {
+                "merged_content": "The share of China\u2019s population that is middle income increased by 15 percentage points from 2001 to 2011. China's middle-income population increased by 203 million from 2001 to 2011.",
+                "merged_data": [
+                    {
+                        "label": "Increase in Middle Income Share",
+                        "value": "15",
+                        "unit": "percentage points"
+                    },
+                    {
+                        "label": "Increase in Middle-Income Population",
+                        "value": "203",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "China Middle Income Growth 2001-2011",
+                    "x_axis": "Metric",
+                    "y_axis": "Increase"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_7",
+                        "fact_group_content": "The share of China\u2019s population that is middle income increased by 15 percentage points from 2001 to 2011.",
+                        "fact_ids": [
+                            "9_0_1"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "The share of China\u2019s population that is middle income increased by 15 percentage points from 2001 to 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increase in Middle Income Share",
+                                        "value": "15",
+                                        "unit": "percentage points"
+                                    }
+                                ],
+                                "fact_id": "9_0_1"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "7_10",
+                        "fact_group_content": "China's middle-income population increased by 203 million from 2001 to 2011.",
+                        "fact_ids": [
+                            "23_1_4"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China's middle-income population increased by 203 million from 2001 to 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increase in Middle-Income Population",
+                                        "value": "203",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "23_1_4"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "7_5"
+            },
+            {
+                "merged_content": "China is home to more than 1.3 billion people.",
+                "merged_data": [
+                    {
+                        "label": "China Population",
+                        "value": "1300",
+                        "unit": "million people"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "China Population",
+                    "x_axis": "Category",
+                    "y_axis": "Population (million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_8",
+                        "fact_group_content": "China is home to more than 1.3 billion people.",
+                        "fact_ids": [
+                            "9_1_3"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China is home to more than 1.3 billion people.",
+                                "vis_data": [
+                                    {
+                                        "label": "China Population",
+                                        "value": "1300",
+                                        "unit": "million people"
+                                    }
+                                ],
+                                "fact_id": "9_1_3"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "7_6"
+            },
+            {
+                "merged_content": "In 2001, China's middle-income population accounted for 8% of the global middle-income population. The share of China's middle-income population was 3% in 2001.",
+                "merged_data": [
+                    {
+                        "label": "Global Middle-Income Share 2001",
+                        "value": "8",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Middle-Income Share 2001",
+                        "value": "3",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "China's Middle-Income Share 2001",
+                    "x_axis": "Metric",
+                    "y_axis": "Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_9",
+                        "fact_group_content": "In 2001, China's middle-income population accounted for 8% of the global middle-income population.",
+                        "fact_ids": [
+                            "23_0_0"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "In 2001, China's middle-income population accounted for 8% of the global middle-income population.",
+                                "vis_data": [
+                                    {
+                                        "label": "Global Middle-Income Share 2001",
+                                        "value": "8",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_0_0"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "7_11",
+                        "fact_group_content": "The share of China's middle-income population was 3% in 2001.",
+                        "fact_ids": [
+                            "23_1_5"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of China's middle-income population was 3% in 2001.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle-Income Share 2001",
+                                        "value": "3",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_1_5"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "7_7"
+            }
+        ],
+        "errors": [
+            "The chart title 'Middle Class Population' exceeds 40 characters.",
+            "The x-axis title 'Category' exceeds 20 characters.",
+            "The y-axis title 'Population (million)' exceeds 20 characters.",
+            "The label 'Middle Class Adults' exceeds 15 characters.",
+            "The label 'Chinese Middle Class Adults' exceeds 15 characters.",
+            "The label 'American Middle Class Adults' exceeds 15 characters.",
+            "The chart title 'Global Middle Class Proportion' exceeds 40 characters.",
+            "The x-axis title 'Category' exceeds 20 characters.",
+            "The y-axis title 'Proportion (%)' exceeds 20 characters.",
+            "The label 'Middle Class Proportion' exceeds 15 characters.",
+            "The chart title 'US Middle Income Range' exceeds 40 characters.",
+            "The x-axis title 'Income Range' exceeds 20 characters.",
+            "The y-axis title 'USD/year' exceeds 20 characters.",
+            "The label 'Single-person income lower' exceeds 15 characters.",
+            "The label 'Single-person income upper' exceeds 15 characters.",
+            "The chart title '2030 Middle Class Consumption' exceeds 40 characters.",
+            "The x-axis title 'Region' exceeds 20 characters.",
+            "The y-axis title 'Consumption (trillion USD)' exceeds 20 characters.",
+            "The label 'China Middle Class Consumption' exceeds 15 characters.",
+            "The label 'Global Middle Class Consumption 2030' exceeds 15 characters.",
+            "The chart title 'China Middle Class 2018' exceeds 40 characters.",
+            "The x-axis title 'Year' exceeds 20 characters.",
+            "The y-axis title 'Population (million)' exceeds 20 characters.",
+            "The label 'Middle Class Population 2018' exceeds 15 characters.",
+            "The chart title 'China Middle Income Growth 2001-2011' exceeds 40 characters.",
+            "The x-axis title 'Metric' exceeds 20 characters.",
+            "The y-axis title 'Increase' exceeds 20 characters.",
+            "The label 'Increase in Middle Income Share' exceeds 15 characters.",
+            "The label 'Increase in Middle-Income Population' exceeds 15 characters.",
+            "The chart title 'China Population' exceeds 40 characters.",
+            "The x-axis title 'Category' exceeds 20 characters.",
+            "The y-axis title 'Population (million)' exceeds 20 characters.",
+            "The label 'China Population' exceeds 15 characters.",
+            "The chart title \"China's Middle-Income Share 2001\" exceeds 40 characters.",
+            "The x-axis title 'Metric' exceeds 20 characters.",
+            "The y-axis title 'Share (%)' exceeds 20 characters.",
+            "The label 'Global Middle-Income Share 2001' exceeds 15 characters.",
+            "The label 'Middle-Income Share 2001' exceeds 15 characters.",
+            "Illogical Merging Error: The merged fact 'In 2001, China's middle-income population accounted for 8% of the global middle-income population. The share of China's middle-income population was 3% in 2001.' combines unrelated data points without clear justification. Suggestion: Split the merged fact."
+        ]
+    },
+    {
+        "cluster_id": "3",
+        "merged_facts": [
+            {
+                "merged_content": "China may be home to about 400 million households with upper-middle and higher incomes by 2030.",
+                "merged_data": [
+                    {
+                        "label": "Households with upper-middle and higher incomes",
+                        "value": "400",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "China's Upper-Middle Income Households by 2030",
+                    "x_axis": "Households",
+                    "y_axis": "Count (Million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_0",
+                        "fact_group_content": "China may be home to about 400 million households with upper-middle and higher incomes by 2030.",
+                        "fact_ids": [
+                            "29_0_0"
+                        ],
+                        "article_ids": [
+                            "29"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China may be home to about 400 million households with upper-middle and higher incomes by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "Households with upper-middle and higher incomes",
+                                        "value": "400",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "29_0_0"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "3_0"
+            },
+            {
+                "merged_content": "16% of the world\u2019s population was living on $20 or more daily in 2011.",
+                "merged_data": [
+                    {
+                        "label": "World Population on $20+ Daily",
+                        "value": "16",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "World Population Living on $20+ Daily in 2011",
+                    "x_axis": "Population",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_1",
+                        "fact_group_content": "16% of the world\u2019s population was living on $20 or more daily in 2011.",
+                        "fact_ids": [
+                            "9_2_5"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "16% of the world\u2019s population was living on $20 or more daily in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "World Population on $20+ Daily",
+                                        "value": "16",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "9_2_5"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "3_1"
+            }
+        ],
+        "errors": [
+            "The merged_recommendation 'isotype' for the second merged fact is not suitable for a single percentage data point. A pie chart or bar chart would be more appropriate.",
+            "The x-axis title 'Households' in the first merged fact exceeds 20 characters."
+        ]
+    },
+    {
+        "cluster_id": "6",
+        "merged_facts": [
+            {
+                "merged_content": "The number of millionaires in China may double from around five million today to ten million in 2025.",
+                "merged_data": [
+                    {
+                        "label": "Millionaires in China 2025",
+                        "value": "10",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Millionaires in China 2025",
+                    "x_axis": "Year",
+                    "y_axis": "Millionaires (million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_0",
+                        "fact_group_content": "The number of millionaires in China may double from around five million today to ten million in 2025.",
+                        "fact_ids": [
+                            "29_0_1"
+                        ],
+                        "article_ids": [
+                            "29"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The number of millionaires in China may double from around five million today to ten million in 2025.",
+                                "vis_data": [
+                                    {
+                                        "label": "Millionaires in China 2025",
+                                        "value": "10",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "29_0_1"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "6_0"
+            },
+            {
+                "merged_content": "Middle-class consumption is expected to tally $64 trillion by 2030.",
+                "merged_data": [
+                    {
+                        "label": "Global Middle Class Consumption 2030",
+                        "value": "64",
+                        "unit": "trillion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Middle Class Consumption 2030",
+                    "x_axis": "Year",
+                    "y_axis": "Consumption (trillion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_1",
+                        "fact_group_content": "Middle-class consumption is expected to tally $64 trillion by 2030.",
+                        "fact_ids": [
+                            "13_0_4"
+                        ],
+                        "article_ids": [
+                            "13"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Middle-class consumption is expected to tally $64 trillion by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "Global Middle Class Consumption 2030",
+                                        "value": "64",
+                                        "unit": "trillion USD"
+                                    }
+                                ],
+                                "fact_id": "13_0_4"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "6_1"
+            },
+            {
+                "merged_content": "3% of the country's population was classified as middle class in 2000.",
+                "merged_data": [
+                    {
+                        "label": "Middle Class Population 2000",
+                        "value": "3",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Middle Class Population 2000",
+                    "x_axis": "Year",
+                    "y_axis": "Population (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_2",
+                        "fact_group_content": "3% of the country's population was classified as middle class in 2000.",
+                        "fact_ids": [
+                            "7_1_1"
+                        ],
+                        "article_ids": [
+                            "7"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "3% of the country's population was classified as middle class in 2000.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle Class Population 2000",
+                                        "value": "3",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "7_1_1"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "6_2"
+            },
+            {
+                "merged_content": "The share of the low-income population in North America was 18% in 2011.",
+                "merged_data": [
+                    {
+                        "label": "Low-Income Share 2011",
+                        "value": "18",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Low-Income Share 2011",
+                    "x_axis": "Year",
+                    "y_axis": "Population (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_3",
+                        "fact_group_content": "The share of the low-income population in North America was 18% in 2011.",
+                        "fact_ids": [
+                            "23_3_16"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of the low-income population in North America was 18% in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Low-Income Share 2011",
+                                        "value": "18",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_3_16"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "6_3"
+            }
+        ],
+        "errors": [
+            "The merged_recommendation 'text' for the first and second merged facts is not suitable for the data points provided. Consider using a bar chart for categorical comparison.",
+            "The merged_recommendation 'isotype' for the third and fourth merged facts is not suitable for the data points provided. Consider using a pie chart or bar chart for distribution.",
+            "The x-axis title 'Year' is too generic and does not reflect the specific data points in the third and fourth merged facts. Consider using a more descriptive title.",
+            "The y-axis title 'Millionaires (million)' in the first merged fact exceeds 20 characters.",
+            "The y-axis title 'Consumption (trillion USD)' in the second merged fact exceeds 20 characters.",
+            "The y-axis title 'Population (%)' in the third and fourth merged facts exceeds 20 characters."
+        ]
+    },
+    {
+        "cluster_id": "2",
+        "merged_facts": [
+            {
+                "merged_content": "The share of the world\u2019s middle-income population residing in Asia & South Pacific increased from 31% in 2001 to 51% in 2011.",
+                "merged_data": [
+                    {
+                        "label": "Asia & South Pacific 2001",
+                        "value": "31",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Asia & South Pacific 2011",
+                        "value": "51",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Middle-Income Population in Asia & South Pacific",
+                    "x_axis": "Year",
+                    "y_axis": "Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_0",
+                        "fact_group_content": "The share of the world\u2019s middle-income population residing in Asia & South Pacific increased from 31% in 2001 to 51% in 2011.",
+                        "fact_ids": [
+                            "9_1_4"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "The share of the world\u2019s middle-income population residing in Asia & South Pacific increased from 31% in 2001 to 51% in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Asia & South Pacific Middle Income 2001",
+                                        "value": "31",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "Asia & South Pacific Middle Income 2011",
+                                        "value": "51",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "9_1_4"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "2_0"
+            },
+            {
+                "merged_content": "China's poverty rate decreased from 41% in 2001 to 12% in 2011.",
+                "merged_data": [
+                    {
+                        "label": "Poverty Rate 2001",
+                        "value": "41",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Poverty Rate 2011",
+                        "value": "12",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Poverty Rate in China",
+                    "x_axis": "Year",
+                    "y_axis": "Poverty Rate (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_2",
+                        "fact_group_content": "The poverty rate in China was 41% in 2001.",
+                        "fact_ids": [
+                            "23_2_7"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The poverty rate in China was 41% in 2001.",
+                                "vis_data": [
+                                    {
+                                        "label": "Poverty Rate 2001",
+                                        "value": "41",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_2_7"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "2_3",
+                        "fact_group_content": "The poverty rate in China was 12% in 2011.",
+                        "fact_ids": [
+                            "23_2_8"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The poverty rate in China was 12% in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Poverty Rate 2011",
+                                        "value": "12",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_2_8"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "2_1"
+            },
+            {
+                "merged_content": "In 2011, China's middle-income population accounted for 30% of the global middle-income population.",
+                "merged_data": [
+                    {
+                        "label": "Global Middle-Income Share 2011",
+                        "value": "30",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "China's Share of Global Middle-Income 2011",
+                    "x_axis": "Year",
+                    "y_axis": "Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_1",
+                        "fact_group_content": "In 2011, China's middle-income population accounted for 30% of the global middle-income population.",
+                        "fact_ids": [
+                            "23_0_1"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "In 2011, China's middle-income population accounted for 30% of the global middle-income population.",
+                                "vis_data": [
+                                    {
+                                        "label": "Global Middle-Income Share 2011",
+                                        "value": "30",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_0_1"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "2_2"
+            },
+            {
+                "merged_content": "The share of the middle-income and high-income population in North America in 2011.",
+                "merged_data": [
+                    {
+                        "label": "Middle-Income 2011",
+                        "value": "12",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "High-Income 2011",
+                        "value": "42",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Income Distribution in North America 2011",
+                    "x_axis": "Income Level",
+                    "y_axis": "Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_6",
+                        "fact_group_content": "The share of the middle-income population in North America was 12% in 2011.",
+                        "fact_ids": [
+                            "23_3_14"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of the middle-income population in North America was 12% in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle-Income Share 2011",
+                                        "value": "12",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_3_14"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "2_7",
+                        "fact_group_content": "The share of the high-income population in North America was 42% in 2011.",
+                        "fact_ids": [
+                            "23_3_18"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of the high-income population in North America was 42% in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "High-Income Share 2011",
+                                        "value": "42",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_3_18"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "2_3"
+            },
+            {
+                "merged_content": "The size of China's low-income population increased by 163 million from 2001 to 2011.",
+                "merged_data": [
+                    {
+                        "label": "Increase in Low-Income Population",
+                        "value": "163",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Increase in China's Low-Income Population",
+                    "x_axis": "Year",
+                    "y_axis": "Population (million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_4",
+                        "fact_group_content": "The size of China's low-income population increased by 163 million from 2001 to 2011.",
+                        "fact_ids": [
+                            "23_2_10"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The size of China's low-income population increased by 163 million from 2001 to 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increase in Low-Income Population",
+                                        "value": "163",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "23_2_10"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "2_4"
+            },
+            {
+                "merged_content": "The share of China's low-income population was 57% in 2001.",
+                "merged_data": [
+                    {
+                        "label": "Low-Income Share 2001",
+                        "value": "57",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "China's Low-Income Share 2001",
+                    "x_axis": "Year",
+                    "y_axis": "Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_5",
+                        "fact_group_content": "The share of China's low-income population was 57% in 2001.",
+                        "fact_ids": [
+                            "23_2_11"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of China's low-income population was 57% in 2001.",
+                                "vis_data": [
+                                    {
+                                        "label": "Low-Income Share 2001",
+                                        "value": "57",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_2_11"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "2_5"
+            }
+        ],
+        "errors": [
+            "The recommendation for the first merged fact is a line chart, which is suitable for time series data, so no error there.",
+            "The second merged fact also uses a line chart for time series data, which is appropriate, so no error there.",
+            "The third merged fact recommends an isotype chart for a single data point, which is not suitable. Suggest using a bar chart instead.",
+            "The fourth merged fact uses a bar chart for categorical comparison, which is appropriate, so no error there.",
+            "The fifth merged fact recommends a text visualization for a single data point, which is appropriate, so no error there.",
+            "The sixth merged fact recommends an isotype chart for a single data point, which is not suitable. Suggest using a bar chart instead.",
+            "The x-axis title 'Income Level' in the fourth merged fact is 12 characters, which is within the limit, so no error there.",
+            "The y-axis title 'Share (%)' in the fourth merged fact is 10 characters, which is within the limit, so no error there.",
+            "The chart title 'Middle-Income Population in Asia & South Pacific' in the first merged fact exceeds 40 characters. Suggest shortening the title.",
+            "The chart title 'Increase in China's Low-Income Population' in the fifth merged fact exceeds 40 characters. Suggest shortening the title.",
+            "The chart title 'China's Low-Income Share 2001' in the sixth merged fact exceeds 40 characters. Suggest shortening the title.",
+            "The labels 'Asia & South Pacific 2001' and 'Asia & South Pacific 2011' in the first merged fact can be simplified by removing 'Asia & South Pacific' and including it in the x-axis title.",
+            "The labels 'Middle-Income Share 2011' and 'High-Income Share 2011' in the fourth merged fact can be simplified by removing 'Share 2011' and including it in the x-axis title."
+        ]
+    },
+    {
+        "cluster_id": "4",
+        "merged_facts": [
+            {
+                "merged_content": "China's middle-income and low-income population shares in 2011.",
+                "merged_data": [
+                    {
+                        "label": "Middle-Income Share 2011",
+                        "value": "18",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Low-Income Share 2011",
+                        "value": "66",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "pie",
+                "titles": {
+                    "chart_title": "Income Distribution in China 2011",
+                    "x_axis": "Income Group",
+                    "y_axis": "Population Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_1",
+                        "fact_group_content": "The share of China's middle-income population was 18% in 2011.",
+                        "fact_ids": [
+                            "23_1_6"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of China's middle-income population was 18% in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle-Income Share 2011",
+                                        "value": "18",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_1_6"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "4_3",
+                        "fact_group_content": "The share of China's low-income population was 66% in 2011.",
+                        "fact_ids": [
+                            "23_2_12"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of China's low-income population was 66% in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Low-Income Share 2011",
+                                        "value": "66",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_2_12"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "4_0"
+            },
+            {
+                "merged_content": "Middle-income population in China in 2011.",
+                "merged_data": [
+                    {
+                        "label": "Middle-Income Population 2011",
+                        "value": "235",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "China's Middle-Income Population 2011",
+                    "x_axis": "Year",
+                    "y_axis": "Population (million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_0",
+                        "fact_group_content": "China's middle-income population was 235 million in 2011.",
+                        "fact_ids": [
+                            "23_1_3"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "China's middle-income population was 235 million in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle-Income Population 2011",
+                                        "value": "235",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "23_1_3"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "4_1"
+            },
+            {
+                "merged_content": "People moved out of poverty in China from 2001 to 2011.",
+                "merged_data": [
+                    {
+                        "label": "People Moved Out of Poverty",
+                        "value": "356",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Poverty Reduction in China 2001-2011",
+                    "x_axis": "Period",
+                    "y_axis": "People (million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_2",
+                        "fact_group_content": "356 million people moved out of poverty in China from 2001 to 2011.",
+                        "fact_ids": [
+                            "23_2_9"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "356 million people moved out of poverty in China from 2001 to 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "People Moved Out of Poverty",
+                                        "value": "356",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "23_2_9"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "4_2"
+            },
+            {
+                "merged_content": "Income distribution in North America in 2001.",
+                "merged_data": [
+                    {
+                        "label": "Middle-Income Share 2001",
+                        "value": "10",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "High-Income Share 2001",
+                        "value": "43",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Income Distribution in North America 2001",
+                    "x_axis": "Income Group",
+                    "y_axis": "Population Share (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_4",
+                        "fact_group_content": "The share of the middle-income population in North America was 10% in 2001.",
+                        "fact_ids": [
+                            "23_3_13"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of the middle-income population in North America was 10% in 2001.",
+                                "vis_data": [
+                                    {
+                                        "label": "Middle-Income Share 2001",
+                                        "value": "10",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_3_13"
+                            }
+                        ]
+                    },
+                    {
+                        "fact_group_id": "4_5",
+                        "fact_group_content": "The share of the high-income population in North America was 43% in 2001.",
+                        "fact_ids": [
+                            "23_3_17"
+                        ],
+                        "article_ids": [
+                            "23"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "The share of the high-income population in North America was 43% in 2001.",
+                                "vis_data": [
+                                    {
+                                        "label": "High-Income Share 2001",
+                                        "value": "43",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "23_3_17"
+                            }
+                        ]
+                    }
+                ],
+                "merged_id": "4_3"
+            }
+        ],
+        "errors": [
+            "To recommend a pie chart percentages in data points should be sum up to 100%.",
+            "The chart title 'Income Distribution in China 2011' exceeds 40 characters.",
+            "The x-axis title 'Income Group' exceeds 20 characters.",
+            "The y-axis title 'Population Share (%)' exceeds 20 characters.",
+            "The chart title 'China's Middle-Income Population 2011' exceeds 40 characters.",
+            "The x-axis title 'Year' exceeds 20 characters.",
+            "The y-axis title 'Population (million)' exceeds 20 characters.",
+            "The chart title 'Poverty Reduction in China 2001-2011' exceeds 40 characters.",
+            "The x-axis title 'Period' exceeds 20 characters.",
+            "The y-axis title 'People (million)' exceeds 20 characters.",
+            "The chart title 'Income Distribution in North America 2001' exceeds 40 characters.",
+            "The x-axis title 'Income Group' exceeds 20 characters.",
+            "The y-axis title 'Population Share (%)' exceeds 20 characters."
+        ]
+    }
+]

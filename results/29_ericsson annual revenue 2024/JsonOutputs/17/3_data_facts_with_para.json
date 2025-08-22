@@ -1,0 +1,25 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "We forecast Ericsson Revenues to be $24.8 billion for the fiscal year 2024, flat y-o-y. Given our revenues and EPS forecast changes, we have revisedEricsson\u2019s Valuationto around $8 per share, based on a $0.50 expected EPS and a 15.3x P/E multiple for the fiscal year 2024. The company\u2019s stock appears appropriately priced at the current levels (Dec 30).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson Revenues forecasted to be $24.8 billion for the fiscal year 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson\u2019s Valuation revised to around $8 per share for the fiscal year 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Expected EPS is $0.50 for the fiscal year 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "P/E multiple is 15.3x for the fiscal year 2024."
+                }
+            ]
+        }
+    ]
+}

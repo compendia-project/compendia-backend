@@ -1,0 +1,65 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Sydney:increases 4-6 per cent (houses and units)Sydney is expected to continue in 2025 as buyers\u2019 market, which is great news if you\u2019re a first home buyer.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney housing prices are expected to increase 4-6 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Housing Price Increase",
+                            "value": "4",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Sydney Housing Price Increase",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_0_0"
+                }
+            ],
+            "relatedness_score": 0.6903540752276282,
+            "article_meta_data": {
+                "title": "State by state: what to expect in property markets around Australia in 2025",
+                "date": "2025-02-13",
+                "url": "https://www.apimagazine.com.au/news/article/state-by-state-what-to-expect-in-property-markets-around-australia-in-2025",
+                "id": 8
+            },
+            "para_id": "8_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "8_0",
+            "paragraph": "Sydney:increases 4-6 per cent (houses and units)Sydney is expected to continue in 2025 as buyers\u2019 market, which is great news if you\u2019re a first home buyer."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "Sydney housing prices are expected to increase 4-6 per cent."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "Sydney housing prices are expected to increase 4-6 per cent.",
+            "vis_data": [
+                {
+                    "label": "Sydney Housing Price Increase",
+                    "value": "4",
+                    "unit": "%"
+                },
+                {
+                    "label": "Sydney Housing Price Increase",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_0_0"
+        }
+    ]
+}

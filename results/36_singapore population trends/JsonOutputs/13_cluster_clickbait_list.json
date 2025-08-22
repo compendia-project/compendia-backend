@@ -1,0 +1,1370 @@
+[
+    {
+        "cluster_id": 1,
+        "clickbait_list": [
+            {
+                "clickbait": "Population Decline",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_1",
+                        "fact_group_content": "The population fell by a quarter of a million people between 2019 and 2021."
+                    },
+                    {
+                        "fact_group_id": "1_2",
+                        "fact_group_content": "The population of Singapore is projected at 5.87 million in 2025."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Urban Population",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_3",
+                        "fact_group_content": "100% of the population of Singapore is urban."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Non-Resident Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_6",
+                        "fact_group_content": "5.0% increase in Non-Resident (NR) population from June 2023 to June 2024."
+                    },
+                    {
+                        "fact_group_id": "1_7",
+                        "fact_group_content": "Foreign workforce makes up about two-thirds of the NR population."
+                    },
+                    {
+                        "fact_group_id": "1_13",
+                        "fact_group_content": "Non-resident population grew from 1.77 million in June 2023 to 1.86 million in June 2024."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Historical Population Data",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_5",
+                        "fact_group_content": "Singapore\u2019s population in 1947 was 940,824."
+                    },
+                    {
+                        "fact_group_id": "1_11",
+                        "fact_group_content": "The data reached a record low of 1.0 million people in Jun 1950."
+                    },
+                    {
+                        "fact_group_id": "1_18",
+                        "fact_group_content": "Around 10% of the Chinese population in Singapore were born there by the late 1890s."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Resident Population",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_12",
+                        "fact_group_content": "3.7% growth in Permanent Residents from June 2022 to June 2023."
+                    },
+                    {
+                        "fact_group_id": "1_14",
+                        "fact_group_content": "Permanent residents accounted for approximately 11% of the total population in 2009."
+                    },
+                    {
+                        "fact_group_id": "1_17",
+                        "fact_group_content": "4.18 million are residents in Singapore."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Fertility and Births",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_15",
+                        "fact_group_content": "There were 30,429 citizen births in Singapore in 2022."
+                    },
+                    {
+                        "fact_group_id": "1_16",
+                        "fact_group_content": "In 2022, the Total Fertility Rate (TFR) was historically low at 1.04."
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "urban",
+            "non-resident",
+            "foreign",
+            "workforce",
+            "permanent",
+            "residents",
+            "fertility",
+            "births",
+            "historical",
+            "data"
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "clickbait_list": [
+            {
+                "clickbait": "Population Growth Trends",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_0",
+                        "fact_group_content": "The current population of Singapore is 5,871,864 as of July 13, 2025."
+                    },
+                    {
+                        "fact_group_id": "7_1",
+                        "fact_group_content": "The population of Singapore is projected at 5,870,750 as of July 1, 2025."
+                    },
+                    {
+                        "fact_group_id": "7_3",
+                        "fact_group_content": "The total population of Singapore is estimated to be approximately 6.04 million in 2024."
+                    },
+                    {
+                        "fact_group_id": "7_8",
+                        "fact_group_content": "The country\u2019s population stood at 6.04 million."
+                    },
+                    {
+                        "fact_group_id": "7_9",
+                        "fact_group_content": "A 2 per cent increase in population from last year."
+                    },
+                    {
+                        "fact_group_id": "7_11",
+                        "fact_group_content": "The population of Singapore is expected to grow by 41,000 in 2025."
+                    },
+                    {
+                        "fact_group_id": "7_13",
+                        "fact_group_content": "In 2024 the population of Singapore was 6,049,000."
+                    },
+                    {
+                        "fact_group_id": "7_18",
+                        "fact_group_content": "2.0 per cent increase in total population from June 2023 to June 2024."
+                    },
+                    {
+                        "fact_group_id": "7_22",
+                        "fact_group_content": "The Singapore population reached 6.0 million people in Jun 2024."
+                    },
+                    {
+                        "fact_group_id": "7_23",
+                        "fact_group_content": "The Singapore population was 5.9 million people in Jun 2023."
+                    }
+                ],
+                "number_of_facts": 10
+            },
+            {
+                "clickbait": "Non-Resident Population Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_5",
+                        "fact_group_content": "The non-resident population jumped by about 5 per cent from last year."
+                    },
+                    {
+                        "fact_group_id": "7_6",
+                        "fact_group_content": "Migrant domestic workers contribute 15 per cent of non-resident population."
+                    },
+                    {
+                        "fact_group_id": "7_7",
+                        "fact_group_content": "There were about 1.86 million non-residents."
+                    },
+                    {
+                        "fact_group_id": "7_19",
+                        "fact_group_content": "Non-Resident (NR) population stood at 1.86 million as at June 2024."
+                    },
+                    {
+                        "fact_group_id": "7_20",
+                        "fact_group_content": "5.0% increase in Non-Resident (NR) population from June 2023 to June 2024."
+                    },
+                    {
+                        "fact_group_id": "7_21",
+                        "fact_group_content": "Foreign workforce makes up about two-thirds of the NR population."
+                    }
+                ],
+                "number_of_facts": 6
+            },
+            {
+                "clickbait": "Aging Population Insights",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_2",
+                        "fact_group_content": "The median age of Singaporeans is estimated to peak at around 55 years in the middle of the century."
+                    },
+                    {
+                        "fact_group_id": "7_4",
+                        "fact_group_content": "The median age in Singapore is 36.2 years."
+                    },
+                    {
+                        "fact_group_id": "7_14",
+                        "fact_group_content": "18.4% of population (1,122,387) is 19 or younger."
+                    },
+                    {
+                        "fact_group_id": "7_15",
+                        "fact_group_content": "19.2% of population (1,171,107) is over 65."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Historical Population Data",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_10",
+                        "fact_group_content": "The total population of Singapore at the time was 97,111."
+                    },
+                    {
+                        "fact_group_id": "7_12",
+                        "fact_group_content": "The population density of Singapore has changed from 3,602.9 in 1980 to 8,686.9 in 2023."
+                    },
+                    {
+                        "fact_group_id": "7_16",
+                        "fact_group_content": "Singapore's population was 8,562,229 in 2049."
+                    },
+                    {
+                        "fact_group_id": "7_17",
+                        "fact_group_content": "Singapore's population increased from 8,562,229 in 2049 to 8,609,518 in 2050."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Permanent Residents Statistics",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_24",
+                        "fact_group_content": "0.54 million Permanent Residents as of June 2023."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "median",
+            "non-resident",
+            "migrant",
+            "domestic",
+            "workers",
+            "foreign",
+            "workforce",
+            "density",
+            "permanent",
+            "residents",
+            "increase",
+            "projected",
+            "current",
+            "estimated",
+            "population",
+            "growth",
+            "trends",
+            "age",
+            "density"
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "clickbait_list": [
+            {
+                "clickbait": "Population Growth Trends",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_8",
+                        "fact_group_content": "Annualised population growth rate of 1.1 per cent over the last five years."
+                    },
+                    {
+                        "fact_group_id": "9_12",
+                        "fact_group_content": "5.0% increase in total population from June 2022 to June 2023."
+                    },
+                    {
+                        "fact_group_id": "9_13",
+                        "fact_group_content": "Non-resident population grew by 5 per cent from June 2023 to June 2024."
+                    },
+                    {
+                        "fact_group_id": "9_15",
+                        "fact_group_content": "Citizen population rose by 0.7 per cent from June 2023 to June 2024."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Population Density Changes",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_6",
+                        "fact_group_content": "The population density of Singapore has changed from 3,602.9 in 1980 to 8,686.9 in 2023."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Historical Population Data",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_4",
+                        "fact_group_content": "Singapore census for 1957: 1,445,930."
+                    },
+                    {
+                        "fact_group_id": "9_16",
+                        "fact_group_content": "Singapore's resident population was 1 million in 1950."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Current Population Statistics",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_0",
+                        "fact_group_content": "The total population in Singapore is projected at 5,832,387 for the year 2024."
+                    },
+                    {
+                        "fact_group_id": "9_3",
+                        "fact_group_content": "Singapore\u2019s population as at June 2019: 5.7 million."
+                    },
+                    {
+                        "fact_group_id": "9_10",
+                        "fact_group_content": "The Singapore population was 5.9 million people in Jun 2023."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Demographic Shifts",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_2",
+                        "fact_group_content": "There were 4.18 million residents."
+                    },
+                    {
+                        "fact_group_id": "9_9",
+                        "fact_group_content": "Permanent Resident (PR) population increased by 1.2% from 538,600 to 544,900 between June 2023 and June 2024."
+                    },
+                    {
+                        "fact_group_id": "9_14",
+                        "fact_group_content": "Foreign workforce accounts for about two-thirds of the non-resident population."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Birth and Death Rates",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_5",
+                        "fact_group_content": "There are 38,367 deaths in Singapore per year."
+                    },
+                    {
+                        "fact_group_id": "9_17",
+                        "fact_group_content": "Crude Death Rate was around 5 per 1,000 population."
+                    },
+                    {
+                        "fact_group_id": "9_18",
+                        "fact_group_content": "There were 30,429 citizen births in Singapore in 2022."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Gender Ratio Insights",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_7",
+                        "fact_group_content": "There are 977 men per 1000 women."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Economic Indicators",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_11",
+                        "fact_group_content": "Monthly earnings of the Singapore population was 4,813.3 USD in Jun 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Citizenship Approvals",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_19",
+                        "fact_group_content": "94.1% of the approvals for Citizenship were from countries in Asia in 2022."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "density",
+            "residents",
+            "census",
+            "deaths",
+            "growth",
+            "permanent",
+            "resident",
+            "workforce",
+            "births",
+            "citizenship",
+            "approvals",
+            "earnings",
+            "gender",
+            "ratio"
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "clickbait_list": [
+            {
+                "clickbait": "Singapore's Aging Population",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_0",
+                        "fact_group_content": "The median age of Singaporeans increased from 34.1 years in 2000 to an estimated 42.4 by 2020."
+                    },
+                    {
+                        "fact_group_id": "6_22",
+                        "fact_group_content": "The old age support ratio of 3.2 marks the lowest point in the last decade."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Migration's Impact",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_5",
+                        "fact_group_content": "Migration increases population by 29,844 people yearly."
+                    },
+                    {
+                        "fact_group_id": "6_25",
+                        "fact_group_content": "Net migration increased to nearly 200,000 in the 1980\u20131990 period."
+                    },
+                    {
+                        "fact_group_id": "6_26",
+                        "fact_group_content": "Net migrant number of over 600,000 in the 1990\u20132000 period."
+                    },
+                    {
+                        "fact_group_id": "6_27",
+                        "fact_group_content": "Net migration accounted for nearly two-thirds of the population increase in the 1990\u20132000 period."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Population Growth Rates",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_1",
+                        "fact_group_content": "The population growth rate in 2025 is projected at 0.63 percent."
+                    },
+                    {
+                        "fact_group_id": "6_8",
+                        "fact_group_content": "Annualised population growth rate of 1.1 per cent over the last five years was slightly higher than the 0.8 per cent over the preceding five-year period."
+                    },
+                    {
+                        "fact_group_id": "6_20",
+                        "fact_group_content": "Annualised population growth rate was 1.1 per cent over the past five years."
+                    },
+                    {
+                        "fact_group_id": "6_28",
+                        "fact_group_content": "The average annual growth rate was 4.4% from 1947 to 1957."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Singapore's Population Milestones",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_2",
+                        "fact_group_content": "The Population of Singapore attained a value of 6,036,860 people in 2024."
+                    },
+                    {
+                        "fact_group_id": "6_3",
+                        "fact_group_content": "Singapore\u2019s total population has exceeded six million."
+                    },
+                    {
+                        "fact_group_id": "6_6",
+                        "fact_group_content": "The all-time high population for Singapore is projected to be 8,609,518 in 2050."
+                    },
+                    {
+                        "fact_group_id": "6_7",
+                        "fact_group_content": "The record low population for Singapore was 1,022,100 in 1950."
+                    },
+                    {
+                        "fact_group_id": "6_10",
+                        "fact_group_content": "The Singapore population was 5.9 million people in Jun 2023."
+                    },
+                    {
+                        "fact_group_id": "6_15",
+                        "fact_group_content": "5.92 million total population of Singapore as of June 2023."
+                    },
+                    {
+                        "fact_group_id": "6_16",
+                        "fact_group_content": "Singapore\u2019s total population stood at 6.04 million as at June 2024."
+                    }
+                ],
+                "number_of_facts": 7
+            },
+            {
+                "clickbait": "Non-Resident Contributions",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_4",
+                        "fact_group_content": "Work permit holders contribute 44 per cent of non-resident population."
+                    },
+                    {
+                        "fact_group_id": "6_17",
+                        "fact_group_content": "One-third of the non-resident population comprises mainly migrant domestic workers, dependants and students."
+                    },
+                    {
+                        "fact_group_id": "6_29",
+                        "fact_group_content": "Non-residents were 25.7% of the population in 2010."
+                    }
+                ],
+                "number_of_facts": 3
+            }
+        ],
+        "important_words": [
+            "median",
+            "age",
+            "growth",
+            "rate",
+            "population",
+            "work",
+            "permit",
+            "migration",
+            "non-resident",
+            "citizen",
+            "unemployment",
+            "labour",
+            "force",
+            "participation",
+            "permanent",
+            "resident",
+            "support",
+            "ratio",
+            "natural",
+            "increase",
+            "net",
+            "migrant",
+            "annual",
+            "average"
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "clickbait_list": [
+            {
+                "clickbait": "Population Growth Projections",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_0",
+                        "fact_group_content": "The total population of Singapore is estimated to be approximately 6.04 million in 2024."
+                    },
+                    {
+                        "fact_group_id": "8_7",
+                        "fact_group_content": "Singapore's population is projected to be 8,609,518 in 2050."
+                    },
+                    {
+                        "fact_group_id": "8_8",
+                        "fact_group_content": "The Singapore population reached 6.0 million people in Jun 2024."
+                    },
+                    {
+                        "fact_group_id": "8_9",
+                        "fact_group_content": "The Singapore population was 5.9 million people in Jun 2023."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Aging Population Dynamics",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_4",
+                        "fact_group_content": "The average age increased from 22.8 in 1960 to 43.0."
+                    },
+                    {
+                        "fact_group_id": "8_16",
+                        "fact_group_content": "19.1% of the citizen population was aged 65 and above in June 2023."
+                    },
+                    {
+                        "fact_group_id": "8_17",
+                        "fact_group_content": "11.7% of the citizen population was aged 65 and above in June 2013."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Fertility Rate Changes",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_12",
+                        "fact_group_content": "Fertility fell to a historic low of 1.4 in 1986."
+                    },
+                    {
+                        "fact_group_id": "8_13",
+                        "fact_group_content": "TFR rose slightly to around 1.8-1.9 in the initial years following the 1987 policy."
+                    },
+                    {
+                        "fact_group_id": "8_21",
+                        "fact_group_content": "The resident total fertility rate (TFR) hit a historic low of 1.04 in 2022."
+                    },
+                    {
+                        "fact_group_id": "8_25",
+                        "fact_group_content": "Ethnic Chinese had a fertility of 1.65 in 1990."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Birth Rate Statistics",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_2",
+                        "fact_group_content": "There are 49,414 births in Singapore per year."
+                    },
+                    {
+                        "fact_group_id": "8_11",
+                        "fact_group_content": "New birth cohorts are in the range of 35,000 to 40,000."
+                    },
+                    {
+                        "fact_group_id": "8_18",
+                        "fact_group_content": "There was a 4.0% decrease in citizen births from the previous year."
+                    },
+                    {
+                        "fact_group_id": "8_19",
+                        "fact_group_content": "The average annual number of births in the past five years is 31,800."
+                    },
+                    {
+                        "fact_group_id": "8_20",
+                        "fact_group_content": "The average annual number of births in the preceding five years is 32,700."
+                    }
+                ],
+                "number_of_facts": 5
+            },
+            {
+                "clickbait": "Urbanization Trends",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_5",
+                        "fact_group_content": "Urban population has increased from 4,027,887 in 2000 to 6,090,000 in the current year."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Marriage and Citizenship",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_22",
+                        "fact_group_content": "Citizen marriages in Singapore reached a record high of 24,767 in 2022."
+                    },
+                    {
+                        "fact_group_id": "8_23",
+                        "fact_group_content": "Approvals were granted to 23,082 Citizens in 2022."
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "population",
+            "births",
+            "fertility",
+            "urban",
+            "citizen",
+            "marriages",
+            "projections",
+            "aging",
+            "dynamics",
+            "statistics",
+            "urbanization",
+            "trends"
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "clickbait_list": [
+            {
+                "clickbait": "Singapore's Population Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_0",
+                        "fact_group_content": "The population of Singapore is projected at 5.83 million in 2024."
+                    },
+                    {
+                        "fact_group_id": "4_3",
+                        "fact_group_content": "The data reached an all-time high of 6.0 million people in Jun 2024."
+                    },
+                    {
+                        "fact_group_id": "4_5",
+                        "fact_group_content": "Singapore\u2019s total population rose by 2 per cent from June 2023 to June 2024."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Non-Resident Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_2",
+                        "fact_group_content": "One-third of the NR population comprises mainly migrant domestic workers, dependants, and students."
+                    },
+                    {
+                        "fact_group_id": "4_4",
+                        "fact_group_content": "1.77 million non-residents as of June 2023."
+                    },
+                    {
+                        "fact_group_id": "4_9",
+                        "fact_group_content": "The number of non-residents grew from 30,900 in 1970 to 797,900 in 2005."
+                    },
+                    {
+                        "fact_group_id": "4_10",
+                        "fact_group_content": "Non-residents were 18.3% of the population in 2005."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Historical Birth Rates",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_8",
+                        "fact_group_content": "Singapore experienced its highest birth rate in 1957 at 42.7 per thousand individuals."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Population Density Insights",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_1",
+                        "fact_group_content": "The 2025 population density in Singapore is 21,722 people per mi2."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Growth Rate Analysis",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_6",
+                        "fact_group_content": "Annualised population growth rate was 1.1 per cent over the past five years."
+                    },
+                    {
+                        "fact_group_id": "4_7",
+                        "fact_group_content": "Population growth was stable, ranging from 1.3% to 1.9% per annum during the second phase."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Indian TFR Statistics",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_11",
+                        "fact_group_content": "The TFR for Indians was 0.97 in 2020."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "projected",
+            "density",
+            "migrant",
+            "domestic",
+            "workers",
+            "dependants",
+            "students",
+            "non-residents",
+            "growth",
+            "birth",
+            "rate",
+            "TFR",
+            "Indians"
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "clickbait_list": [
+            {
+                "clickbait": "Population Growth Projections",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_0",
+                        "fact_group_content": "The population growth rate in 2025 is projected at 0.63 percent."
+                    },
+                    {
+                        "fact_group_id": "3_1",
+                        "fact_group_content": "The population of Singapore is expected to reach 6,129,000 in 2026."
+                    },
+                    {
+                        "fact_group_id": "3_4",
+                        "fact_group_content": "Singapore is projected to have a population of 6.37 million by June 2030."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Non-Resident Population Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_3",
+                        "fact_group_content": "13.1% increase in non-resident population from June 2022 to June 2023."
+                    },
+                    {
+                        "fact_group_id": "3_7",
+                        "fact_group_content": "The non-resident population increased by 13.1% from 1.56 million in June 2022 to 1.77 million in June 2023."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Permanent Residency Approvals",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_8",
+                        "fact_group_content": "Approvals were granted to 34,493 Permanent Residents (PRs) in 2022."
+                    },
+                    {
+                        "fact_group_id": "3_9",
+                        "fact_group_content": "92% of the approvals for Permanent Residency were from countries in Asia in 2022."
+                    },
+                    {
+                        "fact_group_id": "3_11",
+                        "fact_group_content": "The approval rate for PRs aged 40+ increased by 27.1% in 2022 compared to the previous year."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Population Density Changes",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_2",
+                        "fact_group_content": "The population density of Singapore has changed from 3,602.9 in 1980 to 8,686.9 in 2023."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Citizenship Approval Trends",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_10",
+                        "fact_group_content": "Approvals for Citizenship aged 31+ increased by 17.9%."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "growth",
+            "rate",
+            "projected",
+            "density",
+            "increase",
+            "non-resident",
+            "permanent",
+            "residents",
+            "approvals",
+            "citizenship",
+            "migration"
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "clickbait_list": [
+            {
+                "clickbait": "Population Density Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_0",
+                        "fact_group_content": "The 2025 population density in Singapore is 8,387 people per Km2."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Age Demographics Shift",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_1",
+                        "fact_group_content": "62.4% of population (3,798,942) is between age 20 and 64."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Historical Population Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_2",
+                        "fact_group_content": "The average population of Singapore from 1950 to 2050 is 4,063,333."
+                    },
+                    {
+                        "fact_group_id": "10_7",
+                        "fact_group_content": "High population growth between 3% and 6% per annum from the late 1940s to the mid-1960s."
+                    },
+                    {
+                        "fact_group_id": "10_9",
+                        "fact_group_content": "1% of the growth rate from 1947 to 1957 was due to immigration."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Recent Population Increase",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_3",
+                        "fact_group_content": "Singapore's total population stood at 6.04 million as at June 2024."
+                    },
+                    {
+                        "fact_group_id": "10_4",
+                        "fact_group_content": "Permanent resident population grew from 538,600 to 544,900 from June 2023 to June 2024."
+                    },
+                    {
+                        "fact_group_id": "10_8",
+                        "fact_group_content": "There was a 5.0% increase in Singapore's total population from June 2022."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Growth Rate Analysis",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_5",
+                        "fact_group_content": "Annualised population growth rate of 1.1 per cent over the past five years was higher than the 0.8 per cent between 2014 and 2019."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Non-Resident Population Impact",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_10",
+                        "fact_group_content": "Non-residents make up 29% of the overall population."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Resident Population Trends",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_6",
+                        "fact_group_content": "Singapore's resident population grew to 3.7 million in 2009."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "density",
+            "age",
+            "demographics",
+            "historical",
+            "growth",
+            "recent",
+            "increase",
+            "rate",
+            "analysis",
+            "non-resident",
+            "impact",
+            "resident",
+            "trends"
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "clickbait_list": [
+            {
+                "clickbait": "Singapore's Foreign Origins",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_1",
+                        "fact_group_content": "Around 40% of Singapore's population were of foreign origin in the mid-2010s."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Historical Population Data",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_5",
+                        "fact_group_content": "The resident population of Singapore was 10,683 in January 1824."
+                    },
+                    {
+                        "fact_group_id": "5_6",
+                        "fact_group_content": "There were 3,317 Chinese in Singapore in January 1824."
+                    },
+                    {
+                        "fact_group_id": "5_7",
+                        "fact_group_content": "There were 756 natives of India in Singapore in January 1824."
+                    },
+                    {
+                        "fact_group_id": "5_8",
+                        "fact_group_content": "There were 74 Europeans in Singapore in January 1824."
+                    },
+                    {
+                        "fact_group_id": "5_9",
+                        "fact_group_content": "There were 16 Armenians in Singapore in January 1824."
+                    },
+                    {
+                        "fact_group_id": "5_10",
+                        "fact_group_content": "There were 15 Arabs in Singapore in January 1824."
+                    },
+                    {
+                        "fact_group_id": "5_11",
+                        "fact_group_content": "In 1826, there were 5,747 Chinese males and 341 Chinese females."
+                    },
+                    {
+                        "fact_group_id": "5_12",
+                        "fact_group_content": "In 1826, there were 2,501 Malay males and 2,289 Malay females."
+                    },
+                    {
+                        "fact_group_id": "5_13",
+                        "fact_group_content": "In 1826, there were 209 male and 35 female Bengalis."
+                    },
+                    {
+                        "fact_group_id": "5_14",
+                        "fact_group_content": "In 1826, there were 772 males and 5 females from the Coromandel Coast."
+                    },
+                    {
+                        "fact_group_id": "5_20",
+                        "fact_group_content": "The population of Singapore was 29,980 in 1836."
+                    },
+                    {
+                        "fact_group_id": "5_21",
+                        "fact_group_content": "41.9% of the population were Malays (including Javanese and Bugis) in 1836."
+                    }
+                ],
+                "number_of_facts": 12
+            },
+            {
+                "clickbait": "Ethnic Composition Insights",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_15",
+                        "fact_group_content": "75.9% of citizens and permanent residents are ethnic Chinese."
+                    },
+                    {
+                        "fact_group_id": "5_16",
+                        "fact_group_content": "15.0% of citizens and permanent residents are Malays."
+                    },
+                    {
+                        "fact_group_id": "5_17",
+                        "fact_group_content": "7.5% of citizens and permanent residents are Indians."
+                    },
+                    {
+                        "fact_group_id": "5_18",
+                        "fact_group_content": "98.4% of the citizen population are Chinese, Malays, and Indians."
+                    },
+                    {
+                        "fact_group_id": "5_19",
+                        "fact_group_content": "1.6% of the citizen population are categorised as Other."
+                    }
+                ],
+                "number_of_facts": 5
+            },
+            {
+                "clickbait": "TFR Trends Over Time",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_2",
+                        "fact_group_content": "Malays had a TFR of 2.10 in 2004."
+                    },
+                    {
+                        "fact_group_id": "5_3",
+                        "fact_group_content": "Malays had a TFR of 2.69 in 1990."
+                    },
+                    {
+                        "fact_group_id": "5_4",
+                        "fact_group_content": "TFR for Indians was 1.89 in 1990."
+                    },
+                    {
+                        "fact_group_id": "5_22",
+                        "fact_group_content": "The TFR for Chinese was 0.94 in 2020."
+                    },
+                    {
+                        "fact_group_id": "5_23",
+                        "fact_group_content": "The TFR for Malays was 1.83 in 2020."
+                    }
+                ],
+                "number_of_facts": 5
+            },
+            {
+                "clickbait": "Women in Singapore",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_0",
+                        "fact_group_content": "The demographics of Singapore constitutes of 3,080,000 women."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "demographics",
+            "foreign",
+            "origin",
+            "mid-2010s",
+            "Malays",
+            "TFR",
+            "Indians",
+            "resident",
+            "Chinese",
+            "natives",
+            "India",
+            "Europeans",
+            "Armenians",
+            "Arabs",
+            "males",
+            "females",
+            "Bengalis",
+            "Coromandel",
+            "Coast",
+            "citizens",
+            "permanent",
+            "residents",
+            "ethnic",
+            "population",
+            "Javanese",
+            "Bugis"
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "clickbait_list": [
+            {
+                "clickbait": "Foreign Worker Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_0",
+                        "fact_group_content": "Foreign workers in non-CMP sectors saw an 8.8 per cent increase year on year."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Population Milestone 2009",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_1",
+                        "fact_group_content": "Singapore's total population including foreigners with permits was 5.0 million in 2009."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Fertility Replacement 1975",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_2",
+                        "fact_group_content": "Fertility reached replacement level in 1975."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Fertility Below 1.3",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_3",
+                        "fact_group_content": "Fertility is below 1.3."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "PR Approvals Rise",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_4",
+                        "fact_group_content": "Approvals for PRs aged 31+ increased by 15.6%."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Median Age 43",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_5",
+                        "fact_group_content": "The median age of citizens has reached 43 years old."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Citizen Approval Increase",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_6",
+                        "fact_group_content": "The approval rate for citizens aged 40+ increased by 26.2% in 2022 compared to the previous year."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Indian TFR Record Low",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_7",
+                        "fact_group_content": "The lowest recorded TFR for the Indian population was 1.01 in 2022."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Net Migration 2000-2010",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_8",
+                        "fact_group_content": "664,083 net migration recorded in the 2000\u20132010 period."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Citizenship Numbers",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_9",
+                        "fact_group_content": "3.64 million are citizens in Singapore."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Non-Residents Count",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_10",
+                        "fact_group_content": "1.86 million are non-residents in Singapore."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "TFR 2012",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_11",
+                        "fact_group_content": "Singapore total fertility rate (TFR) was 1.20 in 2012."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Chinese Fertility 2004",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_12",
+                        "fact_group_content": "Ethnic Chinese had a fertility of 1.07 in 2004."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Indian Fertility 2004",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_13",
+                        "fact_group_content": "TFR for Indians was 1.30 in 2004."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Elderly Population 2012",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_14",
+                        "fact_group_content": "The elderly (65 and above) constituted 9.9% of Singapore's population in 2012."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Malays in 1824",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_15",
+                        "fact_group_content": "There were 4,580 Malays in Singapore in January 1824."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Chinese Population 1836",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_16",
+                        "fact_group_content": "45.9% of the population were Chinese in 1836."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Population Decline 2020",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_17",
+                        "fact_group_content": "The total population growth rate was -0.3% in 2020."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "TFR 2020",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_18",
+                        "fact_group_content": "The resident total fertility rate (TFR) was 1.10 in 2020."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Gender Imbalance 1901",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_19",
+                        "fact_group_content": "In 1901, there were 130,367 Chinese males compared to 33,674 Chinese females."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "foreign",
+            "workers",
+            "fertility",
+            "replacement",
+            "approvals",
+            "median",
+            "age",
+            "citizens",
+            "migration",
+            "non-residents",
+            "elderly",
+            "population",
+            "growth",
+            "rate",
+            "gender",
+            "imbalance"
+        ]
+    }
+]

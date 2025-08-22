@@ -1,0 +1,54 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Some 664 million adults around the world are part of the middle class this year, nearly 15 percent of the world\u2019s total adult population. Nearly 110 million of those people were Chinese, and 92 million were Americans.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "664 million adults are part of the middle class this year.",
+                    "vis_data": [
+                        {
+                            "label": "Middle Class Adults",
+                            "value": "664",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "15 percent of the world\u2019s total adult population is part of the middle class.",
+                    "vis_data": [
+                        {
+                            "label": "Middle Class Proportion",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "110 million middle class adults are Chinese.",
+                    "vis_data": [
+                        {
+                            "label": "Chinese Middle Class Adults",
+                            "value": "110",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "92 million middle class adults are Americans.",
+                    "vis_data": [
+                        {
+                            "label": "American Middle Class Adults",
+                            "value": "92",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.639625570253674
+        }
+    ]
+}

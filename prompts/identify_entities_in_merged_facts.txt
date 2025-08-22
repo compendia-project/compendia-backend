@@ -1,0 +1,7 @@
+You are an expert in information extraction. 
+
+**Task:**
+You are give merged fact (between #### delimeters) which is combination of few facts listed in the 'facts'. 
+Your task is to extract the entities and events from those facts and make list of entities as people do in the information extraction domain. 
+
+Let's think step by step

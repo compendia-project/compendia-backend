@@ -1,0 +1,56 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "In 2024, gold prices soared to record highs. In 2025, gold has continued its strong performance and moved above $3,000. It has been the best-performing major asset over the past year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 2025, gold moved above $3,000.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price 2025",
+                            "value": "3000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Looking forward, gold is well positioned to continue its rally, especially as more Western investors continue their return to the market. The ongoing uncertainty surrounding tariffs, along with continued inflationary pressures and geopolitical risks, are likely to further bolster gold's appeal as a hedge against market volatility. With this backdrop,we believe that gold prices could break through their inflation-adjusted highs and breach $4,000 per ounce in the near term.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold prices could breach $4,000 per ounce in the near term.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Near Term",
+                            "value": "4000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "As these trends continue to play out and reshape the global economic order in the coming years, we believe gold has the potential to ascend toward$5,000 per ounce.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold has the potential to ascend toward $5,000 per ounce.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Future Potential",
+                            "value": "5000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

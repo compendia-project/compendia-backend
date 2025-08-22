@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "At 10+ hours of daily sedentary behavior, research shows increased risk for cardiovascular disease and other health issues. That\u2019s true even if you work out at some point during the day and meet recommended physical activity guidelines.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease and other health issues.",
+                    "vis_data": [
+                        {
+                            "label": "Sedentary Behavior",
+                            "value": "10+",
+                            "unit": "hours"
+                        }
+                    ],
+                    "fact_id": "5_0_0"
+                }
+            ],
+            "relatedness_score": 0.4044699532864682,
+            "article_meta_data": {
+                "title": "Health Risks of a Sedentary Lifestyle",
+                "date": "2025-05-16",
+                "url": "https://health.clevelandclinic.org/sedentary-lifestyle",
+                "id": 5
+            },
+            "para_id": "5_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "5_0",
+            "paragraph": "At 10+ hours of daily sedentary behavior, research shows increased risk for cardiovascular disease and other health issues. That\u2019s true even if you work out at some point during the day and meet recommended physical activity guidelines."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease and other health issues."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease and other health issues.",
+            "vis_data": [
+                {
+                    "label": "Sedentary Behavior",
+                    "value": "10+",
+                    "unit": "hours"
+                }
+            ],
+            "fact_id": "5_0_0"
+        }
+    ]
+}

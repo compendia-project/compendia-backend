@@ -1,0 +1,157 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The birth control policies were so effective that the birth rate declined from 6.55 births per woman in 1947 to 4.62 in 1965 to 1.7 in 1992.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Birth rate declined from 6.55 births per woman in 1947 to 4.62 in 1965.",
+                    "vis_data": [
+                        {
+                            "label": "Birth rate 1947",
+                            "value": "6.55",
+                            "unit": "births per woman"
+                        },
+                        {
+                            "label": "Birth rate 1965",
+                            "value": "4.62",
+                            "unit": "births per woman"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Birth rate declined from 4.62 births per woman in 1965 to 1.7 in 1992.",
+                    "vis_data": [
+                        {
+                            "label": "Birth rate 1965",
+                            "value": "4.62",
+                            "unit": "births per woman"
+                        },
+                        {
+                            "label": "Birth rate 1992",
+                            "value": "1.7",
+                            "unit": "births per woman"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Former Prime Minister Lee Kuan Yew felt that the drop in the birth rate among the well educated would cause a \u201cthinning of the gene pool\u201d. Lee felt that better-educated women should be mothers. He cited the 1980 census showing women with secondary or tertiary education were having an average of 1.65 children, compared with uneducated women who were having three children on average.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Women with secondary or tertiary education were having an average of 1.65 children compared with uneducated women who were having three children on average.",
+                    "vis_data": [
+                        {
+                            "label": "Educated women",
+                            "value": "1.65",
+                            "unit": "children"
+                        },
+                        {
+                            "label": "Uneducated women",
+                            "value": "3",
+                            "unit": "children"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In sum, the absolute number of marriages has declined by 1,718 \u2013 from 26,081 in 2009 to 24,363 in 2010. This is a reverse in trend, as there was an increase in the absolute number of marriages yearly from 2005 to 2009.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The absolute number of marriages declined by 1,718 from 26,081 in 2009 to 24,363 in 2010.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages 2009",
+                            "value": "26081",
+                            "unit": "marriages"
+                        },
+                        {
+                            "label": "Marriages 2010",
+                            "value": "24363",
+                            "unit": "marriages"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Among ever-married females aged 40 to 49 years who were likely to have had children, the proportion with one child increased from 15 percent in 2000 to 19 percent in 2010, while those who were childless increased from 6.4 percent to 9.3 percent.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Proportion of ever-married females aged 40 to 49 with one child increased from 15% in 2000 to 19% in 2010.",
+                    "vis_data": [
+                        {
+                            "label": "One child 2000",
+                            "value": "15",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "One child 2010",
+                            "value": "19",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Proportion of ever-married females aged 40 to 49 who were childless increased from 6.4% to 9.3%.",
+                    "vis_data": [
+                        {
+                            "label": "Childless 2000",
+                            "value": "6.4",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Childless 2010",
+                            "value": "9.3",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The number of divorces has also been rising, although at a more moderate pace in the last five years. Divorces and annulments increased by 19 cases from 7,386 in 2009 to 7,405 in 2010, a smaller increase compared to the increase of 170 cases from 2008 to 2009.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Divorces and annulments increased by 19 cases from 7,386 in 2009 to 7,405 in 2010.",
+                    "vis_data": [
+                        {
+                            "label": "Divorces 2009",
+                            "value": "7386",
+                            "unit": "cases"
+                        },
+                        {
+                            "label": "Divorces 2010",
+                            "value": "7405",
+                            "unit": "cases"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Divorces and annulments increased by 170 cases from 2008 to 2009.",
+                    "vis_data": [
+                        {
+                            "label": "Divorces 2008",
+                            "value": "7216",
+                            "unit": "cases"
+                        },
+                        {
+                            "label": "Divorces 2009",
+                            "value": "7386",
+                            "unit": "cases"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

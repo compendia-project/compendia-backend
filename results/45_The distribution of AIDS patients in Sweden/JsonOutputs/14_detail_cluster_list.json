@@ -1,0 +1,173 @@
+[
+    {
+        "cluster_id": 4,
+        "title": "HIV Demographics",
+        "description": "HIV-1A6 is a notable subtype, being the sixth most common. In Sweden, a significant portion of HIV patients are homosexual males, with 81% of the cases. The country sees approximately 400-500 new HIV cases annually, with men accounting for 64% of these new diagnoses.",
+        "representative_facts": [
+            {
+                "fact_content": "HIV-1A6 is the sixth most common subtype",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "81% of the patients were homosexual males in Sweden",
+                "fact_id": "4_2"
+            },
+            {
+                "fact_content": "Approximately 400\u2013500 new HIV cases each year in Sweden",
+                "fact_id": "4_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "title": "HIV Demographics",
+        "description": "In Sweden, a significant portion of the HIV-positive population consists of migrants, with 80% of those diagnosed being from this group. The country has an estimated 8,000 people living with HIV, with 10% remaining undiagnosed. Among those diagnosed, 78% achieve virological suppression, indicating effective management of the condition.",
+        "representative_facts": [
+            {
+                "fact_content": "80% of those diagnosed with HIV in Sweden are migrants",
+                "fact_id": "9_0"
+            },
+            {
+                "fact_content": "Around 8,000 people live with HIV in Sweden",
+                "fact_id": "9_3"
+            },
+            {
+                "fact_content": "78% of patients living with HIV in Sweden are virologically suppressed",
+                "fact_id": "9_9"
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "title": "HIV Statistics",
+        "description": "The cluster provides insights into HIV statistics across different regions, highlighting the prevalence and diagnosis rates. In the United Kingdom, a significant proportion of HIV patients are homosexual males. Sweden has achieved a high diagnosis rate of HIV cases by 2015, while South Africa has a large population living with HIV. Additionally, there is a notable success in viral suppression among people with HIV.",
+        "representative_facts": [
+            {
+                "fact_content": "87% of patients were homosexual males in the UK",
+                "fact_id": "3_0"
+            },
+            {
+                "fact_content": "90% of HIV cases in Sweden were diagnosed by 2015",
+                "fact_id": "3_1"
+            },
+            {
+                "fact_content": "Over seven million people live with HIV in South Africa",
+                "fact_id": "3_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "title": "HIV Statistics",
+        "description": "In Sweden, approximately 400-500 new HIV cases are reported annually. By the end of 2015, 95% of individuals on antiretroviral treatment had a viral load below 50 copies/ml. The prevalence of HIV in Sweden is estimated at 0.07% of the population. InfCareHIV tracks over 99% of diagnosed cases, ensuring comprehensive data coverage. By 2022, 96% of people with HIV were diagnosed, and diagnoses of endogenous acquisitions reached 96%.",
+        "representative_facts": [
+            {
+                "fact_content": "400-500 new HIV cases reported annually",
+                "fact_id": "6_0"
+            },
+            {
+                "fact_content": "0.07% of Sweden's population lives with HIV",
+                "fact_id": "6_2"
+            },
+            {
+                "fact_content": "InfCareHIV covers >99% of diagnosed HIV cases in Sweden",
+                "fact_id": "6_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "title": "HIV Demographics",
+        "description": "In 2019, the median age of individuals diagnosed with HIV in Sweden was 38 years. Migrants, who constituted 12% of the EU population, represented 44% of new HIV cases. In Sweden, 36% of those living with HIV were born in sub-Saharan Africa, highlighting significant demographic patterns in the distribution of HIV cases.",
+        "representative_facts": [
+            {
+                "fact_content": "The median age for those diagnosed with HIV in 2019 in Sweden was 38 years",
+                "fact_id": "2_0"
+            },
+            {
+                "fact_content": "Migrants made up 12% of the EU population but accounted for 44% of new HIV cases in 2019",
+                "fact_id": "2_1"
+            },
+            {
+                "fact_content": "36% of people living with HIV in Sweden were born in sub-Saharan Africa",
+                "fact_id": "2_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "title": "HIV Statistics",
+        "description": "Sweden has a stable HIV infection rate, with approximately 8,000 people living with the virus. Annually, the country reports 400 to 500 new cases. By the end of 2015, nearly all individuals with HIV were connected to healthcare services, indicating a robust healthcare system for managing the disease.",
+        "representative_facts": [
+            {
+                "fact_content": "Approximately 8,000 people are living with HIV in Sweden",
+                "fact_id": "7_1"
+            },
+            {
+                "fact_content": "Annually, Sweden reports around 400 to 500 new HIV cases",
+                "fact_id": "7_2"
+            },
+            {
+                "fact_content": "By the conclusion of 2015, 99.8 percent of individuals with HIV in Sweden were connected to care",
+                "fact_id": "7_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "title": "HIV Management",
+        "description": "Sweden has a robust system for managing HIV, with a high percentage of patients receiving antiretroviral therapy (ART) and being linked to care. The majority of people living with HIV in Sweden are on ART, and nearly all diagnosed patients are connected to healthcare services. However, migrants, who constitute a significant portion of the population, account for a large percentage of new HIV cases annually.",
+        "representative_facts": [
+            {
+                "fact_content": "99.8% of diagnosed patients in Sweden were linked to care",
+                "fact_id": "1_2"
+            },
+            {
+                "fact_content": "Just over 95% of people living with HIV in Sweden are under ARV treatment",
+                "fact_id": "1_6"
+            },
+            {
+                "fact_content": "Migrants make up about 20% of the Swedish population but approximately 70% of new HIV infection cases being reported each year",
+                "fact_id": "1_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "title": "HIV Management",
+        "description": "In Sweden, approximately 69 cases per 100,000 inhabitants have HIV, with 83% of those infected receiving antiretroviral therapy (ART). Among those on ART, 98% achieve viral suppression. Additionally, 78% of HIV-infected individuals in Sweden have a suppressed viral load, indicating effective management of the condition.",
+        "representative_facts": [
+            {
+                "fact_content": "Approximately 69 cases per 100,000 inhabitants in Sweden have HIV",
+                "fact_id": "5_0"
+            },
+            {
+                "fact_content": "83% of those infected with HIV in Sweden are on ART",
+                "fact_id": "5_4"
+            },
+            {
+                "fact_content": "98% of those on ART being virally suppressed by 2022",
+                "fact_id": "5_1"
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "title": "HIV Management",
+        "description": "In Sweden, significant progress has been made in managing HIV, with 99% of diagnosed individuals on antiretroviral therapy (ART) by 2022. A high percentage of patients on treatment for at least six months have achieved viral suppression, with 94.7% having a viral load of less than 50 HIV-1 RNA copies/mL. Additionally, 90% of all individuals infected with HIV in Sweden are diagnosed, indicating effective healthcare strategies. The majority of people living with HIV in Sweden are foreign-born, with 64% born abroad, highlighting the diverse demographic affected by the disease.",
+        "representative_facts": [
+            {
+                "fact_content": "99% of diagnosed PWHIV being on ART by 2022",
+                "fact_id": "8_0"
+            },
+            {
+                "fact_content": "94.7% of patients on treatment for at least 6 months had a viral load < 50 HIV-1 RNA copies/mL",
+                "fact_id": "8_1"
+            },
+            {
+                "fact_content": "90% of all those infected with HIV in Sweden are diagnosed",
+                "fact_id": "8_2"
+            }
+        ]
+    }
+]

@@ -1,0 +1,198 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Even so, Thomas says gold is likely to break more records this year. Goldman Sachs Research predicts gold will rise to $3,700 a troy ounce by the end of 2025 (from $3,220 on May 15) as central banks buy many tonnes of the precious metal every month.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Goldman Sachs Research predicts gold will rise to $3,700 a troy ounce by the end of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Prediction 2025",
+                            "value": "3700",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "0_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold was $3,220 a troy ounce on May 15.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price on May 15",
+                            "value": "3220",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "0_0_1"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Goldman Sachs Research\u2019s gold price prediction 2025",
+                "date": "2025-05-15",
+                "url": "https://www.goldmansachs.com/insights/articles/why-gold-prices-are-forecast-to-rise-to-new-record-highs",
+                "id": 0
+            },
+            "para_id": "0_0"
+        },
+        {
+            "paragraph": "In the event of a recession,Goldman Sachs Researchforecasts that gold could rise to as much as $3,880 a troy ounce.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold could rise to as much as $3,880 a troy ounce in the event of a recession.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price in Recession",
+                            "value": "3880",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "0_1_2"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Goldman Sachs Research\u2019s gold price prediction 2025",
+                "date": "2025-05-15",
+                "url": "https://www.goldmansachs.com/insights/articles/why-gold-prices-are-forecast-to-rise-to-new-record-highs",
+                "id": 0
+            },
+            "para_id": "0_1"
+        },
+        {
+            "paragraph": "For example, global gold ETF holdings are worth only about 1% of outstanding US Treasuries and 0.5% of the S&P500 market cap.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Global gold ETF holdings are worth about 1% of outstanding US Treasuries.",
+                    "vis_data": [
+                        {
+                            "label": "Gold ETF vs US Treasuries",
+                            "value": "1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_2_3"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Global gold ETF holdings are worth 0.5% of the S&P500 market cap.",
+                    "vis_data": [
+                        {
+                            "label": "Gold ETF vs S&P500",
+                            "value": "0.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_2_4"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Goldman Sachs Research\u2019s gold price prediction 2025",
+                "date": "2025-05-15",
+                "url": "https://www.goldmansachs.com/insights/articles/why-gold-prices-are-forecast-to-rise-to-new-record-highs",
+                "id": 0
+            },
+            "para_id": "0_2"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "0_0",
+            "paragraph": "Even so, Thomas says gold is likely to break more records this year. Goldman Sachs Research predicts gold will rise to $3,700 a troy ounce by the end of 2025 (from $3,220 on May 15) as central banks buy many tonnes of the precious metal every month."
+        },
+        {
+            "para_id": "0_1",
+            "paragraph": "In the event of a recession,Goldman Sachs Researchforecasts that gold could rise to as much as $3,880 a troy ounce."
+        },
+        {
+            "para_id": "0_2",
+            "paragraph": "For example, global gold ETF holdings are worth only about 1% of outstanding US Treasuries and 0.5% of the S&P500 market cap."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "Goldman Sachs Research predicts gold will rise to $3,700 a troy ounce by the end of 2025."
+        },
+        {
+            "fact_id": "0_0_1",
+            "fact_content": "Gold was $3,220 a troy ounce on May 15."
+        },
+        {
+            "fact_id": "0_1_2",
+            "fact_content": "Gold could rise to as much as $3,880 a troy ounce in the event of a recession."
+        },
+        {
+            "fact_id": "0_2_3",
+            "fact_content": "Global gold ETF holdings are worth about 1% of outstanding US Treasuries."
+        },
+        {
+            "fact_id": "0_2_4",
+            "fact_content": "Global gold ETF holdings are worth 0.5% of the S&P500 market cap."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Goldman Sachs Research predicts gold will rise to $3,700 a troy ounce by the end of 2025.",
+            "vis_data": [
+                {
+                    "label": "Gold Price Prediction 2025",
+                    "value": "3700",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "0_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Gold was $3,220 a troy ounce on May 15.",
+            "vis_data": [
+                {
+                    "label": "Gold Price on May 15",
+                    "value": "3220",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "0_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Gold could rise to as much as $3,880 a troy ounce in the event of a recession.",
+            "vis_data": [
+                {
+                    "label": "Gold Price in Recession",
+                    "value": "3880",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "0_1_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Global gold ETF holdings are worth about 1% of outstanding US Treasuries.",
+            "vis_data": [
+                {
+                    "label": "Gold ETF vs US Treasuries",
+                    "value": "1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_2_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Global gold ETF holdings are worth 0.5% of the S&P500 market cap.",
+            "vis_data": [
+                {
+                    "label": "Gold ETF vs S&P500",
+                    "value": "0.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_2_4"
+        }
+    ]
+}

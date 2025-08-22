@@ -1,0 +1,333 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Ericssonhas reported 6 percent decrease in revenue in 2024 to SEK 247.880 billion from SEK 263.351 billion in 2023 as fourth-quarter sale dropped 1 percent.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "6 percent decrease in revenue in 2024 to SEK 247.880 billion from SEK 263.351 billion in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue 2024",
+                            "value": "247.880",
+                            "unit": "SEK billion"
+                        },
+                        {
+                            "label": "Revenue 2023",
+                            "value": "263.351",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "3_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Fourth-quarter sale dropped 1 percent.",
+                    "vis_data": [
+                        {
+                            "label": "Q4 Sale Drop",
+                            "value": "1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "3_0_1"
+                }
+            ],
+            "relatedness_score": 0.7434620008317572,
+            "article_meta_data": {
+                "title": "Ericsson revenue drops 6% in 2024 though RAN market is stabilizing",
+                "date": "2025-01-24",
+                "url": "https://telecomlead.com/telecom-equipment/ericsson-revenue-drops-6-in-2024-though-ran-market-is-stabilizing-119793",
+                "id": 3
+            },
+            "para_id": "3_0"
+        },
+        {
+            "paragraph": "Ericsson has generated sales of SEK 158.207 billion (down 8 percent) from Networks, SEK 62.635 billion (down 2 percent) from Cloud Software and Services and SEK 24.863 (down 3 percent) billion from Enterprises in 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sales of SEK 158.207 billion from Networks.",
+                    "vis_data": [
+                        {
+                            "label": "Networks Sales",
+                            "value": "158.207",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "3_1_2"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sales from Networks down 8 percent.",
+                    "vis_data": [
+                        {
+                            "label": "Networks Sales Drop",
+                            "value": "8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "3_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sales of SEK 62.635 billion from Cloud Software and Services.",
+                    "vis_data": [
+                        {
+                            "label": "Cloud Software Sales",
+                            "value": "62.635",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "3_1_4"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sales from Cloud Software and Services down 2 percent.",
+                    "vis_data": [
+                        {
+                            "label": "Cloud Software Sales Drop",
+                            "value": "2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "3_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sales of SEK 24.863 billion from Enterprises.",
+                    "vis_data": [
+                        {
+                            "label": "Enterprises Sales",
+                            "value": "24.863",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "3_1_6"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sales from Enterprises down 3 percent.",
+                    "vis_data": [
+                        {
+                            "label": "Enterprises Sales Drop",
+                            "value": "3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "3_1_7"
+                }
+            ],
+            "relatedness_score": 0.7043647182475666,
+            "article_meta_data": {
+                "title": "Ericsson revenue drops 6% in 2024 though RAN market is stabilizing",
+                "date": "2025-01-24",
+                "url": "https://telecomlead.com/telecom-equipment/ericsson-revenue-drops-6-in-2024-though-ran-market-is-stabilizing-119793",
+                "id": 3
+            },
+            "para_id": "3_1"
+        },
+        {
+            "paragraph": "Ericsson\u2019s first-quarter sale fell 1 percent to SEK 72.913 billion in Q4 2024 from SEK 71.881 billion in Q4 2023.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "First-quarter sale fell 1 percent to SEK 72.913 billion in Q4 2024 from SEK 71.881 billion in Q4 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Q4 Sale 2024",
+                            "value": "72.913",
+                            "unit": "SEK billion"
+                        },
+                        {
+                            "label": "Q4 Sale 2023",
+                            "value": "71.881",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "3_2_8"
+                }
+            ],
+            "relatedness_score": 0.6174599344282706,
+            "article_meta_data": {
+                "title": "Ericsson revenue drops 6% in 2024 though RAN market is stabilizing",
+                "date": "2025-01-24",
+                "url": "https://telecomlead.com/telecom-equipment/ericsson-revenue-drops-6-in-2024-though-ran-market-is-stabilizing-119793",
+                "id": 3
+            },
+            "para_id": "3_2"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "3_0",
+            "paragraph": "Ericssonhas reported 6 percent decrease in revenue in 2024 to SEK 247.880 billion from SEK 263.351 billion in 2023 as fourth-quarter sale dropped 1 percent."
+        },
+        {
+            "para_id": "3_1",
+            "paragraph": "Ericsson has generated sales of SEK 158.207 billion (down 8 percent) from Networks, SEK 62.635 billion (down 2 percent) from Cloud Software and Services and SEK 24.863 (down 3 percent) billion from Enterprises in 2024."
+        },
+        {
+            "para_id": "3_2",
+            "paragraph": "Ericsson\u2019s first-quarter sale fell 1 percent to SEK 72.913 billion in Q4 2024 from SEK 71.881 billion in Q4 2023."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "3_0_0",
+            "fact_content": "6 percent decrease in revenue in 2024 to SEK 247.880 billion from SEK 263.351 billion in 2023."
+        },
+        {
+            "fact_id": "3_0_1",
+            "fact_content": "Fourth-quarter sale dropped 1 percent."
+        },
+        {
+            "fact_id": "3_1_2",
+            "fact_content": "Sales of SEK 158.207 billion from Networks."
+        },
+        {
+            "fact_id": "3_1_3",
+            "fact_content": "Sales from Networks down 8 percent."
+        },
+        {
+            "fact_id": "3_1_4",
+            "fact_content": "Sales of SEK 62.635 billion from Cloud Software and Services."
+        },
+        {
+            "fact_id": "3_1_5",
+            "fact_content": "Sales from Cloud Software and Services down 2 percent."
+        },
+        {
+            "fact_id": "3_1_6",
+            "fact_content": "Sales of SEK 24.863 billion from Enterprises."
+        },
+        {
+            "fact_id": "3_1_7",
+            "fact_content": "Sales from Enterprises down 3 percent."
+        },
+        {
+            "fact_id": "3_2_8",
+            "fact_content": "First-quarter sale fell 1 percent to SEK 72.913 billion in Q4 2024 from SEK 71.881 billion in Q4 2023."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "6 percent decrease in revenue in 2024 to SEK 247.880 billion from SEK 263.351 billion in 2023.",
+            "vis_data": [
+                {
+                    "label": "Revenue 2024",
+                    "value": "247.880",
+                    "unit": "SEK billion"
+                },
+                {
+                    "label": "Revenue 2023",
+                    "value": "263.351",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "3_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Fourth-quarter sale dropped 1 percent.",
+            "vis_data": [
+                {
+                    "label": "Q4 Sale Drop",
+                    "value": "1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "3_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Sales of SEK 158.207 billion from Networks.",
+            "vis_data": [
+                {
+                    "label": "Networks Sales",
+                    "value": "158.207",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "3_1_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Sales from Networks down 8 percent.",
+            "vis_data": [
+                {
+                    "label": "Networks Sales Drop",
+                    "value": "8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "3_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Sales of SEK 62.635 billion from Cloud Software and Services.",
+            "vis_data": [
+                {
+                    "label": "Cloud Software Sales",
+                    "value": "62.635",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "3_1_4"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Sales from Cloud Software and Services down 2 percent.",
+            "vis_data": [
+                {
+                    "label": "Cloud Software Sales Drop",
+                    "value": "2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "3_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Sales of SEK 24.863 billion from Enterprises.",
+            "vis_data": [
+                {
+                    "label": "Enterprises Sales",
+                    "value": "24.863",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "3_1_6"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Sales from Enterprises down 3 percent.",
+            "vis_data": [
+                {
+                    "label": "Enterprises Sales Drop",
+                    "value": "3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "3_1_7"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "First-quarter sale fell 1 percent to SEK 72.913 billion in Q4 2024 from SEK 71.881 billion in Q4 2023.",
+            "vis_data": [
+                {
+                    "label": "Q4 Sale 2024",
+                    "value": "72.913",
+                    "unit": "SEK billion"
+                },
+                {
+                    "label": "Q4 Sale 2023",
+                    "value": "71.881",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "3_2_8"
+        }
+    ]
+}

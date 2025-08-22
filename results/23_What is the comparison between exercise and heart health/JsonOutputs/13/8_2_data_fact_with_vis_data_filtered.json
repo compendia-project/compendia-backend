@@ -1,0 +1,43 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "High blood pressure results from stiff, inflexible arteries. Exercise boosts the amount of blood circulating through your body by up to 25%, which, over time, encourages blood vessels to expand slightly and become more flexible. Exercise also spurs the production of nitric oxide, a molecule that relaxes and widens blood vessels.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise boosts the amount of blood circulating through your body by up to 25%.",
+                    "vis_data": [
+                        {
+                            "label": "Blood Circulation Increase",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.47679153845238387
+        },
+        {
+            "paragraph": "Both aerobic and muscle-building exercises can lower blood pressure slightly in people with normal blood pressure. If you have high blood pressure (defined as 130/80 mm Hg or higher), the average reductions are greater \u2014 between 5 and 7 points in systolic pressure (the first number in the reading). \"That's similar to the reduction people experience from taking a blood pressure drug,\" says Dr. Baggish.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Exercise reduces systolic pressure by between 5 and 7 points in people with high blood pressure.",
+                    "vis_data": [
+                        {
+                            "label": "Systolic Pressure Reduction",
+                            "value": "5",
+                            "unit": "points"
+                        },
+                        {
+                            "label": "Systolic Pressure Reduction",
+                            "value": "7",
+                            "unit": "points"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.46286715274222767
+        }
+    ]
+}

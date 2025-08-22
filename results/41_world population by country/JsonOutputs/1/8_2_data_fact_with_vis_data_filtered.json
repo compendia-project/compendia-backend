@@ -1,0 +1,188 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "WhileRussiaandJapanwill see their populations\\n decline significantly by 2050, the rest of these nations are expected to continue growing until\\n at least 2050. Additionally, two additional countries,DR CongoandVietnam, have more than 99 million people and should soon reach the 100 million mark.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "DR Congo has more than 99 million people.",
+                    "vis_data": [
+                        {
+                            "label": "DR Congo Population",
+                            "value": ">99",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Vietnam has more than 99 million people.",
+                    "vis_data": [
+                        {
+                            "label": "Vietnam Population",
+                            "value": ">99",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5410680472809783
+        },
+        {
+            "paragraph": "Indiais currently the most populous country in the world, with a population\\n estimated at more than 1.64 billion as of 2025. Only one other country in the world boasts a population\\n of more than 1 billion people:China, whose population is estimated\\n to be 1.42 billion people.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "India's population is estimated at more than 1.64 billion as of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "India Population 2025",
+                            "value": "1640+",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China's population is estimated to be 1.42 billion people.",
+                    "vis_data": [
+                        {
+                            "label": "China Population",
+                            "value": "1420",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5252431795053928
+        },
+        {
+            "paragraph": "The United States is currently the third most populated country in the world, but is expected to drop to fourth most populated sometime before 2060. The African country of Nigeria, whose growth rate is 2.08% (compared to 0.54% in the US) will become the third most populated country in the world. While UN predictions vary from those of the US Census Bureau, Nigeria takes the lead in both projections. Nigeria\u00e2\\x80\\x99s population is expected to reach 400 million by 2060, while the US will have approximately 389 million people. Vatican City / Holy See is expected to continue as the country with the smallest population in the world for the next several decades. The famous Catholic city-state has a population of 501 people.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Nigeria's growth rate is 2.08%.",
+                    "vis_data": [
+                        {
+                            "label": "Nigeria Growth Rate",
+                            "value": "2.08",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "US growth rate is 0.54%.",
+                    "vis_data": [
+                        {
+                            "label": "US Growth Rate",
+                            "value": "0.54",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Nigeria's population is expected to reach 400 million by 2060.",
+                    "vis_data": [
+                        {
+                            "label": "Nigeria Population 2060",
+                            "value": "400",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The US will have approximately 389 million people by 2060.",
+                    "vis_data": [
+                        {
+                            "label": "US Population 2060",
+                            "value": "389",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Vatican City has a population of 501 people.",
+                    "vis_data": [
+                        {
+                            "label": "Vatican City Population",
+                            "value": "501",
+                            "unit": "people"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5194229172558635
+        },
+        {
+            "paragraph": "India surpassed China as the most populated country in the world in 2023. China\u00e2\\x80\\x99s annual growth rate is currently -0.23%, while India\u00e2\\x80\\x99s growth rate is 0.89%. Given current trends in growth rates, UN projections predict that China\u00e2\\x80\\x99s population will slide under 1 billion by 2070, while India\u00e2\\x80\\x99s will expand to almost 1.7 billion.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "China's annual growth rate is -0.23%.",
+                    "vis_data": [
+                        {
+                            "label": "China Growth Rate",
+                            "value": "-0.23",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "India's annual growth rate is 0.89%.",
+                    "vis_data": [
+                        {
+                            "label": "India Growth Rate",
+                            "value": "0.89",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "China's population will slide under 1 billion by 2070.",
+                    "vis_data": [
+                        {
+                            "label": "China Population 2070",
+                            "value": "under 1000",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "India's population will expand to almost 1.7 billion by 2070.",
+                    "vis_data": [
+                        {
+                            "label": "India Population 2070",
+                            "value": "1700",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5169576234366058
+        },
+        {
+            "paragraph": "The overwhelming majority of the world's countries have fewer than 100 million\\n people\u00e2\\x80\\x94substantially fewer, in some cases. The smallest country in the world in terms of both\\n population and total area is Vatican City, where only around 500 people reside.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Vatican City is the smallest country in the world in terms of population with around 500 people.",
+                    "vis_data": [
+                        {
+                            "label": "Vatican City Population",
+                            "value": "500",
+                            "unit": "people"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4702260962308764
+        }
+    ]
+}

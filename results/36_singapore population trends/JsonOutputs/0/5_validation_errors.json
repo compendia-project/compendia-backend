@@ -1,0 +1,68 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "In 2024, the total population of Singapore is estimated to be approximately 6.04 million peopl.Population growthin the country is slow and numbers have still not recovered to pre-pandemic levels, where the pandemic's economic impact on migration saw the population fall by a quarter of a million people between 2019 and 2021.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The total population of Singapore is estimated to be approximately 6.04 million in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population in 2024",
+                            "value": "6.04",
+                            "unit": "million"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The population fell by a quarter of a million people between 2019 and 2021.",
+                    "vis_data": [
+                        {
+                            "label": "Population decrease 2019-2021",
+                            "value": "0.25",
+                            "unit": "million"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore\u2019s population is getting older, with the age bracket of those aged 65 and older increasing with every year. Themedian ageof Singaporeans is increasing rapidly, from 34.1 years in the year 2000 to an estimated 42.4 by 2020, and it is estimated to peak at around 55 years in the middle of the century.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median age of Singaporeans increased from 34.1 years in 2000 to an estimated 42.4 by 2020.",
+                    "vis_data": [
+                        {
+                            "label": "Median age in 2000",
+                            "value": "34.1",
+                            "unit": "years"
+                        },
+                        {
+                            "label": "Median age in 2020",
+                            "value": "42.4",
+                            "unit": "years"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age of Singaporeans is estimated to peak at around 55 years in the middle of the century.",
+                    "vis_data": [
+                        {
+                            "label": "Peak median age",
+                            "value": "55",
+                            "unit": "years"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

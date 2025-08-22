@@ -1,0 +1,33 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Johnson & Johnson, Eli Lilly and Co, AbbVie Inc, Novo Nordisk AS, and Merck & Co Inc are the top 5 pharmaceutical companies in the world in 2023 by market cap (as of Mar 31, 2023). Comprehensively, the top 10 pharma companies in the world in 2022 had a market cap of $ 2,591,949 million (as of Mar 31, 2023), with Johnson & Johnson Ltd having the highest ($402,750 million), followed by Eli Lilly and Co ($327,055 million), and AbbVie Inc ($281,151 million), while Bristol-Myers Squibb Co has the lowest ($145,780 million).",
+            "facts": [
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Johnson & Johnson, Eli Lilly and Co, AbbVie Inc, Novo Nordisk AS, and Merck & Co Inc are the top 5 pharmaceutical companies in the world in 2023 by market cap."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The top 10 pharma companies in the world in 2022 had a market cap of $2,591,949 million."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Johnson & Johnson Ltd has the highest market cap of $402,750 million."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Eli Lilly and Co has a market cap of $327,055 million."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "AbbVie Inc has a market cap of $281,151 million."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Bristol-Myers Squibb Co has the lowest market cap of $145,780 million."
+                }
+            ]
+        }
+    ]
+}

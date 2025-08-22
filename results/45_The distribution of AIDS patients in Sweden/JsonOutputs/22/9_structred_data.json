@@ -1,0 +1,515 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Using HIV surveillance data reported to the Public Health Agency of Sweden, it was estimated that 10% of all HIV-infected subjects in Sweden remain undiagnosed. Among all diagnosed patients, 99.8% were linked to care and 97.1% of those remained in care. On 31 December 2015, 6605 of 6946 patients (95.1%) were on ART. A total of 6395 had been on treatment for at least 6 months and 6053 of those (94.7%) had a viral load < 50 HIV-1 RNA copies/mL.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "10% of all HIV-infected subjects in Sweden remain undiagnosed.",
+                    "vis_data": [
+                        {
+                            "label": "Undiagnosed HIV in Sweden",
+                            "value": "10",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "99.8% of diagnosed patients in Sweden were linked to care.",
+                    "vis_data": [
+                        {
+                            "label": "Linked to Care in Sweden",
+                            "value": "99.8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_0_1"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "97.1% of those linked to care remained in care.",
+                    "vis_data": [
+                        {
+                            "label": "Remained in Care in Sweden",
+                            "value": "97.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_0_2"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "95.1% of patients were on ART on 31 December 2015.",
+                    "vis_data": [
+                        {
+                            "label": "On ART in Sweden",
+                            "value": "95.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_0_3"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "94.7% of patients on treatment for at least 6 months had a viral load < 50 HIV-1 RNA copies/mL.",
+                    "vis_data": [
+                        {
+                            "label": "Viral Load <50 copies/mL in Sweden",
+                            "value": "94.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_0_4"
+                }
+            ],
+            "relatedness_score": 0.6223529093079947,
+            "article_meta_data": {
+                "title": "Sweden, the first country to achieve the Joint United Nations Programme on HIV/AIDS (UNAIDS)/World Health Organization (WHO) 90-90-90 continuum of HIV care targets",
+                "date": "2016-06-09",
+                "url": "https://www.researchgate.net/publication/306293056_Sweden_the_first_country_to_achieve_the_Joint_United_Nations_Programme_on_HIVAIDS_UNAIDSWorld_Health_Organization_WHO_90-90-90_continuum_of_HIV_care_targets",
+                "id": 22
+            },
+            "para_id": "22_0"
+        },
+        {
+            "paragraph": "Successful treatment reduces morbidity, mortality and transmission of HIV. We evaluated trends in the treatment status of HIV infected individuals enrolled in care in Sweden and Denmark during the years 1995-2010. Our aim was to assess the proportion of HIV-infected individuals who received services along the continuum of care in Denmark in 2010, and to discuss the findings in relation to the organization of the health care system. We analyzed CD4 counts and viral loads (VL) among all HIV patients enrolled in the cohort. For each month of the study period we estimated the proportions of patients who 1) had initiated highly active antiretroviral treatment (HAART) and had VL<500 copies/mL, 2) were not eligible for HAART, 3) had initiated HAART but had VL\u2265500 copies/mL, 4) were eligible for, but had not initiated HAART and 5) had initiated HAART but no VL monitoring for >13 months or 6) no HAART or monitoring of CD4 for >13 months. Patients fulfilling criteria 1 or 2 were considered successfully managed. The proportion of successfully managed patients continued to increase throughout the study period and reached 83% in 2010, 92% of Swedish/Danish men who have sex with men and heterosexual patients, but only 74% of immigrants and 78% of injection drug users were successfully managed due to higher rates of inadequate monitoring in the latter two groups. In 2010, 70% of all individuals diagnosed with HIV in Denmark were virally suppressed. In a public health care system with free access to specialized care, successful management of the majority of HIV patients is achievable. Interventions tailored to retain immigrants and injection drug users in care are needed to further reduce the proportion of sub-optimally treated HIV patients.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "83% of HIV-infected individuals in Denmark were successfully managed in 2010.",
+                    "vis_data": [
+                        {
+                            "label": "Successfully Managed in Denmark",
+                            "value": "83",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_1_5"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "92% of Swedish/Danish men who have sex with men and heterosexual patients were successfully managed.",
+                    "vis_data": [
+                        {
+                            "label": "Successfully Managed Swedish/Danish MSM & Heterosexuals",
+                            "value": "92",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_1_6"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "74% of immigrants were successfully managed.",
+                    "vis_data": [
+                        {
+                            "label": "Successfully Managed Immigrants",
+                            "value": "74",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_1_7"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "78% of injection drug users were successfully managed.",
+                    "vis_data": [
+                        {
+                            "label": "Successfully Managed Injection Drug Users",
+                            "value": "78",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_1_8"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "70% of all individuals diagnosed with HIV in Denmark were virally suppressed in 2010.",
+                    "vis_data": [
+                        {
+                            "label": "Virally Suppressed in Denmark",
+                            "value": "70",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_1_9"
+                }
+            ],
+            "relatedness_score": 0.5711497279113548,
+            "article_meta_data": {
+                "title": "Sweden, the first country to achieve the Joint United Nations Programme on HIV/AIDS (UNAIDS)/World Health Organization (WHO) 90-90-90 continuum of HIV care targets",
+                "date": "2016-06-09",
+                "url": "https://www.researchgate.net/publication/306293056_Sweden_the_first_country_to_achieve_the_Joint_United_Nations_Programme_on_HIVAIDS_UNAIDSWorld_Health_Organization_WHO_90-90-90_continuum_of_HIV_care_targets",
+                "id": 22
+            },
+            "para_id": "22_1"
+        },
+        {
+            "paragraph": "The Swedish InfCare HIV Cohort Study collects viral loads, CD4 counts, and viral sequences, along with demographic and clinical data, through an electronic clinical decision support system. Almost 100% of those diagnosed with HIV infection are included in the database, corresponding to 6946 diagnosed subjects living with HIV-1 in Sweden by 31 December 2015.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "6946 diagnosed subjects living with HIV-1 in Sweden by 31 December 2015.",
+                    "vis_data": [
+                        {
+                            "label": "Diagnosed HIV-1 Subjects in Sweden",
+                            "value": "6946",
+                            "unit": "individuals"
+                        }
+                    ],
+                    "fact_id": "22_2_10"
+                }
+            ],
+            "relatedness_score": 0.561014237997559,
+            "article_meta_data": {
+                "title": "Sweden, the first country to achieve the Joint United Nations Programme on HIV/AIDS (UNAIDS)/World Health Organization (WHO) 90-90-90 continuum of HIV care targets",
+                "date": "2016-06-09",
+                "url": "https://www.researchgate.net/publication/306293056_Sweden_the_first_country_to_achieve_the_Joint_United_Nations_Programme_on_HIVAIDS_UNAIDSWorld_Health_Organization_WHO_90-90-90_continuum_of_HIV_care_targets",
+                "id": 22
+            },
+            "para_id": "22_2"
+        },
+        {
+            "paragraph": "The Swedish continuum of HIV care is shown in Figure1. In summary, the UNAIDS/WHO 90-90-90 coverage target of 73% of HIV-infected individuals with undetectable HIV RNA has been achieved, with 90% of all those infected diagnosed, 83% of those infected on ART, and 78% of those infected with a suppressed viral load (<50 copies/mL).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "90% of all those infected with HIV in Sweden are diagnosed.",
+                    "vis_data": [
+                        {
+                            "label": "Diagnosed HIV in Sweden",
+                            "value": "90",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_3_11"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "83% of those infected with HIV in Sweden are on ART.",
+                    "vis_data": [
+                        {
+                            "label": "On ART in Sweden",
+                            "value": "83",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_3_12"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "78% of those infected with HIV in Sweden have a suppressed viral load (<50 copies/mL).",
+                    "vis_data": [
+                        {
+                            "label": "Suppressed Viral Load in Sweden",
+                            "value": "78",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_3_13"
+                }
+            ],
+            "relatedness_score": 0.5511772436096545,
+            "article_meta_data": {
+                "title": "Sweden, the first country to achieve the Joint United Nations Programme on HIV/AIDS (UNAIDS)/World Health Organization (WHO) 90-90-90 continuum of HIV care targets",
+                "date": "2016-06-09",
+                "url": "https://www.researchgate.net/publication/306293056_Sweden_the_first_country_to_achieve_the_Joint_United_Nations_Programme_on_HIVAIDS_UNAIDSWorld_Health_Organization_WHO_90-90-90_continuum_of_HIV_care_targets",
+                "id": 22
+            },
+            "para_id": "22_3"
+        },
+        {
+            "paragraph": "The 2014 UNAIDS/WHO 90-90-90 goals for HIV care means that > 73% of all patients living with HIV should be virologically suppressed by 2020. Sweden has already achieved this target, with 78% suppression, and is the first country reported to meet all the UNAIDS/WHO 90-90-90 goals.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "78% of patients living with HIV in Sweden are virologically suppressed.",
+                    "vis_data": [
+                        {
+                            "label": "Virologically Suppressed in Sweden",
+                            "value": "78",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "22_4_14"
+                }
+            ],
+            "relatedness_score": 0.5380501085721309,
+            "article_meta_data": {
+                "title": "Sweden, the first country to achieve the Joint United Nations Programme on HIV/AIDS (UNAIDS)/World Health Organization (WHO) 90-90-90 continuum of HIV care targets",
+                "date": "2016-06-09",
+                "url": "https://www.researchgate.net/publication/306293056_Sweden_the_first_country_to_achieve_the_Joint_United_Nations_Programme_on_HIVAIDS_UNAIDSWorld_Health_Organization_WHO_90-90-90_continuum_of_HIV_care_targets",
+                "id": 22
+            },
+            "para_id": "22_4"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "22_0",
+            "paragraph": "Using HIV surveillance data reported to the Public Health Agency of Sweden, it was estimated that 10% of all HIV-infected subjects in Sweden remain undiagnosed. Among all diagnosed patients, 99.8% were linked to care and 97.1% of those remained in care. On 31 December 2015, 6605 of 6946 patients (95.1%) were on ART. A total of 6395 had been on treatment for at least 6 months and 6053 of those (94.7%) had a viral load < 50 HIV-1 RNA copies/mL."
+        },
+        {
+            "para_id": "22_1",
+            "paragraph": "Successful treatment reduces morbidity, mortality and transmission of HIV. We evaluated trends in the treatment status of HIV infected individuals enrolled in care in Sweden and Denmark during the years 1995-2010. Our aim was to assess the proportion of HIV-infected individuals who received services along the continuum of care in Denmark in 2010, and to discuss the findings in relation to the organization of the health care system. We analyzed CD4 counts and viral loads (VL) among all HIV patients enrolled in the cohort. For each month of the study period we estimated the proportions of patients who 1) had initiated highly active antiretroviral treatment (HAART) and had VL<500 copies/mL, 2) were not eligible for HAART, 3) had initiated HAART but had VL\u2265500 copies/mL, 4) were eligible for, but had not initiated HAART and 5) had initiated HAART but no VL monitoring for >13 months or 6) no HAART or monitoring of CD4 for >13 months. Patients fulfilling criteria 1 or 2 were considered successfully managed. The proportion of successfully managed patients continued to increase throughout the study period and reached 83% in 2010, 92% of Swedish/Danish men who have sex with men and heterosexual patients, but only 74% of immigrants and 78% of injection drug users were successfully managed due to higher rates of inadequate monitoring in the latter two groups. In 2010, 70% of all individuals diagnosed with HIV in Denmark were virally suppressed. In a public health care system with free access to specialized care, successful management of the majority of HIV patients is achievable. Interventions tailored to retain immigrants and injection drug users in care are needed to further reduce the proportion of sub-optimally treated HIV patients."
+        },
+        {
+            "para_id": "22_2",
+            "paragraph": "The Swedish InfCare HIV Cohort Study collects viral loads, CD4 counts, and viral sequences, along with demographic and clinical data, through an electronic clinical decision support system. Almost 100% of those diagnosed with HIV infection are included in the database, corresponding to 6946 diagnosed subjects living with HIV-1 in Sweden by 31 December 2015."
+        },
+        {
+            "para_id": "22_3",
+            "paragraph": "The Swedish continuum of HIV care is shown in Figure1. In summary, the UNAIDS/WHO 90-90-90 coverage target of 73% of HIV-infected individuals with undetectable HIV RNA has been achieved, with 90% of all those infected diagnosed, 83% of those infected on ART, and 78% of those infected with a suppressed viral load (<50 copies/mL)."
+        },
+        {
+            "para_id": "22_4",
+            "paragraph": "The 2014 UNAIDS/WHO 90-90-90 goals for HIV care means that > 73% of all patients living with HIV should be virologically suppressed by 2020. Sweden has already achieved this target, with 78% suppression, and is the first country reported to meet all the UNAIDS/WHO 90-90-90 goals."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "22_0_0",
+            "fact_content": "10% of all HIV-infected subjects in Sweden remain undiagnosed."
+        },
+        {
+            "fact_id": "22_0_1",
+            "fact_content": "99.8% of diagnosed patients in Sweden were linked to care."
+        },
+        {
+            "fact_id": "22_0_2",
+            "fact_content": "97.1% of those linked to care remained in care."
+        },
+        {
+            "fact_id": "22_0_3",
+            "fact_content": "95.1% of patients were on ART on 31 December 2015."
+        },
+        {
+            "fact_id": "22_0_4",
+            "fact_content": "94.7% of patients on treatment for at least 6 months had a viral load < 50 HIV-1 RNA copies/mL."
+        },
+        {
+            "fact_id": "22_1_5",
+            "fact_content": "83% of HIV-infected individuals in Denmark were successfully managed in 2010."
+        },
+        {
+            "fact_id": "22_1_6",
+            "fact_content": "92% of Swedish/Danish men who have sex with men and heterosexual patients were successfully managed."
+        },
+        {
+            "fact_id": "22_1_7",
+            "fact_content": "74% of immigrants were successfully managed."
+        },
+        {
+            "fact_id": "22_1_8",
+            "fact_content": "78% of injection drug users were successfully managed."
+        },
+        {
+            "fact_id": "22_1_9",
+            "fact_content": "70% of all individuals diagnosed with HIV in Denmark were virally suppressed in 2010."
+        },
+        {
+            "fact_id": "22_2_10",
+            "fact_content": "6946 diagnosed subjects living with HIV-1 in Sweden by 31 December 2015."
+        },
+        {
+            "fact_id": "22_3_11",
+            "fact_content": "90% of all those infected with HIV in Sweden are diagnosed."
+        },
+        {
+            "fact_id": "22_3_12",
+            "fact_content": "83% of those infected with HIV in Sweden are on ART."
+        },
+        {
+            "fact_id": "22_3_13",
+            "fact_content": "78% of those infected with HIV in Sweden have a suppressed viral load (<50 copies/mL)."
+        },
+        {
+            "fact_id": "22_4_14",
+            "fact_content": "78% of patients living with HIV in Sweden are virologically suppressed."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "10% of all HIV-infected subjects in Sweden remain undiagnosed.",
+            "vis_data": [
+                {
+                    "label": "Undiagnosed HIV in Sweden",
+                    "value": "10",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "99.8% of diagnosed patients in Sweden were linked to care.",
+            "vis_data": [
+                {
+                    "label": "Linked to Care in Sweden",
+                    "value": "99.8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_0_1"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "97.1% of those linked to care remained in care.",
+            "vis_data": [
+                {
+                    "label": "Remained in Care in Sweden",
+                    "value": "97.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_0_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "95.1% of patients were on ART on 31 December 2015.",
+            "vis_data": [
+                {
+                    "label": "On ART in Sweden",
+                    "value": "95.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_0_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "94.7% of patients on treatment for at least 6 months had a viral load < 50 HIV-1 RNA copies/mL.",
+            "vis_data": [
+                {
+                    "label": "Viral Load <50 copies/mL in Sweden",
+                    "value": "94.7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_0_4"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "83% of HIV-infected individuals in Denmark were successfully managed in 2010.",
+            "vis_data": [
+                {
+                    "label": "Successfully Managed in Denmark",
+                    "value": "83",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_1_5"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "92% of Swedish/Danish men who have sex with men and heterosexual patients were successfully managed.",
+            "vis_data": [
+                {
+                    "label": "Successfully Managed Swedish/Danish MSM & Heterosexuals",
+                    "value": "92",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_1_6"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "74% of immigrants were successfully managed.",
+            "vis_data": [
+                {
+                    "label": "Successfully Managed Immigrants",
+                    "value": "74",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_1_7"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "78% of injection drug users were successfully managed.",
+            "vis_data": [
+                {
+                    "label": "Successfully Managed Injection Drug Users",
+                    "value": "78",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_1_8"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "70% of all individuals diagnosed with HIV in Denmark were virally suppressed in 2010.",
+            "vis_data": [
+                {
+                    "label": "Virally Suppressed in Denmark",
+                    "value": "70",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_1_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "6946 diagnosed subjects living with HIV-1 in Sweden by 31 December 2015.",
+            "vis_data": [
+                {
+                    "label": "Diagnosed HIV-1 Subjects in Sweden",
+                    "value": "6946",
+                    "unit": "individuals"
+                }
+            ],
+            "fact_id": "22_2_10"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "90% of all those infected with HIV in Sweden are diagnosed.",
+            "vis_data": [
+                {
+                    "label": "Diagnosed HIV in Sweden",
+                    "value": "90",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_3_11"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "83% of those infected with HIV in Sweden are on ART.",
+            "vis_data": [
+                {
+                    "label": "On ART in Sweden",
+                    "value": "83",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_3_12"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "78% of those infected with HIV in Sweden have a suppressed viral load (<50 copies/mL).",
+            "vis_data": [
+                {
+                    "label": "Suppressed Viral Load in Sweden",
+                    "value": "78",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_3_13"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "78% of patients living with HIV in Sweden are virologically suppressed.",
+            "vis_data": [
+                {
+                    "label": "Virologically Suppressed in Sweden",
+                    "value": "78",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "22_4_14"
+        }
+    ]
+}

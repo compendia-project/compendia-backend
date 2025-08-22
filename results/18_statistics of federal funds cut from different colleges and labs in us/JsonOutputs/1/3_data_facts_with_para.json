@@ -1,0 +1,26 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "President Donald Trump has revived those efforts. Adraft executive orderdirects his newly confirmed education secretary, Linda McMahon, to prepare the department for closure, while acknowledging that actually dissolving it would require an act of Congress. (Asked directly if the United States needs her department, McMahon said, \u201cNo, we don\u2019t.\u201d) The department already has shedaround 2,000 staffers\u2013 nearly half its workforce \u2013 through layoffs and buyouts, and canceleddozens of research contracts.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The department has shed around 2,000 staffers."
+                }
+            ]
+        },
+        {
+            "paragraph": "The department also granted $260 million in fiscal 2024 through its research arm, the Institute of Education Sciences. (The Trump administration recentlycanceled $900 millionin IES contracts, some of which cover multiple years.)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The department granted $260 million in fiscal 2024 through its research arm."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Trump administration canceled $900 million in IES contracts."
+                }
+            ]
+        }
+    ]
+}

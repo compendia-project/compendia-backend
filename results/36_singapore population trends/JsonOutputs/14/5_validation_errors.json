@@ -1,0 +1,73 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "Singapore census for 1957: 1,445,930. (1958, November 28).The Straits Times, p. 4;People of Singapore will be counted in 1957. (1956, April 27).The Singapore Free Press, p. 3; Pillay, T. (1957, February 1).Singapore census is set for June, 1957.Singapore Standard, p. 2. Retrieved from NewspaperSG.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore census for 1957: 1,445,930.",
+                    "vis_data": [
+                        {
+                            "label": "Population 1957",
+                            "value": "1445930",
+                            "unit": "people"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore\u2019s population has grown steadily over the decades to reach a total population of 5.7 million as at June 2019.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore\u2019s population as at June 2019: 5.7 million.",
+                    "vis_data": [
+                        {
+                            "label": "Population 2019",
+                            "value": "5700000",
+                            "unit": "people"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The total population of Singapore at the time was 97,111.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The total population of Singapore at the time was 97,111.",
+                    "vis_data": [
+                        {
+                            "label": "Population at the time",
+                            "value": "97111",
+                            "unit": "people"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The official report of the 1947 census \u2013 released in October 1949 \u2013 gave Singapore\u2019s population as 940,824, which was almost double the figure for the 1931 census.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore\u2019s population in 1947 was 940,824.",
+                    "vis_data": [
+                        {
+                            "label": "Population 1947",
+                            "value": "940824",
+                            "unit": "people"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

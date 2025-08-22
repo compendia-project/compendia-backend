@@ -1,0 +1,34 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "China\u2019s BYD enjoyed a year-end surge to push total sales to 4.25 million passenger cars last year, narrowing its gap with Tesla as the two vie for the crown of top-selling electric-vehicle maker of 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total sales of 4.25 million passenger cars last year."
+                }
+            ]
+        },
+        {
+            "paragraph": "BYD sold 509,440 plug-in hybrid and pure-electric passenger vehicles in December, the company said Wednesday. The figure includes 207,734 EVs, taking the annual tally of battery-powered car sales to 1.76 million. Overall annual sales increased 41% year-on-year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 509,440 plug-in hybrid and pure-electric passenger vehicles in December."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 207,734 EVs in December."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Annual tally of battery-powered car sales is 1.76 million."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Overall annual sales increased 41% year-on-year."
+                }
+            ]
+        }
+    ]
+}

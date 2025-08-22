@@ -1,0 +1,21 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "As of 2023, the median age at the time of first marriage in Singapore was 31 years old for men and 29.5 years old for women. While this had remained relatively constant for men since 2014, the median age of marriage for women had been increasing, indicating a trend amongst Singaporean women in delaying marriage.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age at the time of first marriage in Singapore was 31 years old for men."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age at the time of first marriage in Singapore was 29.5 years old for women."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median age of marriage for women had been increasing."
+                }
+            ]
+        }
+    ]
+}

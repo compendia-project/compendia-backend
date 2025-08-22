@@ -1,0 +1,83 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "['Oh boy, you gotta try this restaurant called Phan Gia cafe and restaurant:', 'I accidentally hit by biking the hidden gem away 10ish mins away from the old town, just the river across from Hoi \u0102n memories resort and spa. Country feel and away from crowd and just next to riverbank, foods and drinks. They offer hoppy hour set, two dishes with one beer or soda of your choice for 109K, so delicious. I should have found this earlier.', 'In resort, I pay $6 for cocktail; it is cheaper than what I would pay in US.']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Hoppy hour set, two dishes with one beer or soda for 109K.",
+                    "vis_data": [
+                        {
+                            "label": "Hoppy Hour Set",
+                            "value": "109000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "19_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "In resort, I pay $6 for cocktail.",
+                    "vis_data": [
+                        {
+                            "label": "Cocktail Price",
+                            "value": "6",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "19_0_1"
+                }
+            ],
+            "relatedness_score": 0.4614198718475997,
+            "article_meta_data": {
+                "title": "Prices food and drinks - Hoi An Forum",
+                "date": "2023-03-03",
+                "url": "https://www.tripadvisor.com.sg/ShowTopic-g298082-i9204-k14301661-Prices_food_and_drinks-Hoi_An_Quang_Nam_Province.html",
+                "id": 19
+            },
+            "para_id": "19_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "19_0",
+            "paragraph": "['Oh boy, you gotta try this restaurant called Phan Gia cafe and restaurant:', 'I accidentally hit by biking the hidden gem away 10ish mins away from the old town, just the river across from Hoi \u0102n memories resort and spa. Country feel and away from crowd and just next to riverbank, foods and drinks. They offer hoppy hour set, two dishes with one beer or soda of your choice for 109K, so delicious. I should have found this earlier.', 'In resort, I pay $6 for cocktail; it is cheaper than what I would pay in US.']"
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "19_0_0",
+            "fact_content": "Hoppy hour set, two dishes with one beer or soda for 109K."
+        },
+        {
+            "fact_id": "19_0_1",
+            "fact_content": "In resort, I pay $6 for cocktail."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Hoppy hour set, two dishes with one beer or soda for 109K.",
+            "vis_data": [
+                {
+                    "label": "Hoppy Hour Set",
+                    "value": "109000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "19_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "In resort, I pay $6 for cocktail.",
+            "vis_data": [
+                {
+                    "label": "Cocktail Price",
+                    "value": "6",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "19_0_1"
+        }
+    ]
+}

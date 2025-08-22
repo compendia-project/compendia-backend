@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "In 2023, the crude marriage rate in Singapore was 6.4 marriages per 1,000 residents. The crude marriage rate in that year had bounced back to around pre COVID-19 levels. This was attributed to government services being resumed after disruptions caused by the COVID-19 pandemic.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The crude marriage rate in Singapore was 6.4 marriages per 1,000 residents in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Crude Marriage Rate",
+                            "value": "6.4",
+                            "unit": "marriages per 1,000 residents"
+                        }
+                    ],
+                    "fact_id": "3_0_0"
+                }
+            ],
+            "relatedness_score": 0.6774969739506124,
+            "article_meta_data": {
+                "title": "Crude Marriage Rate Singapore 2014-2023",
+                "date": "2024-08-12",
+                "url": "https://www.statista.com/statistics/995762/singapore-crude-marriage-rate/",
+                "id": 3
+            },
+            "para_id": "3_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "3_0",
+            "paragraph": "In 2023, the crude marriage rate in Singapore was 6.4 marriages per 1,000 residents. The crude marriage rate in that year had bounced back to around pre COVID-19 levels. This was attributed to government services being resumed after disruptions caused by the COVID-19 pandemic."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "3_0_0",
+            "fact_content": "The crude marriage rate in Singapore was 6.4 marriages per 1,000 residents in 2023."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The crude marriage rate in Singapore was 6.4 marriages per 1,000 residents in 2023.",
+            "vis_data": [
+                {
+                    "label": "Crude Marriage Rate",
+                    "value": "6.4",
+                    "unit": "marriages per 1,000 residents"
+                }
+            ],
+            "fact_id": "3_0_0"
+        }
+    ]
+}

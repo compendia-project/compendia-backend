@@ -1,0 +1,138 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "As China's middle class has expanded, it has in many ways also started to look like America's. In its most recent middle-class analysis, thePew Research Centerin 2016 classified 52% of the US population as middle class. (Methodology for defining the middle class varies, but many experts \u2014 including Pew \u2014definethe middle class globally as those who live on $10.01 to $20 a day per person, which straddles the poverty line in the US.)",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "52% of the US population was classified as middle class in 2016.",
+                    "vis_data": [
+                        {
+                            "label": "US Middle Class Population 2016",
+                            "value": "52",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_0_0"
+                }
+            ],
+            "relatedness_score": 0.6813864824934084,
+            "article_meta_data": {
+                "title": "China's Middle Class Is Starting to Look a Lot Like America's",
+                "date": "2021-12-06",
+                "url": "https://www.businessinsider.com/china-middle-class-starting-to-look-like-americas-2021-12",
+                "id": 7
+            },
+            "para_id": "7_0"
+        },
+        {
+            "paragraph": "In 2000, roughly 3% of the country'spopulation was classifiedas middle class. By 2018, more than half of China's population \u2014 707 million people \u2014 had entered the country's middle-income bracket, according to calculations from theCenter for Strategic and International Studiesthat defined the middle class as those spending between $10 and $50 a day.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "3% of the country's population was classified as middle class in 2000.",
+                    "vis_data": [
+                        {
+                            "label": "Middle Class Population 2000",
+                            "value": "3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_1_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "707 million people in China were in the middle-income bracket by 2018.",
+                    "vis_data": [
+                        {
+                            "label": "Middle Class Population 2018",
+                            "value": "707",
+                            "unit": "million"
+                        },
+                        {
+                            "label": "Middle Class Proportion 2018",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_1_2"
+                }
+            ],
+            "relatedness_score": 0.6694584536949864,
+            "article_meta_data": {
+                "title": "China's Middle Class Is Starting to Look a Lot Like America's",
+                "date": "2021-12-06",
+                "url": "https://www.businessinsider.com/china-middle-class-starting-to-look-like-americas-2021-12",
+                "id": 7
+            },
+            "para_id": "7_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "7_0",
+            "paragraph": "As China's middle class has expanded, it has in many ways also started to look like America's. In its most recent middle-class analysis, thePew Research Centerin 2016 classified 52% of the US population as middle class. (Methodology for defining the middle class varies, but many experts \u2014 including Pew \u2014definethe middle class globally as those who live on $10.01 to $20 a day per person, which straddles the poverty line in the US.)"
+        },
+        {
+            "para_id": "7_1",
+            "paragraph": "In 2000, roughly 3% of the country'spopulation was classifiedas middle class. By 2018, more than half of China's population \u2014 707 million people \u2014 had entered the country's middle-income bracket, according to calculations from theCenter for Strategic and International Studiesthat defined the middle class as those spending between $10 and $50 a day."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "52% of the US population was classified as middle class in 2016."
+        },
+        {
+            "fact_id": "7_1_1",
+            "fact_content": "3% of the country's population was classified as middle class in 2000."
+        },
+        {
+            "fact_id": "7_1_2",
+            "fact_content": "707 million people in China were in the middle-income bracket by 2018."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "52% of the US population was classified as middle class in 2016.",
+            "vis_data": [
+                {
+                    "label": "US Middle Class Population 2016",
+                    "value": "52",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "3% of the country's population was classified as middle class in 2000.",
+            "vis_data": [
+                {
+                    "label": "Middle Class Population 2000",
+                    "value": "3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "707 million people in China were in the middle-income bracket by 2018.",
+            "vis_data": [
+                {
+                    "label": "Middle Class Population 2018",
+                    "value": "707",
+                    "unit": "million"
+                },
+                {
+                    "label": "Middle Class Proportion 2018",
+                    "value": "50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_1_2"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "In the year 2024, Telefonaktiebolaget LM Ericsson had annual revenue of 247.88B, down -5.87%.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Telefonaktiebolaget LM Ericsson had annual revenue of 247.88B.",
+                    "vis_data": [
+                        {
+                            "label": "Annual Revenue 2024",
+                            "value": "247.88",
+                            "unit": "B"
+                        }
+                    ],
+                    "fact_id": "0_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Telefonaktiebolaget LM Ericsson's revenue was down -5.87%.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue Decline 2024",
+                            "value": "-5.87",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_0_1"
+                }
+            ],
+            "relatedness_score": 0.7536664772396565,
+            "article_meta_data": {
+                "title": "Telefonaktiebolaget LM Ericsson Revenue 2015-2025",
+                "date": "Unknown",
+                "url": "https://stockanalysis.com/stocks/eric/revenue/",
+                "id": 0
+            },
+            "para_id": "0_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "0_0",
+            "paragraph": "In the year 2024, Telefonaktiebolaget LM Ericsson had annual revenue of 247.88B, down -5.87%."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "Telefonaktiebolaget LM Ericsson had annual revenue of 247.88B."
+        },
+        {
+            "fact_id": "0_0_1",
+            "fact_content": "Telefonaktiebolaget LM Ericsson's revenue was down -5.87%."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Telefonaktiebolaget LM Ericsson had annual revenue of 247.88B.",
+            "vis_data": [
+                {
+                    "label": "Annual Revenue 2024",
+                    "value": "247.88",
+                    "unit": "B"
+                }
+            ],
+            "fact_id": "0_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Telefonaktiebolaget LM Ericsson's revenue was down -5.87%.",
+            "vis_data": [
+                {
+                    "label": "Revenue Decline 2024",
+                    "value": "-5.87",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_0_1"
+        }
+    ]
+}

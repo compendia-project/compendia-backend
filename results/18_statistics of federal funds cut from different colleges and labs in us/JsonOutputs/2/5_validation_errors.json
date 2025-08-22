@@ -1,0 +1,22 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "On February 10, as part of its mission to \u201cmaximize government efficiency,\u201d the Trump administration announced its cancellation of roughly $1 billion in federal contracts for education research. These contracts were held under the Institute of Education Sciences (IES)\u2014the research, statistics, and evaluation arm of the U.S. Department of Education, which was created as part of the Education Sciences Reform Act (ESRA) of 2002.\u0000a0The contracts affect organizations and individuals all across the United States and impact our ability to monitor the global competitiveness of our students.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cancellation of roughly $1 billion in federal contracts for education research.",
+                    "vis_data": [
+                        {
+                            "label": "Cancelled Federal Contracts",
+                            "value": "1000000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

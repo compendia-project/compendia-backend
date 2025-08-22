@@ -1,0 +1,251 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "The top 20 biopharmaceutical companies experienced mixed performance in 2024 amid a dynamic landscape influenced by US Federal Reserve interest rate cuts, Medicare policy concerns over President Donald Trump\u2019s second term, and uncertainty from Robert F Kennedy Jr\u2019s anti-vaccine stance. Despite these challenges, their total market capitalisation rose by 1.7%, from $3.6tn in December 2023 to $3.7tn in December 2024, according to GlobalData, a leading analytics and research firm.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Total market capitalisation rose by 1.7% from $3.6tn in December 2023 to $3.7tn in December 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Market Capitalisation Increase",
+                            "value": "1.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": [
+                        "Missing data points: The vis_data should also include the market capitalisation values for December 2023 ($3.6tn) and December 2024 ($3.7tn) for a complete trend visualization."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Eli Lilly achieved the largest market capitalisation growth of 32.4% to $733bn in 2024, driven by strong demand for its weight-loss drugs, Mounjaro (tirzepatide) and Zepbound (tirzepatide). However, in October, Eli Lilly reported slower-than-expected Q3 sales, with Mounjaro generating $3.11bn globally and Zepbound generating $1.26bn in the US, according to GlobalData\u2019s Drugs Database in the Pharma Intelligence Center.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Eli Lilly achieved the largest market capitalisation growth of 32.4% to $733bn in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Eli Lilly Market Cap Growth",
+                            "value": "32.4",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Mounjaro generated $3.11bn globally in Q3.",
+                    "vis_data": [
+                        {
+                            "label": "Mounjaro Q3 Revenue",
+                            "value": "3.11",
+                            "unit": "bn USD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Zepbound generated $1.26bn in the US in Q3.",
+                    "vis_data": [
+                        {
+                            "label": "Zepbound Q3 US Revenue",
+                            "value": "1.26",
+                            "unit": "bn USD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "AbbVie\u2019s market capitalisation grew by 14.8% in 2024, fueled by its acquisitions ofImmunoGenin February and Cerevel Therapeutics in August, totalling $19bn. These strategic moves bolstered AbbVie\u2019s oncology and neuroscience portfolios, with the company reporting a strong Q3 performance. Global net revenue from its oncology portfolio reached $1.687bn, marking an 11.6% increase, while its neuroscience portfolio generated $2.363bn, reflecting a 15.6% growth on a reported basis.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "AbbVie\u2019s market capitalisation grew by 14.8% in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "AbbVie Market Cap Growth",
+                            "value": "14.8",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Acquisitions of ImmunoGen and Cerevel Therapeutics totaled $19bn.",
+                    "vis_data": [
+                        {
+                            "label": "Acquisitions Total",
+                            "value": "19",
+                            "unit": "bn USD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Global net revenue from oncology portfolio reached $1.687bn in Q3.",
+                    "vis_data": [
+                        {
+                            "label": "Oncology Portfolio Q3 Revenue",
+                            "value": "1.687",
+                            "unit": "bn USD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Oncology portfolio revenue marked an 11.6% increase.",
+                    "vis_data": [
+                        {
+                            "label": "Oncology Revenue Growth",
+                            "value": "11.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Neuroscience portfolio generated $2.363bn in Q3.",
+                    "vis_data": [
+                        {
+                            "label": "Neuroscience Portfolio Q3 Revenue",
+                            "value": "2.363",
+                            "unit": "bn USD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Neuroscience portfolio revenue reflected a 15.6% growth.",
+                    "vis_data": [
+                        {
+                            "label": "Neuroscience Revenue Growth",
+                            "value": "15.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Gilead Sciencesachieved a 14% increase in market capitalisation due to the recently submitted a new drug application to the FDA for lenacapavir, a twice-yearly injectable HIV-1 caspid inhibitor for the prevention of HIV as pre-exposure prophylaxis. Data from the Phase III PURPOSE 1 and PURPOSE 2 trials demonstrated lenacapavir\u2019s superior HIV prevention efficacy compared to Gilead\u2019s once-daily oral Truvada (emtricitabine + tenofovir disoproxil fumarate). Additionally, Gilead secured accelerated FDA approval for Livdelzi (seladelphar), a peroxisome proliferator-activated receptor oral agonist, for the treatment of primary biliary cholangitis. These milestones further strengthen Gilead\u2019s position in HIV treatments and liver disease therapeutics.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Gilead Sciences achieved a 14% increase in market capitalisation.",
+                    "vis_data": [
+                        {
+                            "label": "Gilead Market Cap Growth",
+                            "value": "14",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "UCBwas a new entrant among the top 20 biopharmaceutical companies, doubling its market capitalisation from $16.9bn in 2023 to $38.7bn in 2024. This growth was largely attributed to the success of its blockbuster drug, Bimzelx (bimekizumab). Initially approved by the FDA for plaque psoriasis in October 2023, Bimzelx has since gained approvals for three additional indications: psoriatic arthritis, non-radiographic axial spondyloarthritis, and ankylosing spondylitis. These approvals have significantly broadened the drug\u2019s potential in treating various inflammatory diseases. Furthermore, UCB has enhanced patient convenience by introducing single-injection administration options in the US.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "UCB doubled its market capitalisation from $16.9bn in 2023 to $38.7bn in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "UCB Market Cap 2023",
+                            "value": "16.9",
+                            "unit": "bn USD"
+                        },
+                        {
+                            "label": "UCB Market Cap 2024",
+                            "value": "38.7",
+                            "unit": "bn USD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Novo Nordisk experienced a 16.8% decline in market capitalisation in 2024, largely driven by results from the Phase III REDEFINE 1 trial for its next-generation weight-loss drug, CagriSema (cagrilintide + semaglutide). The trial revealed that participants lost an average of 22.7% of their body weight over 68 weeks, falling short of the company\u2019s anticipated 25% target. This outcome sparked concerns about Novo Nordisk\u2019s ability to maintain a competitive edge in the rapidly expanding obesity and diabetes drug market. However, the company\u2019s Q3 results for 2024 showed a 16.21% increase in global sales of Wegovy and Ozempic (semaglutide), reaching $6.8bn in Q3, as reported by GlobalData\u2019s Drugs Database in the Pharma Intelligence Center.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Novo Nordisk experienced a 16.8% decline in market capitalisation in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Novo Nordisk Market Cap Decline",
+                            "value": "16.8",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Participants lost an average of 22.7% of their body weight over 68 weeks in the Phase III REDEFINE 1 trial.",
+                    "vis_data": [
+                        {
+                            "label": "Average Weight Loss",
+                            "value": "22.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Q3 results for 2024 showed a 16.21% increase in global sales of Wegovy and Ozempic.",
+                    "vis_data": [
+                        {
+                            "label": "Wegovy & Ozempic Sales Growth",
+                            "value": "16.21",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Global sales of Wegovy and Ozempic reached $6.8bn in Q3.",
+                    "vis_data": [
+                        {
+                            "label": "Wegovy & Ozempic Q3 Sales",
+                            "value": "6.8",
+                            "unit": "bn USD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "CSLwitnessed a 10.5% decline in market capitalisation in 2024, following its acquisition of Vifor Pharma in August 2022. While the acquisition was intended to diversify CSL\u2019s portfolio of vaccines and blood plasma products, the company has reported that Vifor\u2019s portfolio is facing commercial and regulatory challenges, including reimbursement bundle issues for its pruritus drug, Korsuva (difelikefalin).",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "CSL witnessed a 10.5% decline in market capitalisation in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "CSL Market Cap Decline",
+                            "value": "10.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

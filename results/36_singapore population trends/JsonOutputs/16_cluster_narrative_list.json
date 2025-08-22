@@ -1,0 +1,632 @@
+[
+    {
+        "cluster_id": 1,
+        "number_of_facts": 11,
+        "facts": [
+            {
+                "merged_id": "1_5",
+                "merged_content": "Singapore's population in 1947 and record low in 1950.",
+                "order_id": 1,
+                "narrative": "In 1947, Singapore's population was recorded, but by 1950, it had reached a record low, marking a significant demographic shift."
+            },
+            {
+                "merged_id": "1_4",
+                "merged_content": "Population decrease in Singapore between 2019 and 2021.",
+                "order_id": 2,
+                "narrative": "Fast forward to recent years, Singapore experienced a population decrease between 2019 and 2021, reflecting ongoing demographic challenges."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "Population changes in Singapore from 2023 to 2024.",
+                "order_id": 3,
+                "narrative": "However, from 2023 to 2024, Singapore's population dynamics began to change, indicating a shift in trends."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "Non-resident population growth in Singapore from 2023 to 2024.",
+                "order_id": 4,
+                "narrative": "During this period, there was notable growth in the non-resident population, contributing to the overall demographic changes."
+            },
+            {
+                "merged_id": "1_6",
+                "merged_content": "Growth in Permanent Residents and Non-Resident population increase.",
+                "order_id": 5,
+                "narrative": "This growth was accompanied by an increase in both Permanent Residents and the non-resident population, highlighting Singapore's diverse demographic landscape."
+            },
+            {
+                "merged_id": "1_0",
+                "merged_content": "The population of Singapore in 2024 and 2025.",
+                "order_id": 6,
+                "narrative": "Looking ahead, the population of Singapore in 2024 and 2025 is projected to reflect these changes, with continued growth expected."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "Proportion of urban and foreign workforce in Singapore.",
+                "order_id": 7,
+                "narrative": "The urban and foreign workforce plays a significant role in this demographic evolution, with a substantial proportion contributing to Singapore's economy."
+            },
+            {
+                "merged_id": "1_8",
+                "merged_content": "Citizen births and Total Fertility Rate in 2022.",
+                "order_id": 8,
+                "narrative": "In 2022, citizen births and the Total Fertility Rate were key factors influencing population trends, although challenges remain."
+            },
+            {
+                "merged_id": "1_9",
+                "merged_content": "Residents in Singapore.",
+                "order_id": 9,
+                "narrative": "The residents of Singapore, both citizens and non-citizens, form a vibrant and diverse community, integral to the nation's identity."
+            },
+            {
+                "merged_id": "1_10",
+                "merged_content": "Chinese population born in Singapore by the late 1890s.",
+                "order_id": 10,
+                "narrative": "Historically, by the late 1890s, a significant Chinese population had been born in Singapore, laying the foundation for its multicultural society."
+            },
+            {
+                "merged_id": "1_7",
+                "merged_content": "Singapore's total land area.",
+                "order_id": 11,
+                "narrative": "All these demographic changes occur within Singapore's limited total land area, presenting unique challenges and opportunities for urban planning."
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "7_4",
+                "merged_content": "Population density change from 1980 to 2023.",
+                "order_id": 1,
+                "narrative": "Since 1980, Singapore has experienced significant changes in population density, reflecting its rapid urban development and economic growth."
+            },
+            {
+                "merged_id": "7_3",
+                "merged_content": "Population increase and proportions in 2023-2024.",
+                "order_id": 2,
+                "narrative": "In 2023-2024, Singapore's population saw a notable increase, with shifts in demographic proportions highlighting evolving societal trends."
+            },
+            {
+                "merged_id": "7_6",
+                "merged_content": "Permanent residents in June 2023.",
+                "order_id": 3,
+                "narrative": "As of June 2023, the number of permanent residents in Singapore contributed to the overall demographic landscape, playing a crucial role in the nation's diversity."
+            },
+            {
+                "merged_id": "7_2",
+                "merged_content": "Non-resident population and increase.",
+                "order_id": 4,
+                "narrative": "The non-resident population in Singapore has also seen an increase, underscoring the city-state's role as a global hub attracting international talent."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "Median age of Singaporeans.",
+                "order_id": 5,
+                "narrative": "The median age of Singaporeans provides insight into the aging population, a key factor in planning for future social and economic policies."
+            },
+            {
+                "merged_id": "7_0",
+                "merged_content": "The population of Singapore in 2024 and 2025.",
+                "order_id": 6,
+                "narrative": "Looking ahead, the population of Singapore in 2024 and 2025 is projected to continue its upward trend, driven by both natural growth and immigration."
+            },
+            {
+                "merged_id": "7_5",
+                "merged_content": "Singapore's population in 2049 and 2050.",
+                "order_id": 7,
+                "narrative": "By 2049 and 2050, Singapore's population is expected to reach new heights, posing challenges and opportunities for sustainable urban planning."
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "number_of_facts": 11,
+        "facts": [
+            {
+                "merged_id": "9_3",
+                "merged_content": "Singapore's resident population in 1950 and 1957.",
+                "order_id": 1,
+                "narrative": "In the early years, Singapore's resident population was recorded in 1950 and 1957, marking the beginning of its demographic journey."
+            },
+            {
+                "merged_id": "9_0",
+                "merged_content": "Singapore's population over the years.",
+                "order_id": 2,
+                "narrative": "Over the decades, Singapore's population has evolved significantly, reflecting its dynamic growth and development."
+            },
+            {
+                "merged_id": "9_1",
+                "merged_content": "Population density changes in Singapore from 1980 to 2023.",
+                "order_id": 3,
+                "narrative": "From 1980 to 2023, Singapore experienced notable changes in population density, highlighting its urban expansion and planning challenges."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "Population growth rates in Singapore from 2022 to 2024.",
+                "order_id": 4,
+                "narrative": "The population growth rates from 2022 to 2024 indicate ongoing demographic shifts and future planning needs."
+            },
+            {
+                "merged_id": "9_6",
+                "merged_content": "Citizen births in Singapore in 2022.",
+                "order_id": 5,
+                "narrative": "In 2022, the number of citizen births contributed to the natural increase in Singapore's population."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "Yearly deaths in Singapore.",
+                "order_id": 6,
+                "narrative": "Yearly deaths in Singapore provide insight into the population's health and longevity trends."
+            },
+            {
+                "merged_id": "9_5",
+                "merged_content": "Crude death rate in Singapore.",
+                "order_id": 7,
+                "narrative": "The crude death rate offers a measure of mortality within the population, essential for demographic analysis."
+            },
+            {
+                "merged_id": "9_7",
+                "merged_content": "Proportion of men per 1000 women in Singapore.",
+                "order_id": 8,
+                "narrative": "The gender ratio, with the proportion of men per 1000 women, reflects the demographic balance in Singapore."
+            },
+            {
+                "merged_id": "9_9",
+                "merged_content": "Proportion of foreign workforce in non-resident population.",
+                "order_id": 9,
+                "narrative": "A significant aspect of Singapore's demographic is the proportion of the foreign workforce within the non-resident population."
+            },
+            {
+                "merged_id": "9_10",
+                "merged_content": "Citizen approvals from Asia in 2022.",
+                "order_id": 10,
+                "narrative": "In 2022, citizen approvals from Asia played a role in shaping the cultural and demographic landscape."
+            },
+            {
+                "merged_id": "9_8",
+                "merged_content": "Monthly earnings of the Singapore population in June 2024.",
+                "order_id": 11,
+                "narrative": "By June 2024, the monthly earnings of the population reflect the economic conditions and living standards in Singapore."
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "number_of_facts": 16,
+        "facts": [
+            {
+                "merged_id": "6_15",
+                "merged_content": "There were 1,925 Bugis in Singapore in January 1824.",
+                "order_id": 1,
+                "narrative": "In January 1824, Singapore was home to 1,925 Bugis, marking the early stages of its population development."
+            },
+            {
+                "merged_id": "6_5",
+                "merged_content": "The all-time high population for Singapore is projected to be 8,609,518 in 2050. The record low population for Singapore was 1,022,100 in 1950.",
+                "order_id": 2,
+                "narrative": "From a record low of 1,022,100 in 1950, Singapore's population is projected to reach an all-time high of 8,609,518 by 2050."
+            },
+            {
+                "merged_id": "6_13",
+                "merged_content": "The average annual growth rate was 4.4% from 1947 to 1957.",
+                "order_id": 3,
+                "narrative": "Between 1947 and 1957, Singapore experienced a robust average annual growth rate of 4.4%."
+            },
+            {
+                "merged_id": "6_11",
+                "merged_content": "315,400 population increase in the 1970\u20131980 period was due to natural increase. Net migration increased to nearly 200,000 in the 1980\u20131990 period. Net migrant number of over 600,000 in the 1990\u20132000 period.",
+                "order_id": 4,
+                "narrative": "Natural increase drove a 315,400 population rise from 1970 to 1980, while net migration surged to nearly 200,000 in the 1980s and over 600,000 in the 1990s."
+            },
+            {
+                "merged_id": "6_12",
+                "merged_content": "Net migration accounted for nearly two-thirds of the population increase in the 1990\u20132000 period.",
+                "order_id": 5,
+                "narrative": "During the 1990s, net migration was responsible for nearly two-thirds of Singapore's population growth."
+            },
+            {
+                "merged_id": "6_0",
+                "merged_content": "The median age of Singaporeans increased from 34.1 years in 2000 to an estimated 42.4 by 2020.",
+                "order_id": 6,
+                "narrative": "The median age of Singaporeans rose significantly from 34.1 years in 2000 to an estimated 42.4 years by 2020, reflecting an aging population."
+            },
+            {
+                "merged_id": "6_14",
+                "merged_content": "Non-residents were 25.7% of the population in 2010.",
+                "order_id": 7,
+                "narrative": "In 2010, non-residents made up 25.7% of Singapore's population, highlighting the city's diverse demographic."
+            },
+            {
+                "merged_id": "6_3",
+                "merged_content": "Work permit holders contribute 44 per cent of non-resident population. One-third of the non-resident population comprises mainly migrant domestic workers, dependants and students.",
+                "order_id": 8,
+                "narrative": "Work permit holders form 44% of the non-resident population, with a third being migrant domestic workers, dependants, and students."
+            },
+            {
+                "merged_id": "6_6",
+                "merged_content": "Annualised population growth rate of 1.1 per cent over the last five years was slightly higher than the 0.8 per cent over the preceding five-year period. Annualised population growth rate was 1.1 per cent over the past five years.",
+                "order_id": 9,
+                "narrative": "The annualised population growth rate increased to 1.1% over the past five years, up from 0.8% in the previous period."
+            },
+            {
+                "merged_id": "6_10",
+                "merged_content": "1.6% growth in Singapore Citizens from June 2022 to June 2023.",
+                "order_id": 10,
+                "narrative": "From June 2022 to June 2023, the population of Singaporean citizens grew by 1.6%."
+            },
+            {
+                "merged_id": "6_7",
+                "merged_content": "Citizen population increased by 0.7% from 3.61 million to 3.64 million between June 2023 and June 2024. Citizen population rose from 3.61 million in June 2023 to 3.64 million in June 2024.",
+                "order_id": 11,
+                "narrative": "Between June 2023 and June 2024, the citizen population increased by 0.7%, from 3.61 million to 3.64 million."
+            },
+            {
+                "merged_id": "6_9",
+                "merged_content": "Permanent resident population grew by 1.2 per cent from June 2023 to June 2024.",
+                "order_id": 12,
+                "narrative": "The permanent resident population saw a 1.2% growth from June 2023 to June 2024."
+            },
+            {
+                "merged_id": "6_8",
+                "merged_content": "The Singapore population was 5.9 million people in Jun 2023. 5.92 million total population of Singapore as of June 2023. Singapore\u2019s total population stood at 6.04 million as at June 2024.",
+                "order_id": 13,
+                "narrative": "Singapore's total population grew from 5.9 million in June 2023 to 6.04 million by June 2024."
+            },
+            {
+                "merged_id": "6_4",
+                "merged_content": "Migration increases population by 29,844 people yearly. The average annual number of citizen marriages in the last five years is 22,700.",
+                "order_id": 14,
+                "narrative": "Migration contributes an annual increase of 29,844 people, while there are 22,700 citizen marriages on average each year."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "The Population of Singapore attained a value of 6,036,860 people in 2024. Singapore\u2019s total population has exceeded six million.",
+                "order_id": 15,
+                "narrative": "In 2024, Singapore's population surpassed six million, reaching 6,036,860 people."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "The population growth rate in 2025 is projected at 0.63 percent.",
+                "order_id": 16,
+                "narrative": "Looking ahead, Singapore's population growth rate is projected to be 0.63% in 2025."
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "number_of_facts": 4,
+        "facts": [
+            {
+                "merged_id": "8_0",
+                "merged_content": "The total population of Singapore from 2019 to 2050 is projected to grow from 5 million in 2019 to 8.61 million in 2050. In June 2023, the population was 5.9 million, and it is estimated to be 6.04 million in 2024.",
+                "order_id": 1,
+                "narrative": "Singapore's population is on a steady rise, projected to grow from 5 million in 2019 to 8.61 million by 2050. As of June 2023, the population stood at 5.9 million, with an estimate of reaching 6.04 million in 2024."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "In June 2023, Singapore had 3.61 million citizens, a 1.6% increase from June 2022, and 0.54 million permanent residents, a 3.7% increase.",
+                "order_id": 2,
+                "narrative": "In June 2023, Singapore's citizen count reached 3.61 million, marking a 1.6% increase from the previous year, while the number of permanent residents rose by 3.7% to 0.54 million."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "Singapore records 49,414 births annually, with new birth cohorts ranging from 35,000 to 40,000.",
+                "order_id": 3,
+                "narrative": "Annually, Singapore records 49,414 births, with new birth cohorts typically ranging between 35,000 and 40,000."
+            },
+            {
+                "merged_id": "8_3",
+                "merged_content": "Singapore's fertility rate was 1.4 in 1986, 1.65 for Chinese in 1990, and in 2022, the TFR was 1.04, with Chinese at 0.87 and Indian at 1.01.",
+                "order_id": 4,
+                "narrative": "Despite the population growth, Singapore's fertility rate has declined over the years, with a total fertility rate of 1.04 in 2022, and specific rates of 0.87 for Chinese and 1.01 for Indian communities."
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "number_of_facts": 8,
+        "facts": [
+            {
+                "merged_id": "4_5",
+                "merged_content": "Singapore experienced its highest birth rate in 1957 at 42.7 per thousand individuals.",
+                "order_id": 1,
+                "narrative": "In 1957, Singapore witnessed its highest birth rate, with 42.7 births per thousand individuals, marking a significant demographic milestone."
+            },
+            {
+                "merged_id": "4_4",
+                "merged_content": "Annualised population growth rate was 1.1 per cent over the past five years. Population growth was stable, ranging from 1.3% to 1.9% per annum during the second phase (1970s to mid-1980s).",
+                "order_id": 2,
+                "narrative": "From the 1970s to the mid-1980s, Singapore's population growth was stable, ranging from 1.3% to 1.9% annually, and in recent years, the growth rate has been 1.1%."
+            },
+            {
+                "merged_id": "4_6",
+                "merged_content": "The number of non-residents grew from 30,900 in 1970 to 797,900 in 2005. Non-residents were 18.3% of the population in 2005.",
+                "order_id": 3,
+                "narrative": "The non-resident population in Singapore expanded significantly from 30,900 in 1970 to 797,900 in 2005, making up 18.3% of the total population."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "One-third of the NR population comprises mainly migrant domestic workers, dependants, and students.",
+                "order_id": 4,
+                "narrative": "A significant portion of Singapore's non-resident population consists of migrant domestic workers, dependants, and students, accounting for one-third of this group."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "1.77 million non-residents as of June 2023. Singapore\u2019s total population rose by 2 per cent from June 2023 to June 2024, reaching 6.04 million.",
+                "order_id": 5,
+                "narrative": "By June 2023, Singapore's non-resident population reached 1.77 million, contributing to a 2% increase in the total population, which hit 6.04 million by June 2024."
+            },
+            {
+                "merged_id": "4_0",
+                "merged_content": "The population of Singapore is projected at 5.83 million in 2024. The data reached an all-time high of 6.0 million people in Jun 2024.",
+                "order_id": 6,
+                "narrative": "In 2024, Singapore's population was projected at 5.83 million, but it reached an all-time high of 6.0 million by June."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "The 2025 population density in Singapore is 21,722 people per mi2.",
+                "order_id": 7,
+                "narrative": "By 2025, Singapore's population density is expected to be 21,722 people per square mile, reflecting its status as one of the most densely populated areas."
+            },
+            {
+                "merged_id": "4_7",
+                "merged_content": "The TFR for Indians was 0.97 in 2020.",
+                "order_id": 8,
+                "narrative": "In 2020, the Total Fertility Rate (TFR) for Indians in Singapore was notably low at 0.97, indicating demographic challenges within this community."
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "number_of_facts": 11,
+        "facts": [
+            {
+                "merged_id": "3_9",
+                "merged_content": "Net migration impact on population increase in Singapore from 1970 to 1980.",
+                "order_id": 1,
+                "narrative": "Between 1970 and 1980, Singapore experienced a significant population increase driven by net migration, setting the stage for future demographic trends."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Population density changes in Singapore from 1980 to 2023.",
+                "order_id": 2,
+                "narrative": "From 1980 to 2023, Singapore's population density has evolved, reflecting the nation's urban development and demographic shifts."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "TFR increase post-1987 policy in Singapore.",
+                "order_id": 3,
+                "narrative": "Following the implementation of policies in 1987, Singapore saw an increase in the Total Fertility Rate (TFR), indicating a shift in family planning dynamics."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "Average annual citizen marriages in Singapore.",
+                "order_id": 4,
+                "narrative": "The average annual number of citizen marriages in Singapore provides insight into the social fabric and family formation trends within the country."
+            },
+            {
+                "merged_id": "3_0",
+                "merged_content": "The population growth rate and non-resident population increase in Singapore.",
+                "order_id": 5,
+                "narrative": "Singapore's population growth rate is influenced by both natural increase and a rising non-resident population, highlighting the city's global appeal."
+            },
+            {
+                "merged_id": "3_5",
+                "merged_content": "Non-resident population increase in Singapore from 2022 to 2023.",
+                "order_id": 6,
+                "narrative": "From 2022 to 2023, Singapore saw a notable increase in its non-resident population, underscoring its role as a hub for international talent."
+            },
+            {
+                "merged_id": "3_6",
+                "merged_content": "Permanent Resident approvals in Singapore in 2022.",
+                "order_id": 7,
+                "narrative": "In 2022, Singapore granted a significant number of Permanent Resident approvals, reflecting its strategic immigration policies."
+            },
+            {
+                "merged_id": "3_7",
+                "merged_content": "PR approvals from Asia in 2022.",
+                "order_id": 8,
+                "narrative": "A substantial portion of Permanent Resident approvals in 2022 were from Asia, highlighting regional migration patterns."
+            },
+            {
+                "merged_id": "3_8",
+                "merged_content": "Approval rate increase for citizenship and PRs in Singapore.",
+                "order_id": 9,
+                "narrative": "There has been an increase in approval rates for citizenship and Permanent Residency in Singapore, indicating a welcoming stance towards immigrants."
+            },
+            {
+                "merged_id": "3_10",
+                "merged_content": "Current number of permanent residents in Singapore.",
+                "order_id": 10,
+                "narrative": "The current number of permanent residents in Singapore reflects the country's diverse and multicultural population."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "Population projections for Singapore in 2026 and 2030.",
+                "order_id": 11,
+                "narrative": "Looking ahead, population projections for 2026 and 2030 suggest continued growth, driven by both natural increase and immigration."
+            }
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "10_6",
+                "merged_content": "High population growth between 3% and 6% per annum from the late 1940s to the mid-1960s. 1% of the growth rate from 1947 to 1957 was due to immigration.",
+                "order_id": 1,
+                "narrative": "Singapore experienced rapid population growth between the late 1940s and mid-1960s, with annual increases ranging from 3% to 6%. Notably, 1% of this growth from 1947 to 1957 was attributed to immigration."
+            },
+            {
+                "merged_id": "10_5",
+                "merged_content": "Singapore's resident population grew to 3.7 million in 2009.",
+                "order_id": 2,
+                "narrative": "By 2009, Singapore's resident population had expanded to 3.7 million, reflecting the city's ongoing demographic changes."
+            },
+            {
+                "merged_id": "10_4",
+                "merged_content": "Annualised population growth rate of 1.1% over the past five years was higher than the 0.8% between 2014 and 2019. There was a 5.0% increase in Singapore's total population from June 2022.",
+                "order_id": 3,
+                "narrative": "In recent years, Singapore's population growth has accelerated, with an annualised rate of 1.1% over the past five years, surpassing the 0.8% rate from 2014 to 2019. This includes a notable 5% increase in total population since June 2022."
+            },
+            {
+                "merged_id": "10_3",
+                "merged_content": "Permanent resident population grew from 538,600 to 544,900 from June 2023 to June 2024.",
+                "order_id": 4,
+                "narrative": "Between June 2023 and June 2024, the number of permanent residents in Singapore increased from 538,600 to 544,900, indicating a steady rise in this demographic."
+            },
+            {
+                "merged_id": "10_2",
+                "merged_content": "The average population of Singapore from 1950 to 2050 is 4,063,333. Singapore's total population stood at 6.04 million as at June 2024.",
+                "order_id": 5,
+                "narrative": "As of June 2024, Singapore's total population reached 6.04 million, with the average population from 1950 to 2050 estimated at 4,063,333, highlighting significant growth over the decades."
+            },
+            {
+                "merged_id": "10_0",
+                "merged_content": "The 2025 population density in Singapore is 8,387 people per Km2.",
+                "order_id": 6,
+                "narrative": "By 2025, Singapore's population density is projected to be 8,387 people per square kilometer, underscoring the city's high level of urbanization."
+            },
+            {
+                "merged_id": "10_1",
+                "merged_content": "62.4% of population (3,798,942) is between age 20 and 64. Non-residents make up 29% of the overall population.",
+                "order_id": 7,
+                "narrative": "In Singapore, 62.4% of the population, or approximately 3,798,942 people, are aged between 20 and 64, while non-residents constitute 29% of the total population, reflecting a diverse and dynamic demographic landscape."
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "number_of_facts": 9,
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "The demographics of Singapore in January 1824.",
+                "order_id": 1,
+                "narrative": "In January 1824, Singapore's demographics began to take shape, setting the stage for its future as a diverse city-state."
+            },
+            {
+                "merged_id": "5_4",
+                "merged_content": "Population distribution in 1826 by gender and ethnicity.",
+                "order_id": 2,
+                "narrative": "By 1826, the population distribution in Singapore was recorded, highlighting the gender and ethnic composition of its early inhabitants."
+            },
+            {
+                "merged_id": "5_6",
+                "merged_content": "The demographics of Singapore in 1836.",
+                "order_id": 3,
+                "narrative": "A decade later, in 1836, Singapore's demographics continued to evolve, reflecting changes in its growing population."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "Ethnic composition of citizens and permanent residents.",
+                "order_id": 4,
+                "narrative": "Today, Singapore's ethnic composition of citizens and permanent residents showcases its multicultural identity."
+            },
+            {
+                "merged_id": "5_5",
+                "merged_content": "Proportion of foreign origin population in mid-2010s.",
+                "order_id": 5,
+                "narrative": "In the mid-2010s, a significant proportion of Singapore's population was of foreign origin, underscoring its role as a global hub."
+            },
+            {
+                "merged_id": "5_8",
+                "merged_content": "Demographics of Singapore's women population.",
+                "order_id": 6,
+                "narrative": "The demographics of Singapore's women population reveal important insights into gender dynamics within the city-state."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "TFR of Malays over the years.",
+                "order_id": 7,
+                "narrative": "The Total Fertility Rate (TFR) of Malays has varied over the years, reflecting broader demographic trends."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "TFR of different ethnic groups in 1990.",
+                "order_id": 8,
+                "narrative": "In 1990, the TFR of different ethnic groups in Singapore highlighted distinct reproductive patterns among its diverse communities."
+            },
+            {
+                "merged_id": "5_7",
+                "merged_content": "TFR of Chinese in 2020.",
+                "order_id": 9,
+                "narrative": "By 2020, the TFR of the Chinese population in Singapore provided a snapshot of contemporary demographic challenges."
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "number_of_facts": 11,
+        "facts": [
+            {
+                "merged_id": "2_6",
+                "merged_content": "There were 4,580 Malays in Singapore in January 1824.",
+                "order_id": 1,
+                "narrative": "In January 1824, Singapore's population included 4,580 Malays, marking the early demographic composition of the island."
+            },
+            {
+                "merged_id": "2_7",
+                "merged_content": "45.9% of the population were Chinese in 1836.",
+                "order_id": 2,
+                "narrative": "By 1836, the Chinese community had grown to represent 45.9% of Singapore's population, highlighting a significant demographic shift."
+            },
+            {
+                "merged_id": "2_10",
+                "merged_content": "In 1901, there were 130,367 Chinese males compared to 33,674 Chinese females.",
+                "order_id": 3,
+                "narrative": "In 1901, the gender imbalance within the Chinese population was stark, with 130,367 males to 33,674 females."
+            },
+            {
+                "merged_id": "2_5",
+                "merged_content": "664,083 net migration recorded in the 2000\u20132010 period.",
+                "order_id": 4,
+                "narrative": "Between 2000 and 2010, Singapore experienced a net migration of 664,083, contributing significantly to its population growth."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "Singapore's total population including foreigners with permits was 5.0 million in 2009. 3.64 million are citizens in Singapore. 1.86 million are non-residents in Singapore.",
+                "order_id": 5,
+                "narrative": "In 2009, Singapore's population reached 5.0 million, with 3.64 million citizens and 1.86 million non-residents."
+            },
+            {
+                "merged_id": "2_4",
+                "merged_content": "The elderly (65 and above) constituted 9.9% of Singapore's population in 2012.",
+                "order_id": 6,
+                "narrative": "By 2012, the elderly made up 9.9% of Singapore's population, reflecting an aging demographic."
+            },
+            {
+                "merged_id": "2_2",
+                "merged_content": "Fertility reached replacement level in 1975. Fertility is below 1.3. The lowest recorded TFR for the Indian population was 1.01 in 2022. Singapore total fertility rate (TFR) was 1.20 in 2012.",
+                "order_id": 7,
+                "narrative": "Singapore's fertility rate, which reached replacement level in 1975, has since declined, with a TFR of 1.20 in 2012 and a record low of 1.01 for Indians in 2022."
+            },
+            {
+                "merged_id": "2_3",
+                "merged_content": "Ethnic Chinese had a fertility of 1.07 in 2004. TFR for Indians was 1.30 in 2004.",
+                "order_id": 8,
+                "narrative": "In 2004, the fertility rates for ethnic Chinese and Indians were 1.07 and 1.30, respectively, indicating low birth rates across ethnic groups."
+            },
+            {
+                "merged_id": "2_9",
+                "merged_content": "The resident total fertility rate (TFR) was 1.10 in 2020.",
+                "order_id": 9,
+                "narrative": "By 2020, the resident total fertility rate had further declined to 1.10, underscoring ongoing demographic challenges."
+            },
+            {
+                "merged_id": "2_8",
+                "merged_content": "The total population growth rate was -0.3% in 2020.",
+                "order_id": 10,
+                "narrative": "In 2020, Singapore's population growth rate turned negative at -0.3%, a rare occurrence in its demographic history."
+            },
+            {
+                "merged_id": "2_0",
+                "merged_content": "Foreign workers in non-CMP sectors saw an 8.8% increase year on year. Approvals for PRs aged 31+ increased by 15.6%. The approval rate for citizens aged 40+ increased by 26.2% in 2022 compared to the previous year.",
+                "order_id": 11,
+                "narrative": "In 2022, foreign workers in non-CMP sectors increased by 8.8%, while approvals for PRs aged 31+ and citizens aged 40+ rose by 15.6% and 26.2%, respectively."
+            }
+        ]
+    }
+]

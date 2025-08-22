@@ -1,0 +1,20 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Federal agencies cancelled more than $17.5 million in funding across TC\u2019s education, health and psychology projects, including grant termination letters by the U.S. Department of Education on March 7. Additional cancellation notices for an NIH grant, two F31 student fellowships, and two Fulbright-Hays awards were issued later in March. Since then, College leadership and faculty have investigated the full scope and impact of the federal grant cuts as outlined below.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Federal agencies cancelled more than $17.5 million in funding.",
+                    "vis_data": [
+                        {
+                            "label": "Cancelled Funding",
+                            "value": "18",
+                            "unit": "million USD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

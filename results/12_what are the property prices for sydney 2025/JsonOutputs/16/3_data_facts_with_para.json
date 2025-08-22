@@ -1,0 +1,51 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Greater Sydney's property market remains one of the most expensive in Australia, with a median house price of$1,496,985and a median unit price of$863,257. Combined, the city's median dwelling price sits at$1,210,222.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price is $1,496,985."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median unit price is $863,257."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median dwelling price is $1,210,222."
+                }
+            ]
+        },
+        {
+            "paragraph": "While this reflects a0.6% increasecompared to June 2025, Sydney property values have seen a56.7% increaseover the past decade.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "0.6% increase compared to June 2025."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "56.7% increase over the past decade."
+                }
+            ]
+        },
+        {
+            "paragraph": "Among the suburbs experiencing the fastest price growth in the past 12 months areSt Marys (+8.4%),Richmond - Windsor (+6.7%), andFairfield (+6.5%).",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "St Marys experienced an 8.4% price growth in the past 12 months."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Richmond - Windsor experienced a 6.7% price growth in the past 12 months."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Fairfield experienced a 6.5% price growth in the past 12 months."
+                }
+            ]
+        }
+    ]
+}

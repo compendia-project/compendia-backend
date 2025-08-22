@@ -1,0 +1,401 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The updated data on South Korea shows that the country\u2019s total fertility rate (TFR) in 2024 is an estimated 0.68.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "South Korea's total fertility rate (TFR) in 2024 is an estimated 0.68.",
+                    "vis_data": [
+                        {
+                            "label": "TFR South Korea 2024",
+                            "value": "0.68",
+                            "unit": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "South Korea\u2019s ultra-low level of fertility represents a 43% decline over 10 years from an already low level of 1.2 in 2014 (Figure 1).",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "South Korea's fertility rate declined by 43% over 10 years from 1.2 in 2014.",
+                    "vis_data": [
+                        {
+                            "label": "Fertility Rate Decline",
+                            "value": "43",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "South Korea\u2019s population has been declining since 2020, but it is still more populous than it was a few decades ago. Its 2024 population is still 19% larger than in 1990.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "South Korea's 2024 population is 19% larger than in 1990.",
+                    "vis_data": [
+                        {
+                            "label": "Population Increase 1990-2024",
+                            "value": "19",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In 1990, about 2.2 million people (about 5% of the population) were age 65 or older. Thirty-four years later, that number has swelled to 10.2 million (20% of the population).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 1990, about 2.2 million people (5% of the population) in South Korea were age 65 or older.",
+                    "vis_data": [
+                        {
+                            "label": "65+ Population 1990",
+                            "value": "2.2",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 2024, about 10.2 million people (20% of the population) in South Korea are age 65 or older.",
+                    "vis_data": [
+                        {
+                            "label": "65+ Population 2024",
+                            "value": "10.2",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "And it\u2019s projected that people age 65 and over will make up 50% of South Korea\u2019s population by 2062.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "People age 65 and over will make up 50% of South Korea's population by 2062.",
+                    "vis_data": [
+                        {
+                            "label": "65+ Population 2062",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Canada has had decades of high immigration. In 2024, the rate of net migration is 6.1 per thousand, meaning that about another six people are added to the population via migration for every 1,000 people in the population.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 2024, Canada's rate of net migration is 6.1 per thousand.",
+                    "vis_data": [
+                        {
+                            "label": "Net Migration Rate 2024",
+                            "value": "6.1",
+                            "unit": "per thousand"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Between 1991 and 2024, Canada\u2019s level of net migration fluctuated between 4 and 8 per thousand.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Between 1991 and 2024, Canada's net migration fluctuated between 4 and 8 per thousand.",
+                    "vis_data": [
+                        {
+                            "label": "Net Migration Range",
+                            "value": "4-8",
+                            "unit": "per thousand"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The cumulative effect of decades of high immigration means that approximately 1 in 4 (23%) people in Canada in 2021 were immigrants, according to Statistics Canada.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "23% of people in Canada in 2021 were immigrants.",
+                    "vis_data": [
+                        {
+                            "label": "Immigrants in Canada 2021",
+                            "value": "23",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Despite decades of low fertility, Canada\u2019s population has been growing due to migration and an increase in the population age 65 and older, which more than doubled from about 3.2 million in 1991 to 8.2 million in 2024.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Canada's population age 65 and older more than doubled from 3.2 million in 1991 to 8.2 million in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "65+ Population Growth",
+                            "value": "3.2-8.2",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The median age in 1991 was 33 (half the population was younger and half older). The median age today is 43.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age in Canada in 1991 was 33.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age 1991",
+                            "value": "33",
+                            "unit": "years"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age in Canada today is 43.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age 2024",
+                            "value": "43",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The median age is projected to be 53 in 2077 when Canada\u2019s population is projected to start declining.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age in Canada is projected to be 53 in 2077.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age 2077",
+                            "value": "53",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "An economic crisis sparked a massive outflow of people from Cuba in 2021. We estimate that Cuba lost approximately 7% of its population due to emigration between 2021 and 2023.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Cuba lost approximately 7% of its population due to emigration between 2021 and 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Population Loss 2021-2023",
+                            "value": "7",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "As recently as the 1980s, people ages 0-14 outnumbered people age 65 and older by more than 3 to 1. Today, there are slightly more people age 65 and older than there are people ages 14 and younger.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "In the 1980s, people ages 0-14 outnumbered people age 65 and older by more than 3 to 1 in Cuba.",
+                    "vis_data": [
+                        {
+                            "label": "0-14 vs 65+ Ratio 1980s",
+                            "value": "3:1",
+                            "unit": ""
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Today, there are slightly more people age 65 and older than people ages 14 and younger in Cuba.",
+                    "vis_data": [
+                        {
+                            "label": "65+ vs 0-14 Ratio Today",
+                            "value": "1:1",
+                            "unit": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "By 2100, we project there will be almost four people age 65 and older for every person age 14 and younger.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "By 2100, there will be almost four people age 65 and older for every person age 14 and younger in Cuba.",
+                    "vis_data": [
+                        {
+                            "label": "65+ vs 0-14 Ratio 2100",
+                            "value": "4:1",
+                            "unit": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "C\u00f4te d\u2019Ivoire\u2019s TFR in 2024 is estimated at 3.9, which is higher than was previously projected.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "C\u00f4te d\u2019Ivoire's TFR in 2024 is estimated at 3.9.",
+                    "vis_data": [
+                        {
+                            "label": "TFR C\u00f4te d\u2019Ivoire 2024",
+                            "value": "3.9",
+                            "unit": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "C\u00f4te d\u2019Ivoire\u2019s high level of fertility in 2024 shows a more gradual decline from very high levels of fertility, down 48% over the last 49 years from a TFR of 7.6 in 1975 to 3.9 in 2024.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "C\u00f4te d\u2019Ivoire's fertility rate declined by 48% from 7.6 in 1975 to 3.9 in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Fertility Rate Decline",
+                            "value": "48",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "C\u00f4te d\u2019Ivoire also has high infant mortality. The 2024 estimate was 53 infant deaths per every 1,000 live births.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "C\u00f4te d\u2019Ivoire's infant mortality rate in 2024 is 53 per 1,000 live births.",
+                    "vis_data": [
+                        {
+                            "label": "Infant Mortality Rate 2024",
+                            "value": "53",
+                            "unit": "per 1,000 live births"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The 2024 estimate for the life expectancy at birth was 63.5 years compared to 84.7 in South Korea, 83.9 in Canada and 78.4 in Cuba.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "C\u00f4te d\u2019Ivoire's life expectancy at birth in 2024 is 63.5 years.",
+                    "vis_data": [
+                        {
+                            "label": "Life Expectancy C\u00f4te d\u2019Ivoire 2024",
+                            "value": "63.5",
+                            "unit": "years"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "South Korea's life expectancy at birth in 2024 is 84.7 years.",
+                    "vis_data": [
+                        {
+                            "label": "Life Expectancy South Korea 2024",
+                            "value": "84.7",
+                            "unit": "years"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Canada's life expectancy at birth in 2024 is 83.9 years.",
+                    "vis_data": [
+                        {
+                            "label": "Life Expectancy Canada 2024",
+                            "value": "83.9",
+                            "unit": "years"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cuba's life expectancy at birth in 2024 is 78.4 years.",
+                    "vis_data": [
+                        {
+                            "label": "Life Expectancy Cuba 2024",
+                            "value": "78.4",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Life expectancy at birth increased by 14.4 years from 49.2 in 2000 to 63.5 in 2024. This represents an average increase of more than half a year every year since 2000.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Life expectancy at birth in C\u00f4te d\u2019Ivoire increased by 14.4 years from 49.2 in 2000 to 63.5 in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Life Expectancy Increase",
+                            "value": "14.4",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In combination with high fertility and declining mortality, C\u00f4te d\u2019Ivoire\u2019s population is growing. Its population doubled from 1998 to 31 million people in 2024 and we project it will double again over the next 38 years to 62 million by 2062.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "C\u00f4te d\u2019Ivoire's population doubled from 1998 to 31 million in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population 1998-2024",
+                            "value": "31",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "C\u00f4te d\u2019Ivoire's population is projected to double again to 62 million by 2062.",
+                    "vis_data": [
+                        {
+                            "label": "Projected Population 2062",
+                            "value": "62",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

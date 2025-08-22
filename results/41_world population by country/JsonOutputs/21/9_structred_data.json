@@ -1,0 +1,302 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "At the global scale, the world population density map highlights the immense concentration of humanity in India and China. Both countries have a population of 1.4 billion, with India set to move ahead of China and reach 1.5 billion by 2030. While India has many of the world's largest cities, it retains a huge rural population of around 900 million people.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "India has a population of 1.4 billion.",
+                    "vis_data": [
+                        {
+                            "label": "India Population",
+                            "value": "1400000000",
+                            "unit": "people"
+                        }
+                    ],
+                    "fact_id": "21_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China has a population of 1.4 billion.",
+                    "vis_data": [
+                        {
+                            "label": "China Population",
+                            "value": "1400000000",
+                            "unit": "people"
+                        }
+                    ],
+                    "fact_id": "21_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "India is set to reach a population of 1.5 billion by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "India Population 2030",
+                            "value": "1500000000",
+                            "unit": "people"
+                        }
+                    ],
+                    "fact_id": "21_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "India retains a huge rural population of around 900 million people.",
+                    "vis_data": [
+                        {
+                            "label": "India Rural Population",
+                            "value": "900000000",
+                            "unit": "people"
+                        }
+                    ],
+                    "fact_id": "21_0_3"
+                }
+            ],
+            "relatedness_score": 0.5673276430445313,
+            "article_meta_data": {
+                "title": "World Population Density Interactive Map",
+                "date": "Unknown",
+                "url": "https://luminocity3d.org/WorldPopDen/",
+                "id": 21
+            },
+            "para_id": "21_0"
+        },
+        {
+            "paragraph": "This website has received 500,000 visitors since 2020, illustrating the widespread interest in global population geography. Some introductory highlights from the data are discussed below with links for further information.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "This website has received 500,000 visitors since 2020.",
+                    "vis_data": [
+                        {
+                            "label": "Website Visitors",
+                            "value": "500000",
+                            "unit": "visitors"
+                        }
+                    ],
+                    "fact_id": "21_1_4"
+                }
+            ],
+            "relatedness_score": 0.4374909940850341,
+            "article_meta_data": {
+                "title": "World Population Density Interactive Map",
+                "date": "Unknown",
+                "url": "https://luminocity3d.org/WorldPopDen/",
+                "id": 21
+            },
+            "para_id": "21_1"
+        },
+        {
+            "paragraph": "The Population Weighted Density statistic summarises this chart, measuring 2.2k pp/km2 (persons per square km) for 2020. This is the lowest recorded density of any large developed country. Small countries such as Norway and New Zealand have similar Population Weighted Density results to the USA.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Population Weighted Density for the USA is 2.2k pp/km2 for 2020.",
+                    "vis_data": [
+                        {
+                            "label": "USA Population Weighted Density",
+                            "value": "2200",
+                            "unit": "pp/km2"
+                        }
+                    ],
+                    "fact_id": "21_2_5"
+                }
+            ],
+            "relatedness_score": 0.41266903540036304,
+            "article_meta_data": {
+                "title": "World Population Density Interactive Map",
+                "date": "Unknown",
+                "url": "https://luminocity3d.org/WorldPopDen/",
+                "id": 21
+            },
+            "para_id": "21_2"
+        },
+        {
+            "paragraph": "Latin America has for geographical and cultural reasons much higher population densities than the USA. Mexico has more than twice the Population Weighted Density at 5.7k pp/km2, while Colombia's is one of the highest in the world at 13.5k pp/km2, as the Colombian population is strongly concentrated in high density cities, such as Bogot\u00e1 and Medell\u00edn.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Mexico has more than twice the Population Weighted Density of the USA at 5.7k pp/km2.",
+                    "vis_data": [
+                        {
+                            "label": "Mexico Population Weighted Density",
+                            "value": "5700",
+                            "unit": "pp/km2"
+                        }
+                    ],
+                    "fact_id": "21_3_6"
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Colombia's Population Weighted Density is one of the highest in the world at 13.5k pp/km2.",
+                    "vis_data": [
+                        {
+                            "label": "Colombia Population Weighted Density",
+                            "value": "13500",
+                            "unit": "pp/km2"
+                        }
+                    ],
+                    "fact_id": "21_3_7"
+                }
+            ],
+            "relatedness_score": 0.37581616039078747,
+            "article_meta_data": {
+                "title": "World Population Density Interactive Map",
+                "date": "Unknown",
+                "url": "https://luminocity3d.org/WorldPopDen/",
+                "id": 21
+            },
+            "para_id": "21_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "21_0",
+            "paragraph": "At the global scale, the world population density map highlights the immense concentration of humanity in India and China. Both countries have a population of 1.4 billion, with India set to move ahead of China and reach 1.5 billion by 2030. While India has many of the world's largest cities, it retains a huge rural population of around 900 million people."
+        },
+        {
+            "para_id": "21_1",
+            "paragraph": "This website has received 500,000 visitors since 2020, illustrating the widespread interest in global population geography. Some introductory highlights from the data are discussed below with links for further information."
+        },
+        {
+            "para_id": "21_2",
+            "paragraph": "The Population Weighted Density statistic summarises this chart, measuring 2.2k pp/km2 (persons per square km) for 2020. This is the lowest recorded density of any large developed country. Small countries such as Norway and New Zealand have similar Population Weighted Density results to the USA."
+        },
+        {
+            "para_id": "21_3",
+            "paragraph": "Latin America has for geographical and cultural reasons much higher population densities than the USA. Mexico has more than twice the Population Weighted Density at 5.7k pp/km2, while Colombia's is one of the highest in the world at 13.5k pp/km2, as the Colombian population is strongly concentrated in high density cities, such as Bogot\u00e1 and Medell\u00edn."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "21_0_0",
+            "fact_content": "India has a population of 1.4 billion."
+        },
+        {
+            "fact_id": "21_0_1",
+            "fact_content": "China has a population of 1.4 billion."
+        },
+        {
+            "fact_id": "21_0_2",
+            "fact_content": "India is set to reach a population of 1.5 billion by 2030."
+        },
+        {
+            "fact_id": "21_0_3",
+            "fact_content": "India retains a huge rural population of around 900 million people."
+        },
+        {
+            "fact_id": "21_1_4",
+            "fact_content": "This website has received 500,000 visitors since 2020."
+        },
+        {
+            "fact_id": "21_2_5",
+            "fact_content": "The Population Weighted Density for the USA is 2.2k pp/km2 for 2020."
+        },
+        {
+            "fact_id": "21_3_6",
+            "fact_content": "Mexico has more than twice the Population Weighted Density of the USA at 5.7k pp/km2."
+        },
+        {
+            "fact_id": "21_3_7",
+            "fact_content": "Colombia's Population Weighted Density is one of the highest in the world at 13.5k pp/km2."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "India has a population of 1.4 billion.",
+            "vis_data": [
+                {
+                    "label": "India Population",
+                    "value": "1400000000",
+                    "unit": "people"
+                }
+            ],
+            "fact_id": "21_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "China has a population of 1.4 billion.",
+            "vis_data": [
+                {
+                    "label": "China Population",
+                    "value": "1400000000",
+                    "unit": "people"
+                }
+            ],
+            "fact_id": "21_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "India is set to reach a population of 1.5 billion by 2030.",
+            "vis_data": [
+                {
+                    "label": "India Population 2030",
+                    "value": "1500000000",
+                    "unit": "people"
+                }
+            ],
+            "fact_id": "21_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "India retains a huge rural population of around 900 million people.",
+            "vis_data": [
+                {
+                    "label": "India Rural Population",
+                    "value": "900000000",
+                    "unit": "people"
+                }
+            ],
+            "fact_id": "21_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "This website has received 500,000 visitors since 2020.",
+            "vis_data": [
+                {
+                    "label": "Website Visitors",
+                    "value": "500000",
+                    "unit": "visitors"
+                }
+            ],
+            "fact_id": "21_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Population Weighted Density for the USA is 2.2k pp/km2 for 2020.",
+            "vis_data": [
+                {
+                    "label": "USA Population Weighted Density",
+                    "value": "2200",
+                    "unit": "pp/km2"
+                }
+            ],
+            "fact_id": "21_2_5"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Mexico has more than twice the Population Weighted Density of the USA at 5.7k pp/km2.",
+            "vis_data": [
+                {
+                    "label": "Mexico Population Weighted Density",
+                    "value": "5700",
+                    "unit": "pp/km2"
+                }
+            ],
+            "fact_id": "21_3_6"
+        },
+        {
+            "fact_type": "extreme",
+            "fact_content": "Colombia's Population Weighted Density is one of the highest in the world at 13.5k pp/km2.",
+            "vis_data": [
+                {
+                    "label": "Colombia Population Weighted Density",
+                    "value": "13500",
+                    "unit": "pp/km2"
+                }
+            ],
+            "fact_id": "21_3_7"
+        }
+    ]
+}

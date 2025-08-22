@@ -1,0 +1,195 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "In the following six countries reporting more than 50 cases, 75% or more of the patients were homosexual males: the Netherlands (88%), the United Kingdom (87%), Denmark (86%), Sweden (81%), Norway (79%), and the Federal Republic of Germany (76%).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "88% of the patients were homosexual males in the Netherlands.",
+                    "vis_data": [
+                        {
+                            "label": "Netherlands",
+                            "value": "88",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "87% of the patients were homosexual males in the United Kingdom.",
+                    "vis_data": [
+                        {
+                            "label": "United Kingdom",
+                            "value": "87",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_0_1"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "86% of the patients were homosexual males in Denmark.",
+                    "vis_data": [
+                        {
+                            "label": "Denmark",
+                            "value": "86",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_0_2"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "81% of the patients were homosexual males in Sweden.",
+                    "vis_data": [
+                        {
+                            "label": "Sweden",
+                            "value": "81",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_0_3"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "79% of the patients were homosexual males in Norway.",
+                    "vis_data": [
+                        {
+                            "label": "Norway",
+                            "value": "79",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_0_4"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "76% of the patients were homosexual males in the Federal Republic of Germany.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Republic of Germany",
+                            "value": "76",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_0_5"
+                }
+            ],
+            "relatedness_score": 0.5396573248241033,
+            "article_meta_data": {
+                "title": "Acquired Immunodeficiency Syndrome (AIDS) -- Worldwide",
+                "date": "1988-03-21",
+                "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00000023.htm",
+                "id": 9
+            },
+            "para_id": "9_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "9_0",
+            "paragraph": "In the following six countries reporting more than 50 cases, 75% or more of the patients were homosexual males: the Netherlands (88%), the United Kingdom (87%), Denmark (86%), Sweden (81%), Norway (79%), and the Federal Republic of Germany (76%)."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "88% of the patients were homosexual males in the Netherlands."
+        },
+        {
+            "fact_id": "9_0_1",
+            "fact_content": "87% of the patients were homosexual males in the United Kingdom."
+        },
+        {
+            "fact_id": "9_0_2",
+            "fact_content": "86% of the patients were homosexual males in Denmark."
+        },
+        {
+            "fact_id": "9_0_3",
+            "fact_content": "81% of the patients were homosexual males in Sweden."
+        },
+        {
+            "fact_id": "9_0_4",
+            "fact_content": "79% of the patients were homosexual males in Norway."
+        },
+        {
+            "fact_id": "9_0_5",
+            "fact_content": "76% of the patients were homosexual males in the Federal Republic of Germany."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "88% of the patients were homosexual males in the Netherlands.",
+            "vis_data": [
+                {
+                    "label": "Netherlands",
+                    "value": "88",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "87% of the patients were homosexual males in the United Kingdom.",
+            "vis_data": [
+                {
+                    "label": "United Kingdom",
+                    "value": "87",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_0_1"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "86% of the patients were homosexual males in Denmark.",
+            "vis_data": [
+                {
+                    "label": "Denmark",
+                    "value": "86",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_0_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "81% of the patients were homosexual males in Sweden.",
+            "vis_data": [
+                {
+                    "label": "Sweden",
+                    "value": "81",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_0_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "79% of the patients were homosexual males in Norway.",
+            "vis_data": [
+                {
+                    "label": "Norway",
+                    "value": "79",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_0_4"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "76% of the patients were homosexual males in the Federal Republic of Germany.",
+            "vis_data": [
+                {
+                    "label": "Federal Republic of Germany",
+                    "value": "76",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_0_5"
+        }
+    ]
+}

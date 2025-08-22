@@ -1,0 +1,464 @@
+[
+    {
+        "cluster_id": 1,
+        "number_of_facts": 9,
+        "facts": [
+            {
+                "merged_id": "1_2",
+                "merged_content": "Gold price trends and peaks in recent times.",
+                "order_id": 1,
+                "narrative": "Recent trends in gold prices have shown significant peaks, indicating a volatile yet potentially lucrative market."
+            },
+            {
+                "merged_id": "1_8",
+                "merged_content": "Gold price increase from 2025 start to end.",
+                "order_id": 2,
+                "narrative": "Analysts predict a steady increase in gold prices from the start to the end of 2025, reflecting ongoing market dynamics."
+            },
+            {
+                "merged_id": "1_0",
+                "merged_content": "Gold price predictions for 2025 by various analysts.",
+                "order_id": 3,
+                "narrative": "Various analysts have put forward their predictions for gold prices in 2025, suggesting a range of possible outcomes."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "Gold price potential scenarios based on different conditions.",
+                "order_id": 4,
+                "narrative": "Potential scenarios for gold prices in 2025 depend on various conditions, including economic stability and geopolitical factors."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "Central bank gold buying expectations for 2025.",
+                "order_id": 5,
+                "narrative": "Central banks are expected to continue buying gold in 2025, which could influence market prices significantly."
+            },
+            {
+                "merged_id": "1_5",
+                "merged_content": "Gold price forecast for Q4 2024 by ING.",
+                "order_id": 6,
+                "narrative": "ING has forecasted specific gold price trends for Q4 2024, setting the stage for 2025 expectations."
+            },
+            {
+                "merged_id": "1_6",
+                "merged_content": "Longforecast.com's gold price prediction for December 2026.",
+                "order_id": 7,
+                "narrative": "Longforecast.com has provided a detailed prediction for gold prices in December 2026, offering a longer-term perspective."
+            },
+            {
+                "merged_id": "1_4",
+                "merged_content": "Dukascopy's gold price projections for 2027 and 2028.",
+                "order_id": 8,
+                "narrative": "Dukascopy has extended its projections to 2027 and 2028, providing insights into future market trends."
+            },
+            {
+                "merged_id": "1_7",
+                "merged_content": "Comparison of gold ETF holdings to US Treasuries.",
+                "order_id": 9,
+                "narrative": "A comparison of gold ETF holdings to US Treasuries highlights the shifting preferences of investors in the current economic climate."
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "9_0",
+                "merged_content": "Gold price trends from 2023 to 2025.",
+                "order_id": 1,
+                "narrative": "The journey of gold prices from 2023 to 2025 reveals intriguing trends, setting the stage for future market dynamics."
+            },
+            {
+                "merged_id": "9_3",
+                "merged_content": "Gold price forecasts and trends for 2023-2026.",
+                "order_id": 2,
+                "narrative": "Forecasts and trends for gold prices from 2023 to 2026 suggest a period of significant fluctuation and potential growth."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "Gold price analysis for 2024.",
+                "order_id": 3,
+                "narrative": "A detailed analysis of gold prices in 2024 highlights key factors influencing the market during this pivotal year."
+            },
+            {
+                "merged_id": "9_6",
+                "merged_content": "Gold price breakout in 2025.",
+                "order_id": 4,
+                "narrative": "The year 2025 marks a notable breakout in gold prices, indicating a shift in market momentum."
+            },
+            {
+                "merged_id": "9_1",
+                "merged_content": "Gold price forecasts for 2028 and 2030.",
+                "order_id": 5,
+                "narrative": "Looking ahead, forecasts for 2028 and 2030 provide insights into the long-term trajectory of gold prices."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "Central bank gold purchases.",
+                "order_id": 6,
+                "narrative": "Central bank gold purchases play a crucial role in shaping the global gold market, influencing price trends."
+            },
+            {
+                "merged_id": "9_5",
+                "merged_content": "Gold price on May 15.",
+                "order_id": 7,
+                "narrative": "The specific gold price on May 15 serves as a snapshot of market conditions at that time."
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "Gold price predictions and trends from 2024 to 2026.",
+                "order_id": 1,
+                "narrative": "The outlook for gold prices from 2024 to 2026 is a topic of keen interest, with various predictions and trends being analyzed."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "Gold price forecasts and scenarios for 2025.",
+                "order_id": 2,
+                "narrative": "In 2025, multiple forecasts and scenarios are being considered to understand potential movements in gold prices."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "Gold price forecasts and scenarios for 2025 and 2026.",
+                "order_id": 3,
+                "narrative": "The years 2025 and 2026 are pivotal, with forecasts and scenarios providing insights into possible price trajectories."
+            },
+            {
+                "merged_id": "3_5",
+                "merged_content": "Gold price forecasts and scenarios for 2025 and 2026.",
+                "order_id": 4,
+                "narrative": "Further analysis for 2025 and 2026 continues to refine expectations for gold's market behavior."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Gold price scenarios and ranges for 2026.",
+                "order_id": 5,
+                "narrative": "For 2026, scenarios and price ranges are being evaluated to anticipate market conditions."
+            },
+            {
+                "merged_id": "3_6",
+                "merged_content": "Gold price forecasts for 2025 and 2027.",
+                "order_id": 6,
+                "narrative": "Forecasts extend into 2027, offering a broader view of potential price developments beyond 2025."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "Gold price protection and swing low values.",
+                "order_id": 7,
+                "narrative": "Strategies for price protection and understanding swing low values are crucial for managing risks in the gold market."
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "Gold price predictions for 2025 and 2026.",
+                "order_id": 1,
+                "narrative": "Experts are forecasting the trajectory of gold prices for the years 2025 and 2026, offering insights into future market trends."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "Gold price potential and targets.",
+                "order_id": 2,
+                "narrative": "Analysts have set potential targets for gold prices, indicating the metal's promising outlook in the coming years."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "Gold price targets and records.",
+                "order_id": 3,
+                "narrative": "Current targets for gold prices are being compared to historical records, highlighting the metal's performance over time."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "Gold price bull case scenario.",
+                "order_id": 4,
+                "narrative": "In a bullish scenario, gold prices could see significant increases, driven by various economic factors."
+            },
+            {
+                "merged_id": "5_4",
+                "merged_content": "Gold price targets for new purchases.",
+                "order_id": 5,
+                "narrative": "Investors are considering new purchase targets for gold, aiming to capitalize on its potential growth."
+            },
+            {
+                "merged_id": "5_5",
+                "merged_content": "Comparison of gold ETF holdings to S&P500 market cap.",
+                "order_id": 6,
+                "narrative": "A comparison of gold ETF holdings to the S&P500 market cap reveals the relative scale and investment interest in gold."
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "4_1",
+                "merged_content": "Gold price range predictions and current price.",
+                "order_id": 1,
+                "narrative": "The current gold price is a key factor in understanding its future trajectory, with predictions indicating a range of potential outcomes."
+            },
+            {
+                "merged_id": "4_6",
+                "merged_content": "Gold price near-term prediction.",
+                "order_id": 2,
+                "narrative": "In the near term, gold prices are expected to fluctuate within a certain range, influenced by market dynamics and economic indicators."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "Gold price correction and buy support levels.",
+                "order_id": 3,
+                "narrative": "Market analysts suggest that any price corrections could present buying opportunities, with specific support levels identified for strategic investments."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "Gold price support levels and targets.",
+                "order_id": 4,
+                "narrative": "Support levels are crucial for investors, providing targets for both buying and selling as the market adjusts."
+            },
+            {
+                "merged_id": "4_4",
+                "merged_content": "Gold price trading and long-term trend.",
+                "order_id": 5,
+                "narrative": "Over the long term, gold trading is expected to follow a trend that reflects broader economic conditions and investor sentiment."
+            },
+            {
+                "merged_id": "4_5",
+                "merged_content": "Potential gold price highs.",
+                "order_id": 6,
+                "narrative": "Analysts have identified potential highs for gold prices, suggesting significant gains could be realized under favorable conditions."
+            },
+            {
+                "merged_id": "4_0",
+                "merged_content": "Predicted and average gold prices for 2025.",
+                "order_id": 7,
+                "narrative": "Looking ahead to 2025, predictions for average gold prices provide a benchmark for long-term investment strategies."
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "8_0",
+                "merged_content": "Gold price predictions for 2023 to 2025.",
+                "order_id": 1,
+                "narrative": "The journey of gold prices begins with predictions spanning from 2023 to 2025, setting the stage for future market expectations."
+            },
+            {
+                "merged_id": "8_5",
+                "merged_content": "Gold price decrease from 2024 to 2025.",
+                "order_id": 2,
+                "narrative": "A notable trend within this period is the anticipated decrease in gold prices from 2024 to 2025, hinting at potential market shifts."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "Gold price range predictions for 2025 and 2026.",
+                "order_id": 3,
+                "narrative": "As we move into 2025 and 2026, predictions suggest a range of possible gold prices, reflecting market volatility and uncertainty."
+            },
+            {
+                "merged_id": "8_3",
+                "merged_content": "Gold price predictions for 2025 and 2030.",
+                "order_id": 4,
+                "narrative": "Looking further ahead, forecasts extend to 2030, providing a long-term perspective on gold's market trajectory."
+            },
+            {
+                "merged_id": "8_6",
+                "merged_content": "Gold price predictions for 2026.",
+                "order_id": 5,
+                "narrative": "Focusing specifically on 2026, predictions offer insights into the expected market conditions for that year."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "Gold price trends and predictions for 2026 and 2027.",
+                "order_id": 6,
+                "narrative": "The trends and predictions for 2026 and 2027 highlight the evolving dynamics of the gold market during these years."
+            },
+            {
+                "merged_id": "8_4",
+                "merged_content": "Gold price prediction for the next 5 years by Coin Price Forecast.",
+                "order_id": 7,
+                "narrative": "Coin Price Forecast provides a comprehensive prediction for the next five years, encapsulating the broader market outlook."
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "6_5",
+                "merged_content": "Gold price peak in April.",
+                "order_id": 1,
+                "narrative": "In April, gold prices reached a significant peak, capturing the attention of investors and analysts alike."
+            },
+            {
+                "merged_id": "6_4",
+                "merged_content": "Citi's gold price target adjustment.",
+                "order_id": 2,
+                "narrative": "Following the peak, Citi adjusted its gold price targets, reflecting changing market conditions and expectations."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "Central bank gold demand forecast.",
+                "order_id": 3,
+                "narrative": "Central banks have been forecasted to maintain strong demand for gold, influencing market dynamics."
+            },
+            {
+                "merged_id": "6_6",
+                "merged_content": "XAUUSD key support level forecast.",
+                "order_id": 4,
+                "narrative": "Analysts have identified key support levels for XAUUSD, providing guidance for traders navigating the volatile market."
+            },
+            {
+                "merged_id": "6_0",
+                "merged_content": "Gold price scenarios and forecasts for 2025.",
+                "order_id": 5,
+                "narrative": "Looking ahead, various scenarios and forecasts for gold prices in 2025 are being considered by market experts."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Gold price base and bull case forecasts for 2025.",
+                "order_id": 6,
+                "narrative": "These include base and bull case forecasts, offering a range of potential outcomes for investors to consider."
+            },
+            {
+                "merged_id": "6_3",
+                "merged_content": "Gold price scenarios in recession and forecasts.",
+                "order_id": 7,
+                "narrative": "Additionally, scenarios considering potential recessions are being analyzed to understand their impact on future gold prices."
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "number_of_facts": 3,
+        "facts": [
+            {
+                "merged_id": "7_0",
+                "merged_content": "Nonfarm Payrolls increased by 147,000 in June and beat forecasts by 36,000.",
+                "order_id": 1,
+                "narrative": "In June, the labor market showed resilience as Nonfarm Payrolls rose by 147,000, surpassing expectations by 36,000."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "Unemployment Rate edged down by 0.1% and Wage growth slowed by 0.2%.",
+                "order_id": 2,
+                "narrative": "The unemployment rate saw a slight decrease of 0.1%, although wage growth experienced a modest slowdown of 0.2%."
+            },
+            {
+                "merged_id": "7_2",
+                "merged_content": "Legislation will add $3.4 trillion to the nation\u2019s debt.",
+                "order_id": 3,
+                "narrative": "Amidst these economic shifts, new legislation is set to increase the national debt by a staggering $3.4 trillion."
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "number_of_facts": 4,
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "Average Hourly Earnings retreated by 0.1% (from 3.8% to 3.7%).",
+                "order_id": 1,
+                "narrative": "In a recent economic update, Average Hourly Earnings have shown a slight decline, retreating by 0.1% from 3.8% to 3.7%, indicating a subtle shift in wage growth."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "Gold price trends and forecasts for 2025 to 2026.",
+                "order_id": 2,
+                "narrative": "Looking ahead, analysts have provided insights into gold price trends and forecasts for the years 2025 to 2026, offering a glimpse into potential market movements."
+            },
+            {
+                "merged_id": "2_2",
+                "merged_content": "Gold price forecasts and ranges for 2026 to 2027.",
+                "order_id": 3,
+                "narrative": "Further extending the outlook, forecasts and ranges for gold prices have been projected for 2026 to 2027, suggesting continued analysis of market dynamics."
+            },
+            {
+                "merged_id": "2_3",
+                "merged_content": "Gold price ranges for 2026 and 2027.",
+                "order_id": 4,
+                "narrative": "The projected gold price ranges for 2026 and 2027 provide a detailed framework for understanding future market expectations."
+            }
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "number_of_facts": 10,
+        "facts": [
+            {
+                "merged_id": "10_0",
+                "merged_content": "UBS, InvestingHaven, and JP Morgan gold price targets.",
+                "order_id": 1,
+                "narrative": "UBS, InvestingHaven, and JP Morgan have set their gold price targets, reflecting their market expectations."
+            },
+            {
+                "merged_id": "10_1",
+                "merged_content": "Gold price forecasts for Q1 2024 by Bloomberg Terminal.",
+                "order_id": 2,
+                "narrative": "Bloomberg Terminal provides gold price forecasts for the first quarter of 2024, offering insights into short-term market trends."
+            },
+            {
+                "merged_id": "10_3",
+                "merged_content": "Gold price forecast for the end of the year.",
+                "order_id": 3,
+                "narrative": "As the year progresses, analysts have released their gold price forecasts for the year's end, indicating potential market movements."
+            },
+            {
+                "merged_id": "10_4",
+                "merged_content": "Gold price maximum forecast for 2028.",
+                "order_id": 4,
+                "narrative": "Looking further ahead, the maximum forecast for gold prices in 2028 suggests significant potential for growth."
+            },
+            {
+                "merged_id": "10_6",
+                "merged_content": "Gold trading range forecast for 2025.",
+                "order_id": 5,
+                "narrative": "The trading range forecast for gold in 2025 provides a spectrum of possible price movements, helping investors plan their strategies."
+            },
+            {
+                "merged_id": "10_7",
+                "merged_content": "Gold price forecasts for 2026.",
+                "order_id": 6,
+                "narrative": "Forecasts for 2026 indicate how gold prices might evolve, offering a glimpse into future market conditions."
+            },
+            {
+                "merged_id": "10_8",
+                "merged_content": "Gold price forecasts for 2027.",
+                "order_id": 7,
+                "narrative": "Predictions for 2027 continue the trend analysis, showing potential price trajectories for gold."
+            },
+            {
+                "merged_id": "10_9",
+                "merged_content": "Gold price range forecast for 2027.",
+                "order_id": 8,
+                "narrative": "The range forecast for 2027 provides a detailed view of expected price fluctuations within that year."
+            },
+            {
+                "merged_id": "10_5",
+                "merged_content": "TakeProfit price points.",
+                "order_id": 9,
+                "narrative": "TakeProfit has identified key price points, offering strategic insights for traders."
+            },
+            {
+                "merged_id": "10_2",
+                "merged_content": "David Harper's long-term gold price prediction for 2040.",
+                "order_id": 10,
+                "narrative": "David Harper's long-term prediction for 2040 offers a visionary perspective on where gold prices might head in the distant future."
+            }
+        ]
+    }
+]

@@ -1,0 +1,597 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The adoption rate of generative AI, currently at 39.4%, is advancing more rapidly than that of previous technologies such as PCs and the internet. Three years after the personal computer\u2019s mass introduction, its adoption rate was only 20%, a figure similar to the internet\u2019s adoption rate two years after its launch.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The adoption rate of generative AI is currently at 39.4%.",
+                    "vis_data": [
+                        {
+                            "label": "Generative AI Adoption",
+                            "value": "39.4",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Three years after the personal computer\u2019s mass introduction, its adoption rate was only 20%.",
+                    "vis_data": [
+                        {
+                            "label": "PC Adoption (3 years)",
+                            "value": "20",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The internet\u2019s adoption rate was 20% two years after its launch.",
+                    "vis_data": [
+                        {
+                            "label": "Internet Adoption (2 years)",
+                            "value": "20",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Over the past six years, AI adoption in organizations has remained around 50 percent. However, the 2024 survey by McKinsey & Company shows a significant increase, with adoption rising to 72 percent. Generative AI adoption has also seen strong growth, reaching 65 percent, reflecting a global surge in interest.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "AI adoption in organizations has remained around 50 percent over the past six years.",
+                    "vis_data": [
+                        {
+                            "label": "AI Adoption (Past 6 years)",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "In 2024, AI adoption in organizations rose to 72 percent.",
+                    "vis_data": [
+                        {
+                            "label": "AI Adoption 2024",
+                            "value": "72",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Generative AI adoption has reached 65 percent.",
+                    "vis_data": [
+                        {
+                            "label": "Generative AI Adoption",
+                            "value": "65",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "As of August 2024, nearly 40% of U.S. adults aged 18 to 64 had used generative AI to some extent. About 1/3 of respondents reported using it daily or at least a few times per week. Interestingly, AI usage was slightly higher at home (32.6%) than at work (28.1%), but daily use was more common at work (10.6%) compared to home (6.4%).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Nearly 40% of U.S. adults aged 18 to 64 had used generative AI to some extent as of August 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Generative AI Usage (Adults)",
+                            "value": "40",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "AI usage was 32.6% at home.",
+                    "vis_data": [
+                        {
+                            "label": "AI Usage at Home",
+                            "value": "32.6",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "AI usage was 28.1% at work.",
+                    "vis_data": [
+                        {
+                            "label": "AI Usage at Work",
+                            "value": "28.1",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Daily AI use was 10.6% at work.",
+                    "vis_data": [
+                        {
+                            "label": "Daily AI Use at Work",
+                            "value": "10.6",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Daily AI use was 6.4% at home.",
+                    "vis_data": [
+                        {
+                            "label": "Daily AI Use at Home",
+                            "value": "6.4",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "As of 2024, the global AI industry is valued at approximately $638.23 billion. Key advancements in machine learning, natural language processing, and computer vision continue to fuel this growth, with applications ranging from automated customer service to advanced medical diagnostics.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The global AI industry is valued at approximately $638.23 billion as of 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Global AI Industry Value 2024",
+                            "value": "638.23",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Looking ahead, the AI market is projected to reach $3,680.47 billion by 2034. The United States is expected to lead globally, with an estimated market size of $851.46 billion by 2034.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The AI market is projected to reach $3,680.47 billion by 2034.",
+                    "vis_data": [
+                        {
+                            "label": "Projected AI Market 2034",
+                            "value": "3680.47",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The United States is expected to have an AI market size of $851.46 billion by 2034.",
+                    "vis_data": [
+                        {
+                            "label": "US AI Market 2034",
+                            "value": "851.46",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "AI investments have skyrocketed in 2024. Over the year, AI and machine learning startups secured a record-breaking $131.5 billion in venture capital funding, which equals to the 1/3 of all VC dollars. This surge, driven by several billion-dollar deals, reflects growing investor confidence in AI\u2019s transformative potential.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI and machine learning startups secured $131.5 billion in venture capital funding in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "AI Startup Funding 2024",
+                            "value": "131.5",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "AI and machine learning startups' funding equals 1/3 of all VC dollars in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "VC Funding Share",
+                            "value": "33.3",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The integration of artificial intelligence (AI) in education has seen a significant rise, with approximately 43% of higher education students utilizing AI-powered tools to enhance their learning experiences. These tools offer personalized study recommendations and efficient grading systems, contributing to a more tailored educational journey.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Approximately 43% of higher education students utilize AI-powered tools.",
+                    "vis_data": [
+                        {
+                            "label": "AI Use in Education",
+                            "value": "43",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In the United States, the adoption of AI tools like ChatGPT among students has notably increased. A recent survey indicates that 26% of teens used ChatGPT for schoolwork in 2024, doubling from 13% in 2023. This trend reflects a growing reliance on AI for academic assistance, with students finding these tools beneficial for researching new topics and understanding complex concepts.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "26% of teens used ChatGPT for schoolwork in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "ChatGPT Use by Teens 2024",
+                            "value": "26",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The use of ChatGPT for schoolwork by teens doubled from 13% in 2023 to 26% in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "ChatGPT Use Growth",
+                            "value": "100",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Artificial intelligence (AI) is making significant inroads into the healthcare sector, with a growing number of providers leveraging AI to enhance patient care. As of recent data, 12% of U.S. adults report that their healthcare providers utilize AI for diagnosis, treatment, or communication purposes. Looking ahead, there\u2019s a strong expectation for AI\u2019s expanding role, with the majority of the population anticipating that AI will play a more substantial part in healthcare within the next five years.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "12% of U.S. adults report that their healthcare providers utilize AI.",
+                    "vis_data": [
+                        {
+                            "label": "AI Use in Healthcare",
+                            "value": "12",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Public sentiment towards AI in healthcare is notably positive. A survey conducted in June 2023 revealed that 80% of Americans believe AI has the potential to improve healthcare quality, reduce costs, and increase accessibility. This optimism reflects a broader recognition of AI\u2019s transformative capabilities in the medical field, from enhancing diagnostic accuracy to streamlining administrative processes.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "80% of Americans believe AI has the potential to improve healthcare quality, reduce costs, and increase accessibility.",
+                    "vis_data": [
+                        {
+                            "label": "Positive Sentiment on AI in Healthcare",
+                            "value": "80",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The market for AI in retail stores is experiencing significant growth, with a compound annual growth rate of 34.2%. This surge is attributed to the diverse applications of AI, including market forecasting and inventory management, which assist retailers in making informed decisions and maintaining optimal stock levels. The integration of AI not only streamlines operations but also provides valuable insights into market trends, allowing retailers to stay competitive in a rapidly evolving landscape.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The market for AI in retail stores is experiencing a compound annual growth rate of 34.2%.",
+                    "vis_data": [
+                        {
+                            "label": "AI Market Growth in Retail",
+                            "value": "34.2",
+                            "unit": "% CAGR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "AI is becoming a key tool in the financial industry, with applications such as fraud detection, risk management, and personalized banking. AI-powered chatbots have been especially popular, providing automated customer service in 85% of banks, allowing for improved efficiency. Moreover, AI is expected to save the industry up to $1 trillion annually by 2030 through process automation and better decision-making.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "AI-powered chatbots provide automated customer service in 85% of banks.",
+                    "vis_data": [
+                        {
+                            "label": "Chatbot Use in Banks",
+                            "value": "85",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI is expected to save the financial industry up to $1 trillion annually by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "AI Savings in Finance by 2030",
+                            "value": "1000",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "A significant portion of AI\u2019s influence in finance is felt in investment strategies and wealth management. Around 77% of financial institutions already utilize AI for portfolio management, and its ability to analyze vast amounts of data helps enhance decision-making. With AI, banks can also improve compliance by automatically tracking regulatory changes and reducing human error, streamlining operations further.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "77% of financial institutions utilize AI for portfolio management.",
+                    "vis_data": [
+                        {
+                            "label": "AI in Portfolio Management",
+                            "value": "77",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Artificial Intelligence (AI) is increasingly integral to the manufacturing sector, with its market value projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032, reflecting a compound annual growth rate (CAGR) of 33.5%. This significant expansion underscores the industry\u2019s escalating reliance on AI-driven solutions to enhance various aspects of production. Notably, AI has achieved a 90% accuracy rate in defect detection, improving product quality, thereby ensuring consistent manufacturing standards.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The AI market value in manufacturing is projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032.",
+                    "vis_data": [
+                        {
+                            "label": "AI Market in Manufacturing 2024",
+                            "value": "5.94",
+                            "unit": "billion USD"
+                        },
+                        {
+                            "label": "AI Market in Manufacturing 2032",
+                            "value": "68.36",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The AI market in manufacturing is expected to grow at a compound annual growth rate of 33.5%.",
+                    "vis_data": [
+                        {
+                            "label": "AI Market Growth in Manufacturing",
+                            "value": "33.5",
+                            "unit": "% CAGR"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI has achieved a 90% accuracy rate in defect detection in manufacturing.",
+                    "vis_data": [
+                        {
+                            "label": "AI Defect Detection Accuracy",
+                            "value": "90",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The adoption of AI in manufacturing is widespread, with 97% of companies having integrated AI into their operations. Key applications include smart production, products and services enhancement, and supply chain optimization and demand forecasting. These implementations have led to substantial productivity gains, with AI expected to boost manufacturing productivity by 40% by 2035.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "97% of manufacturing companies have integrated AI into their operations.",
+                    "vis_data": [
+                        {
+                            "label": "AI Integration in Manufacturing",
+                            "value": "97",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI is expected to boost manufacturing productivity by 40% by 2035.",
+                    "vis_data": [
+                        {
+                            "label": "Productivity Boost by AI in Manufacturing",
+                            "value": "40",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "AI is significantly enhancing marketing strategies, with 93% of marketers leveraging it to generate content more efficiently. AI tools like automated content generation platforms are helping businesses produce engaging content at scale, improving productivity and reducing time spent on manual tasks. Additionally, AI\u2019s ability to process vast amounts of data helps marketers make data-driven decisions, resulting in more targeted and effective campaigns.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "93% of marketers leverage AI to generate content more efficiently.",
+                    "vis_data": [
+                        {
+                            "label": "AI Use in Marketing",
+                            "value": "93",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Furthermore, AI is streamlining daily tasks, with 75% of marketers reporting that AI simplifies their job responsibilities. Automation of repetitive tasks, such as scheduling posts, segmenting audiences, or running A/B tests, frees up time for creative and strategic work.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "75% of marketers report that AI simplifies their job responsibilities.",
+                    "vis_data": [
+                        {
+                            "label": "AI Simplifies Marketing Tasks",
+                            "value": "75",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Despite these advantages, 27% of marketers express concerns that AI may challenge their job security, as AI tools increasingly handle tasks that were traditionally performed by human teams. However, the overall sentiment remains positive, as marketers continue to embrace AI for its potential to enhance both efficiency and effectiveness in the industry.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "27% of marketers express concerns that AI may challenge their job security.",
+                    "vis_data": [
+                        {
+                            "label": "Job Security Concerns in Marketing",
+                            "value": "27",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "A 2024 Statista survey found that roughly one-third of interactions with e-commerce AI chatbots were focused on product-related inquiries, including advice, availability, and details. Additionally, 20% of the analyzed interactions involved topics such as order status and shipping, while 4% were related to arranging product returns.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "One-third of interactions with e-commerce AI chatbots were focused on product-related inquiries.",
+                    "vis_data": [
+                        {
+                            "label": "Product Inquiries via Chatbots",
+                            "value": "33.3",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "20% of interactions with e-commerce AI chatbots involved order status and shipping.",
+                    "vis_data": [
+                        {
+                            "label": "Order Status Inquiries via Chatbots",
+                            "value": "20",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "4% of interactions with e-commerce AI chatbots were related to arranging product returns.",
+                    "vis_data": [
+                        {
+                            "label": "Product Returns via Chatbots",
+                            "value": "4",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "PwC predicts that AI will drive significant workplace transformation in 2025, with productivity gains ranging from 20% to 30% in various sectors. Businesses are already leveraging AI to streamline operations, automate decision-making, and enhance efficiency. For instance, a recent study found that usage of AI by coders increased their productivity by 26%.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "AI is predicted to drive productivity gains ranging from 20% to 30% in various sectors by 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Productivity Gains by AI 2025",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Usage of AI by coders increased their productivity by 26%.",
+                    "vis_data": [
+                        {
+                            "label": "Productivity Increase by AI for Coders",
+                            "value": "26",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "According to PwC\u2019s survey conducted in October 2024, 49% of technology leaders reported that AI is fully embedded in their company\u2019s core business strategy, while a third stated that AI is fully integrated into their products and services. This reflects the growing reliance on AI to automate processes. Companies that embrace AI at a strategic level are leveraging it for competitive advantages, such as optimizing operations, improving customer experiences, and accelerating product development.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "49% of technology leaders reported that AI is fully embedded in their company\u2019s core business strategy.",
+                    "vis_data": [
+                        {
+                            "label": "AI in Business Strategy",
+                            "value": "49",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "One-third of technology leaders stated that AI is fully integrated into their products and services.",
+                    "vis_data": [
+                        {
+                            "label": "AI in Products and Services",
+                            "value": "33.3",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Although AI adoption in the U.S. is still relatively low, with only 5% of businesses currently utilizing the technology, more and more companies are recognizing its potential advantages. As awareness grows, many are planning to integrate AI into their operations.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Only 5% of businesses in the U.S. are currently utilizing AI technology.",
+                    "vis_data": [
+                        {
+                            "label": "AI Adoption in US Businesses",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "AI-driven automation has already affected many routine jobs. However, a report by the World Economic Forum suggests that AI will displace around 85 million jobs. At the same time, artificial intelligence could also create 97 million new jobs. These new jobs will be primarily in areas such as AI and data science, cybersecurity, and machine learning development.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI will displace around 85 million jobs.",
+                    "vis_data": [
+                        {
+                            "label": "Jobs Displaced by AI",
+                            "value": "85",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI could create 97 million new jobs.",
+                    "vis_data": [
+                        {
+                            "label": "Jobs Created by AI",
+                            "value": "97",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In Sweden, it is estimated that approximately 8,000 people are living with HIV, with approximately 400\u2013500 new cases each year. In 2019 men accounted for 64% of new cases, with 38 years of age being the mean age at diagnosis. Overall, Sweden has a relatively low HIV prevalence rate and in 2016 was the first country to officially achieve UNAIDS and WHO\u2019s 90-90-90 targets. This has been attributed to policies such as the Communicable Diseases Act, providing antiretrovirals free of cost, high levels of ART adherence, and using interdisciplinary care teams within specialty HIV clinics.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Approximately 8,000 people are living with HIV in Sweden.",
+                    "vis_data": [
+                        {
+                            "label": "People living with HIV",
+                            "value": "8000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Approximately 400\u2013500 new HIV cases each year in Sweden.",
+                    "vis_data": [
+                        {
+                            "label": "New HIV cases per year",
+                            "value": "400-500",
+                            "unit": "cases"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "In 2019, men accounted for 64% of new HIV cases in Sweden.",
+                    "vis_data": [
+                        {
+                            "label": "Men's share of new HIV cases",
+                            "value": "64",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "38 years of age is the mean age at HIV diagnosis in Sweden.",
+                    "vis_data": [
+                        {
+                            "label": "Mean age at diagnosis",
+                            "value": "38",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Regular exercise leading to an elevation of 1 metabolic equivalent (MET) unit in cardiorespiratory fitness (CRF) has been found to reduce the risk of HF by 17%.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%.",
+                    "vis_data": [
+                        {
+                            "label": "HF risk reduction",
+                            "value": "17",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_0_0"
+                }
+            ],
+            "relatedness_score": 0.537104025133669,
+            "article_meta_data": {
+                "title": "What are the benefits of exercise on cardiovascular health?",
+                "date": "2023-05-01",
+                "url": "https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx",
+                "id": 15
+            },
+            "para_id": "15_0"
+        },
+        {
+            "paragraph": "HFrEF patients experience a notable increase in exercise capacity, resulting in a symptomatic improvement of up to 25%. Lifelong exercise is linked to a lower risk of HFrEF due to its inverse association with LV stiffness.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "HFrEF patients experience a symptomatic improvement of up to 25%.",
+                    "vis_data": [
+                        {
+                            "label": "Symptomatic improvement",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_1_1"
+                }
+            ],
+            "relatedness_score": 0.5030176441649117,
+            "article_meta_data": {
+                "title": "What are the benefits of exercise on cardiovascular health?",
+                "date": "2023-05-01",
+                "url": "https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx",
+                "id": 15
+            },
+            "para_id": "15_1"
+        },
+        {
+            "paragraph": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+                    "vis_data": [
+                        {
+                            "label": "Increased death risk",
+                            "value": "20",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Increased death risk",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_2_2"
+                }
+            ],
+            "relatedness_score": 0.47384508478645926,
+            "article_meta_data": {
+                "title": "What are the benefits of exercise on cardiovascular health?",
+                "date": "2023-05-01",
+                "url": "https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx",
+                "id": 15
+            },
+            "para_id": "15_2"
+        },
+        {
+            "paragraph": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations and a 35% decrease in all-cause mortality in patients with HF. PA can reduce cardiomegaly and reverse left ventricular remodeling in heart failure patients with reduced ejection fraction (HfrEF).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations.",
+                    "vis_data": [
+                        {
+                            "label": "HF hospitalization reduction",
+                            "value": "28",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_3_3"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF.",
+                    "vis_data": [
+                        {
+                            "label": "All-cause mortality reduction",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_3_4"
+                }
+            ],
+            "relatedness_score": 0.4727190703906248,
+            "article_meta_data": {
+                "title": "What are the benefits of exercise on cardiovascular health?",
+                "date": "2023-05-01",
+                "url": "https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx",
+                "id": 15
+            },
+            "para_id": "15_3"
+        },
+        {
+            "paragraph": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals and five to seven mm Hg in individuals with HTN. The effects, however, depend on PA's duration, frequency, and intensity.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals.",
+                    "vis_data": [
+                        {
+                            "label": "BP reduction in normotensive",
+                            "value": "2-5",
+                            "unit": "mm Hg"
+                        }
+                    ],
+                    "fact_id": "15_4_5"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by five to seven mm Hg in individuals with HTN.",
+                    "vis_data": [
+                        {
+                            "label": "BP reduction in HTN",
+                            "value": "5-7",
+                            "unit": "mm Hg"
+                        }
+                    ],
+                    "fact_id": "15_4_6"
+                }
+            ],
+            "relatedness_score": 0.4382605774589372,
+            "article_meta_data": {
+                "title": "What are the benefits of exercise on cardiovascular health?",
+                "date": "2023-05-01",
+                "url": "https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx",
+                "id": 15
+            },
+            "para_id": "15_4"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "15_0",
+            "paragraph": "Regular exercise leading to an elevation of 1 metabolic equivalent (MET) unit in cardiorespiratory fitness (CRF) has been found to reduce the risk of HF by 17%."
+        },
+        {
+            "para_id": "15_1",
+            "paragraph": "HFrEF patients experience a notable increase in exercise capacity, resulting in a symptomatic improvement of up to 25%. Lifelong exercise is linked to a lower risk of HFrEF due to its inverse association with LV stiffness."
+        },
+        {
+            "para_id": "15_2",
+            "paragraph": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity."
+        },
+        {
+            "para_id": "15_3",
+            "paragraph": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations and a 35% decrease in all-cause mortality in patients with HF. PA can reduce cardiomegaly and reverse left ventricular remodeling in heart failure patients with reduced ejection fraction (HfrEF)."
+        },
+        {
+            "para_id": "15_4",
+            "paragraph": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals and five to seven mm Hg in individuals with HTN. The effects, however, depend on PA's duration, frequency, and intensity."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%."
+        },
+        {
+            "fact_id": "15_1_1",
+            "fact_content": "HFrEF patients experience a symptomatic improvement of up to 25%."
+        },
+        {
+            "fact_id": "15_2_2",
+            "fact_content": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity."
+        },
+        {
+            "fact_id": "15_3_3",
+            "fact_content": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations."
+        },
+        {
+            "fact_id": "15_3_4",
+            "fact_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF."
+        },
+        {
+            "fact_id": "15_4_5",
+            "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals."
+        },
+        {
+            "fact_id": "15_4_6",
+            "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by five to seven mm Hg in individuals with HTN."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%.",
+            "vis_data": [
+                {
+                    "label": "HF risk reduction",
+                    "value": "17",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "HFrEF patients experience a symptomatic improvement of up to 25%.",
+            "vis_data": [
+                {
+                    "label": "Symptomatic improvement",
+                    "value": "25",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_1_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+            "vis_data": [
+                {
+                    "label": "Increased death risk",
+                    "value": "20",
+                    "unit": "%"
+                },
+                {
+                    "label": "Increased death risk",
+                    "value": "30",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_2_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations.",
+            "vis_data": [
+                {
+                    "label": "HF hospitalization reduction",
+                    "value": "28",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_3_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF.",
+            "vis_data": [
+                {
+                    "label": "All-cause mortality reduction",
+                    "value": "35",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_3_4"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals.",
+            "vis_data": [
+                {
+                    "label": "BP reduction in normotensive",
+                    "value": "2-5",
+                    "unit": "mm Hg"
+                }
+            ],
+            "fact_id": "15_4_5"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by five to seven mm Hg in individuals with HTN.",
+            "vis_data": [
+                {
+                    "label": "BP reduction in HTN",
+                    "value": "5-7",
+                    "unit": "mm Hg"
+                }
+            ],
+            "fact_id": "15_4_6"
+        }
+    ]
+}

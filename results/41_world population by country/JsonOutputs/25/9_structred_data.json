@@ -1,0 +1,156 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "The total number of humans as of July 13, 2025 is 8,226,524,140. And most of them live in Asia with the most populous countries being India and China. The rapid growth of population in this region began from the 1950s. As a result, now 5 places in the top 10 are occupied by Asian countries.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The total number of humans as of July 13, 2025 is 8,226,524,140.",
+                    "vis_data": [
+                        {
+                            "label": "World Population 2025",
+                            "value": "8226524140",
+                            "unit": "people"
+                        }
+                    ],
+                    "fact_id": "25_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "5 places in the top 10 are occupied by Asian countries.",
+                    "vis_data": [
+                        {
+                            "label": "Asian Countries in Top 10",
+                            "value": "5",
+                            "unit": "places"
+                        }
+                    ],
+                    "fact_id": "25_0_1"
+                }
+            ],
+            "relatedness_score": 0.5267310190139057,
+            "article_meta_data": {
+                "title": "The most populous countries in the world (2025)",
+                "date": "2025-07-13",
+                "url": "https://www.countries-ofthe-world.com/most-populous-countries.html",
+                "id": 25
+            },
+            "para_id": "25_0"
+        },
+        {
+            "paragraph": "However, this situation could change drastically by 2050. According to estimates published by the UN, the main driver of future growth will be Africa (plus 62%). The number of Europeans will decline approximately by 6%.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Africa's population will grow by 62%.",
+                    "vis_data": [
+                        {
+                            "label": "Africa Population Growth",
+                            "value": "62",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "25_1_2"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The number of Europeans will decline by approximately 6%.",
+                    "vis_data": [
+                        {
+                            "label": "European Population Decline",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "25_1_3"
+                }
+            ],
+            "relatedness_score": 0.4190778655112565,
+            "article_meta_data": {
+                "title": "The most populous countries in the world (2025)",
+                "date": "2025-07-13",
+                "url": "https://www.countries-ofthe-world.com/most-populous-countries.html",
+                "id": 25
+            },
+            "para_id": "25_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "25_0",
+            "paragraph": "The total number of humans as of July 13, 2025 is 8,226,524,140. And most of them live in Asia with the most populous countries being India and China. The rapid growth of population in this region began from the 1950s. As a result, now 5 places in the top 10 are occupied by Asian countries."
+        },
+        {
+            "para_id": "25_1",
+            "paragraph": "However, this situation could change drastically by 2050. According to estimates published by the UN, the main driver of future growth will be Africa (plus 62%). The number of Europeans will decline approximately by 6%."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "25_0_0",
+            "fact_content": "The total number of humans as of July 13, 2025 is 8,226,524,140."
+        },
+        {
+            "fact_id": "25_0_1",
+            "fact_content": "5 places in the top 10 are occupied by Asian countries."
+        },
+        {
+            "fact_id": "25_1_2",
+            "fact_content": "Africa's population will grow by 62%."
+        },
+        {
+            "fact_id": "25_1_3",
+            "fact_content": "The number of Europeans will decline by approximately 6%."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The total number of humans as of July 13, 2025 is 8,226,524,140.",
+            "vis_data": [
+                {
+                    "label": "World Population 2025",
+                    "value": "8226524140",
+                    "unit": "people"
+                }
+            ],
+            "fact_id": "25_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "5 places in the top 10 are occupied by Asian countries.",
+            "vis_data": [
+                {
+                    "label": "Asian Countries in Top 10",
+                    "value": "5",
+                    "unit": "places"
+                }
+            ],
+            "fact_id": "25_0_1"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Africa's population will grow by 62%.",
+            "vis_data": [
+                {
+                    "label": "Africa Population Growth",
+                    "value": "62",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "25_1_2"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The number of Europeans will decline by approximately 6%.",
+            "vis_data": [
+                {
+                    "label": "European Population Decline",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "25_1_3"
+        }
+    ]
+}

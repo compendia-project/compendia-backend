@@ -1,0 +1,26 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "As others have stated it really depends where you eat. For a local soup or rice dish I pay between 25.000 and 50.000 Dong. But even for normal Vietnamese food places and restaurants the bill can easily get more than 300.000 Dong or more. But then it will include seafood. So it really depends what you want to eat.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Local soup or rice dish costs between 25.000 and 50.000 Dong."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Normal Vietnamese food places and restaurants can cost more than 300.000 Dong."
+                }
+            ]
+        },
+        {
+            "paragraph": "But sometimes you do not realise how quick you pay more (I am in Co To and paid for fresh grilled fish, some clams and veggie 700.000. it is still cheap but sometimes you pay more for nice food...even if it is mainly for Vietnamese).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Paid 700.000 Dong for fresh grilled fish, some clams, and veggie in Co To."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "New car registrations data from the automotive intelligence firm shows that BYD's Europe volumes rose 359% in April from last year as the company continues its global expansion efforts.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD's Europe volumes rose 359% in April from last year.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Europe Volume Increase",
+                            "value": "359",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Over the same period, Tesla reported yet another monthly drop, with total volumes down 49%, JATO said.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's total volumes down 49% over the same period.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Volume Decrease",
+                            "value": "49",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

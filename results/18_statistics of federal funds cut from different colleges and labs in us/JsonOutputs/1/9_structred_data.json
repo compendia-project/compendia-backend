@@ -1,0 +1,128 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "The department also granted $260 million in fiscal 2024 through its research arm, the Institute of Education Sciences. (The Trump administration recentlycanceled $900 millionin IES contracts, some of which cover multiple years.)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The department granted $260 million in fiscal 2024 through its research arm.",
+                    "vis_data": [
+                        {
+                            "label": "Grant Amount",
+                            "value": "260",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "1_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Trump administration canceled $900 million in IES contracts.",
+                    "vis_data": [
+                        {
+                            "label": "Canceled Contracts",
+                            "value": "900",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "1_0_1"
+                }
+            ],
+            "relatedness_score": 0.4940205744749908,
+            "article_meta_data": {
+                "title": "What the data says about the U.S. Department of Education",
+                "date": "2025-03-18",
+                "url": "https://www.pewresearch.org/short-reads/2025/03/18/what-the-data-says-about-the-us-department-of-education/",
+                "id": 1
+            },
+            "para_id": "1_0"
+        },
+        {
+            "paragraph": "President Donald Trump has revived those efforts. Adraft executive orderdirects his newly confirmed education secretary, Linda McMahon, to prepare the department for closure, while acknowledging that actually dissolving it would require an act of Congress. (Asked directly if the United States needs her department, McMahon said, \u201cNo, we don\u2019t.\u201d) The department already has shedaround 2,000 staffers\u2013 nearly half its workforce \u2013 through layoffs and buyouts, and canceleddozens of research contracts.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The department has shed around 2,000 staffers.",
+                    "vis_data": [
+                        {
+                            "label": "Staffers Shed",
+                            "value": "~2000",
+                            "unit": "staffers"
+                        }
+                    ],
+                    "fact_id": "1_1_2"
+                }
+            ],
+            "relatedness_score": 0.3334156302196396,
+            "article_meta_data": {
+                "title": "What the data says about the U.S. Department of Education",
+                "date": "2025-03-18",
+                "url": "https://www.pewresearch.org/short-reads/2025/03/18/what-the-data-says-about-the-us-department-of-education/",
+                "id": 1
+            },
+            "para_id": "1_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "1_0",
+            "paragraph": "The department also granted $260 million in fiscal 2024 through its research arm, the Institute of Education Sciences. (The Trump administration recentlycanceled $900 millionin IES contracts, some of which cover multiple years.)"
+        },
+        {
+            "para_id": "1_1",
+            "paragraph": "President Donald Trump has revived those efforts. Adraft executive orderdirects his newly confirmed education secretary, Linda McMahon, to prepare the department for closure, while acknowledging that actually dissolving it would require an act of Congress. (Asked directly if the United States needs her department, McMahon said, \u201cNo, we don\u2019t.\u201d) The department already has shedaround 2,000 staffers\u2013 nearly half its workforce \u2013 through layoffs and buyouts, and canceleddozens of research contracts."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "1_0_0",
+            "fact_content": "The department granted $260 million in fiscal 2024 through its research arm."
+        },
+        {
+            "fact_id": "1_0_1",
+            "fact_content": "The Trump administration canceled $900 million in IES contracts."
+        },
+        {
+            "fact_id": "1_1_2",
+            "fact_content": "The department has shed around 2,000 staffers."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The department granted $260 million in fiscal 2024 through its research arm.",
+            "vis_data": [
+                {
+                    "label": "Grant Amount",
+                    "value": "260",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "1_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Trump administration canceled $900 million in IES contracts.",
+            "vis_data": [
+                {
+                    "label": "Canceled Contracts",
+                    "value": "900",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "1_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The department has shed around 2,000 staffers.",
+            "vis_data": [
+                {
+                    "label": "Staffers Shed",
+                    "value": "~2000",
+                    "unit": "staffers"
+                }
+            ],
+            "fact_id": "1_1_2"
+        }
+    ]
+}

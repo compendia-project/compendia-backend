@@ -1,0 +1,155 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In 2022, the \u201cStatistics on Marriages and Divorces, 2022\u201d report by the Singapore Department of Statistics (DOS) revealed a historic peak in marriage registrations, reaching 29,3891, marking a 3.7% increase from the 28,329 marriages recorded in 2021.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "29,389 marriages registered in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2022",
+                            "value": "29389",
+                            "unit": "count"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "3.7% increase in marriages from 2021 to 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in Marriages",
+                            "value": "3.7",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.7108035094091696
+        },
+        {
+            "paragraph": "In 2022, marriage rates for both men and women saw an increase. The rate of marriages among single men aged 15-49 years climbed to 47.0 per thousand, a rise from 43.8 in 2012. Likewise, the rate for single women in the same age group increased to 45.5 per thousand from 39.4 ten years earlier.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Marriage rate for single men aged 15-49 years was 47.0 per thousand in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Marriage Rate Men 2022",
+                            "value": "47.0",
+                            "unit": "per thousand"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Marriage rate for single men aged 15-49 years increased from 43.8 in 2012 to 47.0 in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in Marriage Rate Men",
+                            "value": "3.2",
+                            "unit": "per thousand"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Marriage rate for single women aged 15-49 years was 45.5 per thousand in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Marriage Rate Women 2022",
+                            "value": "45.5",
+                            "unit": "per thousand"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Marriage rate for single women aged 15-49 years increased from 39.4 ten years earlier to 45.5 in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in Marriage Rate Women",
+                            "value": "6.1",
+                            "unit": "per thousand"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5122286761386946
+        },
+        {
+            "paragraph": "This surge contrasts with the prior five-year period\u2019s annual average of 26,562 marriages, which was below the average of 27,833 marriages registered annually between 2013 and 2017.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Annual average of 26,562 marriages in the prior five-year period.",
+                    "vis_data": [
+                        {
+                            "label": "Annual Avg Marriages (Prior 5 Years)",
+                            "value": "26562",
+                            "unit": "count"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Annual average of 27,833 marriages between 2013 and 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Annual Avg Marriages (2013-2017)",
+                            "value": "27833",
+                            "unit": "count"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5101745774575676
+        },
+        {
+            "paragraph": "In 2022, inter-ethnic marriages accounted for 16.6% of the total, maintaining a relatively stable trend over the past decade, fluctuating within the range of 15% to 18%. This consistency is evident in both civil marriages (13% to 17%) and Muslim marriages (22% to 24%) during the same period.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Inter-ethnic marriages accounted for 16.6% of the total in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Inter-ethnic Marriages 2022",
+                            "value": "16.6",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5037622369367702
+        },
+        {
+            "paragraph": "These marriage rates for 2022 were some of the highest recorded in the last twenty years, only slightly lower than the peak rates of 47.5 for men and 45.8 for women seen in 2002.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Peak marriage rate for men was 47.5 in 2002.",
+                    "vis_data": [
+                        {
+                            "label": "Peak Marriage Rate Men 2002",
+                            "value": "47.5",
+                            "unit": "per thousand"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Peak marriage rate for women was 45.8 in 2002.",
+                    "vis_data": [
+                        {
+                            "label": "Peak Marriage Rate Women 2002",
+                            "value": "45.8",
+                            "unit": "per thousand"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4707903477379448
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "['The cost of eating & drinking in VietnamTo help you decide on the amount of spending money to budget for, we have outlined below the approximate cost of meals & drinks in Vietnam.', '\u2022 Cost of lunch in a local restaurant: \u00a33 excluding drinks\u2022 Cost of dinner in a 4 star hotel: \u00a320 excluding drinks\u2022 Cost of a local beer: Beer Hanoi, Saigon Beer, 330ml \u00a31- \u00a32\u2022 Cost of a bottle of wine: Standard Australian \u00a315']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost of lunch in a local restaurant: \u00a33 excluding drinks.",
+                    "vis_data": [
+                        {
+                            "label": "Lunch in local restaurant",
+                            "value": "3",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost of dinner in a 4 star hotel: \u00a320 excluding drinks.",
+                    "vis_data": [
+                        {
+                            "label": "Dinner in 4 star hotel",
+                            "value": "20",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost of a local beer: Beer Hanoi, Saigon Beer, 330ml \u00a31- \u00a32.",
+                    "vis_data": [
+                        {
+                            "label": "Local beer (330ml)",
+                            "value": "1-2",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "error": [
+                        "Value '1-2' is a range, should be a single value for visualization. Consider using an average or median value."
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost of a bottle of wine: Standard Australian \u00a315.",
+                    "vis_data": [
+                        {
+                            "label": "Bottle of wine",
+                            "value": "15",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

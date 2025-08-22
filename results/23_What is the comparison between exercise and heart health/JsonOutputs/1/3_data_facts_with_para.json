@@ -1,0 +1,59 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Regular physical exercise is associated with numerous health benefits to reduce the progression and development of obesity, T2D, and CVD (9\u201314). Several randomized clinical trials have demonstrated that lifestyle interventions including moderate exercise and a healthy diet improve cardiovascular health in at-risk populations (72,73). Individuals with metabolic syndrome who participated in a 4 month program of either a diet (caloric restriction) or exercise intervention had reduced adiposity, decreased systolic, diastolic and mean arterial blood pressure, and lower total and low-density lipoprotein (LDL) cholesterol lipid profiles compared to the control group (12). Both the diet and exercise intervention improve these cardiovascular outcomes to a similar extent (74).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Individuals with metabolic syndrome who participated in a 4 month program of either a diet or exercise intervention had reduced adiposity."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Individuals with metabolic syndrome who participated in a 4 month program of either a diet or exercise intervention had decreased systolic, diastolic and mean arterial blood pressure."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Individuals with metabolic syndrome who participated in a 4 month program of either a diet or exercise intervention had lower total and low-density lipoprotein (LDL) cholesterol lipid profiles compared to the control group."
+                }
+            ]
+        },
+        {
+            "paragraph": "Exercise is also an important therapeutic treatment for patients who have cardiovascular diseases (14). A systematic review of 63 studies found that exercise-based cardiac rehabilitation improved cardiovascular function (91). These studies consisted of various forms of aerobic exercise at a range of intensities (from 50 to 95% VO2), over a multitude of time periods (1\u201347 months). Overall, exercise significantly reduced CVD-related mortality, decreased risk of MI, and improved quality of life (91). Another study looked specifically in patients with atherosclerosis post-revascularization surgery. Patients who underwent 60 min of exercise per day on a cycle ergometer for 4 weeks had an increase blood flow reserve (29%) and improved endothelium-dependent vasodilatation (10). A recent study provided personalized aerobic exercise rehabilitation programs for patients who had an acute myocardial infarction for 1 year after a coronary intervention surgery (92). The patients who underwent the exercise rehabilitation program had increased ejection fraction (60.81 vs. 53% control group), increased exercise tolerance, and reduced cardiovascular risk factors 6 months after starting the exercise rehabilitation program (92). This improvement in cardiovascular health in patients with atherosclerosis or post-MI is likely the result of increased myocardial perfusion in response to exercise, however more research is required to fully understand these mechanisms (10).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A systematic review of 63 studies found that exercise-based cardiac rehabilitation improved cardiovascular function."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "These studies consisted of various forms of aerobic exercise at a range of intensities from 50 to 95% VO2."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "These studies were conducted over a multitude of time periods from 1 to 47 months."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Patients who underwent 60 min of exercise per day on a cycle ergometer for 4 weeks had an increase blood flow reserve of 29%."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The patients who underwent the exercise rehabilitation program had increased ejection fraction (60.81 vs. 53% control group)."
+                }
+            ]
+        },
+        {
+            "paragraph": "More recent studies have examined the effects of high-intensity exercise on patients with heart failure. A recent study found that 12 weeks of high intensity interval training (HIIT) in heart failure patients (with reduced ejection fraction) was well-tolerated and had similar benefits compared to patients who underwent moderate continuous exercise (MCE) training, including improved left ventricular remodeling and aerobic capacity (105). A separate study found that 4 weeks of HIIT in heart failure patients with preserved ejection fraction improved VO2peakand reduced diastolic dysfunction compared to both pre-training values and compared to the MCE group (78). These studies indicate that both moderate and high intensity exercise training improve cardiovascular function in heart failure patients, likely related to increased endothelium-dependent vasodilation (106) and improved aerobic capacity (78,101,105).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A recent study found that 12 weeks of high intensity interval training (HIIT) in heart failure patients was well-tolerated."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "A separate study found that 4 weeks of HIIT in heart failure patients with preserved ejection fraction improved VO2peak."
+                }
+            ]
+        }
+    ]
+}

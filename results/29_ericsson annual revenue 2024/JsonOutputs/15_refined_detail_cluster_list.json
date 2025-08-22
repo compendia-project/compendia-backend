@@ -1,0 +1,202 @@
+[
+    {
+        "cluster_id": 6,
+        "title": "Profit Margins",
+        "description": "Ericsson reported an annual revenue of 247.88 billion SEK, with a net profit of 400 million kronor. The company's adjusted EBITA margin stood at 14.1%, and its adjusted core earnings reached 7.33 billion crowns. Despite a slight increase in sales, the Networks segment experienced an 8% decline, contributing to a share price drop of nearly 9% on the Stockholm exchange.",
+        "representative_facts": [
+            {
+                "fact_content": "Ericsson annual revenue was 247.88B SEK",
+                "fact_id": "6_0"
+            },
+            {
+                "fact_content": "Ericsson net profit was 400 million kronor",
+                "fact_id": "6_7"
+            },
+            {
+                "fact_content": "Adjusted EBITA margin at 14.1%",
+                "fact_id": "6_2"
+            }
+        ],
+        "cluster_order_id": 1
+    },
+    {
+        "cluster_id": 8,
+        "title": "Regional Surge",
+        "description": "Ericsson's financial performance in 2024 shows a mixed picture with a reported annual revenue of $23.35 billion USD. The company experienced a 2% increase in sales year-on-year, but also faced a 4% decline in net sales. Notably, sales in North America surged by 54%, while organic revenues decreased by 10% in 2023.",
+        "representative_facts": [
+            {
+                "fact_content": "Ericsson's 2024 revenue was $23.35 billion USD",
+                "fact_id": "8_5"
+            },
+            {
+                "fact_content": "Sales rose by 54% in North America",
+                "fact_id": "8_6"
+            },
+            {
+                "fact_content": "Organic revenues fell 10% to SEK263.4bn ($25.2bn) in 2023",
+                "fact_id": "8_9"
+            }
+        ],
+        "cluster_order_id": 2
+    },
+    {
+        "cluster_id": 4,
+        "title": "Margin Growth",
+        "description": "Ericsson's financial performance in 2024 showed mixed results. The company's revenue experienced a slight decline, with a 5.87% decrease overall. However, there was a notable increase in adjusted gross margin by over 5% compared to the previous year. Fourth-quarter sales reached 72.9 billion SEK, marking a 1% increase from the previous year. Despite these gains, net income and earnings per share saw significant declines.",
+        "representative_facts": [
+            {
+                "fact_content": "Ericsson's revenue was down 5.87%",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "Adjusted gross margin increased by over 5%",
+                "fact_id": "4_2"
+            },
+            {
+                "fact_content": "Fourth-quarter sales of 72.9bn SEK ($6.7bn)",
+                "fact_id": "4_3"
+            }
+        ],
+        "cluster_order_id": 3
+    },
+    {
+        "cluster_id": 3,
+        "title": "Revenue Decline",
+        "description": "Ericsson experienced a decline in annual revenue from $25.01 billion in 2023 to $23.35 billion in 2024, marking a 5% drop. Despite this, the company achieved a net profit of 400 million kronor for the year. The adjusted gross margin improved significantly from 41.1% to 46.3%, and North America saw a notable 54% increase in sales during Q4.",
+        "representative_facts": [
+            {
+                "fact_content": "Ericsson's revenue decreased from $25.01 Billion USD in 2023 to $23.35 Billion USD in 2024",
+                "fact_id": "3_1"
+            },
+            {
+                "fact_content": "Ericsson registered a net profit of 400 million kronor ($36.6 million) for the full year",
+                "fact_id": "3_4"
+            },
+            {
+                "fact_content": "Adjusted gross margin increased from 41.1% to 46.3%",
+                "fact_id": "3_7"
+            }
+        ],
+        "cluster_order_id": 4
+    },
+    {
+        "cluster_id": 1,
+        "title": "Forecasted Revenue",
+        "description": "Ericsson's financial performance for 2024 shows a forecasted revenue of $24.8 billion, with a notable increase in adjusted EBIT margin to 13.1%. Sales in North America surged by 54%, while the company's free cash flow rose to SEK 15.8 billion. Despite a 6% decline in network sales, overall sales reached SEK 72.9 billion.",
+        "representative_facts": [
+            {
+                "fact_content": "Ericsson Revenues forecasted to be $24.8 billion for the fiscal year 2024",
+                "fact_id": "1_0"
+            },
+            {
+                "fact_content": "Adjusted EBIT margin hitting 13.1%, up from 10.3% a year earlier",
+                "fact_id": "1_1"
+            },
+            {
+                "fact_content": "Sales rose by 54 percent in North America",
+                "fact_id": "1_3"
+            }
+        ],
+        "cluster_order_id": 5
+    },
+    {
+        "cluster_id": 2,
+        "title": "Operating Profit",
+        "description": "Ericsson's financial performance in 2024 shows a decrease in revenue by 6% to SEK 247.880 billion compared to 2023. The company's operating profit, excluding restructuring costs and impairments, was approximately 9.8 billion crowns. Despite the revenue decline, Ericsson maintained a gross margin of 42.7% and an EBITA margin of 9.6%.",
+        "representative_facts": [
+            {
+                "fact_content": "6 percent decrease in revenue in 2024 to SEK 247.880 billion from SEK 263.351 billion in 2023",
+                "fact_id": "2_5"
+            },
+            {
+                "fact_content": "Operating profit excluding restructuring costs and impairments was approximately 9.8 billion crowns",
+                "fact_id": "2_1"
+            },
+            {
+                "fact_content": "Gross margin of 42.7%",
+                "fact_id": "2_6"
+            }
+        ],
+        "cluster_order_id": 6
+    },
+    {
+        "cluster_id": 7,
+        "title": "Net Income Rise",
+        "description": "Ericsson's financial performance in 2024 showed mixed results. The company experienced a slight decline in sales, with a 1% drop in first-quarter sales and a 2% decrease in Cloud Software and Services. Despite these challenges, Ericsson's adjusted EBITA increased significantly, and net income rose from SEK 3.4 billion to SEK 4.9 billion. However, the company reported a full-year net loss of SEK 26.1 billion for 2023, partly due to restructuring costs.",
+        "representative_facts": [
+            {
+                "fact_content": "Ericsson reported a full year net loss of SEK26.1bn ($2.5bn) for 2023",
+                "fact_id": "7_10"
+            },
+            {
+                "fact_content": "Net income rose from SEK 3.4 billion to SEK 4.9 billion",
+                "fact_id": "7_9"
+            },
+            {
+                "fact_content": "Sales from Cloud Software and Services down 2 percent",
+                "fact_id": "7_2"
+            }
+        ],
+        "cluster_order_id": 7
+    },
+    {
+        "cluster_id": 9,
+        "title": "Core Earnings",
+        "description": "Ericsson's financial performance showed mixed results with adjusted core earnings surpassing expectations, while overall sales experienced slight fluctuations. The company reported strong growth in North America, with a significant increase in sales, but faced challenges in other regions such as North East Asia. Adjusted gross margins improved, indicating better profitability despite some revenue declines.",
+        "representative_facts": [
+            {
+                "fact_content": "Ericsson's adjusted core earnings beat a 5.75 billion crown mean forecast",
+                "fact_id": "9_0"
+            },
+            {
+                "fact_content": "Sales in North America increased to 20.4 billion crowns",
+                "fact_id": "9_2"
+            },
+            {
+                "fact_content": "Revenues from North East Asia fell 31% year over year to SEK 3.7 billion ($355 million)",
+                "fact_id": "9_15"
+            }
+        ],
+        "cluster_order_id": 8
+    },
+    {
+        "cluster_id": 5,
+        "title": "Regional Declines",
+        "description": "Ericsson is experiencing a decline in sales across various regions and segments. Sales from enterprises have decreased by 3%, while the Middle East and Africa saw a 24% drop in revenues. Additionally, there is a significant 49% sales decline in South East Asia, Oceania, and India. Despite these challenges, the adjusted gross margin has improved to 52.4% from 48.8% in the previous year. The consensus estimate for adjusted earnings per share for the December quarter is 21 cents, and the Networks segment is expected to generate SEK 45.19 billion in revenues.",
+        "representative_facts": [
+            {
+                "fact_content": "49% sales decline in South East Asia, Oceania and India",
+                "fact_id": "5_4"
+            },
+            {
+                "fact_content": "Revenues in the Middle East and Africa fell 24% to SEK 4.9 billion ($470 million)",
+                "fact_id": "5_5"
+            },
+            {
+                "fact_content": "Sales from Enterprises down 3 percent",
+                "fact_id": "5_0"
+            }
+        ],
+        "cluster_order_id": 9
+    },
+    {
+        "cluster_id": 10,
+        "title": "Growth Regions",
+        "description": "Ericsson's financial performance showed significant growth in certain regions, with North America leading the increase in sales. The Networks segment was a major contributor to the revenue, and the overall gross margin saw a notable improvement. However, there were declines in other regions such as North East Asia.",
+        "representative_facts": [
+            {
+                "fact_content": "Net sales from North America increased 51% year over year to SEK 20.4 billion ($1.96 billion)",
+                "fact_id": "10_9"
+            },
+            {
+                "fact_content": "Sales in the Networks segment from North America improved 80% year over year",
+                "fact_id": "10_5"
+            },
+            {
+                "fact_content": "Adjusted gross margin improved to 48.7% from 39.9% in the year-ago quarter",
+                "fact_id": "10_4"
+            }
+        ],
+        "cluster_order_id": 10
+    }
+]

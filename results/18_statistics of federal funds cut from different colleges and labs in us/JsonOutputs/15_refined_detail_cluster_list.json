@@ -1,0 +1,202 @@
+[
+    {
+        "cluster_id": 9,
+        "title": "Federal Allocations",
+        "description": "Federal funding plays a crucial role in supporting universities and research institutions across the United States. In fiscal year 2023, approximately $60 billion was allocated from the federal government to universities. The National Institutes of Health (NIH) is a significant contributor, with over 80% of its funding directed towards grants at universities and hospitals. However, funding challenges persist, as seen with the Trump administration's cancellation of $900 million in IES contracts and the freezing of $790 million in funding for Northwestern University.",
+        "representative_facts": [
+            {
+                "fact_content": "Roughly $60 billion flowed from the federal government to universities in fiscal year 2023",
+                "fact_id": "9_0"
+            },
+            {
+                "fact_content": "More than 80% of NIH funding goes to grants at universities and hospitals",
+                "fact_id": "9_7"
+            },
+            {
+                "fact_content": "The Trump administration canceled $900 million in IES contracts",
+                "fact_id": "9_3"
+            }
+        ],
+        "cluster_order_id": 1
+    },
+    {
+        "cluster_id": 3,
+        "title": "Grant Reliance",
+        "description": "Federal funding plays a crucial role in supporting research and operations at various U.S. universities and institutions. The National Institutes of Health (NIH) alone provides nearly $40 billion annually in grant funding, though it faces potential budget cuts of 40%. Institutions like Johns Hopkins and MIT heavily rely on federal funding, with over 40% of their revenue coming from these sources. The University of Arizona and others are taking measures such as bridge funding to mitigate the impact of potential federal funding reductions.",
+        "representative_facts": [
+            {
+                "fact_content": "NIH has nearly $40 billion in annual grant funding",
+                "fact_id": "3_7"
+            },
+            {
+                "fact_content": "NIH budget would be cut by 40%",
+                "fact_id": "3_6"
+            },
+            {
+                "fact_content": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323",
+                "fact_id": "3_9"
+            }
+        ],
+        "cluster_order_id": 2
+    },
+    {
+        "cluster_id": 10,
+        "title": "Contract Cancellations",
+        "description": "Federal funding cuts have significantly impacted educational and scientific research institutions. Approximately $1 billion in federal contracts for education research were cancelled, and over $17.5 million in funding was withdrawn by federal agencies. Prestigious universities like MIT and Johns Hopkins rely heavily on federal funds, with up to 48% of their revenue coming from these sources. The University of Alabama at Birmingham received over $400 million from the NIH in 2022, highlighting the critical role of federal support in sustaining research activities.",
+        "representative_facts": [
+            {
+                "fact_content": "Cancellation of $1 billion in federal education research contracts",
+                "fact_id": "10_0"
+            },
+            {
+                "fact_content": "MIT received 48% of its funding from the federal government in 2022\u201323",
+                "fact_id": "10_5"
+            },
+            {
+                "fact_content": "UAB received more than $400 million in funding from NIH in 2022",
+                "fact_id": "10_8"
+            }
+        ],
+        "cluster_order_id": 3
+    },
+    {
+        "cluster_id": 7,
+        "title": "Economic Impact",
+        "description": "Federal funding cuts, particularly from the NIH, are impacting research institutions significantly. Proposed caps on indirect funding cuts are set at 15%, with the NIH having already canceled over $3 billion in grants. These cuts could result in an annual economic loss of $16 billion and the loss of approximately 68,000 jobs. Prestigious universities, which rely heavily on federal funds, are particularly affected, with institutions like Johns Hopkins University receiving substantial federal support.",
+        "representative_facts": [
+            {
+                "fact_content": "The NIH has cancelled well over $3 billion in grants",
+                "fact_id": "7_6"
+            },
+            {
+                "fact_content": "Cuts would lead to about $16 billion in economic loss annually",
+                "fact_id": "7_7"
+            },
+            {
+                "fact_content": "Cuts would lead to around 68,000 lost jobs annually",
+                "fact_id": "7_8"
+            }
+        ],
+        "cluster_order_id": 4
+    },
+    {
+        "cluster_id": 2,
+        "title": "Program Reductions",
+        "description": "Significant reductions in federal funding are impacting various educational and research institutions across the U.S. The Federal Work-Study program faces a $980 million cut, while the University of Massachusetts Amherst anticipates a $6 million loss. The NIH has terminated or delayed over 2,000 grant awards, affecting numerous projects and staff. These cuts are part of broader budget reductions affecting public research, climate research, and health institutions.",
+        "representative_facts": [
+            {
+                "fact_content": "$980 million slashed from the Federal Work-Study program",
+                "fact_id": "2_0"
+            },
+            {
+                "fact_content": "University of Massachusetts Amherst faces an estimated loss of $6 million",
+                "fact_id": "2_1"
+            },
+            {
+                "fact_content": "NIH has terminated or delayed over 2,000 grant awards",
+                "fact_id": "2_10"
+            }
+        ],
+        "cluster_order_id": 5
+    },
+    {
+        "cluster_id": 6,
+        "title": "Massachusetts Challenges",
+        "description": "Research institutions in Massachusetts face significant funding challenges, with Harvard University experiencing a $2.2 billion freeze. The NSF budget is set to be cut by 57%, impacting numerous projects, including over 100 climate-related ones. A $1.3 million project co-authored by Holmes is stalled due to the funding freeze.",
+        "representative_facts": [
+            {
+                "fact_content": "Harvard University was hit with a $2.2 billion research funding freeze",
+                "fact_id": "6_3"
+            },
+            {
+                "fact_content": "The NSF budget would be cut by 57%",
+                "fact_id": "6_5"
+            },
+            {
+                "fact_content": "A $1.3 million project co-authored by Holmes was recommended for funding but stalled due to the funding freeze",
+                "fact_id": "6_2"
+            }
+        ],
+        "cluster_order_id": 6
+    },
+    {
+        "cluster_id": 4,
+        "title": "Institutional Losses",
+        "description": "Research institutions in Massachusetts face a potential loss of $535 million in funding. The department's research arm granted $260 million in fiscal 2024, but significant staff reductions have occurred, with around 2,400 FDA staff members let go. Columbia University received substantial grants for cancer biology and drug abuse research, while NASA's science budget faces a 47% cut. Seventeen colleges and universities rely heavily on federal funding, receiving at least 20% of their funds from the government.",
+        "representative_facts": [
+            {
+                "fact_content": "$535 million in funding is estimated to be lost by research institutions in Massachusetts",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "NASA\u2019s science budget would be cut by 47%",
+                "fact_id": "4_7"
+            },
+            {
+                "fact_content": "17 colleges and universities received at least 20% of their funding from the federal government",
+                "fact_id": "4_8"
+            }
+        ],
+        "cluster_order_id": 7
+    },
+    {
+        "cluster_id": 5,
+        "title": "Funding Shifts",
+        "description": "Several universities in the U.S. are experiencing significant changes in federal funding. Columbia University received substantial federal support, with $1.2 billion in the 2022-2023 academic year, including $99 million for aging research. Conversely, Northwestern University faced a freeze on $790 million in funding, and the University of Pennsylvania saw a $175 million reduction in its research budget. These shifts highlight the varying impacts of federal funding decisions on higher education institutions.",
+        "representative_facts": [
+            {
+                "fact_content": "Columbia received $1.2 billion from federal sources in 2022-2023",
+                "fact_id": "5_5"
+            },
+            {
+                "fact_content": "Government froze $790 million in funding for Northwestern",
+                "fact_id": "5_7"
+            },
+            {
+                "fact_content": "Federal cut $175 million from University of Pennsylvania's research budget",
+                "fact_id": "5_8"
+            }
+        ],
+        "cluster_order_id": 8
+    },
+    {
+        "cluster_id": 8,
+        "title": "Support Decline",
+        "description": "In 2024, significant changes in research funding were observed across various institutions. The University of Massachusetts Amherst received $38 million, while Harvard secured nearly $488 million from the NIH. However, federal support for academic research has declined significantly since 1970, and the NSF has canceled over $1 billion in grants. Additionally, the White House canceled $400 million in funding for Columbia University, highlighting a trend of fluctuating financial support for research.",
+        "representative_facts": [
+            {
+                "fact_content": "Harvard received nearly $488 million in NIH funding in FY 2024",
+                "fact_id": "8_2"
+            },
+            {
+                "fact_content": "The White House canceled $400 million worth of funding for Columbia University",
+                "fact_id": "8_8"
+            },
+            {
+                "fact_content": "The NSF has cancelled over $1 billion in grants",
+                "fact_id": "8_9"
+            }
+        ],
+        "cluster_order_id": 9
+    },
+    {
+        "cluster_id": 1,
+        "title": "Alternative Sources",
+        "description": "In 2023, research funding at colleges and universities was significantly supported by industry, charities, and other sources, contributing about 15% of the total. Yale's Graduate School of Arts and Sciences is addressing funding challenges by investing $4 million to aid graduate students who lost grants. Meanwhile, Johns Hopkins University is utilizing its $13.2 billion endowment to support its financial needs.",
+        "representative_facts": [
+            {
+                "fact_content": "Support from industry, charities, and other sources made up about 15% of contributions to research funding at colleges and universities in 2023",
+                "fact_id": "1_1"
+            },
+            {
+                "fact_content": "Yale\u2019s Graduate School of Arts and Sciences is investing $4 million to support graduate students who have lost training and research grants",
+                "fact_id": "1_2"
+            },
+            {
+                "fact_content": "Johns Hopkins University is tapping earnings from its $13.2 billion endowment",
+                "fact_id": "1_3"
+            }
+        ],
+        "cluster_order_id": 10
+    }
+]

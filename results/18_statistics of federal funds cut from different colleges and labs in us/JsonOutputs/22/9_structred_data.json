@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Federal agencies cancelled more than $17.5 million in funding across TC\u2019s education, health and psychology projects, including grant termination letters by the U.S. Department of Education on March 7. Additional cancellation notices for an NIH grant, two F31 student fellowships, and two Fulbright-Hays awards were issued later in March. Since then, College leadership and faculty have investigated the full scope and impact of the federal grant cuts as outlined below.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Federal agencies cancelled more than $17.5 million in funding.",
+                    "vis_data": [
+                        {
+                            "label": "Cancelled Funding",
+                            "value": "18",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "22_0_0"
+                }
+            ],
+            "relatedness_score": 0.5524982056530451,
+            "article_meta_data": {
+                "title": "Federal Cuts Hinder Public Good Research Across TC",
+                "date": "2025-03-25",
+                "url": "https://www.tc.columbia.edu/articles/2025/march/federal-cuts-hinder-public-good-research-across-tc/",
+                "id": 22
+            },
+            "para_id": "22_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "22_0",
+            "paragraph": "Federal agencies cancelled more than $17.5 million in funding across TC\u2019s education, health and psychology projects, including grant termination letters by the U.S. Department of Education on March 7. Additional cancellation notices for an NIH grant, two F31 student fellowships, and two Fulbright-Hays awards were issued later in March. Since then, College leadership and faculty have investigated the full scope and impact of the federal grant cuts as outlined below."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "22_0_0",
+            "fact_content": "Federal agencies cancelled more than $17.5 million in funding."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Federal agencies cancelled more than $17.5 million in funding.",
+            "vis_data": [
+                {
+                    "label": "Cancelled Funding",
+                    "value": "18",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "22_0_0"
+        }
+    ]
+}

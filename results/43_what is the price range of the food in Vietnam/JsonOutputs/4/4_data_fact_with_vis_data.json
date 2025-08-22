@@ -1,0 +1,146 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": " * Street food stalls or local restaurants: From 20,000 VND to 70,000 VND for a basic meal like a bowl of pho or a plate of rice with meat and vegetables.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Street food stalls or local restaurants: From 20,000 VND to 70,000 VND for a basic meal.",
+                    "vis_data": [
+                        {
+                            "label": "Street Food/Local Restaurants Min",
+                            "value": "20000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Street Food/Local Restaurants Max",
+                            "value": "70000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": " * Mid-range or tourist-oriented restaurants: From 100,000 VND to 250,000 VND, including both Vietnamese and international cuisines.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Mid-range or tourist-oriented restaurants: From 100,000 VND to 250,000 VND.",
+                    "vis_data": [
+                        {
+                            "label": "Mid-range Restaurants Min",
+                            "value": "100000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Mid-range Restaurants Max",
+                            "value": "250000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": " * Upscale or luxury restaurants: From 300,000 VND and above for a meal.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Upscale or luxury restaurants: From 300,000 VND and above for a meal.",
+                    "vis_data": [
+                        {
+                            "label": "Upscale Restaurants Min",
+                            "value": "300000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The cost of a self-cooked meal can fluctuate depending on the type of ingredients and the complexity of the dish. However, the typical cost for a self-cooked meal in Vietnam ranges from 30,000 to 100,000 VND per person. This price range can fluctuate based on geographical location and the quality of the ingredients used.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The typical cost for a self-cooked meal in Vietnam ranges from 30,000 to 100,000 VND per person.",
+                    "vis_data": [
+                        {
+                            "label": "Self-cooked Meal Min",
+                            "value": "30000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Self-cooked Meal Max",
+                            "value": "100000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Traditional breakfast options in Vietnam often include Vietnamese vermicelli noodles, Vietnamese bun, Vietnamese bread. Prices typically range from around 20,000 to 100,000 Vietnamese dong, depending on the dining establishment and ingredients used.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Traditional breakfast options in Vietnam range from around 20,000 to 100,000 VND.",
+                    "vis_data": [
+                        {
+                            "label": "Breakfast Min",
+                            "value": "20000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Breakfast Max",
+                            "value": "100000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "When it comes to the average cost, lunch meals in Vietnam are generally affordable, ranging from around 40,000 VND to 150,000 VND per person. However, prices can vary depending on the location and type of dining establishment. Street food vendors and local eateries often offer more budget-friendly options, while upscale restaurants may have slightly higher prices.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Lunch meals in Vietnam range from around 40,000 VND to 150,000 VND per person.",
+                    "vis_data": [
+                        {
+                            "label": "Lunch Min",
+                            "value": "40000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Lunch Max",
+                            "value": "150000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Typically, the average cost for a dinner in Vietnam ranges from around 50,000 VND to 200,000 VND per person. Having dinner at home or at local restaurants is more affordable compared to upscale restaurants.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average cost for a dinner in Vietnam ranges from around 50,000 VND to 200,000 VND per person.",
+                    "vis_data": [
+                        {
+                            "label": "Dinner Min",
+                            "value": "50000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Dinner Max",
+                            "value": "200000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

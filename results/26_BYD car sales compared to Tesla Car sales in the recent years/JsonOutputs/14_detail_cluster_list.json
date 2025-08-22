@@ -1,0 +1,192 @@
+[
+    {
+        "cluster_id": 1,
+        "title": "EV Sales",
+        "description": "In 2024, BYD and Tesla were closely matched in electric vehicle sales, with BYD selling 1.76 million battery-electric vehicles and Tesla selling 1.78 million. BYD's revenue for the year was 777 billion yuan, marking a 29% increase, while Tesla experienced a significant decline in net income by 55.07% to $1.13 billion. BYD's net income exceeded analyst expectations, reaching 40.3 billion yuan.",
+        "representative_facts": [
+            {
+                "fact_content": "BYD sold 1.76 million battery-electric vehicles in 2024",
+                "fact_id": "1_2"
+            },
+            {
+                "fact_content": "Tesla sold 1.78 million vehicles in 2024",
+                "fact_id": "1_1"
+            },
+            {
+                "fact_content": "BYD reported annual revenue of 777 billion yuan ($107 billion) for 2024",
+                "fact_id": "1_0"
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "title": "BYD Growth",
+        "description": "BYD has demonstrated significant growth, surpassing Tesla in several key metrics. BYD's revenue exceeded Tesla's $97.7 billion annual revenue, and its global vehicle sales reached 4.3 million in 2024. Additionally, BYD's net income rose by 10.62% to 4.57 billion CNY, highlighting its strong financial performance.",
+        "representative_facts": [
+            {
+                "fact_content": "BYD's revenue exceeded Tesla's $97.7 billion annual revenue",
+                "fact_id": "9_0"
+            },
+            {
+                "fact_content": "BYD sold 4.3 million vehicles globally in 2024",
+                "fact_id": "9_9"
+            },
+            {
+                "fact_content": "BYD's net income rose by 10.62% to 4.57B CNY",
+                "fact_id": "9_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "title": "EV Sales",
+        "description": "BYD and Tesla have shown significant activity in the electric vehicle market. BYD reported a 29% revenue increase and sold over 526,000 EVs in Q4 2023, while Tesla sold nearly 485,000 EVs in the same period. Tesla achieved its annual sales target with 1.81 million EVs delivered in 2023, marking a 38% year-on-year increase in global vehicle deliveries.",
+        "representative_facts": [
+            {
+                "fact_content": "BYD reported selling more than 526,000 EVs in the fourth quarter of 2023",
+                "fact_id": "6_4"
+            },
+            {
+                "fact_content": "Tesla\u2019s sales were nearly 485,000 EVs in the fourth quarter of 2023",
+                "fact_id": "6_5"
+            },
+            {
+                "fact_content": "Tesla hit its yearly sales target of 1.81M delivered EVs in 2023",
+                "fact_id": "6_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "title": "BYD Growth",
+        "description": "BYD experienced significant growth in 2024, selling 4.27 million vehicles and achieving a 32% share of China's new energy vehicle market. The company's revenue rose by 29%, reaching 777 billion yuan ($107 billion), and its production increased by over 700% in seven years. In contrast, Tesla's revenue decreased by 8.69% to $21.30 billion in March 2024, and its market share fell from 60% in 2020 to 38% in 2024.",
+        "representative_facts": [
+            {
+                "fact_content": "BYD sold 4.27 million vehicles in 2024",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "BYD had a 32% share of China\u2019s total market for new energy vehicle sales",
+                "fact_id": "4_1"
+            },
+            {
+                "fact_content": "BYD's revenue is 777 billion yuan ($107 billion)",
+                "fact_id": "4_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "title": "EV Sales",
+        "description": "BYD experienced significant growth in its electric vehicle sales, with a 359% increase and 509,440 units sold in December. In contrast, Tesla's sales volumes decreased by 49%, although it still delivered 1.79 million battery-powered vehicles. BYD also reported $107 billion in sales for 2024, with 10% of its shipments exported overseas.",
+        "representative_facts": [
+            {
+                "fact_content": "BYD saw an increase of 359% over the same period",
+                "fact_id": "5_0"
+            },
+            {
+                "fact_content": "BYD sold 509,440 plug-in hybrid and pure-electric passenger vehicles in December",
+                "fact_id": "5_1"
+            },
+            {
+                "fact_content": "Tesla's total volumes down 49% over the same period",
+                "fact_id": "5_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "title": "Tesla Dominance",
+        "description": "Tesla continues to be a major player in the global electric vehicle market, maintaining a significant market share despite a slight decline. The company sold over 101,000 vehicles in January 2025 and increased production by 35% year-on-year. However, Tesla's market share in China for new energy vehicles is 6.1%, and its global market share for electric vehicle sales is 10.3%, compared to BYD's 22.2%.",
+        "representative_facts": [
+            {
+                "fact_content": "Tesla sold 101,101 vehicles in January 2025",
+                "fact_id": "3_0"
+            },
+            {
+                "fact_content": "Tesla\u2019s production increased by 35% year-on-year to 1.85M vehicles",
+                "fact_id": "3_5"
+            },
+            {
+                "fact_content": "Tesla controls 10.3 percent of the global market share for electric vehicle sales",
+                "fact_id": "3_13"
+            }
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "title": "Automotive Trends",
+        "description": "The automotive industry is witnessing significant shifts, with BYD showing remarkable growth in sales and revenue, while Tesla faces challenges in certain markets. BYD's sales surged in early 2025, reflecting a strong market presence, whereas Tesla experienced a decline in European sales and a drop in earnings per share. These trends highlight the dynamic nature of the automotive sector, with new models entering the market and companies adapting to changing consumer demands.",
+        "representative_facts": [
+            {
+                "fact_content": "BYD's sales in the first two months of 2025 were up 93% year-on-year to 623,300 units",
+                "fact_id": "10_4"
+            },
+            {
+                "fact_content": "Tesla\u2019s sales in Europe plunged around 40% in February from the same month in 2024",
+                "fact_id": "10_6"
+            },
+            {
+                "fact_content": "BYD recorded revenues of 777 billion yuan ($107 billion) for 2024",
+                "fact_id": "10_1"
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "title": "EV Sales",
+        "description": "BYD and Tesla are leading players in the electric vehicle market, with BYD surpassing Tesla in revenue and market share in China. BYD's revenue reached $107 billion, exceeding Tesla's $97.7 billion in 2024. BYD also commands a significant market share in China, with 27%, compared to Tesla's 4%. In terms of global sales, BYD controls 22.2% of the electric vehicle market, highlighting its strong position in the industry.",
+        "representative_facts": [
+            {
+                "fact_content": "BYD's revenue was $107 billion, surpassing Tesla's 2024 revenue of $97.7 billion",
+                "fact_id": "7_14"
+            },
+            {
+                "fact_content": "BYD has 27% of the market share in China",
+                "fact_id": "7_18"
+            },
+            {
+                "fact_content": "BYD controls 22.2 percent of all electric vehicle sales in the global market",
+                "fact_id": "7_24"
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "title": "EV Sales",
+        "description": "In 2023, the global electric vehicle market saw significant growth with 13.6 million units sold. Tesla and BYD were notable players, with Tesla's registrations increasing by 30% and BYD exporting 10% of its shipments overseas. Other brands like BMW and MINI also experienced substantial registration increases, highlighting the expanding adoption of electric vehicles worldwide.",
+        "representative_facts": [
+            {
+                "fact_content": "13.6 million EVs were sold worldwide in 2023",
+                "fact_id": "2_0"
+            },
+            {
+                "fact_content": "TESLA registrations increased by 30%",
+                "fact_id": "2_3"
+            },
+            {
+                "fact_content": "10% of BYD\u2019s shipments last year were exported to overseas markets",
+                "fact_id": "2_1"
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "title": "Registration Surge",
+        "description": "The automotive market is experiencing significant growth in electric vehicle registrations, with several brands showing remarkable increases. POLESTAR leads with a 757% rise in registrations, followed by LEXUS with a 609% increase. KIA also shows a substantial growth of 214% in registrations, indicating a strong shift towards electric vehicles across multiple brands.",
+        "representative_facts": [
+            {
+                "fact_content": "POLESTAR registrations increased by 757%",
+                "fact_id": "8_2"
+            },
+            {
+                "fact_content": "LEXUS registrations increased by 609%",
+                "fact_id": "8_10"
+            },
+            {
+                "fact_content": "KIA registrations increased by 214%",
+                "fact_id": "8_3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,215 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "SINGAPORE \u2013Singapore\u2019s total population stood at 6.04 million as at June 2024, a 2 per cent rise from June 2023, the Government\u2019s latest Population in Brief report showed.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore\u2019s total population stood at 6.04 million as at June 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Total Population",
+                            "value": "6.04",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Singapore\u2019s total population rose by 2 per cent from June 2023 to June 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population Growth",
+                            "value": "2",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.651980949338989
+        },
+        {
+            "paragraph": "Based on the current average growth rate, Mr Gee projected that Singapore will have a population of 6.37 million by June 2030.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore is projected to have a population of 6.37 million by June 2030.",
+                    "vis_data": [
+                        {
+                            "label": "Projected Population 2030",
+                            "value": "6.37",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6256610794128311
+        },
+        {
+            "paragraph": "The increase was due mainly to a 5 per cent increase in the non-resident population, which grew from 1.77 million in June 2023 to 1.86 million in June 2024, said the annual report released on Sept 24 by the National Population and Talent Division (NPTD).",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Non-resident population grew by 5 per cent from June 2023 to June 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Non-resident Growth",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Non-resident population grew from 1.77 million in June 2023 to 1.86 million in June 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Non-resident Population 2023",
+                            "value": "1.77",
+                            "unit": "million"
+                        },
+                        {
+                            "label": "Non-resident Population 2024",
+                            "value": "1.86",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5747678654411201
+        },
+        {
+            "paragraph": "Today, the foreign workforce in Singapore accounts for about two-thirds of the non-resident population, while the remaining one-third comprises mainly migrant domestic workers, dependants and students, said the NPTD report.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Foreign workforce accounts for about two-thirds of the non-resident population.",
+                    "vis_data": [
+                        {
+                            "label": "Foreign Workforce Proportion",
+                            "value": "66.67",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "One-third of the non-resident population comprises mainly migrant domestic workers, dependants and students.",
+                    "vis_data": [
+                        {
+                            "label": "Migrant Workers Proportion",
+                            "value": "33.33",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.534230399153408
+        },
+        {
+            "paragraph": "The citizen population rose by 0.7 per cent from 3.61 million in June 2023 to 3.64 million in June 2024, while the permanent resident population grew by 1.2 per cent from 538,600 to 544,900 over the same period.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Citizen population rose by 0.7 per cent from June 2023 to June 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Citizen Growth",
+                            "value": "0.7",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Citizen population rose from 3.61 million in June 2023 to 3.64 million in June 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Citizen Population 2023",
+                            "value": "3.61",
+                            "unit": "million"
+                        },
+                        {
+                            "label": "Citizen Population 2024",
+                            "value": "3.64",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Permanent resident population grew by 1.2 per cent from June 2023 to June 2024.",
+                    "vis_data": [
+                        {
+                            "label": "PR Growth",
+                            "value": "1.2",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Permanent resident population grew from 538,600 to 544,900 from June 2023 to June 2024.",
+                    "vis_data": [
+                        {
+                            "label": "PR Population 2023",
+                            "value": "538600",
+                            "unit": "individuals"
+                        },
+                        {
+                            "label": "PR Population 2024",
+                            "value": "544900",
+                            "unit": "individuals"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.525913932666279
+        },
+        {
+            "paragraph": "The annualised population growth rate of 1.1 per cent over the past five years was slightly higher than the 0.8 per cent between 2014 and 2019.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Annualised population growth rate was 1.1 per cent over the past five years.",
+                    "vis_data": [
+                        {
+                            "label": "Annualised Growth Rate",
+                            "value": "1.1",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Annualised population growth rate of 1.1 per cent over the past five years was higher than the 0.8 per cent between 2014 and 2019.",
+                    "vis_data": [
+                        {
+                            "label": "Growth Rate Difference",
+                            "value": "0.3",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4746864741366723
+        },
+        {
+            "paragraph": "Growth was also high for foreign workers in non-CMP sectors such as retail, food and beverage, hospitality and healthcare, with an 8.8 per cent increase year on year, Mr Gee noted.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Foreign workers in non-CMP sectors saw an 8.8 per cent increase year on year.",
+                    "vis_data": [
+                        {
+                            "label": "Non-CMP Sector Growth",
+                            "value": "8.8",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4211160961848992
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "2025 YTDYTD changeTESLA816+30%BYD635+138%POLESTAR403+757%KIA298+214%BMW237+58%MERCEDES-BENZ181+85%MINI158+1336%MG125+2%LDV106+38%TOYOTA93+66%LEXUS78+609%AUDI73-19%New BEVs registered in New Zealand including passenger cars, vans, and utes (source NZTA). Year-to-date (YTD) represents total registrations for the current calendar year. YTD change shows the percentage increase or decrease compared to the same period last year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "TESLA 816 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "TESLA",
+                            "value": "816",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "TESLA registrations increased by 30%.",
+                    "vis_data": [
+                        {
+                            "label": "TESLA",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD 635 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "BYD",
+                            "value": "635",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD registrations increased by 138%.",
+                    "vis_data": [
+                        {
+                            "label": "BYD",
+                            "value": "138",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "POLESTAR 403 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "POLESTAR",
+                            "value": "403",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "POLESTAR registrations increased by 757%.",
+                    "vis_data": [
+                        {
+                            "label": "POLESTAR",
+                            "value": "757",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "KIA 298 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "KIA",
+                            "value": "298",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "KIA registrations increased by 214%.",
+                    "vis_data": [
+                        {
+                            "label": "KIA",
+                            "value": "214",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BMW 237 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "BMW",
+                            "value": "237",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BMW registrations increased by 58%.",
+                    "vis_data": [
+                        {
+                            "label": "BMW",
+                            "value": "58",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "MERCEDES-BENZ 181 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "MERCEDES-BENZ",
+                            "value": "181",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "MERCEDES-BENZ registrations increased by 85%.",
+                    "vis_data": [
+                        {
+                            "label": "MERCEDES-BENZ",
+                            "value": "85",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "MINI 158 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "MINI",
+                            "value": "158",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "MINI registrations increased by 1336%.",
+                    "vis_data": [
+                        {
+                            "label": "MINI",
+                            "value": "1336",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "MG 125 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "MG",
+                            "value": "125",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "MG registrations increased by 2%.",
+                    "vis_data": [
+                        {
+                            "label": "MG",
+                            "value": "2",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "LDV 106 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "LDV",
+                            "value": "106",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "LDV registrations increased by 38%.",
+                    "vis_data": [
+                        {
+                            "label": "LDV",
+                            "value": "38",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "TOYOTA 93 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "TOYOTA",
+                            "value": "93",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "TOYOTA registrations increased by 66%.",
+                    "vis_data": [
+                        {
+                            "label": "TOYOTA",
+                            "value": "66",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "LEXUS 78 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "LEXUS",
+                            "value": "78",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "LEXUS registrations increased by 609%.",
+                    "vis_data": [
+                        {
+                            "label": "LEXUS",
+                            "value": "609",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "AUDI 73 new BEVs registered.",
+                    "vis_data": [
+                        {
+                            "label": "AUDI",
+                            "value": "73",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "AUDI registrations decreased by 19%.",
+                    "vis_data": [
+                        {
+                            "label": "AUDI",
+                            "value": "19",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5731367022564089
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+[
+    {
+        "cluster_id": 6,
+        "title": "Population Milestones",
+        "description": "As of 2025, the global population is approximately 8.2 billion, with significant concentrations in Asia and Africa. China and India each have populations around 1.4 billion, with India projected to reach 1.5 billion by 2030. The United States is expected to have 347 million inhabitants in 2025, while Nigeria is anticipated to experience the largest population growth by 2100.",
+        "representative_facts": [
+            {
+                "fact_content": "The total number of humans as of July 13, 2025 is 8,226,524,140",
+                "fact_id": "6_0"
+            },
+            {
+                "fact_content": "India is set to reach a population of 1.5 billion by 2030",
+                "fact_id": "6_11"
+            },
+            {
+                "fact_content": "Nigeria is expected to have the largest population gain of 527 million by 2100",
+                "fact_id": "6_13"
+            }
+        ],
+        "cluster_order_id": 1
+    },
+    {
+        "cluster_id": 9,
+        "title": "Future Growth",
+        "description": "Global population trends indicate significant growth, with the world's population expected to surpass 10 billion by 2060 and reach around 10.3 billion in the 2080s. India and China remain the most populous countries, with India projected to grow to 1.7 billion by 2050. Africa's population is also set to increase substantially, reaching 3.9 billion by 2100, while some regions like Europe and Bosnia-Herzegovina face population declines.",
+        "representative_facts": [
+            {
+                "fact_content": "Global population to exceed 10 billion by 2060",
+                "fact_id": "9_5"
+            },
+            {
+                "fact_content": "India to reach 1.7 billion by 2050",
+                "fact_id": "9_7"
+            },
+            {
+                "fact_content": "Africa's population to grow to 3.9 billion by 2100",
+                "fact_id": "9_4"
+            }
+        ],
+        "cluster_order_id": 2
+    },
+    {
+        "cluster_id": 4,
+        "title": "Regional Shifts",
+        "description": "The global population landscape is shifting, with significant changes expected by 2100. Asian countries dominate the top 10 in population rankings, and countries like Tanzania and Pakistan are projected to see substantial population increases. Conversely, nations such as Russia, Albania, and Serbia are expected to experience significant population declines.",
+        "representative_facts": [
+            {
+                "fact_content": "5 places in the top 10 are occupied by Asian countries",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "Tanzania's population is expected to increase by 378% by 2100",
+                "fact_id": "4_5"
+            },
+            {
+                "fact_content": "Russia's population is expected to decrease by 14% by 2100",
+                "fact_id": "4_4"
+            }
+        ],
+        "cluster_order_id": 3
+    },
+    {
+        "cluster_id": 10,
+        "title": "African Surge",
+        "description": "Global population trends reveal significant growth in Africa, with countries like Niger and the Democratic Republic of the Congo expected to see substantial increases by 2100. In contrast, countries such as Brazil and Bangladesh are projected to experience population declines. Africa's current demographic impact is notable, with a significant proportion of the world's births occurring on the continent.",
+        "representative_facts": [
+            {
+                "fact_content": "Niger is expected to have a 581% increase in population by 2100",
+                "fact_id": "10_5"
+            },
+            {
+                "fact_content": "The Democratic Republic of the Congo's population is expected to increase by 304% by 2100",
+                "fact_id": "10_4"
+            },
+            {
+                "fact_content": "Africa's population will grow by 62%",
+                "fact_id": "10_0"
+            }
+        ],
+        "cluster_order_id": 4
+    },
+    {
+        "cluster_id": 8,
+        "title": "Asian Dominance",
+        "description": "Global population dynamics reveal significant growth patterns and projections. Asia remains the most populous continent with 4.7 billion people, while China and India lead with over 1.4 billion and a 0.89% growth rate, respectively. Ethiopia and the United States are projected to see substantial population increases by 2100, with Ethiopia's population expected to rise by 156% and the U.S. gaining 103 million people.",
+        "representative_facts": [
+            {
+                "fact_content": "4.7 billion people live in Asia as of 2023",
+                "fact_id": "8_2"
+            },
+            {
+                "fact_content": "Ethiopia's population expected to increase by 156% by 2100",
+                "fact_id": "8_3"
+            },
+            {
+                "fact_content": "U.S. projected to gain 103 million people by 2100",
+                "fact_id": "8_4"
+            }
+        ],
+        "cluster_order_id": 5
+    },
+    {
+        "cluster_id": 5,
+        "title": "Growth Patterns",
+        "description": "India's population has surpassed 1.46 billion, with a significant rural demographic of 900 million. China's population is projected to decline, with a negative growth rate of -0.23%, potentially dropping below 1 billion by 2070. Meanwhile, Indonesia and Bangladesh are expected to see population increases, reaching 286 million and 176 million respectively by 2025.",
+        "representative_facts": [
+            {
+                "fact_content": "India has over 1.46 billion people",
+                "fact_id": "5_5"
+            },
+            {
+                "fact_content": "China's population will slide under 1 billion by 2070",
+                "fact_id": "5_4"
+            },
+            {
+                "fact_content": "Indonesia is expected to have roughly 286 million people in 2025",
+                "fact_id": "5_6"
+            }
+        ],
+        "cluster_order_id": 6
+    },
+    {
+        "cluster_id": 1,
+        "title": "Urbanization Impact",
+        "description": "Countries are experiencing varied population growth rates and urbanization trends. Angola is projected to see a significant population increase by 2100, while Nigeria and the US have current growth rates of 2.08% and 0.54%, respectively. Urbanization is notable in China, India, and Indonesia, with a significant portion of their populations living in urban areas.",
+        "representative_facts": [
+            {
+                "fact_content": "Angola's population to rise 473% by 2100",
+                "fact_id": "1_0"
+            },
+            {
+                "fact_content": "Nigeria's growth rate is 2.08%",
+                "fact_id": "1_1"
+            },
+            {
+                "fact_content": "67.5% of China's population live in urban areas",
+                "fact_id": "1_4"
+            }
+        ],
+        "cluster_order_id": 7
+    },
+    {
+        "cluster_id": 7,
+        "title": "Demographic Shifts",
+        "description": "Global population trends indicate significant shifts by 2100, with Moldova facing a drastic 50% population decrease, while Africa is projected to become the birthplace of half the world's babies. The U.S. and Russia are expected to see moderate population growth by 2025, with urbanization playing a key role in these changes.",
+        "representative_facts": [
+            {
+                "fact_content": "Moldova's population may drop 50% by 2100",
+                "fact_id": "7_0"
+            },
+            {
+                "fact_content": "Half of world's babies born in Africa by 2100",
+                "fact_id": "7_1"
+            },
+            {
+                "fact_content": "U.S. population expected to reach 347 million by 2025",
+                "fact_id": "7_6"
+            }
+        ],
+        "cluster_order_id": 8
+    },
+    {
+        "cluster_id": 3,
+        "title": "Density Variations",
+        "description": "The global population landscape is diverse, with Vatican City being the smallest country by population, while countries like India and Nigeria are projected to have significant population growth by 2025. Population density varies widely, with Bangladesh having one of the highest densities at 1,350 people per km\u00b2, contrasting with the declining population in Russia.",
+        "representative_facts": [
+            {
+                "fact_content": "Vatican City is the smallest country with around 500 people",
+                "fact_id": "3_0"
+            },
+            {
+                "fact_content": "India is expected to have over 1.46 billion people in 2025",
+                "fact_id": "3_2"
+            },
+            {
+                "fact_content": "Bangladesh has a population density of 1,350 people per km\u00b2",
+                "fact_id": "3_7"
+            }
+        ],
+        "cluster_order_id": 9
+    },
+    {
+        "cluster_id": 2,
+        "title": "Aging Dynamics",
+        "description": "The global demographic landscape is shifting, with significant increases in the elderly population across various countries. South Korea's elderly population has grown from 5% in 1990 to 20% in 2024, and is projected to reach 50% by 2062. Similarly, Canada's population aged 65 and older has more than doubled since 1991. These trends highlight the growing impact of aging populations on national demographics.",
+        "representative_facts": [
+            {
+                "fact_content": "South Korea's elderly population grew from 5% in 1990 to 20% in 2024",
+                "fact_id": "2_4"
+            },
+            {
+                "fact_content": "Canada's population aged 65+ more than doubled from 1991 to 2024",
+                "fact_id": "2_5"
+            },
+            {
+                "fact_content": "50% of South Korea's population will be 65+ by 2062",
+                "fact_id": "2_6"
+            }
+        ],
+        "cluster_order_id": 10
+    }
+]

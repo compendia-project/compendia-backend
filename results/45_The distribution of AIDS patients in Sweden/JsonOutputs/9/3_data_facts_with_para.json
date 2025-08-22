@@ -1,0 +1,33 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "In the following six countries reporting more than 50 cases, 75% or more of the patients were homosexual males: the Netherlands (88%), the United Kingdom (87%), Denmark (86%), Sweden (81%), Norway (79%), and the Federal Republic of Germany (76%).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "88% of the patients were homosexual males in the Netherlands."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "87% of the patients were homosexual males in the United Kingdom."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "86% of the patients were homosexual males in Denmark."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "81% of the patients were homosexual males in Sweden."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "79% of the patients were homosexual males in Norway."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "76% of the patients were homosexual males in the Federal Republic of Germany."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "Drink beer:It's hot in Vietnam, and nothing helps cool you down like a glass of beer. You'll see it for sale everywhere. We bought some from an old lady selling it out of her house, and we sat with her on little stools on the sidewalk and drank a few bottles. Also, a bottle of beer is cheaper than a bottle of water in Vietnam, use that to your advantage, and remember beer is 95% water anyway! Cheers!",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Beer is 95% water.",
+                    "vis_data": [
+                        {
+                            "label": "Water in Beer",
+                            "value": "95",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

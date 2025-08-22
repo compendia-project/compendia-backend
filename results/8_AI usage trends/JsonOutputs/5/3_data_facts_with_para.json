@@ -1,0 +1,175 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "The AI market is projected to reach a staggering $1,339 billion by 2030, experiencing substantial growth from its estimated $214 billion revenue in 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The AI market is projected to reach $1,339 billion by 2030."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The AI market is estimated to have $214 billion revenue in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "AI is expected to contribute a significant 21% net increase to the United States GDP by 2030, showcasing its impact on economic growth.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "AI is expected to contribute a 21% net increase to the United States GDP by 2030."
+                }
+            ]
+        },
+        {
+            "paragraph": "A significant 64% of businesses believe that artificial intelligence will help increase their overall productivity, as revealed in a Forbes Advisor survey. This demonstrates the growing confidence in AI\u2019s potential to transform business operations.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "64% of businesses believe AI will help increase their overall productivity."
+                }
+            ]
+        },
+        {
+            "paragraph": "AI continues to revolutionize various industries, with an expected annual growth rate of 36.6% between 2023 and 2030, as reported by Grand View Research. This rapid growth emphasizes the increasing impact of AI technologies in the coming years.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "AI is expected to have an annual growth rate of 36.6% between 2023 and 2030."
+                }
+            ]
+        },
+        {
+            "paragraph": "Nearly three out of four businesses have started using AI for at least onebusiness function. In addition, half of survey respondents use AI for two or more of their business functions. This is a sharp uptick from 2023 when less than a third of respondents had reported using AI for at least two business functions.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Nearly three out of four businesses have started using AI for at least one business function."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Half of survey respondents use AI for two or more of their business functions."
+                }
+            ]
+        },
+        {
+            "paragraph": "AI adoption rates are the highest for organizations in India (59%), followed closely by the United Arab Emirates (58%). Businesses in Singapore (53%) and China (50%) are also leaders in AI use. In contrast, businesses in Australia (29%), Spain (28%) and France (26%) have been slower to try out AI.",
+            "facts": [
+                {
+                    "fact_type": "rank",
+                    "fact_content": "AI adoption rates: India (59%), United Arab Emirates (58%), Singapore (53%), China (50%)."
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Lower AI adoption rates: Australia (29%), Spain (28%), France (26%)."
+                }
+            ]
+        },
+        {
+            "paragraph": "A substantial 77% of people expressed their apprehension that AI could bring about job losses in the imminent future, indicating widespread concern about the potential impact of technology on employment opportunities.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "77% of people are apprehensive that AI could bring about job losses."
+                }
+            ]
+        },
+        {
+            "paragraph": "As AI evolves, it could displace 400 million workers worldwide. A McKinsey report predicts that between 2016 and 2030, AI-related advancements may affect around 15% of the global workforce.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI could displace 400 million workers worldwide."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "AI-related advancements may affect around 15% of the global workforce between 2016 and 2030."
+                }
+            ]
+        },
+        {
+            "paragraph": "Both of these industries have the highest long-term AI adoption rate of 40% for healthcare and 18% for automotive.",
+            "facts": [
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Highest long-term AI adoption rate: healthcare (40%), automotive (18%)."
+                }
+            ]
+        },
+        {
+            "paragraph": "According toForbes Advisor, a staggering 97% of business owners believe that ChatGPT will benefit their businesses. One in three businesses plan to use ChatGPT to create website content, while 44% aim to generate content in multiple languages.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "97% of business owners believe ChatGPT will benefit their businesses."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "One in three businesses plan to use ChatGPT to create website content."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "44% aim to generate content in multiple languages using ChatGPT."
+                }
+            ]
+        },
+        {
+            "paragraph": "Forbes Advisor reportsthat 64% of business owners believe AI has the potential to improve customer relationships, indicating a positive outlook on the role of AI in enhancing client interactions.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "64% of business owners believe AI can improve customer relationships."
+                }
+            ]
+        },
+        {
+            "paragraph": "Over 60% of business owners believe AI will increase productivity. Specifically, 64% stated that AI would improve business productivity, and 42% believe it will streamline job processes.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Over 60% of business owners believe AI will increase productivity."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "64% stated that AI would improve business productivity."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "42% believe AI will streamline job processes."
+                }
+            ]
+        },
+        {
+            "paragraph": "Forty-three percent of businesses are concerned about technology dependence, and an additional 35% worry about having the technical skills to use AI effectively. These concerns highlight the challenges that organizations face while adopting AI technologies.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "43% of businesses are concerned about technology dependence."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "35% worry about having the technical skills to use AI effectively."
+                }
+            ]
+        },
+        {
+            "paragraph": "Despite concerns about AI usage, 65% of consumers still trust businesses that employ AI technology. This suggests that when businesses use AI responsibly and transparently, they can maintain consumer confidence and even harness AI's potential to improve customer experiences.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "65% of consumers trust businesses that employ AI technology."
+                }
+            ]
+        },
+        {
+            "paragraph": "Over half of respondents, 54%, believe that AI can improve written content, suggesting that AI-driven solutions such as ChatGPT have the potential to enhance text quality, creativity and efficiency in various content creation contexts.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "54% believe that AI can improve written content."
+                }
+            ]
+        }
+    ]
+}

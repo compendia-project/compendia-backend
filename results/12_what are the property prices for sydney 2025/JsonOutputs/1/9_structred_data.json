@@ -1,0 +1,111 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "In Sydney, the median house price is forecast to rise 7 per cent to $1.83 million, a jump of $112,000 \u2014 \u201cmore than the national average annual salary,\u201d according to the report.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median house price in Sydney is forecast to rise 7 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney House Price Increase",
+                            "value": "7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "1_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median house price in Sydney is forecast to be $1.83 million.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Median House Price",
+                            "value": "1830000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "1_0_1"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The median house price in Sydney is forecast to jump by $112,000.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney House Price Increase",
+                            "value": "112000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "1_0_2"
+                }
+            ],
+            "relatedness_score": 0.6336500558354606,
+            "article_meta_data": {
+                "title": "Sydney soars, Perth nears $1m: Domain tips house prices to rise in 2025",
+                "date": "2025-06-19",
+                "url": "https://eliteagent.com/sydney-soars-perth-nears-1m-domain-tips-house-prices-to-keep-climbing/",
+                "id": 1
+            },
+            "para_id": "1_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "1_0",
+            "paragraph": "In Sydney, the median house price is forecast to rise 7 per cent to $1.83 million, a jump of $112,000 \u2014 \u201cmore than the national average annual salary,\u201d according to the report."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "1_0_0",
+            "fact_content": "The median house price in Sydney is forecast to rise 7 per cent."
+        },
+        {
+            "fact_id": "1_0_1",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million."
+        },
+        {
+            "fact_id": "1_0_2",
+            "fact_content": "The median house price in Sydney is forecast to jump by $112,000."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "The median house price in Sydney is forecast to rise 7 per cent.",
+            "vis_data": [
+                {
+                    "label": "Sydney House Price Increase",
+                    "value": "7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "1_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million.",
+            "vis_data": [
+                {
+                    "label": "Sydney Median House Price",
+                    "value": "1830000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "1_0_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The median house price in Sydney is forecast to jump by $112,000.",
+            "vis_data": [
+                {
+                    "label": "Sydney House Price Increase",
+                    "value": "112000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "1_0_2"
+        }
+    ]
+}

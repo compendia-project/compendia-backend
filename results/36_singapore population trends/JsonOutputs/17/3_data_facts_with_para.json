@@ -1,0 +1,180 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "In 2022,citizen marriagesin Singapore reached a record high of 24,767, marking a second consecutive annual increase after a decline in 2020 due to the COVID-19 pandemic. Despite recent growth, the average annual number of citizen marriages in the last five years (22,700) remains lower than the preceding five years (23,600).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Citizen marriages in Singapore reached a record high of 24,767 in 2022."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average annual number of citizen marriages in the last five years is 22,700."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average annual number of citizen marriages in the preceding five years is 23,600."
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2022, there were 30,429citizen birthsin Singapore, a 4.0% decrease from the previous year. The average annual number of births in the past five years (31,800) was also lower than the preceding five years (32,700). Additionally, the resident total fertility rate (TFR) hit a historic low of 1.04 in 2022.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "There were 30,429 citizen births in Singapore in 2022."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "There was a 4.0% decrease in citizen births from the previous year."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average annual number of births in the past five years is 31,800."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average annual number of births in the preceding five years is 32,700."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The resident total fertility rate (TFR) hit a historic low of 1.04 in 2022."
+                }
+            ]
+        },
+        {
+            "paragraph": "As of June 2023, Singapore'stotal populationis 5.92 million, showing a 5.0% increase from June 2022. Despite declines in 2020 and 2021 due to the COVID-19 pandemic, the average growth rate over the past five years is comparable to the preceding five-year period.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore's total population is 5.92 million as of June 2023."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "There was a 5.0% increase in Singapore's total population from June 2022."
+                }
+            ]
+        },
+        {
+            "paragraph": "Thecitizen population roseby 1.6% to 3.61 million, and the Permanent Resident (PR) population increased by 3.7% to 0.54 million in June 2023. The easing of COVID-19 travel restrictions led to the return of citizens and PRs from overseas, contributing significantly to the population growth. The citizen population also continued to age, with 19.1% aged 65 and above in June 2023, compared to 11.7% in June 2013.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The citizen population rose by 1.6% to 3.61 million in June 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Permanent Resident (PR) population increased by 3.7% to 0.54 million in June 2023."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "19.1% of the citizen population was aged 65 and above in June 2023."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "11.7% of the citizen population was aged 65 and above in June 2013."
+                }
+            ]
+        },
+        {
+            "paragraph": "Thenon-resident populationincreased by 13.1% from 1.56 million in June 2022 to 1.77 million in June 2023. The increase was seen across all pass types, and the largest increase came from Work Permit Holders in the Construction, Marine Shipyard, and Process (CMP) sectors, as contractors hired more workers to catch up on projects that were delayed by COVID-19.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The non-resident population increased by 13.1% from 1.56 million in June 2022 to 1.77 million in June 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "The median age of citizens has reached 43 years old, marking the fastest increase in the past decade",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age of citizens has reached 43 years old."
+                }
+            ]
+        },
+        {
+            "paragraph": "The ratio of 3.2 marks the lowest point in the last decade, indicating a greater need for resources (e.g., higher tax rates) to support the aging population",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The old age support ratio of 3.2 marks the lowest point in the last decade."
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2022, there was a historically low Total Fertility Rate (TFR) of 1.04, with the lowest recorded TFR for the Chinese population at 0.87 and for the Indian population at 1.01.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "In 2022, the Total Fertility Rate (TFR) was historically low at 1.04."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The lowest recorded TFR for the Chinese population was 0.87 in 2022."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The lowest recorded TFR for the Indian population was 1.01 in 2022."
+                }
+            ]
+        },
+        {
+            "paragraph": "2022 saw the highest approval of PRs and Citizens in the last 12 years','Approvals were granted to 34,493 Permanent Residents (PRs) and 23,082 Citizens",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "2022 saw the highest approval of PRs and Citizens in the last 12 years."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Approvals were granted to 34,493 Permanent Residents (PRs) in 2022."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Approvals were granted to 23,082 Citizens in 2022."
+                }
+            ]
+        },
+        {
+            "paragraph": "The approval rate for PRs aged 40+ increased by 27.1% in 2022 compared to the previous year, and for citizens aged 40+, it increased by 26.2% compared to the previous year.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The approval rate for PRs aged 40+ increased by 27.1% in 2022 compared to the previous year."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The approval rate for citizens aged 40+ increased by 26.2% in 2022 compared to the previous year."
+                }
+            ]
+        },
+        {
+            "paragraph": "Approvals for PRs and Citizenship aged 31+ increased by 15.6% and 17.9% respectively, while other categories experienced a decrease in approvals.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Approvals for PRs aged 31+ increased by 15.6%."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Approvals for Citizenship aged 31+ increased by 17.9%."
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2022, 92% of the approvals for Permanent Residency and 94.1% for Citizenship were from countries in Asia",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "92% of the approvals for Permanent Residency were from countries in Asia in 2022."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "94.1% of the approvals for Citizenship were from countries in Asia in 2022."
+                }
+            ]
+        }
+    ]
+}

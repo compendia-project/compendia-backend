@@ -1,0 +1,416 @@
+[
+    {
+        "cluster_id": 1,
+        "number_of_facts": 9,
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "BYD and Tesla vehicle sales comparison for 2024.",
+                "order_id": 1,
+                "narrative": "In 2024, the automotive giants BYD and Tesla were closely compared in terms of vehicle sales, highlighting the competitive landscape of the electric vehicle market."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "BYD and Tesla EV deliveries in 2024.",
+                "order_id": 2,
+                "narrative": "Both companies also reported their electric vehicle deliveries for the year, showcasing their production capabilities and market reach."
+            },
+            {
+                "merged_id": "1_5",
+                "merged_content": "BYD's global vehicle sales in 2024.",
+                "order_id": 3,
+                "narrative": "BYD achieved significant global vehicle sales, marking a year of impressive growth and expansion."
+            },
+            {
+                "merged_id": "1_4",
+                "merged_content": "BYD's plug-in vehicle production milestone.",
+                "order_id": 4,
+                "narrative": "A notable milestone for BYD was reached with their plug-in vehicle production, underscoring their commitment to sustainable transportation."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "BYD's revenue and growth in 2024.",
+                "order_id": 5,
+                "narrative": "The company's revenue figures reflected this growth, with substantial increases reported throughout the year."
+            },
+            {
+                "merged_id": "1_6",
+                "merged_content": "BYD's net income vs analyst estimates.",
+                "order_id": 6,
+                "narrative": "BYD's net income surpassed analyst estimates, further solidifying its strong financial performance."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "Tesla's financial performance in 2024.",
+                "order_id": 7,
+                "narrative": "Meanwhile, Tesla's financial performance in 2024 was closely scrutinized, with investors keenly observing its profitability and market strategies."
+            },
+            {
+                "merged_id": "1_8",
+                "merged_content": "Tesla's sales decline in China in early 2025.",
+                "order_id": 8,
+                "narrative": "However, Tesla faced challenges in early 2025, with a noticeable decline in sales in the crucial Chinese market."
+            },
+            {
+                "merged_id": "1_7",
+                "merged_content": "BYD's new-energy vehicle sales in Q1 2025.",
+                "order_id": 9,
+                "narrative": "In contrast, BYD continued its upward trajectory with strong new-energy vehicle sales in the first quarter of 2025."
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "number_of_facts": 8,
+        "facts": [
+            {
+                "merged_id": "9_0",
+                "merged_content": "Comparison of BYD and Tesla's annual and Q3 revenues.",
+                "order_id": 1,
+                "narrative": "In the competitive landscape of electric vehicles, BYD and Tesla are often compared, particularly in terms of their annual and Q3 revenues, highlighting their financial performance."
+            },
+            {
+                "merged_id": "9_1",
+                "merged_content": "Comparison of BYD and Tesla's EV sales in 2024.",
+                "order_id": 2,
+                "narrative": "The year 2024 saw a significant comparison between BYD and Tesla's electric vehicle sales, showcasing their market positions and consumer preferences."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "BYD's sales and volume trends.",
+                "order_id": 3,
+                "narrative": "BYD has shown notable trends in sales and volume, indicating its growth trajectory and market strategy."
+            },
+            {
+                "merged_id": "9_3",
+                "merged_content": "Tesla's market share and delivery trends.",
+                "order_id": 4,
+                "narrative": "Tesla's market share and delivery trends provide insights into its dominance and operational efficiency in the EV sector."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "BYD's net income in 2024.",
+                "order_id": 5,
+                "narrative": "In 2024, BYD's net income figures reflect its financial health and profitability amidst the competitive EV market."
+            },
+            {
+                "merged_id": "9_5",
+                "merged_content": "BYD's global sales in 2024.",
+                "order_id": 6,
+                "narrative": "BYD's global sales in 2024 underscore its international reach and the growing demand for its vehicles worldwide."
+            },
+            {
+                "merged_id": "9_6",
+                "merged_content": "South Korea's tariff on Chinese EVs.",
+                "order_id": 7,
+                "narrative": "South Korea's imposition of tariffs on Chinese electric vehicles adds a layer of complexity to the market dynamics, affecting companies like BYD."
+            },
+            {
+                "merged_id": "9_7",
+                "merged_content": "Chinese electric car imports by the end of 2024.",
+                "order_id": 8,
+                "narrative": "By the end of 2024, the import of Chinese electric cars, including those from BYD, highlights the global expansion and acceptance of Chinese EVs."
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "BYD and Tesla's EV sales in Q4 2023.",
+                "order_id": 1,
+                "narrative": "In the fourth quarter of 2023, both BYD and Tesla reported significant electric vehicle (EV) sales, highlighting their competitive presence in the market."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Tesla's yearly EV sales in 2023.",
+                "order_id": 2,
+                "narrative": "Tesla's annual EV sales for 2023 showcased a robust performance, reinforcing its position as a leader in the electric vehicle industry."
+            },
+            {
+                "merged_id": "6_5",
+                "merged_content": "BYD and Tesla's revenue and volume changes.",
+                "order_id": 3,
+                "narrative": "Both BYD and Tesla experienced notable changes in revenue and sales volume, reflecting the dynamic nature of the EV market."
+            },
+            {
+                "merged_id": "6_3",
+                "merged_content": "BYD's market share and sales increase.",
+                "order_id": 4,
+                "narrative": "BYD saw an increase in market share and sales, indicating its growing influence and success in the electric vehicle sector."
+            },
+            {
+                "merged_id": "6_4",
+                "merged_content": "BYD's EV sales in December and Q1 2024.",
+                "order_id": 5,
+                "narrative": "BYD's EV sales in December 2023 and the first quarter of 2024 continued to rise, demonstrating sustained demand for its vehicles."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "BYD's car deliveries in 2024.",
+                "order_id": 6,
+                "narrative": "In 2024, BYD's car deliveries are projected to increase, further solidifying its position in the automotive market."
+            },
+            {
+                "merged_id": "6_6",
+                "merged_content": "Electric car sales increase in 2024.",
+                "order_id": 7,
+                "narrative": "The overall increase in electric car sales in 2024 underscores the growing consumer shift towards sustainable transportation solutions."
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "number_of_facts": 4,
+        "facts": [
+            {
+                "merged_id": "4_2",
+                "merged_content": "Tesla and BYD sales gap from 2021 to 2023.",
+                "order_id": 1,
+                "narrative": "From 2021 to 2023, Tesla maintained a lead over BYD in electric vehicle sales, highlighting a competitive landscape in the EV market."
+            },
+            {
+                "merged_id": "4_0",
+                "merged_content": "BYD and Tesla EV sales comparison in 2024.",
+                "order_id": 2,
+                "narrative": "In 2024, the competition between BYD and Tesla intensified as their electric vehicle sales figures drew closer, marking a significant shift in market dynamics."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "BYD's revenue and net income in 2024.",
+                "order_id": 3,
+                "narrative": "BYD's financial performance in 2024 showed robust growth, with notable increases in both revenue and net income, reflecting its competitive stance in the EV market."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "BYD and Tesla charging range comparison.",
+                "order_id": 4,
+                "narrative": "The comparison of charging ranges between BYD and Tesla vehicles further fueled the rivalry, as both companies aimed to enhance their technological offerings to attract consumers."
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "number_of_facts": 5,
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "BYD and Tesla volume changes over the same period.",
+                "order_id": 1,
+                "narrative": "Both BYD and Tesla have experienced significant changes in their vehicle volumes over the same period, reflecting shifts in market dynamics and consumer preferences."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "BYD and Tesla vehicle sales comparison.",
+                "order_id": 2,
+                "narrative": "A comparison of vehicle sales between BYD and Tesla reveals competitive dynamics, with each company striving to capture a larger share of the electric vehicle market."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "BYD and Tesla sales in 2024.",
+                "order_id": 3,
+                "narrative": "Looking ahead to 2024, both BYD and Tesla are projected to continue their sales growth, driven by innovation and expanding market demand for electric vehicles."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "BYD and Tesla export and tariff details.",
+                "order_id": 4,
+                "narrative": "Export and tariff details for BYD and Tesla highlight the challenges and opportunities in international markets, as both companies navigate complex trade regulations."
+            },
+            {
+                "merged_id": "5_4",
+                "merged_content": "Tesla's delivery and duty exemption details.",
+                "order_id": 5,
+                "narrative": "Tesla's delivery strategies and duty exemptions play a crucial role in its global expansion efforts, enabling more competitive pricing and market penetration."
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "number_of_facts": 9,
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "Tesla's market share and production trends.",
+                "order_id": 1,
+                "narrative": "Tesla has been a dominant player in the electric vehicle market, with significant market share and production trends that reflect its strong position."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Tesla's vehicle sales and production growth.",
+                "order_id": 2,
+                "narrative": "The company has experienced notable growth in vehicle sales and production, further solidifying its leadership in the industry."
+            },
+            {
+                "merged_id": "3_6",
+                "merged_content": "Tesla's market share in China.",
+                "order_id": 3,
+                "narrative": "In China, Tesla's market share is a critical component of its global strategy, as the country represents a significant portion of its sales."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "Tesla and BYD revenue comparison.",
+                "order_id": 4,
+                "narrative": "When comparing revenues, Tesla and BYD are often seen as rivals, with both companies vying for dominance in the electric vehicle sector."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "BYD's market share details.",
+                "order_id": 5,
+                "narrative": "BYD has been expanding its market share, particularly in China, where it has seen substantial growth."
+            },
+            {
+                "merged_id": "3_8",
+                "merged_content": "BYD's sales surge in China.",
+                "order_id": 6,
+                "narrative": "BYD's sales have surged in China, highlighting its competitive edge and growing influence in the market."
+            },
+            {
+                "merged_id": "3_5",
+                "merged_content": "Price difference between Tesla and BYD in Thailand.",
+                "order_id": 7,
+                "narrative": "In Thailand, the price difference between Tesla and BYD vehicles is notable, affecting consumer choices and market dynamics."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "Tariff details in Chile.",
+                "order_id": 8,
+                "narrative": "Tariff details in Chile play a role in shaping the market landscape for electric vehicles, impacting both Tesla and BYD."
+            },
+            {
+                "merged_id": "3_7",
+                "merged_content": "New models entering the market.",
+                "order_id": 9,
+                "narrative": "The introduction of new models into the market continues to drive competition and innovation in the electric vehicle industry."
+            }
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "number_of_facts": 5,
+        "facts": [
+            {
+                "merged_id": "10_3",
+                "merged_content": "New models entered the market since 2020.",
+                "order_id": 1,
+                "narrative": "Since 2020, the electric vehicle market has seen a surge of new models, intensifying competition among automakers."
+            },
+            {
+                "merged_id": "10_2",
+                "merged_content": "Tesla's market share and EPS in 2023.",
+                "order_id": 2,
+                "narrative": "In 2023, Tesla maintained a strong market share and reported impressive earnings per share, solidifying its position in the EV market."
+            },
+            {
+                "merged_id": "10_1",
+                "merged_content": "Tesla and BYD 2024 performance metrics.",
+                "order_id": 3,
+                "narrative": "By 2024, both Tesla and BYD showcased robust performance metrics, reflecting their strategic advancements and market adaptability."
+            },
+            {
+                "merged_id": "10_4",
+                "merged_content": "BYD's electric vehicle sales in early 2025.",
+                "order_id": 4,
+                "narrative": "In early 2025, BYD reported significant growth in electric vehicle sales, highlighting its expanding influence in the industry."
+            },
+            {
+                "merged_id": "10_0",
+                "merged_content": "Tesla and BYD sales trends in 2025.",
+                "order_id": 5,
+                "narrative": "Throughout 2025, sales trends for Tesla and BYD continued to evolve, indicating shifting consumer preferences and market dynamics."
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "number_of_facts": 5,
+        "facts": [
+            {
+                "merged_id": "7_3",
+                "merged_content": "Sales and market trends in China for 2023 and 2024.",
+                "order_id": 1,
+                "narrative": "In 2023 and 2024, the Chinese automotive market experienced significant shifts, with electric vehicles gaining a larger share of the market."
+            },
+            {
+                "merged_id": "7_2",
+                "merged_content": "Market share of BYD and Tesla in China.",
+                "order_id": 2,
+                "narrative": "BYD and Tesla emerged as key players in the Chinese market, each capturing substantial market share as they competed for dominance."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "Comparison of Tesla and BYD vehicle deliveries.",
+                "order_id": 3,
+                "narrative": "Both companies saw impressive vehicle delivery numbers, with BYD and Tesla closely competing in terms of units delivered."
+            },
+            {
+                "merged_id": "7_0",
+                "merged_content": "Comparison of BYD and Tesla's revenue in 2024.",
+                "order_id": 4,
+                "narrative": "In 2024, the revenue figures for BYD and Tesla reflected their competitive positions, with both companies reporting strong financial performance."
+            },
+            {
+                "merged_id": "7_4",
+                "merged_content": "Tesla's sales performance in January 2025.",
+                "order_id": 5,
+                "narrative": "Tesla's sales in January 2025 indicated a robust start to the year, suggesting continued momentum in the market."
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "number_of_facts": 4,
+        "facts": [
+            {
+                "merged_id": "2_1",
+                "merged_content": "Global EV sales in 2023.",
+                "order_id": 1,
+                "narrative": "In 2023, the global electric vehicle (EV) market witnessed significant growth, reflecting a worldwide shift towards sustainable transportation."
+            },
+            {
+                "merged_id": "2_0",
+                "merged_content": "Comparison of new BEV registrations by brand, including YTD changes for BYD, KIA, and MG.",
+                "order_id": 2,
+                "narrative": "A detailed comparison of new battery electric vehicle (BEV) registrations highlighted year-to-date changes for brands like BYD, KIA, and MG, showcasing their competitive positions in the market."
+            },
+            {
+                "merged_id": "2_3",
+                "merged_content": "Increase in registrations for TESLA, BMW, MINI, and MG, including YTD changes for BYD and KIA.",
+                "order_id": 3,
+                "narrative": "Registrations surged for major players such as TESLA, BMW, MINI, and MG, with notable year-to-date increases also observed for BYD and KIA, indicating a robust demand for these brands."
+            },
+            {
+                "merged_id": "2_2",
+                "merged_content": "BYD's export proportion in the previous year.",
+                "order_id": 4,
+                "narrative": "In the previous year, BYD's export proportion was a key factor in its global strategy, contributing to its expanding presence in international markets."
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "number_of_facts": 3,
+        "facts": [
+            {
+                "merged_id": "8_0",
+                "merged_content": "Registrations increased for various car brands.",
+                "order_id": 1,
+                "narrative": "The automotive market is experiencing a surge as registrations for various car brands have increased."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "New BEVs registered for various car brands.",
+                "order_id": 2,
+                "narrative": "A significant contributor to this growth is the registration of new Battery Electric Vehicles (BEVs) across multiple car brands."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "AUDI new BEVs registered.",
+                "order_id": 3,
+                "narrative": "Among these, AUDI has notably registered new BEVs, highlighting its commitment to electric mobility."
+            }
+        ]
+    }
+]

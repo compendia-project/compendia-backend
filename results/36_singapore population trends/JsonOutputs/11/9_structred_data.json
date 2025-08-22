@@ -1,0 +1,229 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Currently, 0% of the population of Singapore is urban (0 people in 2025).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "100% of the population of Singapore is urban.",
+                    "vis_data": [
+                        {
+                            "label": "Urban Population",
+                            "value": "100",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "11_0_0"
+                }
+            ],
+            "relatedness_score": 0.6104225626361175,
+            "article_meta_data": {
+                "title": "Singapore Demographics 2025 (Population, Age, Sex)",
+                "date": "Unknown",
+                "url": "https://www.worldometers.info/demographics/singapore-demographics/",
+                "id": 11
+            },
+            "para_id": "11_0"
+        },
+        {
+            "paragraph": "The 2025 population density in Singapore is 8,387 people per Km2 (21,722 people per mi2), calculated on a total land area of 700 Km2 (270 sq. miles).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The 2025 population density in Singapore is 8,387 people per Km2.",
+                    "vis_data": [
+                        {
+                            "label": "Population Density",
+                            "value": "8387",
+                            "unit": "people per Km2"
+                        }
+                    ],
+                    "fact_id": "11_1_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The 2025 population density in Singapore is 21,722 people per mi2.",
+                    "vis_data": [
+                        {
+                            "label": "Population Density",
+                            "value": "21722",
+                            "unit": "people per mi2"
+                        }
+                    ],
+                    "fact_id": "11_1_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The total land area of Singapore is 700 Km2.",
+                    "vis_data": [
+                        {
+                            "label": "Land Area",
+                            "value": "700",
+                            "unit": "Km2"
+                        }
+                    ],
+                    "fact_id": "11_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The total land area of Singapore is 270 sq. miles.",
+                    "vis_data": [
+                        {
+                            "label": "Land Area",
+                            "value": "270",
+                            "unit": "Km2"
+                        }
+                    ],
+                    "fact_id": "11_1_4"
+                }
+            ],
+            "relatedness_score": 0.5880651825502302,
+            "article_meta_data": {
+                "title": "Singapore Demographics 2025 (Population, Age, Sex)",
+                "date": "Unknown",
+                "url": "https://www.worldometers.info/demographics/singapore-demographics/",
+                "id": 11
+            },
+            "para_id": "11_1"
+        },
+        {
+            "paragraph": "The median age in Singapore is 36.2 years (2025).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age in Singapore is 36.2 years.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age",
+                            "value": "36.2",
+                            "unit": "years"
+                        }
+                    ],
+                    "fact_id": "11_2_5"
+                }
+            ],
+            "relatedness_score": 0.5793052285288185,
+            "article_meta_data": {
+                "title": "Singapore Demographics 2025 (Population, Age, Sex)",
+                "date": "Unknown",
+                "url": "https://www.worldometers.info/demographics/singapore-demographics/",
+                "id": 11
+            },
+            "para_id": "11_2"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "11_0",
+            "paragraph": "Currently, 0% of the population of Singapore is urban (0 people in 2025)."
+        },
+        {
+            "para_id": "11_1",
+            "paragraph": "The 2025 population density in Singapore is 8,387 people per Km2 (21,722 people per mi2), calculated on a total land area of 700 Km2 (270 sq. miles)."
+        },
+        {
+            "para_id": "11_2",
+            "paragraph": "The median age in Singapore is 36.2 years (2025)."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "11_0_0",
+            "fact_content": "100% of the population of Singapore is urban."
+        },
+        {
+            "fact_id": "11_1_1",
+            "fact_content": "The 2025 population density in Singapore is 8,387 people per Km2."
+        },
+        {
+            "fact_id": "11_1_2",
+            "fact_content": "The 2025 population density in Singapore is 21,722 people per mi2."
+        },
+        {
+            "fact_id": "11_1_3",
+            "fact_content": "The total land area of Singapore is 700 Km2."
+        },
+        {
+            "fact_id": "11_1_4",
+            "fact_content": "The total land area of Singapore is 270 sq. miles."
+        },
+        {
+            "fact_id": "11_2_5",
+            "fact_content": "The median age in Singapore is 36.2 years."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "100% of the population of Singapore is urban.",
+            "vis_data": [
+                {
+                    "label": "Urban Population",
+                    "value": "100",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "11_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The 2025 population density in Singapore is 8,387 people per Km2.",
+            "vis_data": [
+                {
+                    "label": "Population Density",
+                    "value": "8387",
+                    "unit": "people per Km2"
+                }
+            ],
+            "fact_id": "11_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The 2025 population density in Singapore is 21,722 people per mi2.",
+            "vis_data": [
+                {
+                    "label": "Population Density",
+                    "value": "21722",
+                    "unit": "people per mi2"
+                }
+            ],
+            "fact_id": "11_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The total land area of Singapore is 700 Km2.",
+            "vis_data": [
+                {
+                    "label": "Land Area",
+                    "value": "700",
+                    "unit": "Km2"
+                }
+            ],
+            "fact_id": "11_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The total land area of Singapore is 270 sq. miles.",
+            "vis_data": [
+                {
+                    "label": "Land Area",
+                    "value": "270",
+                    "unit": "Km2"
+                }
+            ],
+            "fact_id": "11_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median age in Singapore is 36.2 years.",
+            "vis_data": [
+                {
+                    "label": "Median Age",
+                    "value": "36.2",
+                    "unit": "years"
+                }
+            ],
+            "fact_id": "11_2_5"
+        }
+    ]
+}

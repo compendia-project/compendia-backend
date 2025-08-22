@@ -1,0 +1,320 @@
+[
+    {
+        "cluster_id": 4,
+        "number_of_facts": 10,
+        "facts": [
+            {
+                "merged_id": "4_0",
+                "merged_content": "Proportion of homosexual males among patients in various countries.",
+                "order_id": 1,
+                "narrative": "The global landscape of HIV is diverse, with varying proportions of homosexual males among patients in different countries."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "HIV statistics in Sweden.",
+                "order_id": 2,
+                "narrative": "Sweden's HIV statistics provide a detailed view of the epidemic within the country."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "People living with HIV in Sweden.",
+                "order_id": 3,
+                "narrative": "A significant number of people are living with HIV in Sweden, highlighting the ongoing challenge of managing the disease."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "New HIV cases in Sweden.",
+                "order_id": 4,
+                "narrative": "The emergence of new HIV cases in Sweden indicates that the epidemic is still active."
+            },
+            {
+                "merged_id": "4_4",
+                "merged_content": "Men's share of new HIV cases in Sweden.",
+                "order_id": 5,
+                "narrative": "Men constitute a substantial share of the new HIV cases in Sweden, reflecting gender-specific trends in transmission."
+            },
+            {
+                "merged_id": "4_5",
+                "merged_content": "HIV-1A6 subtype rank.",
+                "order_id": 6,
+                "narrative": "The HIV-1A6 subtype holds a particular rank, which is significant in understanding the virus's genetic diversity."
+            },
+            {
+                "merged_id": "4_6",
+                "merged_content": "Proportion of diagnosed PWHIV in 2018.",
+                "order_id": 7,
+                "narrative": "In 2018, a notable proportion of people with HIV were diagnosed, marking progress in detection efforts."
+            },
+            {
+                "merged_id": "4_7",
+                "merged_content": "Care retention in Sweden by 2015.",
+                "order_id": 8,
+                "narrative": "By 2015, Sweden had made strides in retaining patients in HIV care, crucial for effective treatment."
+            },
+            {
+                "merged_id": "4_8",
+                "merged_content": "Proportion of new HIV infections in South Africa.",
+                "order_id": 9,
+                "narrative": "In contrast, South Africa faces a different scenario with its proportion of new HIV infections, underscoring regional differences."
+            },
+            {
+                "merged_id": "4_9",
+                "merged_content": "Management of immigrants in Sweden.",
+                "order_id": 10,
+                "narrative": "Sweden's management of immigrants plays a role in its overall HIV strategy, addressing the needs of diverse populations."
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "number_of_facts": 5,
+        "facts": [
+            {
+                "merged_id": "9_0",
+                "merged_content": "Proportion of HIV-related demographics in Sweden and Denmark.",
+                "order_id": 1,
+                "narrative": "The demographics of HIV-related cases in Sweden and Denmark reveal significant insights into the affected populations."
+            },
+            {
+                "merged_id": "9_1",
+                "merged_content": "HIV statistics in Sweden.",
+                "order_id": 2,
+                "narrative": "In Sweden, the statistics on HIV provide a detailed overview of the prevalence and distribution of the virus across the country."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "HIV-related statistics in 2022.",
+                "order_id": 3,
+                "narrative": "The year 2022 saw specific trends and changes in HIV-related statistics, highlighting shifts in infection rates and demographics."
+            },
+            {
+                "merged_id": "9_3",
+                "merged_content": "InfCareHIV cohort size.",
+                "order_id": 4,
+                "narrative": "The InfCareHIV cohort, a significant group for studying HIV, has a substantial size, offering valuable data for analysis."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "Various HIV-related proportions in Sweden.",
+                "order_id": 5,
+                "narrative": "In Sweden, various proportions related to HIV, such as age and gender distribution, provide a comprehensive picture of the epidemic's impact."
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "87% of the patients were homosexual males in the United Kingdom.",
+                "order_id": 1,
+                "narrative": "In the United Kingdom, a significant 87% of HIV patients were identified as homosexual males, highlighting a specific demographic impact."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Over seven million people live with HIV in South Africa.",
+                "order_id": 2,
+                "narrative": "South Africa faces a substantial challenge with over seven million people living with HIV, marking it as a critical region in the global fight against the virus."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "By the conclusion of 2015, 90 percent of HIV cases in Sweden were diagnosed.",
+                "order_id": 3,
+                "narrative": "Sweden achieved a remarkable milestone by diagnosing 90% of its HIV cases by the end of 2015, showcasing effective healthcare strategies."
+            },
+            {
+                "merged_id": "3_5",
+                "merged_content": "3% of people living with HIV in Sweden were born in Eastern Europe and Central Asia.",
+                "order_id": 4,
+                "narrative": "In Sweden, 3% of the HIV-positive population were immigrants from Eastern Europe and Central Asia, indicating diverse origins of the epidemic."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "95% diagnoses among endogenous MSM transmissions reached in 2014.",
+                "order_id": 5,
+                "narrative": "By 2014, 95% of HIV transmissions among endogenous men who have sex with men (MSM) were diagnosed, reflecting targeted public health efforts."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "95% proportion of PWHIV with successful viral suppression reached in 2013.",
+                "order_id": 6,
+                "narrative": "In 2013, an impressive 95% of people with HIV achieved successful viral suppression, underscoring advancements in treatment and care."
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "number_of_facts": 3,
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "Approximately 400-500 new cases of HIV are reported each year in Sweden.",
+                "order_id": 1,
+                "narrative": "Each year, Sweden reports approximately 400-500 new cases of HIV, highlighting the ongoing challenge of managing this public health issue."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "HIV treatment and diagnosis statistics in Sweden and Denmark.",
+                "order_id": 2,
+                "narrative": "Statistics on HIV treatment and diagnosis in Sweden and Denmark provide insights into the healthcare systems' effectiveness in managing the disease."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "HIV diagnosis and treatment progress in Sweden.",
+                "order_id": 3,
+                "narrative": "Sweden has made significant progress in HIV diagnosis and treatment, reflecting advancements in healthcare and public health strategies."
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "number_of_facts": 2,
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "Migrants made up approximately 12% of the population of the EU countries but accounted for 44% of newly reported HIV cases in 2019. 36% of people living with HIV in Sweden were born in sub-Saharan Africa by the end of 2021. 4% of people living with HIV in Sweden were born in North America by the end of 2021.",
+                "order_id": 1,
+                "narrative": "In 2019, migrants, who constituted about 12% of the EU's population, were disproportionately affected by HIV, representing 44% of new cases. In Sweden, by the end of 2021, 36% of those living with HIV were from sub-Saharan Africa, while 4% were from North America."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "The median age for those who were diagnosed with HIV in 2019 in Sweden was 38 years.",
+                "order_id": 2,
+                "narrative": "In Sweden, the median age of individuals diagnosed with HIV in 2019 was 38 years, highlighting the age group most affected by the virus."
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "number_of_facts": 2,
+        "facts": [
+            {
+                "merged_id": "7_0",
+                "merged_content": "Infection rate and new HIV cases in Sweden.",
+                "order_id": 1,
+                "narrative": "Sweden is closely monitoring its HIV infection rate and the emergence of new cases."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "HIV statistics in Sweden.",
+                "order_id": 2,
+                "narrative": "The statistics on HIV in Sweden provide crucial insights into the current state of the epidemic."
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "number_of_facts": 5,
+        "facts": [
+            {
+                "merged_id": "1_1",
+                "merged_content": "HIV statistics in Sweden: People living with HIV and diagnosed subjects.",
+                "order_id": 1,
+                "narrative": "Sweden has a comprehensive system for tracking HIV statistics, focusing on the number of people living with HIV and those who have been diagnosed."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "Migrants' contribution to new HIV cases in Sweden.",
+                "order_id": 2,
+                "narrative": "A significant factor in the new HIV cases in Sweden is the contribution from migrants, highlighting the need for targeted public health strategies."
+            },
+            {
+                "merged_id": "1_0",
+                "merged_content": "Proportion of PWHIV on ART and linked to care in Sweden.",
+                "order_id": 3,
+                "narrative": "In Sweden, a high proportion of people with HIV (PWHIV) are on antiretroviral therapy (ART) and are successfully linked to care, showcasing the effectiveness of the healthcare system."
+            },
+            {
+                "merged_id": "1_4",
+                "merged_content": "Proportion of people living with HIV in Sweden under ARV treatment.",
+                "order_id": 4,
+                "narrative": "The majority of people living with HIV in Sweden are under antiretroviral (ARV) treatment, ensuring better health outcomes and reduced transmission rates."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "Proportion of Swedish/Danish MSM & Heterosexuals successfully managed.",
+                "order_id": 5,
+                "narrative": "Both Swedish and Danish men who have sex with men (MSM) and heterosexuals show high success rates in HIV management, reflecting effective public health interventions."
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "number_of_facts": 4,
+        "facts": [
+            {
+                "merged_id": "5_1",
+                "merged_content": "HIV cases and demographics in Sweden.",
+                "order_id": 1,
+                "narrative": "Sweden has been monitoring HIV cases closely, focusing on understanding the demographics affected by the virus."
+            },
+            {
+                "merged_id": "5_0",
+                "merged_content": "HIV management and ART in Sweden and Denmark.",
+                "order_id": 2,
+                "narrative": "Both Sweden and Denmark have implemented comprehensive HIV management strategies, including the use of antiretroviral therapy (ART) to control the spread of the virus."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "Management of injection drug users with HIV.",
+                "order_id": 3,
+                "narrative": "A significant aspect of HIV management involves addressing the needs of injection drug users, who are at higher risk and require targeted interventions."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "Viral suppression in ART by 2022.",
+                "order_id": 4,
+                "narrative": "By 2022, the effectiveness of ART in achieving viral suppression has been a key success, highlighting the progress in treatment and management of HIV."
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "8_4",
+                "merged_content": "Diagnosis rate of HIV in Sweden.",
+                "order_id": 1,
+                "narrative": "Sweden has been actively monitoring the diagnosis rate of HIV, ensuring early detection and management of the disease."
+            },
+            {
+                "merged_id": "8_6",
+                "merged_content": "Number of people living with HIV treated in Sweden by the end of 2021.",
+                "order_id": 2,
+                "narrative": "By the end of 2021, a significant number of people living with HIV were receiving treatment in Sweden, highlighting the country's commitment to healthcare."
+            },
+            {
+                "merged_id": "8_0",
+                "merged_content": "Distribution of people living with HIV in Sweden by gender.",
+                "order_id": 3,
+                "narrative": "The distribution of people living with HIV in Sweden is analyzed by gender, providing insights into demographic patterns."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "Distribution of people living with HIV in Sweden by region of birth.",
+                "order_id": 4,
+                "narrative": "Additionally, the distribution by region of birth offers a deeper understanding of the diverse backgrounds of those affected."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "Proportion of diagnosed PWHIV on ART by 2022.",
+                "order_id": 5,
+                "narrative": "By 2022, a high proportion of diagnosed people with HIV were on antiretroviral therapy (ART), reflecting effective healthcare strategies."
+            },
+            {
+                "merged_id": "8_5",
+                "merged_content": "Management of ARV treatment regimes.",
+                "order_id": 6,
+                "narrative": "The management of antiretroviral (ARV) treatment regimes is crucial for maintaining the health of those living with HIV."
+            },
+            {
+                "merged_id": "8_3",
+                "merged_content": "Viral load management in patients on treatment for at least 6 months.",
+                "order_id": 7,
+                "narrative": "Viral load management in patients on treatment for at least six months is a key focus, ensuring the effectiveness of ongoing therapies."
+            }
+        ]
+    }
+]

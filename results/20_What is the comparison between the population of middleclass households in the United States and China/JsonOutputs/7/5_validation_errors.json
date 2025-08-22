@@ -1,0 +1,53 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "In 2000, roughly 3% of the country'spopulation was classifiedas middle class. By 2018, more than half of China's population \u2014 707 million people \u2014 had entered the country's middle-income bracket, according to calculations from theCenter for Strategic and International Studiesthat defined the middle class as those spending between $10 and $50 a day.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "3% of the country's population was classified as middle class in 2000.",
+                    "vis_data": [
+                        {
+                            "label": "Middle Class Population 2000",
+                            "value": "3",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "707 million people in China were in the middle-income bracket by 2018.",
+                    "vis_data": [
+                        {
+                            "label": "Middle Class Population 2018",
+                            "value": "707",
+                            "unit": "million"
+                        }
+                    ],
+                    "error": [
+                        "Missing data point: 'more than half of China's population' is not represented in the visualization data."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "As China's middle class has expanded, it has in many ways also started to look like America's. In its most recent middle-class analysis, thePew Research Centerin 2016 classified 52% of the US population as middle class. (Methodology for defining the middle class varies, but many experts \u2014 including Pew \u2014definethe middle class globally as those who live on $10.01 to $20 a day per person, which straddles the poverty line in the US.)",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "52% of the US population was classified as middle class in 2016.",
+                    "vis_data": [
+                        {
+                            "label": "US Middle Class Population 2016",
+                            "value": "52",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

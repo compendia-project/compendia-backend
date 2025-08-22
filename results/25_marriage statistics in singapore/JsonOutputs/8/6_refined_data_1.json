@@ -1,0 +1,203 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Singapore Marriages: First Marriages data was reported at 21,806.000 Number in 2017. This records an increase from the previous number of 21,364.000 Number for 2016. Singapore Marriages: First Marriages data is updated yearly, averaging 20,482.000 Number from Dec 1970 (Median) to 2017, with 48 observations. The data reached an all-time high of 24,840.000 Number in 1974 and a record low of 13,889.000 Number in 1970. Singapore Marriages: First Marriages data remains active status in CEIC and is reported by Department of Statistics. The data is categorized under Global Database\u2019s Singapore \u2013 Table SG.G007: Vital Statistics: Marriages & Divorces.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Marriages: First Marriages data was reported at 21,806.000 Number in 2017.",
+                    "vis_data": [
+                        {
+                            "label": "First Marriages 2017",
+                            "value": "21806",
+                            "unit": "Number"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Marriages: First Marriages data was 21,364.000 Number in 2016.",
+                    "vis_data": [
+                        {
+                            "label": "First Marriages 2016",
+                            "value": "21364",
+                            "unit": "Number"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Singapore Marriages: First Marriages data increased from 21,364.000 in 2016 to 21,806.000 in 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in First Marriages",
+                            "value": "442",
+                            "unit": "Number"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The all-time high of Singapore Marriages: First Marriages was 24,840.000 Number in 1974.",
+                    "vis_data": [
+                        {
+                            "label": "All-time High First Marriages 1974",
+                            "value": "24840",
+                            "unit": "Number"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The record low of Singapore Marriages: First Marriages was 13,889.000 Number in 1970.",
+                    "vis_data": [
+                        {
+                            "label": "Record Low First Marriages 1970",
+                            "value": "13889",
+                            "unit": "Number"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Marriages: First Marriages data averaged 20,482.000 Number from Dec 1970 to 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Average First Marriages 1970-2017",
+                            "value": "20482",
+                            "unit": "Number"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Proportion of First Marriages: Grooms (%)84.102017yearly1970 - 2017",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Singapore Proportion of First Marriages: Grooms was 84.10% in 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Proportion of Grooms 2017",
+                            "value": "84.10",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Proportion of First Marriages: Brides (%)85.502017yearly1970 - 2017",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Singapore Proportion of First Marriages: Brides was 85.50% in 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Proportion of Brides 2017",
+                            "value": "85.50",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Median Age of Grooms: First Marriages (Year Old)30.002017yearly1961 - 2017",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Median Age of Grooms: First Marriages was 30.00 years old in 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age of Grooms 2017",
+                            "value": "30.00",
+                            "unit": "Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Median Age of Grooms: First Marriages: Under Women's Charter (Year Old)30.502017yearly1961 - 2017",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Median Age of Grooms: First Marriages: Under Women's Charter was 30.50 years old in 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age of Grooms Women's Charter 2017",
+                            "value": "30.50",
+                            "unit": "Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Median Age of Grooms: First Marriages: Un Admin of Muslim Law Act (Year Old)28.202017yearly1961 - 2017",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Median Age of Grooms: First Marriages: Un Admin of Muslim Law Act was 28.20 years old in 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age of Grooms Muslim Law 2017",
+                            "value": "28.20",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Median Age of Brides: First Marriages (Year Old)28.402017yearly1961 - 2017",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Median Age of Brides: First Marriages was 28.40 years old in 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age of Brides 2017",
+                            "value": "28.40",
+                            "unit": "Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Median Age of Brides: First Marriages: Under Women's Charter (Year Old)28.802017yearly1961 - 2017",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Median Age of Brides: First Marriages: Under Women's Charter was 28.80 years old in 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age of Brides 2017",
+                            "value": "28.80",
+                            "unit": "Year Old"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Median Age of Brides: First Marriages: Un Admin of Muslim Law Act (Year Old)26.502017yearly1961 - 2017",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Median Age of Brides: First Marriages: Un Admin of Muslim Law Act was 26.50 years old in 2017.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age of Brides Muslim Law 2017",
+                            "value": "26.50",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

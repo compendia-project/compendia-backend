@@ -1,0 +1,87 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "However, this trend differs across the capitals. In the past year house price growth (2.98%) has outpaced unit price growth (1.50%) in Sydney, though the opposite is true in Brisbane where unit prices have lifted 13.79% vs. 9.57% for houses in the same period.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "House price growth (2.98%) has outpaced unit price growth (1.50%) in Sydney in the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney House Price Growth",
+                            "value": "2.98",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Sydney Unit Price Growth",
+                            "value": "1.50",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Unit prices have lifted 13.79% in Brisbane in the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Brisbane Unit Price Growth",
+                            "value": "13.79",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "House prices have lifted 9.57% in Brisbane in the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Brisbane House Price Growth",
+                            "value": "9.57",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5151488951560247
+        },
+        {
+            "paragraph": "Melbourne (+0.67%) and Sydney (+0.50%) led price gains in February, while Hobart (-0.03%) was the only capital to see prices fall. Melbourne led prices gains for both houses and units across the capital cities, for the first time since February 2020 for houses and September 2020 for units.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Melbourne (+0.67%) led price gains in February.",
+                    "vis_data": [
+                        {
+                            "label": "Melbourne Price Gain",
+                            "value": "0.67",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Sydney (+0.50%) led price gains in February.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Price Gain",
+                            "value": "0.50",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Hobart (-0.03%) was the only capital to see prices fall.",
+                    "vis_data": [
+                        {
+                            "label": "Hobart Price Fall",
+                            "value": "-0.03",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4612908045618589
+        }
+    ]
+}

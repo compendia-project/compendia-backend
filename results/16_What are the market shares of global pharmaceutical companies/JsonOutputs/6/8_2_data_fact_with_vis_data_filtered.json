@@ -1,0 +1,221 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Statista suggests that five of the top ten leading pharmaceutical companies were based in the US as of 2021, including Pfizer, AbbVie, Johnson & Johnson, Bristol Myers Squibb, and Merck & Co. AbbVie alone generated $55 billion in 2021.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AbbVie generated $55 billion in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "AbbVie Revenue 2021",
+                            "value": "55",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6297298964462448
+        },
+        {
+            "paragraph": "The US pharmaceutical industry dominates the global pharmaceutical market, accounting for roughly 50% of the global pharmaceutical sales revenue. According to an article published by Zippia, the US pharmaceutical industry generated $550 billion in revenue in 2021, accounting for 48% of the global pharmaceutical market as of 2020.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The US pharmaceutical industry accounts for roughly 50% of the global pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "US Pharma Global Share",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The US pharmaceutical industry generated $550 billion in revenue in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "US Pharma Revenue 2021",
+                            "value": "550",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The US pharmaceutical industry accounted for 48% of the global pharmaceutical market as of 2020.",
+                    "vis_data": [
+                        {
+                            "label": "US Pharma Global Share 2020",
+                            "value": "48",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6216485538057859
+        },
+        {
+            "paragraph": "The ABPI notes that the annual turnover of the pharmaceutical industry in the UK is roughly $50.21 billion. According to Statista, the UK pharmaceutical market accounts for 2.6% of the global pharmaceutical market, with nearly 7000 manufacturers and developers as of 2020. AstraZeneca and GlaxoSmithKline are the two largest drug manufacturing companies in the United Kingdom.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The annual turnover of the pharmaceutical industry in the UK is roughly $50.21 billion.",
+                    "vis_data": [
+                        {
+                            "label": "UK Pharma Turnover",
+                            "value": "50.21",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The UK pharmaceutical market accounts for 2.6% of the global pharmaceutical market.",
+                    "vis_data": [
+                        {
+                            "label": "UK Pharma Global Share",
+                            "value": "2.6",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5817589737381538
+        },
+        {
+            "paragraph": "Digestive and metabolic drugs and systemic anti-infective drugs account for 14% of the Chinese pharmaceutical market. Cardiovascular and central nervous system drugs each account for slightly less at 13% each. In the Chinese pharmaceutical market, patent and generic drugs account for relatively similar market shares at 56% and 44%, respectively.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Digestive and metabolic drugs and systemic anti-infective drugs account for 14% of the Chinese pharmaceutical market.",
+                    "vis_data": [
+                        {
+                            "label": "Digestive & Metabolic Drugs Share",
+                            "value": "14",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Cardiovascular and central nervous system drugs each account for 13% of the Chinese pharmaceutical market.",
+                    "vis_data": [
+                        {
+                            "label": "Cardiovascular & CNS Drugs Share",
+                            "value": "13",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Patent and generic drugs account for 56% and 44% of the Chinese pharmaceutical market, respectively.",
+                    "vis_data": [
+                        {
+                            "label": "Patent Drugs Share",
+                            "value": "56",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Generic Drugs Share",
+                            "value": "44",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5375430021600887
+        },
+        {
+            "paragraph": "According to an article published in China Briefing, the Chinese biopharmaceutical market has grown drastically in the past few years, with a 200% increase in market capitalization between 2016 and 2020. As of 2019, the Chinese healthcare industry was valued at $900 billion and is expected to grow to $2.3 trillion by 2030. As part of the healthcare market, the biopharmaceutical market was valued at $47.6 billion in 2020 and is expected to grow to $111.76 billion by 2025. Even with the drastic growth in the past few years, the Chinese pharmaceutical market is only a fraction of the US pharmaceutical market.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The Chinese biopharmaceutical market increased by 200% in market capitalization between 2016 and 2020.",
+                    "vis_data": [
+                        {
+                            "label": "Biopharma Market Cap Increase",
+                            "value": "200",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Chinese healthcare industry was valued at $900 billion as of 2019.",
+                    "vis_data": [
+                        {
+                            "label": "Chinese Healthcare Value 2019",
+                            "value": "900",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Chinese healthcare industry is expected to grow to $2.3 trillion by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "Chinese Healthcare Value 2030",
+                            "value": "2300",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Chinese biopharmaceutical market was valued at $47.6 billion in 2020.",
+                    "vis_data": [
+                        {
+                            "label": "Biopharma Market Value 2020",
+                            "value": "47.6",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Chinese biopharmaceutical market is expected to grow to $111.76 billion by 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Biopharma Market Value 2025",
+                            "value": "111.76",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5269820139129378
+        },
+        {
+            "paragraph": "According to a consumer market insights report by Statista, China generates the most over-the-counter revenue, accounting for $29.36 million of the $145.3 billion in global revenue.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "China generates $29.36 million in over-the-counter revenue.",
+                    "vis_data": [
+                        {
+                            "label": "China OTC Revenue",
+                            "value": "0.02936",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Global over-the-counter revenue is $145.3 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Global OTC Revenue",
+                            "value": "145.3",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.48099002012402614
+        }
+    ]
+}

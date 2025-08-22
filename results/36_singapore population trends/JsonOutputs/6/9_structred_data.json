@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "In 2024, the population of Singapore stood at approximately 6.04 million, an increase from the previous year. The total population included both the resident and non-resident population. The resident population of Singapore comprised of both citizens and permanent residents.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population of Singapore stood at approximately 6.04 million in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population of Singapore",
+                            "value": "6.04",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "6_0_0"
+                }
+            ],
+            "relatedness_score": 0.6580257507520926,
+            "article_meta_data": {
+                "title": "Total population Singapore 1990-2024",
+                "date": "2025-02-21",
+                "url": "https://www.statista.com/statistics/713063/singapore-total-population/",
+                "id": 6
+            },
+            "para_id": "6_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "6_0",
+            "paragraph": "In 2024, the population of Singapore stood at approximately 6.04 million, an increase from the previous year. The total population included both the resident and non-resident population. The resident population of Singapore comprised of both citizens and permanent residents."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "The population of Singapore stood at approximately 6.04 million in 2024."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The population of Singapore stood at approximately 6.04 million in 2024.",
+            "vis_data": [
+                {
+                    "label": "Population of Singapore",
+                    "value": "6.04",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "6_0_0"
+        }
+    ]
+}

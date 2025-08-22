@@ -1,0 +1,13 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "The golden ratio, approximately 1.618, has influenced architectural design for centuries. This mathematical concept, also known as phi, brings a sense of harmony and beauty.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The golden ratio is approximately 1.618."
+                }
+            ]
+        }
+    ]
+}

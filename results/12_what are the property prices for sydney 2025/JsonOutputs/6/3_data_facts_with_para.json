@@ -1,0 +1,306 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Five Dockhas emerged as one of theSydney inner west property market\u2019smost consistent property performers, with values soaring by 125% over the past decade and 47.4% growth recorded in the last five years alone.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Values in Five Dock have soared by 125% over the past decade."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Values in Five Dock have grown by 47.4% in the last five years."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median House Price: $2,600,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Five Dock is $2,600,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median Unit Price: $1,100,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Five Dock is $1,100,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Croydon has experienced outstanding growth, with property values increasing by 163% over the past decade. In just the past year, prices have risen by 20.3%, highlighting the suburb\u2019s growing appeal.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Croydon have increased by 163% over the past decade."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Croydon have risen by 20.3% in the past year."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median House Price: $2,400,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Croydon is $2,400,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median Unit Price: $800,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Croydon is $800,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Over the past decade, property values have increased by 126%, with a notable 6.42% growth in the past year alone.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Concord have increased by 126% over the past decade."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Concord have grown by 6.42% in the past year."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median House Price: $2,900,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Concord is $2,900,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median Unit Price: $1,100,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Concord is $1,100,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Rozellehas recorded a 4.10% rise in property values over the past year and a strong 76.92% increase over the last decade, reflecting its steady long-term performance.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Rozelle have risen by 4.10% over the past year."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Rozelle have increased by 76.92% over the last decade."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median House Price: $2,200,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Rozelle is $2,200,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median Unit Price: $1,400,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Rozelle is $1,400,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Property values in the suburb have increased by 80.50% over the past decade, with a strong 9.41% rise in the last year alone\u2014highlighting its continued appeal.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Annandale have increased by 80.50% over the past decade."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Annandale have risen by 9.41% in the last year."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median House Price: $2,200,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Annandale is $2,200,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median Unit Price: $1,050,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Annandale is $1,050,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Dulwich Hill has recorded solid growth, with property values rising by 8.80% over the past year.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Dulwich Hill have risen by 8.80% over the past year."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median House Price: $2,200,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Dulwich Hill is $2,200,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median Unit Price: $920,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Dulwich Hill is $920,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Marrickville\u2019s unit market has recorded a remarkable 125% growth over the past decade, with a solid 7.25% increase in the past year alone.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Marrickville\u2019s unit market has grown by 125% over the past decade."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Marrickville\u2019s unit market has increased by 7.25% in the past year."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median House Price: $2,100,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Marrickville is $2,100,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median Unit Price: $910,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Marrickville is $910,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Over the past year, the suburb has experienced 7.14% growth, with property values rising by a substantial 71.11% over the past decade.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Ashfield have grown by 7.14% over the past year."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Ashfield have increased by 71.11% over the past decade."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median House Price: $2,100,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Ashfield is $2,100,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median Unit Price: $820,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Ashfield is $820,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "The suburb has seen a strong 14.2% growth in property values over the past year, along with a solid 5.1% rental yield, offering potential for strong rental returns.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Strathfield have grown by 14.2% over the past year."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Strathfield has a rental yield of 5.1%."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median House Price: $3,900,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Strathfield is $3,900,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median Unit Price: $750,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Strathfield is $750,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "The suburb has seen 40.20% growth in property values over the past five years.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Abbotsford have grown by 40.20% over the past five years."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median House Price: $3,200,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Abbotsford is $3,200,000."
+                }
+            ]
+        },
+        {
+            "paragraph": "Median Unit Price: $1,350,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Abbotsford is $1,350,000."
+                }
+            ]
+        }
+    ]
+}

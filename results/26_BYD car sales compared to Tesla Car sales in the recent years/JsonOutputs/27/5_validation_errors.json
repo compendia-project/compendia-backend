@@ -1,0 +1,111 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "China\u2019s EV giant BYD recorded revenues of 777 billion yuan ($107 billion) for 2024, surging ahead Elon Musk\u2019s Tesla in annual sales amid intensifying competition in the global market for clean-energy cars.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD recorded revenues of 777 billion yuan ($107 billion) for 2024.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Revenue",
+                            "value": "107",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "error": [
+                        "Missing data point: 777 billion yuan should also be included in vis_data for completeness."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In a filing on Monday, BYD reported a 29% jump in sales from the previous year on deliveries of 4.27 million cars, including fully electric vehicles and hybrids.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD delivered 4.27 million cars.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Deliveries",
+                            "value": "4.27",
+                            "unit": "million cars"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "By comparison, Tesla\u2019s 2024 revenue was $97.7 billion, and it delivered 1.79 million battery-powered vehicles. Its annual deliveries declined for the first time last year by 1.1%.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla\u2019s 2024 revenue was $97.7 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Revenue",
+                            "value": "97.7",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla delivered 1.79 million battery-powered vehicles.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Deliveries",
+                            "value": "1.79",
+                            "unit": "million cars"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's annual deliveries declined by 1.1%.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Delivery Decline",
+                            "value": "1.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2024, BYD had a 32% share of China\u2019s total market for new energy vehicle sales, which includes hybrids. Tesla claimed only 6.1% of the market, despite reaching a record high in terms of shipments, according to the China Passenger Car Association.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "BYD had a 32% share of China\u2019s total market for new energy vehicle sales.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Market Share",
+                            "value": "32",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Tesla claimed 6.1% of the market.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Market Share",
+                            "value": "6.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

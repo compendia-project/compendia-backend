@@ -1,0 +1,30 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Many health guidelines recommend 30 minutes of moderate intensity exercise at five to seven times per week to keep our heart healthy. Singapore\u2019s National Physical Activity guidelines recommend a similar 150 minutes of moderate intensity exercise every week. Activities such as taking the stairs, engaging in brisk walking and other aerobic exercises can contribute to this weekly target.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "30 minutes of moderate intensity exercise at five to seven times per week is recommended."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore\u2019s National Physical Activity guidelines recommend 150 minutes of moderate intensity exercise every week."
+                }
+            ]
+        },
+        {
+            "paragraph": "Exercise is even more important for patients with heart disease. After a bypass surgery or heart attack, it is recommended that eligible patients should attend a structured cardiac rehabilitation programme. This programme aims to educate patients on their cardiac condition, monitor the patients\u2019 health status following their discharge from the hospital, help patients effect lasting appropriate lifestyle changes, and motivate them to participate in regular aerobic exercise.The programme usually lasts for one to three months and can start a week after a patient discharges from the hospital. The patient should refer to his or her doctor\u2019s recommendation before embarking on such a programme. NHCS offers a secondphase outpatient Cardiovascular Rehabilitation and Preventive Cardiology programme, for all patients with coronary artery bypass surgery (CABG) done or had been admitted to NHCS for heart attack. Many studies have shown that cardiac patients who attended the structured cardiac rehabilitation programme and participated in regular exercise had up to 25% reduction in the risk of future cardiac events.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cardiac rehabilitation programme usually lasts for one to three months."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cardiac patients who attended the structured cardiac rehabilitation programme and participated in regular exercise had up to 25% reduction in the risk of future cardiac events."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In 2016, 27.5% of the global adult population and 81% of adolescents failed to meet the current guidelines for weekly exercise. Physical inactivity was responsible for 13.4 million disability-adjusted life years (DALYs) worldwide. Healthcare professionals should try to implement PA as a general treatment, as any type of PA yields positive effects on an individual\u2019s cardiovascular health, contributing to a 27% reduction in relative risk of cardiovascular mortality.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "27.5% of the global adult population failed to meet the current guidelines for weekly exercise in 2016.",
+                    "vis_data": [
+                        {
+                            "label": "Adults not meeting exercise guidelines",
+                            "value": "27.5",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "81% of adolescents failed to meet the current guidelines for weekly exercise in 2016.",
+                    "vis_data": [
+                        {
+                            "label": "Adolescents not meeting exercise guidelines",
+                            "value": "81",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Physical inactivity was responsible for 13.4 million disability-adjusted life years (DALYs) worldwide.",
+                    "vis_data": [
+                        {
+                            "label": "DALYs due to inactivity",
+                            "value": "13.4",
+                            "unit": "million DALYs"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "27% reduction in relative risk of cardiovascular mortality due to physical activity.",
+                    "vis_data": [
+                        {
+                            "label": "Reduction in cardiovascular mortality risk",
+                            "value": "27",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4709417154408361
+        },
+        {
+            "paragraph": "PA and increasing one\u2019s daily step count to 6,500 steps/day are associated with a reduced relative risk of CVD-related mortality of 49% [2], as well as a reduced incidence of CVD itself [3].",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Increasing daily step count to 6,500 steps/day is associated with a reduced relative risk of CVD-related mortality of 49%.",
+                    "vis_data": [
+                        {
+                            "label": "Reduction in CVD mortality risk",
+                            "value": "49",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.37851365945347526
+        }
+    ]
+}

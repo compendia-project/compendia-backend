@@ -1,0 +1,22 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "We see further signs that the overall RAN market is now stabilizing, with strong growth in North America supporting a return to Networks sales growth in Q4. Progress on operational excellence continued, with commercial discipline and supply chain efficiency actions supporting a strong adjustedGroup gross margin of 46.3% in the quarter. We are not yet at our long-term EBITA goal, but we are progressing towards it, supported by our strategic actions.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted Group gross margin of 46.3% in the quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted Group Gross Margin",
+                            "value": "46.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

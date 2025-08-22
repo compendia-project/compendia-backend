@@ -1,0 +1,71 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "After Singapore, Japan sees the smallest difference in price between the two carmakers, but Tesla\u2019s Model 3 is still nearly $12,000 more expensive than BYD\u2019s Dolphin. In Thailand, Tesla\u2019s offering is more expensive than that of BYD by the widest margin \u2014 the Model 3 costs over $30,000 more than the Dolphin.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Tesla\u2019s Model 3 is nearly $12,000 more expensive than BYD\u2019s Dolphin in Japan.",
+                    "vis_data": [
+                        {
+                            "label": "Price Difference in Japan",
+                            "value": "12000",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "In Thailand, Tesla\u2019s Model 3 costs over $30,000 more than BYD\u2019s Dolphin.",
+                    "vis_data": [
+                        {
+                            "label": "Price Difference in Thailand",
+                            "value": "30000",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5694811024764795
+        },
+        {
+            "paragraph": "BYD does not sell cars in the U.S., which imposed a 100% tariff on Chinese EVs in September 2024. Three of the 10 countries and regions in Rest of World\u2019s analysis have also imposed tariffs on Chinese EVs, according to the Market Access Map from the International Trade Centre, a joint agency between the World Trade Organization and the United Nations: the UAE at 5%, Chile at 6%, and South Korea, where BYD just launched in January, at 8%.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The UAE imposed a 5% tariff on Chinese EVs.",
+                    "vis_data": [
+                        {
+                            "label": "Tariff in UAE",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Chile imposed a 6% tariff on Chinese EVs.",
+                    "vis_data": [
+                        {
+                            "label": "Tariff in Chile",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "South Korea imposed an 8% tariff on Chinese EVs.",
+                    "vis_data": [
+                        {
+                            "label": "Tariff in South Korea",
+                            "value": "8",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5281036573564691
+        }
+    ]
+}

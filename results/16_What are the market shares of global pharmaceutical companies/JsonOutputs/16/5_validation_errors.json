@@ -1,0 +1,106 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "['Key Highlights from the Report:-North America Leads the Market:North America dominated the pharmaceutical market in 2023, accounting for 38.60% of total revenue. This region\u2019s leadership can be attributed to advanced healthcare infrastructure, high adoption of innovative therapies, and significant R&D investments.', '-Branded Drugs Take Center Stage:The branded drug segment emerged as the frontrunner, capturing a revenue share of 67.80% in 2023, driven by the demand for patented medicines and innovative treatments.', '-Prescription Drugs Dominate:Prescription drugs accounted for a significant 87.10% revenue share in 2023, underscoring their critical role in addressing complex medical conditions.', '-Conventional Drugs on Top:By molecule type, conventional drugs (small molecules) led the market, contributing 55.35% to the total revenue in 2023, owing to their widespread use and cost-effectiveness.', '-Oral Route Preferred:The oral route of administration continued to dominate with a 58.10% revenue share, due to its convenience and patient compliance.', '-Tablets Lead the Formulation Market:Among formulations, tablets captured 26.54% of revenue share in 2023, reflecting their popularity as a convenient and effective dosage form.', '-Hospitals as Key End Users:Hospitals accounted for 54.20% of the market share in 2023, driven by the increasing prevalence of hospital-based treatments and surgeries.', '-Adults Drive Demand:The adults segment remained the largest age group, contributing 64.50% of the revenue share, reflecting a growing demand for pharmaceutical products among the working-age population.']",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "North America accounted for 38.60% of total revenue in the pharmaceutical market in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "North America Revenue Share",
+                            "value": "38.60",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The branded drug segment captured a revenue share of 67.80% in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Branded Drug Revenue Share",
+                            "value": "67.80",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Prescription drugs accounted for 87.10% revenue share in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Prescription Drug Revenue Share",
+                            "value": "87.10",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Conventional drugs contributed 55.35% to the total revenue in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Conventional Drug Revenue Share",
+                            "value": "55.35",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The oral route of administration had a 58.10% revenue share in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Oral Route Revenue Share",
+                            "value": "58.10",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Tablets captured 26.54% of revenue share in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Tablet Revenue Share",
+                            "value": "26.54",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Hospitals accounted for 54.20% of the market share in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Hospital Market Share",
+                            "value": "54.20",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The adults segment contributed 64.50% of the revenue share in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Adult Segment Revenue Share",
+                            "value": "64.50",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

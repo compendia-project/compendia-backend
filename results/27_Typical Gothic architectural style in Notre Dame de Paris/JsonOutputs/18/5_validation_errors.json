@@ -1,0 +1,34 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "There are three rose windows at Notre Dame, two of which span 43 ft in diameter and one at 39 feet. A stunning accomplishment for the time they were constructed. Specialized glass artisans infused cobalt iron oxide and silver oxide into molten glass to generate an array of colors in the rose window. Little of the original glass still exists, and much of it has been added over time to mimic the original condition.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Two rose windows span 43 ft in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "Rose Window Diameter",
+                            "value": "43",
+                            "unit": "ft"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "One rose window spans 39 feet in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "Rose Window Diameter",
+                            "value": "39",
+                            "unit": "ft"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

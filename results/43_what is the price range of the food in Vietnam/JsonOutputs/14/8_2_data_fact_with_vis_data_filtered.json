@@ -1,0 +1,54 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "As others have stated it really depends where you eat. For a local soup or rice dish I pay between 25.000 and 50.000 Dong. But even for normal Vietnamese food places and restaurants the bill can easily get more than 300.000 Dong or more. But then it will include seafood. So it really depends what you want to eat.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Local soup or rice dish costs between 25.000 and 50.000 Dong.",
+                    "vis_data": [
+                        {
+                            "label": "Local soup or rice dish (low)",
+                            "value": "25000",
+                            "unit": "Dong"
+                        },
+                        {
+                            "label": "Local soup or rice dish (high)",
+                            "value": "50000",
+                            "unit": "Dong"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Normal Vietnamese food places and restaurants can cost more than 300.000 Dong.",
+                    "vis_data": [
+                        {
+                            "label": "Vietnamese food places",
+                            "value": "300000",
+                            "unit": "Dong"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.7047431397394424
+        },
+        {
+            "paragraph": "But sometimes you do not realise how quick you pay more (I am in Co To and paid for fresh grilled fish, some clams and veggie 700.000. it is still cheap but sometimes you pay more for nice food...even if it is mainly for Vietnamese).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Paid 700.000 Dong for fresh grilled fish, some clams, and veggie in Co To.",
+                    "vis_data": [
+                        {
+                            "label": "Grilled fish, clams, veggie",
+                            "value": "700000",
+                            "unit": "Dong"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5722122215911746
+        }
+    ]
+}

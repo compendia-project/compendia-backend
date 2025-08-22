@@ -1,0 +1,89 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "In the middle of 2023, about 60 percent of the global population was living in Asia.The total world population amounted to 8.1 billion people on the planet. In other words4.7 billion peoplewere living in Asia as of 2023.Global populationDue to medical advances, better living conditions and the increase of agricultural productivity, the world population increased rapidly over thepast century, and is expected to continue to grow. After reaching eight billion in 2023, the global population is estimated to pass10 billion by 2060.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "60 percent of the global population was living in Asia in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Population in Asia",
+                            "value": "60",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The total world population amounted to 8.1 billion people in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "World Population",
+                            "value": "8.1",
+                            "unit": "billion"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "4.7 billion people were living in Asia as of 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Population in Asia",
+                            "value": "4.7",
+                            "unit": "billion"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The global population is estimated to pass 10 billion by 2060.",
+                    "vis_data": [
+                        {
+                            "label": "Projected World Population",
+                            "value": "10",
+                            "unit": "billion"
+                        }
+                    ],
+                    "error": [
+                        "The fact content mentions 'pass 10 billion', but the value is exactly '10'. Consider using a value greater than 10 to reflect the 'pass' aspect."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Most of the future population increase is expected to happen in Africa. Thecountries with the highest population growth ratein 2024 were mostly African countries. While around 1.47 billion people live on the continent as of 2024, this is forecast togrow to 3.9 billionby 2100. This is underlined by the fact that most of the countries wit thehighest population growth rateare found in Africa. The growing population, in combination with climate change, puts increasing pressure on the world's resources.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Around 1.47 billion people live in Africa as of 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population in Africa",
+                            "value": "1.47",
+                            "unit": "billion"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Africa's population is forecast to grow to 3.9 billion by 2100.",
+                    "vis_data": [
+                        {
+                            "label": "Projected Population in Africa",
+                            "value": "3.9",
+                            "unit": "billion"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

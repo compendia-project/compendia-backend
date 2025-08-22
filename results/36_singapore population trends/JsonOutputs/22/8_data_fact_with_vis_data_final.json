@@ -1,0 +1,187 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The Singapore population reached 6.0 million people in Jun 2024, compared with the previously reported figure of 5.9 million people in Jun 2023 See the table below for more data.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population reached 6.0 million people in Jun 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population Jun 2024",
+                            "value": "6.0",
+                            "unit": "million people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population was 5.9 million people in Jun 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Population Jun 2023",
+                            "value": "5.9",
+                            "unit": "million people"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The Singapore population reached 6.0 million people in Jun 2024, compared with the previously reported figure of 5.9 million people in Jun 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population reached 6.0 million people in Jun 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population Jun 2024",
+                            "value": "6.0",
+                            "unit": "million people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population was 5.9 million people in Jun 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Population Jun 2023",
+                            "value": "5.9",
+                            "unit": "million people"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The Singapore population reached 6.0 million people in Jun 2024, compared with the previously reported figure of 5.9 million people in Jun 2023",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population reached 6.0 million people in Jun 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population Jun 2024",
+                            "value": "6.0",
+                            "unit": "million people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population was 5.9 million people in Jun 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Population Jun 2023",
+                            "value": "5.9",
+                            "unit": "million people"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The data reached an all-time high of 6.0 million people in Jun 2024 and a record low of 1.0 million people in Jun 1950",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The data reached an all-time high of 6.0 million people in Jun 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population High Jun 2024",
+                            "value": "6.0",
+                            "unit": "million people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The data reached a record low of 1.0 million people in Jun 1950.",
+                    "vis_data": [
+                        {
+                            "label": "Population Low Jun 1950",
+                            "value": "1.0",
+                            "unit": "million people"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In the latest reports, Singapore Unemployment Rate increased to 1.9 % in May 2023",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Unemployment Rate increased to 1.9 % in May 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Unemployment Rate May 2023",
+                            "value": "1.9",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Monthly earnings of the Singapore population was 4,813.3 USD in Jun 2024",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Monthly earnings of the Singapore population was 4,813.3 USD in Jun 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Monthly Earnings Jun 2024",
+                            "value": "4813.3",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Labour Force Participation Rate dropped to 68.6 % in Jun 2023",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Labour Force Participation Rate dropped to 68.6 % in Jun 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Labour Force Participation Jun 2023",
+                            "value": "68.6",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "What was Singapore's Population in 2024? The Singapore population reached 6.0 million people in Jun 2024, compared with the previously reported figure of 5.9 million people in Jun 2023",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population reached 6.0 million people in Jun 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population Jun 2024",
+                            "value": "6.0",
+                            "unit": "million people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population was 5.9 million people in Jun 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Population Jun 2023",
+                            "value": "5.9",
+                            "unit": "million people"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

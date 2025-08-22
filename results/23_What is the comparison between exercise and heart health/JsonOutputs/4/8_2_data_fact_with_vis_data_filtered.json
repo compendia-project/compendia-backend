@@ -1,0 +1,43 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Even with exercise, sedentary behavior can increase risk of heart failure by up to 60%, according to study",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sedentary behavior can increase risk of heart failure by up to 60%.",
+                    "vis_data": [
+                        {
+                            "label": "Increased Risk of Heart Failure",
+                            "value": "60",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4953665263014393
+        },
+        {
+            "paragraph": "Investigators at Mass General Brigham found sedentary behavior was associated with higher risks of all four types of heart disease, with a marked 40-60 percent greater risk of heart failure and cardiovascular death when sedentary behavior exceeded 10.6 hours a day. (Sedentary behavior is defined as waking activity with low energy expenditure while sitting, reclining, or lying down and does not include hours spent sleeping at night.)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "40-60 percent greater risk of heart failure and cardiovascular death when sedentary behavior exceeded 10.6 hours a day.",
+                    "vis_data": [
+                        {
+                            "label": "Risk Increase (Heart Failure & Death)",
+                            "value": "40",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Risk Increase (Heart Failure & Death)",
+                            "value": "60",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.40754218906820794
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "SINGAPORE: For the first time, Singapore\u2019s total population has exceeded six million, mainly due to the growth in the non-resident population.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore\u2019s total population has exceeded six million."
+                }
+            ]
+        },
+        {
+            "paragraph": "As of June this year, the country\u2019s population stood at 6.04 million, a 2 per cent increase from last year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The country\u2019s population stood at 6.04 million."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 2 per cent increase in population from last year."
+                }
+            ]
+        },
+        {
+            "paragraph": "Of the 6.04 million, there were 4.18 million residents and about 1.86 million non-residents, which comprise the foreign workforce, migrant domestic workers, dependants and international students.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "There were 4.18 million residents."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "There were about 1.86 million non-residents."
+                }
+            ]
+        },
+        {
+            "paragraph": "According to the report, the non-resident population jumped by about 5 per cent from last year. The increase was seen across most pass types, with work permit holders contributing most to the increase (44 per cent of non-resident population), followed by migrant domestic workers (15 per cent of non-resident population).",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The non-resident population jumped by about 5 per cent from last year."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Work permit holders contribute 44 per cent of non-resident population."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Migrant domestic workers contribute 15 per cent of non-resident population."
+                }
+            ]
+        }
+    ]
+}

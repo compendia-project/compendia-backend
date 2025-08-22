@@ -1,0 +1,261 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "BYD controls 22.2 percent of the global market share for electric vehicle sales. Next, Tesla 10.3 percent and Wuling 4 percent.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "BYD controls 22.2 percent of the global market share for electric vehicle sales.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Market Share",
+                            "value": "22.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Tesla controls 10.3 percent of the global market share for electric vehicle sales.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Market Share",
+                            "value": "10.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Wuling controls 4 percent of the global market share for electric vehicle sales.",
+                    "vis_data": [
+                        {
+                            "label": "Wuling Market Share",
+                            "value": "4",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The first order or the one that dominates the global market share is the BYD brand with a total of 3.84 million vehicles, both BEV and PHEV electric vehicles. BYD controls 22.2 percent of all electric vehicle sales in the global market or up 1.2 percentage points from 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD has a total of 3.84 million vehicles, both BEV and PHEV.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Vehicles",
+                            "value": "3840000",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "BYD controls 22.2 percent of all electric vehicle sales in the global market.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Market Share",
+                            "value": "22.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD's market share is up 1.2 percentage points from 2023.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Market Share Increase",
+                            "value": "1.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The second place is occupied by the American brand, Tesla, which managed to sell 1.78 million units or control 10.3 percent of the market share. Tesla's global market share fell 1.2 percent year-on-year (yoy). In 2023, Tesla's market share reached 13.2 percent.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla sold 1.78 million units.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Vehicles Sold",
+                            "value": "1780000",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Tesla controls 10.3 percent of the market share.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Market Share",
+                            "value": "10.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's global market share fell 1.2 percent year-on-year.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Market Share Decrease",
+                            "value": "1.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "In 2023, Tesla's market share reached 13.2 percent.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Market Share 2023",
+                            "value": "13.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "In the first two months of 2025, BYD has sold about 130,000 of its electric vehicles.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "In the first two months of 2025, BYD sold about 130,000 electric vehicles.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Sales Jan-Feb 2025",
+                            "value": "130000",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The US's largest BEV maker, Tesla, has had a tough start to the year, with January sales down 47 percent in Europe and 15 percent in China. Tesla's sales in France, Germany, the UK and Belgium fell 63 percent.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's January sales were down 47 percent in Europe.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Sales Decrease Europe",
+                            "value": "47",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's January sales were down 15 percent in China.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Sales Decrease China",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's sales in France, Germany, the UK and Belgium fell 63 percent.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Sales Decrease EU Countries",
+                            "value": "63",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Based on data from the European Automobile Manufacturers Association (ACEA), Tesla's sales in January 2025 were only 9,945 vehicles.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's sales in January 2025 were 9,945 vehicles.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Sales Jan 2025",
+                            "value": "9945",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "In total, electric car sales throughout 2024 rose 161 percent compared to the previous year in 2023.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Electric car sales throughout 2024 rose 161 percent compared to 2023.",
+                    "vis_data": [
+                        {
+                            "label": "EV Sales Increase 2024",
+                            "value": "161",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2025, electric vehicles in Indonesia continue to grow. Most recently, in February 2025, Gaikindo recorded a total of 7,659 sales units (wholesales). BYD still recorded the highest sales in Indonesia at 2,513 units.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "In February 2025, Gaikindo recorded a total of 7,659 sales units in Indonesia.",
+                    "vis_data": [
+                        {
+                            "label": "Indonesia EV Sales Feb 2025",
+                            "value": "7659",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD recorded the highest sales in Indonesia at 2,513 units.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Sales Indonesia Feb 2025",
+                            "value": "2513",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

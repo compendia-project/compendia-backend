@@ -1,0 +1,20 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Published in 1831, the novel, which took almost 6 months to complete, was an immediate success and fuelled the political debates of its contemporaries:preservation of the national heritage and abolition of the death penalty.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The novel was published in 1831 and took almost 6 months to complete.",
+                    "vis_data": [
+                        {
+                            "label": "Completion Time",
+                            "value": "6",
+                            "unit": "months"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

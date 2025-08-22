@@ -1,0 +1,403 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "A total of 28,310 couples registered their marriages in 2023, a 3.7 per cent fall from the record high of 29,389 marriages in 2022.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "28,310 couples registered their marriages in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2023",
+                            "value": "28310",
+                            "unit": "couples"
+                        }
+                    ],
+                    "fact_id": "4_0_0"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "3.7 per cent fall in marriages from 2022 to 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Fall in Marriages",
+                            "value": "3.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "29,389 marriages in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2022",
+                            "value": "29389",
+                            "unit": "couples"
+                        }
+                    ],
+                    "fact_id": "4_0_2"
+                }
+            ],
+            "relatedness_score": 0.538802229367467,
+            "article_meta_data": {
+                "title": "Fewer marriages in 2023 in Singapore after surge in 2022",
+                "date": "2024-07-15",
+                "url": "https://www.straitstimes.com/singapore/fewer-marriages-in-2023-in-s-pore-after-surge-in-2022",
+                "id": 4
+            },
+            "para_id": "4_0"
+        },
+        {
+            "paragraph": "In 2023, there were over 28,000 marriages registered, which is over 2,000 marriages more than a decade ago. Overall, the five-year moving average for marriages has been stable.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Over 28,000 marriages registered in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2023",
+                            "value": "28000",
+                            "unit": "couples"
+                        }
+                    ],
+                    "fact_id": "4_1_3"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Over 2,000 marriages more in 2023 than a decade ago.",
+                    "vis_data": [
+                        {
+                            "label": "Increase from a Decade Ago",
+                            "value": "2000",
+                            "unit": "couples"
+                        }
+                    ],
+                    "fact_id": "4_1_4"
+                }
+            ],
+            "relatedness_score": 0.5092807869773361,
+            "article_meta_data": {
+                "title": "Fewer marriages in 2023 in Singapore after surge in 2022",
+                "date": "2024-07-15",
+                "url": "https://www.straitstimes.com/singapore/fewer-marriages-in-2023-in-s-pore-after-surge-in-2022",
+                "id": 4
+            },
+            "para_id": "4_1"
+        },
+        {
+            "paragraph": "The corresponding figure for women was 25.1 per cent in 2013, and this rose to 28.7 per cent in 2023, an MSF spokeswoman told The Straits Times.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "25.1 per cent of female residents aged 25-49 were single in 2013.",
+                    "vis_data": [
+                        {
+                            "label": "Single Females 2013",
+                            "value": "25.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_2_5"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "28.7 per cent of female residents aged 25-49 were single in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Single Females 2023",
+                            "value": "28.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_2_6"
+                }
+            ],
+            "relatedness_score": 0.4849897596451933,
+            "article_meta_data": {
+                "title": "Fewer marriages in 2023 in Singapore after surge in 2022",
+                "date": "2024-07-15",
+                "url": "https://www.straitstimes.com/singapore/fewer-marriages-in-2023-in-s-pore-after-surge-in-2022",
+                "id": 4
+            },
+            "para_id": "4_2"
+        },
+        {
+            "paragraph": "A total of 28,310 couples registered their marriages in 2023, down from 29,389 in 2022.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "28,310 couples registered their marriages in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2023",
+                            "value": "28310",
+                            "unit": "couples"
+                        }
+                    ],
+                    "fact_id": "4_3_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "29,389 couples registered their marriages in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2022",
+                            "value": "29389",
+                            "unit": "couples"
+                        }
+                    ],
+                    "fact_id": "4_3_8"
+                }
+            ],
+            "relatedness_score": 0.4788892229379663,
+            "article_meta_data": {
+                "title": "Fewer marriages in 2023 in Singapore after surge in 2022",
+                "date": "2024-07-15",
+                "url": "https://www.straitstimes.com/singapore/fewer-marriages-in-2023-in-s-pore-after-surge-in-2022",
+                "id": 4
+            },
+            "para_id": "4_3"
+        },
+        {
+            "paragraph": "The proportion of male residents aged between 25 and 49 who were single increased from 31.2 per cent in 2013 to 35.4 per cent in 2023.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "31.2 per cent of male residents aged 25-49 were single in 2013.",
+                    "vis_data": [
+                        {
+                            "label": "Single Males 2013",
+                            "value": "31.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_4_9"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "35.4 per cent of male residents aged 25-49 were single in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Single Males 2023",
+                            "value": "35.4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_4_10"
+                }
+            ],
+            "relatedness_score": 0.47803185163182627,
+            "article_meta_data": {
+                "title": "Fewer marriages in 2023 in Singapore after surge in 2022",
+                "date": "2024-07-15",
+                "url": "https://www.straitstimes.com/singapore/fewer-marriages-in-2023-in-s-pore-after-surge-in-2022",
+                "id": 4
+            },
+            "para_id": "4_4"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "4_0",
+            "paragraph": "A total of 28,310 couples registered their marriages in 2023, a 3.7 per cent fall from the record high of 29,389 marriages in 2022."
+        },
+        {
+            "para_id": "4_1",
+            "paragraph": "In 2023, there were over 28,000 marriages registered, which is over 2,000 marriages more than a decade ago. Overall, the five-year moving average for marriages has been stable."
+        },
+        {
+            "para_id": "4_2",
+            "paragraph": "The corresponding figure for women was 25.1 per cent in 2013, and this rose to 28.7 per cent in 2023, an MSF spokeswoman told The Straits Times."
+        },
+        {
+            "para_id": "4_3",
+            "paragraph": "A total of 28,310 couples registered their marriages in 2023, down from 29,389 in 2022."
+        },
+        {
+            "para_id": "4_4",
+            "paragraph": "The proportion of male residents aged between 25 and 49 who were single increased from 31.2 per cent in 2013 to 35.4 per cent in 2023."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "4_0_0",
+            "fact_content": "28,310 couples registered their marriages in 2023."
+        },
+        {
+            "fact_id": "4_0_1",
+            "fact_content": "3.7 per cent fall in marriages from 2022 to 2023."
+        },
+        {
+            "fact_id": "4_0_2",
+            "fact_content": "29,389 marriages in 2022."
+        },
+        {
+            "fact_id": "4_1_3",
+            "fact_content": "Over 28,000 marriages registered in 2023."
+        },
+        {
+            "fact_id": "4_1_4",
+            "fact_content": "Over 2,000 marriages more in 2023 than a decade ago."
+        },
+        {
+            "fact_id": "4_2_5",
+            "fact_content": "25.1 per cent of female residents aged 25-49 were single in 2013."
+        },
+        {
+            "fact_id": "4_2_6",
+            "fact_content": "28.7 per cent of female residents aged 25-49 were single in 2023."
+        },
+        {
+            "fact_id": "4_3_7",
+            "fact_content": "28,310 couples registered their marriages in 2023."
+        },
+        {
+            "fact_id": "4_3_8",
+            "fact_content": "29,389 couples registered their marriages in 2022."
+        },
+        {
+            "fact_id": "4_4_9",
+            "fact_content": "31.2 per cent of male residents aged 25-49 were single in 2013."
+        },
+        {
+            "fact_id": "4_4_10",
+            "fact_content": "35.4 per cent of male residents aged 25-49 were single in 2023."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "28,310 couples registered their marriages in 2023.",
+            "vis_data": [
+                {
+                    "label": "Marriages in 2023",
+                    "value": "28310",
+                    "unit": "couples"
+                }
+            ],
+            "fact_id": "4_0_0"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "3.7 per cent fall in marriages from 2022 to 2023.",
+            "vis_data": [
+                {
+                    "label": "Fall in Marriages",
+                    "value": "3.7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "29,389 marriages in 2022.",
+            "vis_data": [
+                {
+                    "label": "Marriages in 2022",
+                    "value": "29389",
+                    "unit": "couples"
+                }
+            ],
+            "fact_id": "4_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Over 28,000 marriages registered in 2023.",
+            "vis_data": [
+                {
+                    "label": "Marriages in 2023",
+                    "value": "28000",
+                    "unit": "couples"
+                }
+            ],
+            "fact_id": "4_1_3"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Over 2,000 marriages more in 2023 than a decade ago.",
+            "vis_data": [
+                {
+                    "label": "Increase from a Decade Ago",
+                    "value": "2000",
+                    "unit": "couples"
+                }
+            ],
+            "fact_id": "4_1_4"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "25.1 per cent of female residents aged 25-49 were single in 2013.",
+            "vis_data": [
+                {
+                    "label": "Single Females 2013",
+                    "value": "25.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_2_5"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "28.7 per cent of female residents aged 25-49 were single in 2023.",
+            "vis_data": [
+                {
+                    "label": "Single Females 2023",
+                    "value": "28.7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_2_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "28,310 couples registered their marriages in 2023.",
+            "vis_data": [
+                {
+                    "label": "Marriages in 2023",
+                    "value": "28310",
+                    "unit": "couples"
+                }
+            ],
+            "fact_id": "4_3_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "29,389 couples registered their marriages in 2022.",
+            "vis_data": [
+                {
+                    "label": "Marriages in 2022",
+                    "value": "29389",
+                    "unit": "couples"
+                }
+            ],
+            "fact_id": "4_3_8"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "31.2 per cent of male residents aged 25-49 were single in 2013.",
+            "vis_data": [
+                {
+                    "label": "Single Males 2013",
+                    "value": "31.2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_4_9"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "35.4 per cent of male residents aged 25-49 were single in 2023.",
+            "vis_data": [
+                {
+                    "label": "Single Males 2023",
+                    "value": "35.4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_4_10"
+        }
+    ]
+}

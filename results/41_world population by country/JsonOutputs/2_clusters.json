@@ -1,0 +1,1841 @@
+{
+    "cluster_wise_facts": [
+        {
+            "cluster_id": 6,
+            "cluster_size": 16,
+            "facts": [
+                {
+                    "fact_id": "25_0_0",
+                    "fact_content": "The total number of humans as of July 13, 2025 is 8,226,524,140."
+                },
+                {
+                    "fact_id": "7_0_0",
+                    "fact_content": "237 countries or areas have population estimates from 1950 to the present."
+                },
+                {
+                    "fact_id": "7_0_2",
+                    "fact_content": "3,189 nationally representative sample surveys considered in the assessment."
+                },
+                {
+                    "fact_id": "26_1_2",
+                    "fact_content": "As of 2025, the world's population stands at almost 8.2 billion people."
+                },
+                {
+                    "fact_id": "6_0_0",
+                    "fact_content": "The United States will have 347 million inhabitants in 2025."
+                },
+                {
+                    "fact_id": "8_0_0",
+                    "fact_content": "Around 1.47 billion people live in Africa as of 2024."
+                },
+                {
+                    "fact_id": "8_1_2",
+                    "fact_content": "60 percent of the global population was living in Asia in 2023."
+                },
+                {
+                    "fact_id": "8_1_3",
+                    "fact_content": "The total world population amounted to 8.1 billion people in 2023."
+                },
+                {
+                    "fact_id": "24_0_1",
+                    "fact_content": "In the 1960s, China's fertility rate reached 7.4 children per woman."
+                },
+                {
+                    "fact_id": "21_0_0",
+                    "fact_content": "India has a population of 1.4 billion."
+                },
+                {
+                    "fact_id": "21_0_1",
+                    "fact_content": "China has a population of 1.4 billion."
+                },
+                {
+                    "fact_id": "21_0_2",
+                    "fact_content": "India is set to reach a population of 1.5 billion by 2030."
+                },
+                {
+                    "fact_id": "21_1_4",
+                    "fact_content": "This website has received 500,000 visitors since 2020."
+                },
+                {
+                    "fact_id": "2_3_15",
+                    "fact_content": "Nigeria is expected to have the largest population gain of 527 million by 2100."
+                },
+                {
+                    "fact_id": "1_1_3",
+                    "fact_content": "China's population is estimated to be 1.42 billion people."
+                },
+                {
+                    "fact_id": "1_2_7",
+                    "fact_content": "The US will have approximately 389 million people by 2060."
+                }
+            ]
+        },
+        {
+            "cluster_id": 4,
+            "cluster_size": 15,
+            "facts": [
+                {
+                    "fact_id": "25_0_1",
+                    "fact_content": "5 places in the top 10 are occupied by Asian countries."
+                },
+                {
+                    "fact_id": "26_1_4",
+                    "fact_content": "Asia has four times as many inhabitants as Africa."
+                },
+                {
+                    "fact_id": "21_3_6",
+                    "fact_content": "Mexico has more than twice the Population Weighted Density of the USA at 5.7k pp/km2."
+                },
+                {
+                    "fact_id": "2_1_1",
+                    "fact_content": "Mexico's population is expected to grow by 10% by 2100."
+                },
+                {
+                    "fact_id": "2_1_4",
+                    "fact_content": "Russia's population is expected to decrease by 14% by 2100."
+                },
+                {
+                    "fact_id": "2_1_7",
+                    "fact_content": "Tanzania's population is expected to increase by 378% by 2100."
+                },
+                {
+                    "fact_id": "2_2_11",
+                    "fact_content": "Albania is expected to have a 62% decrease in population by 2100."
+                },
+                {
+                    "fact_id": "2_2_12",
+                    "fact_content": "Serbia is expected to have a 52% decrease in population by 2100."
+                },
+                {
+                    "fact_id": "2_3_16",
+                    "fact_content": "Pakistan is projected to see a population gain of 182 million by 2100."
+                },
+                {
+                    "fact_id": "1_0_0",
+                    "fact_content": "DR Congo has more than 99 million people."
+                },
+                {
+                    "fact_id": "1_1_2",
+                    "fact_content": "India's population is estimated at more than 1.64 billion as of 2025."
+                },
+                {
+                    "fact_id": "1_2_7",
+                    "fact_content": "The US will have approximately 389 million people by 2060."
+                },
+                {
+                    "fact_id": "15_8_27",
+                    "fact_content": "Bangladesh's population grows at 1.22%."
+                },
+                {
+                    "fact_id": "15_9_30",
+                    "fact_content": "Ethiopia is expected to have 135 million people in 2025."
+                },
+                {
+                    "fact_id": "3_1_2",
+                    "fact_content": "C\u00f4te d\u2019Ivoire's population is projected to double again to 62 million by 2062."
+                }
+            ]
+        },
+        {
+            "cluster_id": 10,
+            "cluster_size": 10,
+            "facts": [
+                {
+                    "fact_id": "25_1_2",
+                    "fact_content": "Africa's population will grow by 62%."
+                },
+                {
+                    "fact_id": "21_3_7",
+                    "fact_content": "Colombia's Population Weighted Density is one of the highest in the world at 13.5k pp/km2."
+                },
+                {
+                    "fact_id": "2_1_2",
+                    "fact_content": "Brazil's population is expected to decrease by 15% by 2100."
+                },
+                {
+                    "fact_id": "2_1_3",
+                    "fact_content": "Bangladesh's population is expected to decrease by 8% by 2100."
+                },
+                {
+                    "fact_id": "2_1_5",
+                    "fact_content": "The Democratic Republic of the Congo's population is expected to increase by 304% by 2100."
+                },
+                {
+                    "fact_id": "2_2_9",
+                    "fact_content": "Niger is expected to have a 581% increase in population by 2100."
+                },
+                {
+                    "fact_id": "2_4_19",
+                    "fact_content": "Three-in-ten of the world's babies are born in Africa today."
+                },
+                {
+                    "fact_id": "1_2_8",
+                    "fact_content": "Vatican City has a population of 501 people."
+                },
+                {
+                    "fact_id": "15_10_36",
+                    "fact_content": "Nigeria has a population density of 261 people per km\u00b2."
+                },
+                {
+                    "fact_id": "15_10_37",
+                    "fact_content": "More than half of Nigeria's population live in urban areas."
+                }
+            ]
+        },
+        {
+            "cluster_id": 9,
+            "cluster_size": 19,
+            "facts": [
+                {
+                    "fact_id": "25_1_3",
+                    "fact_content": "The number of Europeans will decline by approximately 6%."
+                },
+                {
+                    "fact_id": "26_0_0",
+                    "fact_content": "India has almost 1.46 billion people."
+                },
+                {
+                    "fact_id": "26_1_3",
+                    "fact_content": "The world's population is expected to reach around 10.3 billion people in the 2080s."
+                },
+                {
+                    "fact_id": "6_0_1",
+                    "fact_content": "The United States will have 421 million inhabitants in 2100."
+                },
+                {
+                    "fact_id": "8_0_1",
+                    "fact_content": "Africa's population is forecast to grow to 3.9 billion by 2100."
+                },
+                {
+                    "fact_id": "8_1_5",
+                    "fact_content": "The global population is estimated to pass 10 billion by 2060."
+                },
+                {
+                    "fact_id": "24_0_0",
+                    "fact_content": "China's population reached 1.45 billion in 2022."
+                },
+                {
+                    "fact_id": "24_1_3",
+                    "fact_content": "India is expected to reach 1.7 billion by 2050."
+                },
+                {
+                    "fact_id": "24_2_4",
+                    "fact_content": "Pakistan has around 243 million inhabitants."
+                },
+                {
+                    "fact_id": "21_2_5",
+                    "fact_content": "The Population Weighted Density for the USA is 2.2k pp/km2 for 2020."
+                },
+                {
+                    "fact_id": "2_1_8",
+                    "fact_content": "Egypt's population is expected to increase by 120% by 2100."
+                },
+                {
+                    "fact_id": "2_2_14",
+                    "fact_content": "Bosnia-Herzegovina is expected to have a 50% decrease in population by 2100."
+                },
+                {
+                    "fact_id": "1_2_6",
+                    "fact_content": "Nigeria's population is expected to reach 400 million by 2060."
+                },
+                {
+                    "fact_id": "1_3_10",
+                    "fact_content": "India's annual growth rate is 0.89%."
+                },
+                {
+                    "fact_id": "15_0_1",
+                    "fact_content": "China has just over 1.42 billion people."
+                },
+                {
+                    "fact_id": "15_1_2",
+                    "fact_content": "China is expected to have approximately 1.42 billion people in 2025."
+                },
+                {
+                    "fact_id": "15_1_3",
+                    "fact_content": "China's population has decreased by 0.23%."
+                },
+                {
+                    "fact_id": "15_3_11",
+                    "fact_content": "91.4% of Brazil's population live in urban areas."
+                },
+                {
+                    "fact_id": "3_7_10",
+                    "fact_content": "By 2100, there will be almost four people age 65 and older for every person age 14 and younger."
+                }
+            ]
+        },
+        {
+            "cluster_id": 8,
+            "cluster_size": 14,
+            "facts": [
+                {
+                    "fact_id": "7_0_1",
+                    "fact_content": "1,910 national population censuses conducted between 1950 and 2023."
+                },
+                {
+                    "fact_id": "26_0_1",
+                    "fact_content": "China has just over 1.4 billion inhabitants."
+                },
+                {
+                    "fact_id": "8_1_4",
+                    "fact_content": "4.7 billion people were living in Asia as of 2023."
+                },
+                {
+                    "fact_id": "2_1_6",
+                    "fact_content": "Ethiopia's population is expected to increase by 156% by 2100."
+                },
+                {
+                    "fact_id": "2_3_17",
+                    "fact_content": "The United States is projected to see a population gain of 103 million by 2100."
+                },
+                {
+                    "fact_id": "1_0_1",
+                    "fact_content": "Vietnam has more than 99 million people."
+                },
+                {
+                    "fact_id": "15_2_7",
+                    "fact_content": "India's population grows annually at about 0.89%."
+                },
+                {
+                    "fact_id": "15_3_10",
+                    "fact_content": "Brazil's population grows at a rate of 0.38%."
+                },
+                {
+                    "fact_id": "15_4_13",
+                    "fact_content": "Indonesia's population grows at about 0.79% annually."
+                },
+                {
+                    "fact_id": "15_5_15",
+                    "fact_content": "Pakistan is expected to have an estimated 255 million people in 2025."
+                },
+                {
+                    "fact_id": "15_6_21",
+                    "fact_content": "Russia has a population density of 9 people per km\u00b2."
+                },
+                {
+                    "fact_id": "15_7_24",
+                    "fact_content": "The U.S. population grows at an annual rate of 0.54%."
+                },
+                {
+                    "fact_id": "15_7_25",
+                    "fact_content": "Over 82% of Americans live in urban areas."
+                },
+                {
+                    "fact_id": "15_9_32",
+                    "fact_content": "Ethiopia has a population density of 135 people per km\u00b2."
+                }
+            ]
+        },
+        {
+            "cluster_id": 5,
+            "cluster_size": 11,
+            "facts": [
+                {
+                    "fact_id": "24_1_2",
+                    "fact_content": "India's population was 1.41 billion in 2022."
+                },
+                {
+                    "fact_id": "21_0_3",
+                    "fact_content": "India retains a huge rural population of around 900 million people."
+                },
+                {
+                    "fact_id": "2_0_0",
+                    "fact_content": "China is expected to have 374 million fewer people by 2100."
+                },
+                {
+                    "fact_id": "1_3_9",
+                    "fact_content": "China's annual growth rate is -0.23%."
+                },
+                {
+                    "fact_id": "1_3_11",
+                    "fact_content": "China's population will slide under 1 billion by 2070."
+                },
+                {
+                    "fact_id": "15_0_0",
+                    "fact_content": "India has over 1.46 billion people."
+                },
+                {
+                    "fact_id": "15_4_12",
+                    "fact_content": "Indonesia is expected to have roughly 286 million people in 2025."
+                },
+                {
+                    "fact_id": "15_5_16",
+                    "fact_content": "Pakistan's population grows at about 1.57% annually."
+                },
+                {
+                    "fact_id": "15_8_26",
+                    "fact_content": "Bangladesh is expected to have about 176 million people in 2025."
+                },
+                {
+                    "fact_id": "3_1_1",
+                    "fact_content": "C\u00f4te d\u2019Ivoire's population doubled from 1998 to 31 million in 2024."
+                },
+                {
+                    "fact_id": "3_6_9",
+                    "fact_content": "Today, there are slightly more people age 65 and older than people ages 14 and younger."
+                }
+            ]
+        },
+        {
+            "cluster_id": 1,
+            "cluster_size": 7,
+            "facts": [
+                {
+                    "fact_id": "2_2_10",
+                    "fact_content": "Angola is expected to have a 473% increase in population by 2100."
+                },
+                {
+                    "fact_id": "1_2_4",
+                    "fact_content": "Nigeria's growth rate is 2.08%."
+                },
+                {
+                    "fact_id": "1_2_5",
+                    "fact_content": "US growth rate is 0.54%."
+                },
+                {
+                    "fact_id": "1_3_12",
+                    "fact_content": "India's population will expand to almost 1.7 billion by 2070."
+                },
+                {
+                    "fact_id": "15_1_5",
+                    "fact_content": "67.5% of China's population live in urban areas."
+                },
+                {
+                    "fact_id": "15_2_8",
+                    "fact_content": "More than 37% of India's population live in urban areas."
+                },
+                {
+                    "fact_id": "15_4_14",
+                    "fact_content": "Nearly 60% of Indonesia's population reside in urban areas."
+                }
+            ]
+        },
+        {
+            "cluster_id": 7,
+            "cluster_size": 9,
+            "facts": [
+                {
+                    "fact_id": "2_2_13",
+                    "fact_content": "Moldova is expected to have a 50% decrease in population by 2100."
+                },
+                {
+                    "fact_id": "2_4_18",
+                    "fact_content": "Half the world's babies will be born in Africa by 2100."
+                },
+                {
+                    "fact_id": "1_2_5",
+                    "fact_content": "US growth rate is 0.54%."
+                },
+                {
+                    "fact_id": "15_2_8",
+                    "fact_content": "More than 37% of India's population live in urban areas."
+                },
+                {
+                    "fact_id": "15_6_19",
+                    "fact_content": "Russia is expected to have approximately 144 million people in 2025."
+                },
+                {
+                    "fact_id": "15_6_22",
+                    "fact_content": "75% of Russia's population live in cities."
+                },
+                {
+                    "fact_id": "15_7_23",
+                    "fact_content": "The U.S. is expected to have around 347 million residents in 2025."
+                },
+                {
+                    "fact_id": "15_9_31",
+                    "fact_content": "Ethiopia's population grows at a high rate of 2.58%."
+                },
+                {
+                    "fact_id": "3_0_0",
+                    "fact_content": "South Korea's 2024 population is 19% larger than in 1990."
+                }
+            ]
+        },
+        {
+            "cluster_id": 3,
+            "cluster_size": 10,
+            "facts": [
+                {
+                    "fact_id": "1_4_13",
+                    "fact_content": "Vatican City is the smallest country in the world in terms of population with around 500 people."
+                },
+                {
+                    "fact_id": "15_1_4",
+                    "fact_content": "China has a population density of 151 people per km\u00b2."
+                },
+                {
+                    "fact_id": "15_2_6",
+                    "fact_content": "India is expected to have over 1.46 billion people in 2025."
+                },
+                {
+                    "fact_id": "15_3_9",
+                    "fact_content": "Brazil is expected to have an estimated 213 million people in 2025."
+                },
+                {
+                    "fact_id": "15_5_17",
+                    "fact_content": "Pakistan has a population density of 331 people per km\u00b2."
+                },
+                {
+                    "fact_id": "15_5_18",
+                    "fact_content": "About 34.4% of Pakistan's population live in cities."
+                },
+                {
+                    "fact_id": "15_6_20",
+                    "fact_content": "Russia's population declines by 0.57%."
+                },
+                {
+                    "fact_id": "15_8_28",
+                    "fact_content": "Bangladesh has a population density of 1,350 people per km\u00b2."
+                },
+                {
+                    "fact_id": "15_9_33",
+                    "fact_content": "Only 22.5% of Ethiopia's population live in urban areas."
+                },
+                {
+                    "fact_id": "15_10_34",
+                    "fact_content": "Nigeria is expected to have around 238 million inhabitants in 2025."
+                }
+            ]
+        },
+        {
+            "cluster_id": 2,
+            "cluster_size": 8,
+            "facts": [
+                {
+                    "fact_id": "15_8_29",
+                    "fact_content": "Over 42% of Bangladesh's population live in urban areas."
+                },
+                {
+                    "fact_id": "15_10_35",
+                    "fact_content": "Nigeria's population grows at approximately 2.08% annually."
+                },
+                {
+                    "fact_id": "3_2_3",
+                    "fact_content": "In 2024, Canada's rate of net migration is 6.1 per thousand."
+                },
+                {
+                    "fact_id": "3_3_4",
+                    "fact_content": "In 1990, about 2.2 million people (5% of the population) in South Korea were age 65 or older."
+                },
+                {
+                    "fact_id": "3_3_5",
+                    "fact_content": "In 2024, about 10.2 million people (20% of the population) in South Korea are age 65 or older."
+                },
+                {
+                    "fact_id": "3_4_6",
+                    "fact_content": "Canada's population age 65 and older more than doubled from 3.2 million in 1991 to 8.2 million in 2024."
+                },
+                {
+                    "fact_id": "3_5_7",
+                    "fact_content": "People age 65 and over will make up 50% of South Korea's population by 2062."
+                },
+                {
+                    "fact_id": "3_6_8",
+                    "fact_content": "In the 1980s, people ages 0-14 outnumbered people age 65 and older by more than 3 to 1."
+                }
+            ]
+        }
+    ],
+    "fact_wise_clusters": [
+        {
+            "fact_id": "25_0_0",
+            "fact_content": "The total number of humans as of July 13, 2025 is 8,226,524,140.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9989457914133434
+                }
+            ]
+        },
+        {
+            "fact_id": "25_0_1",
+            "fact_content": "5 places in the top 10 are occupied by Asian countries.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.998755876906876
+                }
+            ]
+        },
+        {
+            "fact_id": "25_1_2",
+            "fact_content": "Africa's population will grow by 62%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9998320643756131
+                }
+            ]
+        },
+        {
+            "fact_id": "25_1_3",
+            "fact_content": "The number of Europeans will decline by approximately 6%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999999999815512
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "237 countries or areas have population estimates from 1950 to the present.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9791007102399286
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_1",
+            "fact_content": "1,910 national population censuses conducted between 1950 and 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999438290976
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_2",
+            "fact_content": "3,189 nationally representative sample surveys considered in the assessment.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9907962046690257
+                }
+            ]
+        },
+        {
+            "fact_id": "26_0_0",
+            "fact_content": "India has almost 1.46 billion people.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.999999999997943
+                }
+            ]
+        },
+        {
+            "fact_id": "26_0_1",
+            "fact_content": "China has just over 1.4 billion inhabitants.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9997769002944873
+                }
+            ]
+        },
+        {
+            "fact_id": "26_1_2",
+            "fact_content": "As of 2025, the world's population stands at almost 8.2 billion people.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9997601449129041
+                }
+            ]
+        },
+        {
+            "fact_id": "26_1_3",
+            "fact_content": "The world's population is expected to reach around 10.3 billion people in the 2080s.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999984138502911
+                }
+            ]
+        },
+        {
+            "fact_id": "26_1_4",
+            "fact_content": "Asia has four times as many inhabitants as Africa.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9820016965096889
+                }
+            ]
+        },
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "The United States will have 347 million inhabitants in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.998215307490654
+                }
+            ]
+        },
+        {
+            "fact_id": "6_0_1",
+            "fact_content": "The United States will have 421 million inhabitants in 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999999999995248
+                }
+            ]
+        },
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "Around 1.47 billion people live in Africa as of 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.951786368424282
+                }
+            ]
+        },
+        {
+            "fact_id": "8_0_1",
+            "fact_content": "Africa's population is forecast to grow to 3.9 billion by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999890170940072
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_2",
+            "fact_content": "60 percent of the global population was living in Asia in 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9972838681419498
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_3",
+            "fact_content": "The total world population amounted to 8.1 billion people in 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9868234965789475
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_4",
+            "fact_content": "4.7 billion people were living in Asia as of 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9716736764411236
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_5",
+            "fact_content": "The global population is estimated to pass 10 billion by 2060.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.989907998700671
+                }
+            ]
+        },
+        {
+            "fact_id": "24_0_0",
+            "fact_content": "China's population reached 1.45 billion in 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999999972040765
+                }
+            ]
+        },
+        {
+            "fact_id": "24_0_1",
+            "fact_content": "In the 1960s, China's fertility rate reached 7.4 children per woman.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9988258371719592
+                }
+            ]
+        },
+        {
+            "fact_id": "24_1_2",
+            "fact_content": "India's population was 1.41 billion in 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999998862544561
+                }
+            ]
+        },
+        {
+            "fact_id": "24_1_3",
+            "fact_content": "India is expected to reach 1.7 billion by 2050.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9997801141165097
+                }
+            ]
+        },
+        {
+            "fact_id": "24_2_4",
+            "fact_content": "Pakistan has around 243 million inhabitants.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999999999999725
+                }
+            ]
+        },
+        {
+            "fact_id": "21_0_0",
+            "fact_content": "India has a population of 1.4 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9983074077702568
+                }
+            ]
+        },
+        {
+            "fact_id": "21_0_1",
+            "fact_content": "China has a population of 1.4 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9970882171675404
+                }
+            ]
+        },
+        {
+            "fact_id": "21_0_2",
+            "fact_content": "India is set to reach a population of 1.5 billion by 2030.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9974251116523292
+                }
+            ]
+        },
+        {
+            "fact_id": "21_0_3",
+            "fact_content": "India retains a huge rural population of around 900 million people.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999998203139148
+                }
+            ]
+        },
+        {
+            "fact_id": "21_1_4",
+            "fact_content": "This website has received 500,000 visitors since 2020.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9990148904748195
+                }
+            ]
+        },
+        {
+            "fact_id": "21_2_5",
+            "fact_content": "The Population Weighted Density for the USA is 2.2k pp/km2 for 2020.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9990539401618843
+                }
+            ]
+        },
+        {
+            "fact_id": "21_3_6",
+            "fact_content": "Mexico has more than twice the Population Weighted Density of the USA at 5.7k pp/km2.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9933908709782102
+                }
+            ]
+        },
+        {
+            "fact_id": "21_3_7",
+            "fact_content": "Colombia's Population Weighted Density is one of the highest in the world at 13.5k pp/km2.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9978182487661267
+                }
+            ]
+        },
+        {
+            "fact_id": "2_0_0",
+            "fact_content": "China is expected to have 374 million fewer people by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999992355938002
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_1",
+            "fact_content": "Mexico's population is expected to grow by 10% by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9987863830419512
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_2",
+            "fact_content": "Brazil's population is expected to decrease by 15% by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9994729563160072
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_3",
+            "fact_content": "Bangladesh's population is expected to decrease by 8% by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9991301871539932
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_4",
+            "fact_content": "Russia's population is expected to decrease by 14% by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.97439762779459
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_5",
+            "fact_content": "The Democratic Republic of the Congo's population is expected to increase by 304% by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9999473005234846
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_6",
+            "fact_content": "Ethiopia's population is expected to increase by 156% by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9636003452504818
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_7",
+            "fact_content": "Tanzania's population is expected to increase by 378% by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9989304447859232
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_8",
+            "fact_content": "Egypt's population is expected to increase by 120% by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999999999496754
+                }
+            ]
+        },
+        {
+            "fact_id": "2_2_9",
+            "fact_content": "Niger is expected to have a 581% increase in population by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9987191637074352
+                }
+            ]
+        },
+        {
+            "fact_id": "2_2_10",
+            "fact_content": "Angola is expected to have a 473% increase in population by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9810218734461404
+                }
+            ]
+        },
+        {
+            "fact_id": "2_2_11",
+            "fact_content": "Albania is expected to have a 62% decrease in population by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9991906433975346
+                }
+            ]
+        },
+        {
+            "fact_id": "2_2_12",
+            "fact_content": "Serbia is expected to have a 52% decrease in population by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9997543819406971
+                }
+            ]
+        },
+        {
+            "fact_id": "2_2_13",
+            "fact_content": "Moldova is expected to have a 50% decrease in population by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9944660772882967
+                }
+            ]
+        },
+        {
+            "fact_id": "2_2_14",
+            "fact_content": "Bosnia-Herzegovina is expected to have a 50% decrease in population by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.999999999906247
+                }
+            ]
+        },
+        {
+            "fact_id": "2_3_15",
+            "fact_content": "Nigeria is expected to have the largest population gain of 527 million by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.7949603634708426
+                }
+            ]
+        },
+        {
+            "fact_id": "2_3_16",
+            "fact_content": "Pakistan is projected to see a population gain of 182 million by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9962467450782837
+                }
+            ]
+        },
+        {
+            "fact_id": "2_3_17",
+            "fact_content": "The United States is projected to see a population gain of 103 million by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999959756297152
+                }
+            ]
+        },
+        {
+            "fact_id": "2_4_18",
+            "fact_content": "Half the world's babies will be born in Africa by 2100.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9996276123651171
+                }
+            ]
+        },
+        {
+            "fact_id": "2_4_19",
+            "fact_content": "Three-in-ten of the world's babies are born in Africa today.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9969910165025749
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_0",
+            "fact_content": "DR Congo has more than 99 million people.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.8892454590337404
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_1",
+            "fact_content": "Vietnam has more than 99 million people.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9927642448374963
+                }
+            ]
+        },
+        {
+            "fact_id": "1_1_2",
+            "fact_content": "India's population is estimated at more than 1.64 billion as of 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9993152345526128
+                }
+            ]
+        },
+        {
+            "fact_id": "1_1_3",
+            "fact_content": "China's population is estimated to be 1.42 billion people.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.999395521877912
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_4",
+            "fact_content": "Nigeria's growth rate is 2.08%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9985251275580982
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_5",
+            "fact_content": "US growth rate is 0.54%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.7564817549748465
+                },
+                {
+                    "cluster_id": 7,
+                    "probability": 0.24348343469654
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_6",
+            "fact_content": "Nigeria's population is expected to reach 400 million by 2060.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999912433448076
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_7",
+            "fact_content": "The US will have approximately 389 million people by 2060.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.28588173183485666
+                },
+                {
+                    "cluster_id": 6,
+                    "probability": 0.7007189441614389
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_8",
+            "fact_content": "Vatican City has a population of 501 people.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.999561098757125
+                }
+            ]
+        },
+        {
+            "fact_id": "1_3_9",
+            "fact_content": "China's annual growth rate is -0.23%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9998445283836979
+                }
+            ]
+        },
+        {
+            "fact_id": "1_3_10",
+            "fact_content": "India's annual growth rate is 0.89%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999999999932361
+                }
+            ]
+        },
+        {
+            "fact_id": "1_3_11",
+            "fact_content": "China's population will slide under 1 billion by 2070.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9989388171539263
+                }
+            ]
+        },
+        {
+            "fact_id": "1_3_12",
+            "fact_content": "India's population will expand to almost 1.7 billion by 2070.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9994336093555639
+                }
+            ]
+        },
+        {
+            "fact_id": "1_4_13",
+            "fact_content": "Vatican City is the smallest country in the world in terms of population with around 500 people.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "India has over 1.46 billion people.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999963818281022
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_1",
+            "fact_content": "China has just over 1.42 billion people.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999305076953252
+                }
+            ]
+        },
+        {
+            "fact_id": "15_1_2",
+            "fact_content": "China is expected to have approximately 1.42 billion people in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9714140203816295
+                }
+            ]
+        },
+        {
+            "fact_id": "15_1_3",
+            "fact_content": "China's population has decreased by 0.23%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999999999999467
+                }
+            ]
+        },
+        {
+            "fact_id": "15_1_4",
+            "fact_content": "China has a population density of 151 people per km\u00b2.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "15_1_5",
+            "fact_content": "67.5% of China's population live in urban areas.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.8795497586841254
+                }
+            ]
+        },
+        {
+            "fact_id": "15_2_6",
+            "fact_content": "India is expected to have over 1.46 billion people in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "15_2_7",
+            "fact_content": "India's population grows annually at about 0.89%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999955918266
+                }
+            ]
+        },
+        {
+            "fact_id": "15_2_8",
+            "fact_content": "More than 37% of India's population live in urban areas.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.7934925360854018
+                },
+                {
+                    "cluster_id": 7,
+                    "probability": 0.20650345713833684
+                }
+            ]
+        },
+        {
+            "fact_id": "15_3_9",
+            "fact_content": "Brazil is expected to have an estimated 213 million people in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "15_3_10",
+            "fact_content": "Brazil's population grows at a rate of 0.38%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999940093343
+                }
+            ]
+        },
+        {
+            "fact_id": "15_3_11",
+            "fact_content": "91.4% of Brazil's population live in urban areas.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999999995700737
+                }
+            ]
+        },
+        {
+            "fact_id": "15_4_12",
+            "fact_content": "Indonesia is expected to have roughly 286 million people in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9985378691953108
+                }
+            ]
+        },
+        {
+            "fact_id": "15_4_13",
+            "fact_content": "Indonesia's population grows at about 0.79% annually.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999997341052713
+                }
+            ]
+        },
+        {
+            "fact_id": "15_4_14",
+            "fact_content": "Nearly 60% of Indonesia's population reside in urban areas.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9198260513602686
+                }
+            ]
+        },
+        {
+            "fact_id": "15_5_15",
+            "fact_content": "Pakistan is expected to have an estimated 255 million people in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999974878280409
+                }
+            ]
+        },
+        {
+            "fact_id": "15_5_16",
+            "fact_content": "Pakistan's population grows at about 1.57% annually.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999984314287077
+                }
+            ]
+        },
+        {
+            "fact_id": "15_5_17",
+            "fact_content": "Pakistan has a population density of 331 people per km\u00b2.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999999999999978
+                }
+            ]
+        },
+        {
+            "fact_id": "15_5_18",
+            "fact_content": "About 34.4% of Pakistan's population live in cities.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "15_6_19",
+            "fact_content": "Russia is expected to have approximately 144 million people in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9984034553311474
+                }
+            ]
+        },
+        {
+            "fact_id": "15_6_20",
+            "fact_content": "Russia's population declines by 0.57%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "15_6_21",
+            "fact_content": "Russia has a population density of 9 people per km\u00b2.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999821209436967
+                }
+            ]
+        },
+        {
+            "fact_id": "15_6_22",
+            "fact_content": "75% of Russia's population live in cities.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9997148211701312
+                }
+            ]
+        },
+        {
+            "fact_id": "15_7_23",
+            "fact_content": "The U.S. is expected to have around 347 million residents in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9980600380032945
+                }
+            ]
+        },
+        {
+            "fact_id": "15_7_24",
+            "fact_content": "The U.S. population grows at an annual rate of 0.54%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999655767147048
+                }
+            ]
+        },
+        {
+            "fact_id": "15_7_25",
+            "fact_content": "Over 82% of Americans live in urban areas.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999994565544446
+                }
+            ]
+        },
+        {
+            "fact_id": "15_8_26",
+            "fact_content": "Bangladesh is expected to have about 176 million people in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999993968345595
+                }
+            ]
+        },
+        {
+            "fact_id": "15_8_27",
+            "fact_content": "Bangladesh's population grows at 1.22%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9997915644498273
+                }
+            ]
+        },
+        {
+            "fact_id": "15_8_28",
+            "fact_content": "Bangladesh has a population density of 1,350 people per km\u00b2.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999999999945937
+                }
+            ]
+        },
+        {
+            "fact_id": "15_8_29",
+            "fact_content": "Over 42% of Bangladesh's population live in urban areas.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999999999725
+                }
+            ]
+        },
+        {
+            "fact_id": "15_9_30",
+            "fact_content": "Ethiopia is expected to have 135 million people in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9053470647359598
+                }
+            ]
+        },
+        {
+            "fact_id": "15_9_31",
+            "fact_content": "Ethiopia's population grows at a high rate of 2.58%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9998901980838099
+                }
+            ]
+        },
+        {
+            "fact_id": "15_9_32",
+            "fact_content": "Ethiopia has a population density of 135 people per km\u00b2.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999974209794295
+                }
+            ]
+        },
+        {
+            "fact_id": "15_9_33",
+            "fact_content": "Only 22.5% of Ethiopia's population live in urban areas.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "15_10_34",
+            "fact_content": "Nigeria is expected to have around 238 million inhabitants in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "15_10_35",
+            "fact_content": "Nigeria's population grows at approximately 2.08% annually.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999999975842
+                }
+            ]
+        },
+        {
+            "fact_id": "15_10_36",
+            "fact_content": "Nigeria has a population density of 261 people per km\u00b2.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9775865724035007
+                }
+            ]
+        },
+        {
+            "fact_id": "15_10_37",
+            "fact_content": "More than half of Nigeria's population live in urban areas.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9998135348211115
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_0",
+            "fact_content": "South Korea's 2024 population is 19% larger than in 1990.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9929857776308187
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_1",
+            "fact_content": "C\u00f4te d\u2019Ivoire's population doubled from 1998 to 31 million in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999992026947949
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_2",
+            "fact_content": "C\u00f4te d\u2019Ivoire's population is projected to double again to 62 million by 2062.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9624476533725926
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_3",
+            "fact_content": "In 2024, Canada's rate of net migration is 6.1 per thousand.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999999788465
+                }
+            ]
+        },
+        {
+            "fact_id": "3_3_4",
+            "fact_content": "In 1990, about 2.2 million people (5% of the population) in South Korea were age 65 or older.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999997477178
+                }
+            ]
+        },
+        {
+            "fact_id": "3_3_5",
+            "fact_content": "In 2024, about 10.2 million people (20% of the population) in South Korea are age 65 or older.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999999936517
+                }
+            ]
+        },
+        {
+            "fact_id": "3_4_6",
+            "fact_content": "Canada's population age 65 and older more than doubled from 3.2 million in 1991 to 8.2 million in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999999999949
+                }
+            ]
+        },
+        {
+            "fact_id": "3_5_7",
+            "fact_content": "People age 65 and over will make up 50% of South Korea's population by 2062.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999999999585
+                }
+            ]
+        },
+        {
+            "fact_id": "3_6_8",
+            "fact_content": "In the 1980s, people ages 0-14 outnumbered people age 65 and older by more than 3 to 1.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999999999984
+                }
+            ]
+        },
+        {
+            "fact_id": "3_6_9",
+            "fact_content": "Today, there are slightly more people age 65 and older than people ages 14 and younger.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999998858625682
+                }
+            ]
+        },
+        {
+            "fact_id": "3_7_10",
+            "fact_content": "By 2100, there will be almost four people age 65 and older for every person age 14 and younger.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9983959023604059
+                }
+            ]
+        }
+    ],
+    "evaluation_metrics": {
+        "silhouette_score": 0.5092955827713013,
+        "davies_bouldin_score": 0.6668625529013612,
+        "cluster_entropy": 0.04906310029640802
+    },
+    "cluster_summary": {
+        "1": {
+            "representative_fact": "Nigeria's growth rate is 2.08%.",
+            "top_keywords": [
+                "population",
+                "urban",
+                "areas",
+                "growth",
+                "rate"
+            ],
+            "mean_similarity": 0.3884721084711141,
+            "mean_similarity_normalized": 0.7762909756546905
+        },
+        "4": {
+            "representative_fact": "Mexico's population is expected to grow by 10% by 2100.",
+            "top_keywords": [
+                "population",
+                "expected",
+                "2100",
+                "million",
+                "decrease"
+            ],
+            "mean_similarity": 0.3944055451092681,
+            "mean_similarity_normalized": 0.8323256026638896
+        },
+        "10": {
+            "representative_fact": "Africa's population will grow by 62%.",
+            "top_keywords": [
+                "population",
+                "expected",
+                "2100",
+                "africa",
+                "density"
+            ],
+            "mean_similarity": 0.3683978590812321,
+            "mean_similarity_normalized": 0.5867122971164412
+        },
+        "6": {
+            "representative_fact": "India is set to reach a population of 1.5 billion by 2030.",
+            "top_keywords": [
+                "population",
+                "billion",
+                "1",
+                "people",
+                "2025"
+            ],
+            "mean_similarity": 0.38282144102923665,
+            "mean_similarity_normalized": 0.7229267852590998
+        },
+        "3": {
+            "representative_fact": "Vatican City is the smallest country in the world in terms of population with around 500 people.",
+            "top_keywords": [
+                "population",
+                "people",
+                "density",
+                "per",
+                "km\u00b2"
+            ],
+            "mean_similarity": 0.3245330406709358,
+            "mean_similarity_normalized": 0.17245848632460714
+        },
+        "7": {
+            "representative_fact": "Half the world's babies will be born in Africa by 2100.",
+            "top_keywords": [
+                "population",
+                "expected",
+                "2100",
+                "rate",
+                "live"
+            ],
+            "mean_similarity": 0.3777160362419032,
+            "mean_similarity_normalized": 0.6747119865790869
+        },
+        "9": {
+            "representative_fact": "The world's population is expected to reach around 10.3 billion people in the 2080s.",
+            "top_keywords": [
+                "population",
+                "billion",
+                "expected",
+                "1",
+                "people"
+            ],
+            "mean_similarity": 0.4121603775322831,
+            "mean_similarity_normalized": 1.0
+        },
+        "5": {
+            "representative_fact": "China is expected to have 374 million fewer people by 2100.",
+            "top_keywords": [
+                "people",
+                "population",
+                "million",
+                "1",
+                "india"
+            ],
+            "mean_similarity": 0.36873796926763425,
+            "mean_similarity_normalized": 0.589924254806277
+        },
+        "8": {
+            "representative_fact": "Ethiopia has a population density of 135 people per km\u00b2.",
+            "top_keywords": [
+                "population",
+                "people",
+                "grows",
+                "0",
+                "million"
+            ],
+            "mean_similarity": 0.3753289361866761,
+            "mean_similarity_normalized": 0.6521685148298206
+        },
+        "2": {
+            "representative_fact": "Nigeria's population grows at approximately 2.08% annually.",
+            "top_keywords": [
+                "population",
+                "2",
+                "people",
+                "age",
+                "65"
+            ],
+            "mean_similarity": 0.30627162704269795,
+            "mean_similarity_normalized": 0.0
+        }
+    }
+}

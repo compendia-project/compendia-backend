@@ -1,0 +1,192 @@
+[
+    {
+        "cluster_id": 5,
+        "title": "Exercise Benefits",
+        "description": "Regular physical activity significantly reduces the risk of heart disease and other health issues. Engaging in as little as 15 minutes of walking daily can lower heart disease risk for most Australians. Sedentary individuals face a 20% to 30% higher risk of death from any cause compared to those who exercise moderately for 150 minutes weekly. Additionally, physical activity is linked to a 35% decrease in all-cause mortality in heart failure patients.",
+        "representative_facts": [
+            {
+                "fact_content": "Nine out of 10 Australians could reduce heart disease risk by walking 15 minutes more daily",
+                "fact_id": "5_0"
+            },
+            {
+                "fact_content": "Sedentary people have a 20% to 30% higher risk of death than those exercising 150 minutes weekly",
+                "fact_id": "5_4"
+            },
+            {
+                "fact_content": "PA is associated with a 35% decrease in all-cause mortality in HF patients",
+                "fact_id": "5_5"
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "title": "Exercise Benefits",
+        "description": "Engaging in regular physical activity, such as moderate to high intensity muscle strengthening and consistent moderate intensity exercise, significantly reduces the risk of cardiovascular diseases and other health issues. Sedentary behavior, on the other hand, increases these risks. An increase in cardiorespiratory fitness (CRF) by 1 MET unit can lower the risk of heart failure by 17%.",
+        "representative_facts": [
+            {
+                "fact_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease",
+                "fact_id": "7_0"
+            },
+            {
+                "fact_content": "30 minutes of moderate intensity exercise at five to seven times per week is recommended",
+                "fact_id": "7_2"
+            },
+            {
+                "fact_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%",
+                "fact_id": "7_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "title": "Inactivity Costs",
+        "description": "Physical inactivity poses significant health and economic challenges. Sedentary behavior can increase heart failure risk by up to 60%. Historically, inactivity cost the U.S. $5.7 billion in 1989 due to healthcare expenses. Globally, it is projected to cost over $300 billion from 2020 to 2030. Exercise, however, has been shown to effectively lower systolic blood pressure, highlighting its health benefits.",
+        "representative_facts": [
+            {
+                "fact_content": "Sedentary behavior increases heart failure risk by 60%",
+                "fact_id": "9_0"
+            },
+            {
+                "fact_content": "Inactivity cost the U.S. $5.7 billion in 1989",
+                "fact_id": "9_1"
+            },
+            {
+                "fact_content": "Global inactivity costs over $300 billion from 2020 to 2030",
+                "fact_id": "9_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "title": "Exercise Benefits",
+        "description": "Engaging in regular physical activity significantly reduces the risk of heart-related issues and mortality. Sedentary behavior, particularly exceeding 10.6 hours a day, increases the risk of heart failure and cardiovascular death by 40-60%. In contrast, cardiac patients who participate in structured rehabilitation and regular exercise can reduce their risk of future cardiac events by up to 25%. Additionally, physical activity is linked to a 35% decrease in all-cause mortality among heart failure patients.",
+        "representative_facts": [
+            {
+                "fact_content": "Sedentary behavior over 10.6 hours daily raises heart failure risk by 40-60%",
+                "fact_id": "2_0"
+            },
+            {
+                "fact_content": "Cardiac rehab and exercise cut future cardiac event risk by 25%",
+                "fact_id": "2_1"
+            },
+            {
+                "fact_content": "Physical activity lowers all-cause mortality by 35% in heart failure patients",
+                "fact_id": "2_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "title": "Exercise Benefits",
+        "description": "Physical activity significantly reduces the risk of coronary heart disease and heart failure. Approximately 35% of coronary heart disease mortality is attributed to physical inactivity, while engaging in physical activity is linked to a 28% reduction in heart failure hospitalizations. A large-scale analysis involving over 1.8 million participants highlights the importance of exercise in heart health.",
+        "representative_facts": [
+            {
+                "fact_content": "35% of coronary heart disease mortality is due to physical inactivity",
+                "fact_id": "6_0"
+            },
+            {
+                "fact_content": "Physical activity reduces heart failure hospitalizations by 28%",
+                "fact_id": "6_1"
+            },
+            {
+                "fact_content": "1,895,300 participants were included in the analysis",
+                "fact_id": "6_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "title": "Heart Disease",
+        "description": "Coronary heart disease is the primary cause of mortality in the United States, accounting for over 700,000 deaths each year. Cardiac rehabilitation programs, which typically last one to three months, are crucial for recovery and management. A study analyzed 3,632 cases of heart failure to better understand the condition.",
+        "representative_facts": [
+            {
+                "fact_content": "Coronary heart disease causes over 700,000 US deaths annually",
+                "fact_id": "8_0"
+            },
+            {
+                "fact_content": "Cardiac rehab lasts one to three months",
+                "fact_id": "8_1"
+            },
+            {
+                "fact_content": "Study analyzed 3,632 heart failure cases",
+                "fact_id": "8_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "title": "Physical Inactivity",
+        "description": "Physical inactivity is a significant global health issue, with a large percentage of adults not meeting exercise guidelines. This inactivity contributes to preventable diseases and substantial economic costs. Increasing physical activity could prevent a notable percentage of cardiovascular diseases and reduce healthcare expenses.",
+        "representative_facts": [
+            {
+                "fact_content": "60% of Americans over 18 are physically inactive",
+                "fact_id": "1_0"
+            },
+            {
+                "fact_content": "Physical inactivity will cost US$ 27 billion annually",
+                "fact_id": "1_5"
+            },
+            {
+                "fact_content": "7\u20138% of cardiovascular cases could be prevented with more activity",
+                "fact_id": "1_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "title": "Exercise Benefits",
+        "description": "Engaging in regular physical activity significantly enhances cardiovascular health. Exercise increases blood circulation by up to 25% and is linked to a 35% reduction in the risk of death from cardiovascular disease. This protective effect is consistent across adults and older adults, emphasizing the importance of meeting or exceeding physical activity guidelines for heart health.",
+        "representative_facts": [
+            {
+                "fact_content": "Exercise boosts blood circulation by up to 25%",
+                "fact_id": "10_0"
+            },
+            {
+                "fact_content": "Physical activity reduces cardiovascular disease risk by 35%",
+                "fact_id": "10_3"
+            },
+            {
+                "fact_content": "Meeting activity guidelines cuts cardiovascular death risk by 35%",
+                "fact_id": "10_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "title": "Exercise Benefits",
+        "description": "Regular physical activity significantly improves heart health by reducing blood pressure and lowering the risk of cardiovascular diseases. Exercise can decrease systolic and diastolic blood pressure by 5 to 7 mm Hg in individuals with hypertension. Additionally, active adults can reduce their risk of death from cardiovascular disease by up to 35%. Increasing daily steps to 6,500 can lower the risk of CVD-related mortality by 49%.",
+        "representative_facts": [
+            {
+                "fact_content": "Exercise reduces systolic pressure by 5 to 7 points in people with high blood pressure",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease",
+                "fact_id": "4_5"
+            },
+            {
+                "fact_content": "Increasing daily step count to 6,500 steps/day is associated with a reduced relative risk of CVD-related mortality of 49%",
+                "fact_id": "4_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "title": "Exercise Benefits",
+        "description": "Regular exercise significantly impacts heart health and overall well-being. It improves resting heart rate and lowers diastolic blood pressure, contributing to better cardiovascular health. Despite these benefits, a large percentage of adolescents fail to meet exercise guidelines, highlighting a public health concern. Additionally, physical inactivity contributes to a substantial number of disability-adjusted life years globally, emphasizing the importance of promoting physical activity.",
+        "representative_facts": [
+            {
+                "fact_content": "Exercise improved resting heart rate with SMD = \u22120.30",
+                "fact_id": "3_3"
+            },
+            {
+                "fact_content": "Exercise was effective in lowering diastolic blood pressure with SMD = \u22120.72",
+                "fact_id": "3_4"
+            },
+            {
+                "fact_content": "81% of adolescents failed to meet exercise guidelines in 2016",
+                "fact_id": "3_1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Drink beer:It's hot in Vietnam, and nothing helps cool you down like a glass of beer. You'll see it for sale everywhere. We bought some from an old lady selling it out of her house, and we sat with her on little stools on the sidewalk and drank a few bottles. Also, a bottle of beer is cheaper than a bottle of water in Vietnam, use that to your advantage, and remember beer is 95% water anyway! Cheers!",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Beer is 95% water."
+                }
+            ]
+        },
+        {
+            "paragraph": "Speaking of Beer, try Bia H\u1edfiThis is a dirt cheap local style of Vietnamese beer. Expect to pay a few pennies for a glass. Bia H\u1edfi literally means fresh beer. It's brewed each the morning and is sold later that day! Don't be turned off when you see it served with large amounts of ice. It's surprisingly refreshing and when it's hot and humid (even inside the air conditioned rooms), you'll be thankful.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bia H\u1edfi is brewed each morning and sold later that day."
+                }
+            ]
+        }
+    ]
+}

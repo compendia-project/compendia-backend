@@ -1,0 +1,17 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "['Oh boy, you gotta try this restaurant called Phan Gia cafe and restaurant:', 'I accidentally hit by biking the hidden gem away 10ish mins away from the old town, just the river across from Hoi \u0102n memories resort and spa. Country feel and away from crowd and just next to riverbank, foods and drinks. They offer hoppy hour set, two dishes with one beer or soda of your choice for 109K, so delicious. I should have found this earlier.', 'In resort, I pay $6 for cocktail; it is cheaper than what I would pay in US.']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Hoppy hour set, two dishes with one beer or soda for 109K."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "In resort, I pay $6 for cocktail."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "China is steadily becoming a crucial market for categories geared toward consumers with higher incomes. By 2030, it may be home to about 400 million households with upper-middle and higher incomes\u2014roughly as many as in Europe and the United States combined. Over the next five years, it is estimated that the number of millionaires in China may double, from around five million today to ten million in 2025. Thanks to their rising incomes, Chinese consumers are punching well above their weight. China generates about 17 percent of global GDP today, but accounts for a larger share of consumption in several categories (Exhibit 2). Three patterns are emerging in terms of China\u2019s share of global consumption.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "China may be home to about 400 million households with upper-middle and higher incomes by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "Households with upper-middle and higher incomes",
+                            "value": "400",
+                            "unit": "million"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The number of millionaires in China may double from around five million today to ten million in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Millionaires in China 2025",
+                            "value": "10",
+                            "unit": "million"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China generates about 17 percent of global GDP today.",
+                    "vis_data": [
+                        {
+                            "label": "China's share of global GDP",
+                            "value": "17",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

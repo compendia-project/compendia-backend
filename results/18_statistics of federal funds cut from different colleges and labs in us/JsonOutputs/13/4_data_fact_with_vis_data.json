@@ -1,0 +1,178 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Since January, this underinvestment has escalated into a crisis, marked by abrupt cancellations, stalled grant processes, and sweeping attempts to dismantle funding mechanisms for science and technology research across the country. The National Institutes of Health (NIH), the world\u2019s largest biomedical research funder with nearly $40 billion in annual grant funding, has terminated or delayed over 2,000 grant awards. The National Science Foundation (NSF), a substantial sponsor of fundamental research in the nonmedical sciences with a nearly $10 billion budget, has awarded grant funding at half its usual rate. These headline numbers stem from a series of targeted policy moves by the administration, each now the subject of fast-moving litigation.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The National Institutes of Health (NIH) has nearly $40 billion in annual grant funding.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Annual Grant Funding",
+                            "value": "40",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The National Science Foundation (NSF) has a nearly $10 billion budget.",
+                    "vis_data": [
+                        {
+                            "label": "NSF Budget",
+                            "value": "10",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The NIH has terminated or delayed over 2,000 grant awards.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Terminated/Delayed Grants",
+                            "value": "2000",
+                            "unit": "grants"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "One of the first flashpoints was the Trump administration\u2019s cancellation of already-awarded research grants mentioning disfavored topics such as \u201cDEI.\u201d On January 20 and 21, a suite of executive orders directed agencies to terminate funding for all \u201cequity-related\u201d grants within 60 days, to \u201censure grant funds do not promote gender ideology,\u201d and to end \u201call \u2018diversity,\u2019 \u2018equity,\u2019 [etc.] programs, or activities.\u201d Federal grantmaking agencies responded with form letters voiding grants as no longer serving \u201cagency priorities.\u201d According to the Grant Watch project, the NIH has cancelled well over $3 billion in grants, and the NSF has cancelled over $1 billion. Cuts at the NIH particularly targeted grants that mentioned race or gender, health equity, vaccine hesitancy, or misinformation. The NSF also has eliminated over 100 climate-related projects.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The NIH has cancelled well over $3 billion in grants.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Cancelled Grants",
+                            "value": "3",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The NSF has cancelled over $1 billion in grants.",
+                    "vis_data": [
+                        {
+                            "label": "NSF Cancelled Grants",
+                            "value": "1",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The NSF has eliminated over 100 climate-related projects.",
+                    "vis_data": [
+                        {
+                            "label": "NSF Climate Projects Eliminated",
+                            "value": "100",
+                            "unit": "projects"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The projected economic effects are enormous; one study estimates the cuts \u201cwould lead to about $16 billion in economic loss and around 68,000 lost jobs annually.\u201d The cuts would also disproportionately impact the institutions most tied to patenting and drug development, potentially undermining the next generation of lifesaving therapies.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cuts would lead to about $16 billion in economic loss annually.",
+                    "vis_data": [
+                        {
+                            "label": "Annual Economic Loss",
+                            "value": "16",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cuts would lead to around 68,000 lost jobs annually.",
+                    "vis_data": [
+                        {
+                            "label": "Annual Jobs Lost",
+                            "value": "68000",
+                            "unit": "jobs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Finally, and perhaps most significantly, the Trump administration\u2019s proposed 2026 budget has staggering cuts for science and research agencies, including the NSF (57%), NIH (40%), CDC (53%), and NASA\u2019s science budget (47%). The National Oceanic and Atmospheric Administration budget would be reduced by 30%, with $0 funding for climate research. Congress\u2019s July 3 passage of Trump\u2019s massive spending and tax-cut bill suggests that they may continue to fulfill Trump\u2019s policy priorities.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The NSF budget would be cut by 57%.",
+                    "vis_data": [
+                        {
+                            "label": "NSF Budget Cut",
+                            "value": "57",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The NIH budget would be cut by 40%.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Budget Cut",
+                            "value": "40",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The CDC budget would be cut by 53%.",
+                    "vis_data": [
+                        {
+                            "label": "CDC Budget Cut",
+                            "value": "53",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "NASA\u2019s science budget would be cut by 47%.",
+                    "vis_data": [
+                        {
+                            "label": "NASA Science Budget Cut",
+                            "value": "47",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The National Oceanic and Atmospheric Administration budget would be reduced by 30%.",
+                    "vis_data": [
+                        {
+                            "label": "NOAA Budget Reduction",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "$0 funding for climate research in the proposed 2026 budget.",
+                    "vis_data": [
+                        {
+                            "label": "Climate Research Funding",
+                            "value": "0",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

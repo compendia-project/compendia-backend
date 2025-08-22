@@ -1,0 +1,223 @@
+[
+    {
+        "cluster_id": "4",
+        "facts": [
+            {
+                "merged_id": "4_0",
+                "merged_content": "Proportion of homosexual males among patients in various countries."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "HIV statistics in Sweden."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "People living with HIV in Sweden."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "New HIV cases in Sweden."
+            },
+            {
+                "merged_id": "4_4",
+                "merged_content": "Men's share of new HIV cases in Sweden."
+            },
+            {
+                "merged_id": "4_5",
+                "merged_content": "HIV-1A6 subtype rank."
+            },
+            {
+                "merged_id": "4_6",
+                "merged_content": "Proportion of diagnosed PWHIV in 2018."
+            },
+            {
+                "merged_id": "4_7",
+                "merged_content": "Care retention in Sweden by 2015."
+            },
+            {
+                "merged_id": "4_8",
+                "merged_content": "Proportion of new HIV infections in South Africa."
+            },
+            {
+                "merged_id": "4_9",
+                "merged_content": "Management of immigrants in Sweden."
+            }
+        ]
+    },
+    {
+        "cluster_id": "9",
+        "facts": [
+            {
+                "merged_id": "9_0",
+                "merged_content": "Proportion of HIV-related demographics in Sweden and Denmark."
+            },
+            {
+                "merged_id": "9_1",
+                "merged_content": "HIV statistics in Sweden."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "HIV-related statistics in 2022."
+            },
+            {
+                "merged_id": "9_3",
+                "merged_content": "InfCareHIV cohort size."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "Various HIV-related proportions in Sweden."
+            }
+        ]
+    },
+    {
+        "cluster_id": "3",
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "87% of the patients were homosexual males in the United Kingdom."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "By the conclusion of 2015, 90 percent of HIV cases in Sweden were diagnosed."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Over seven million people live with HIV in South Africa."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "95% proportion of PWHIV with successful viral suppression reached in 2013."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "95% diagnoses among endogenous MSM transmissions reached in 2014."
+            },
+            {
+                "merged_id": "3_5",
+                "merged_content": "3% of people living with HIV in Sweden were born in Eastern Europe and Central Asia."
+            }
+        ]
+    },
+    {
+        "cluster_id": "6",
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "Approximately 400-500 new cases of HIV are reported each year in Sweden."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "HIV treatment and diagnosis statistics in Sweden and Denmark."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "HIV diagnosis and treatment progress in Sweden."
+            }
+        ]
+    },
+    {
+        "cluster_id": "2",
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "Migrants made up approximately 12% of the population of the EU countries but accounted for 44% of newly reported HIV cases in 2019. 36% of people living with HIV in Sweden were born in sub-Saharan Africa by the end of 2021. 4% of people living with HIV in Sweden were born in North America by the end of 2021."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "The median age for those who were diagnosed with HIV in 2019 in Sweden was 38 years."
+            }
+        ]
+    },
+    {
+        "cluster_id": "7",
+        "facts": [
+            {
+                "merged_id": "7_0",
+                "merged_content": "Infection rate and new HIV cases in Sweden."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "HIV statistics in Sweden."
+            }
+        ]
+    },
+    {
+        "cluster_id": "1",
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "Proportion of PWHIV on ART and linked to care in Sweden."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "HIV statistics in Sweden: People living with HIV and diagnosed subjects."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "Proportion of Swedish/Danish MSM & Heterosexuals successfully managed."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "Migrants' contribution to new HIV cases in Sweden."
+            },
+            {
+                "merged_id": "1_4",
+                "merged_content": "Proportion of people living with HIV in Sweden under ARV treatment."
+            }
+        ]
+    },
+    {
+        "cluster_id": "5",
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "HIV management and ART in Sweden and Denmark."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "HIV cases and demographics in Sweden."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "Viral suppression in ART by 2022."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "Management of injection drug users with HIV."
+            }
+        ]
+    },
+    {
+        "cluster_id": "8",
+        "facts": [
+            {
+                "merged_id": "8_0",
+                "merged_content": "Distribution of people living with HIV in Sweden by gender."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "Distribution of people living with HIV in Sweden by region of birth."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "Proportion of diagnosed PWHIV on ART by 2022."
+            },
+            {
+                "merged_id": "8_3",
+                "merged_content": "Viral load management in patients on treatment for at least 6 months."
+            },
+            {
+                "merged_id": "8_4",
+                "merged_content": "Diagnosis rate of HIV in Sweden."
+            },
+            {
+                "merged_id": "8_5",
+                "merged_content": "Management of ARV treatment regimes."
+            },
+            {
+                "merged_id": "8_6",
+                "merged_content": "Number of people living with HIV treated in Sweden by the end of 2021."
+            }
+        ]
+    }
+]

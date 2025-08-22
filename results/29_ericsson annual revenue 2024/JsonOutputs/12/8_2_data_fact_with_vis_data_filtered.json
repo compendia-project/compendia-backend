@@ -1,0 +1,65 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "['Swedish telecoms giant Ericsson returned to profit in 2024 and sales inched up in the final quarter of the year, it said Friday, as the sector struggles with slowing demand for 5G network equipment.', 'Ericsson registered a net profit of 400 million kronor ($36.6 million) for the full year after a loss of 26.1 billion kronor a year earlier, the result of an October 2023 write-down on the value of US cloud operator Vonage, which Ericsson acquired in 2022.', 'Chief executive B\u00f6rje Ekholm said the fourth quarter marked \"a strong end to 2024\".', '\"We progressed well against our strategic plan and generated strong free cash flow,\" he said in a statement.', \"A bellweather for the health of the telecoms market, Ericsson said its sales inched up one percent to 72.9 billion kronor in the fourth quarter, just above Bloomberg's consensus of analyst forecasts of 72.4 billion.\", \"Sales rose by 54 percent in North America and also grew in Europe and South America, but fell in India amid operators' declining investments, Ericsson said.\"]",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson registered a net profit of 400 million kronor ($36.6 million) for the full year.",
+                    "vis_data": [
+                        {
+                            "label": "Net Profit",
+                            "value": "400",
+                            "unit": "million kronor"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson had a loss of 26.1 billion kronor a year earlier.",
+                    "vis_data": [
+                        {
+                            "label": "Net Loss Previous Year",
+                            "value": "26100",
+                            "unit": "million kronor"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson's sales inched up one percent to 72.9 billion kronor in the fourth quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Q4 Sales",
+                            "value": "72900",
+                            "unit": "million kronor"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Ericsson's sales were just above Bloomberg's consensus of analyst forecasts of 72.4 billion kronor.",
+                    "vis_data": [
+                        {
+                            "label": "Bloomberg Forecast",
+                            "value": "72400",
+                            "unit": "million kronor"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Sales rose by 54 percent in North America.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Increase North America",
+                            "value": "54",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6127911091345236
+        }
+    ]
+}

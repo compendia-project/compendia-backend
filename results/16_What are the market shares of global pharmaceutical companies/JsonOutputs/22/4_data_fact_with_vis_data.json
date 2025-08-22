@@ -1,0 +1,85 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In 2023, the branded segment held the largest pharmaceutical market share of 66% in terms of revenue. Their reign can be attributed to multiple elements, such as brand awareness, perceived quality, and patient trust. Government initiatives aimed at fostering innovation and R&D in the pharmaceutical space have notably catalyzed the growth of branded products in India. As per experts in the industry, the allocation of 10% or more of the National Research Fund to life sciences can further encourage the establishment of branded pharmaceutical products. Moreover, the government aims to increase healthcare spending to 2.5% of GDP by 2025 and this creates an opportunity for an increase in consumption of branded pharmaceuticals. Branded products are also perceived by healthcare providers and patients to be of better quality than generics, which additionally bolsters their market dominance.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The branded segment held 66% of the pharmaceutical market share in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Branded Market Share",
+                            "value": "66",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The government aims to increase healthcare spending to 2.5% of GDP by 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Healthcare Spending Target",
+                            "value": "2.5",
+                            "unit": "% of GDP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2023, the prescription segment accounted for the largest revenue share of 88% in the pharmaceutical market. This presents a large share that is mainly driven by chronic diseases, the increasing aging population, and growing healthcare expenditure. As India has made great strides with government schemes in targeting healthcare access, the prescription segment experienced significant growth in response. The availability of prescription drugs has increased in India due to health insurance coverage for more than 500 million Indians through the Ayushman Bharat scheme.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The prescription segment accounted for 88% of the pharmaceutical market revenue in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Prescription Market Share",
+                            "value": "88",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Health insurance coverage for more than 500 million Indians through the Ayushman Bharat scheme.",
+                    "vis_data": [
+                        {
+                            "label": "Health Insurance Coverage",
+                            "value": "500",
+                            "unit": "million people"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2023, North America was the largest revenue contributor to the global pharmaceutical market, with a revenue share of 45.0%. These factors include healthcare development, healthcare expenditure, high health conditions, and a high level of the pharmaceutical industry. The U.S., in particular, leads the global pharmaceutical market, generating almost half of the world's pharmaceutical revenues. During the forecast period, the Asia Pacific region is projected to grow at a faster CAGR.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "North America had a revenue share of 45.0% in the global pharmaceutical market in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "North America Revenue Share",
+                            "value": "45.0",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The U.S. generates almost half of the world's pharmaceutical revenues.",
+                    "vis_data": [
+                        {
+                            "label": "U.S. Global Revenue Share",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

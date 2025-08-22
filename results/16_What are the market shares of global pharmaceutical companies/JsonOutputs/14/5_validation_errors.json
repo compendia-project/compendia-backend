@@ -1,0 +1,38 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "The leading pharmaceutical company worldwide in 2023 was Johnson & Johnson, however, also including non-pharmaceutical sales.A global view on the industryThe total global pharmaceutical market was worth around***trillion U.S. dollars in 2023.North America remains the strongest regional market worldwide, responsible for nearly half of the global market size. The largest national pharmaceutical market is the United States, making up almost half of global medicine spending. Thus,*of the**largest pharmaceutical companies worldwide were from the United States in 2023. One reason for this is that the U.S. is still the world\u2019s largest hub for life sciences and medical research and knowledge.The importance of innovationPharmaceutical companies are to a considerable part \u2013 more than in most other industries \u2013 driven by the imperative to produce innovative productsand to invest in research and development. Once a new drug, for example, is launched, the clock is already ticking towards the loss of patent protection. In particular,companies that depend on a small number of blockbuster drugs, are under threat of heavy revenue loss. Two effects of patent expirations for the pharma industry are high R&D concentration and a growing focus on specialty drugs.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "North America is responsible for nearly half of the global market size.",
+                    "vis_data": [
+                        {
+                            "label": "North America Market Share",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": [
+                        "The paragraph states 'nearly half', which may not be exactly 50%. Consider using a range or approximate value."
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The United States makes up almost half of global medicine spending.",
+                    "vis_data": [
+                        {
+                            "label": "US Medicine Spending",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": [
+                        "The paragraph states 'almost half', which may not be exactly 50%. Consider using a range or approximate value."
+                    ]
+                }
+            ]
+        }
+    ]
+}

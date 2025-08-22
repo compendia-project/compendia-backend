@@ -1,0 +1,296 @@
+[
+    {
+        "cluster_id": 1,
+        "number_of_facts": 11,
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "Per capita disposable income growth over 10 years.",
+                "order_id": 1,
+                "narrative": "Over the past decade, there has been a notable growth in per capita disposable income, reflecting an increase in the financial well-being of individuals."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "China's middle-income population in 2001.",
+                "order_id": 2,
+                "narrative": "In 2001, China's middle-income population was relatively small, marking the early stages of its economic transformation."
+            },
+            {
+                "merged_id": "1_10",
+                "merged_content": "Poverty rate in China in 2001.",
+                "order_id": 3,
+                "narrative": "Back in 2001, China faced a significant poverty rate, highlighting the economic challenges of the time."
+            },
+            {
+                "merged_id": "1_8",
+                "merged_content": "Middle-income share in 2001.",
+                "order_id": 4,
+                "narrative": "The share of the middle-income group in 2001 was modest, indicating a limited middle class at the start of the century."
+            },
+            {
+                "merged_id": "1_9",
+                "merged_content": "Middle-income share in 2011.",
+                "order_id": 5,
+                "narrative": "By 2011, the middle-income share had increased, showing progress in economic development and wealth distribution."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "Middle class population this year.",
+                "order_id": 6,
+                "narrative": "This year, the middle class population has reached a significant size, underscoring the rapid economic growth and rising living standards."
+            },
+            {
+                "merged_id": "1_4",
+                "merged_content": "China's share of global GDP today.",
+                "order_id": 7,
+                "narrative": "Today, China's share of the global GDP is substantial, reflecting its emergence as a major economic power."
+            },
+            {
+                "merged_id": "1_5",
+                "merged_content": "China's middle class population projections.",
+                "order_id": 8,
+                "narrative": "Projections for China's middle class population suggest continued growth, indicating a sustained economic expansion."
+            },
+            {
+                "merged_id": "1_6",
+                "merged_content": "China and India's middle class impact by 2030.",
+                "order_id": 9,
+                "narrative": "By 2030, the middle class in China and India is expected to have a significant impact on the global economy, driving demand and growth."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "Middle class income range in the US.",
+                "order_id": 10,
+                "narrative": "In the US, the middle class income range provides a benchmark for economic comparisons and understanding global middle class dynamics."
+            },
+            {
+                "merged_id": "1_7",
+                "merged_content": "Middle class spending in 2015.",
+                "order_id": 11,
+                "narrative": "In 2015, middle class spending was a key driver of economic activity, highlighting the importance of this demographic in the global market."
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "5_5",
+                "merged_content": "China's total population size.",
+                "order_id": 1,
+                "narrative": "China, with its vast population, has seen significant shifts in its economic demographics over the years."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "Increase in China's middle-income group from 2001 to 2011.",
+                "order_id": 2,
+                "narrative": "Between 2001 and 2011, China's middle-income group experienced a remarkable increase, reflecting the country's rapid economic growth."
+            },
+            {
+                "merged_id": "5_0",
+                "merged_content": "Middle-income group size in China.",
+                "order_id": 3,
+                "narrative": "Today, the size of China's middle-income group is a testament to its economic transformation."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "American middle class size in 2015.",
+                "order_id": 4,
+                "narrative": "In contrast, the American middle class in 2015 was a significant segment of the population, though its growth has been more stable."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "US middle class population share in 2016.",
+                "order_id": 5,
+                "narrative": "By 2016, the share of the middle class in the US population remained substantial, highlighting its role in the economy."
+            },
+            {
+                "merged_id": "5_4",
+                "merged_content": "Low-income population share in North America in 2001.",
+                "order_id": 6,
+                "narrative": "Back in 2001, North America had a notable share of its population in the low-income bracket, contrasting with the middle class's stability."
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "number_of_facts": 9,
+        "facts": [
+            {
+                "merged_id": "7_6",
+                "merged_content": "China is home to more than 1.3 billion people.",
+                "order_id": 1,
+                "narrative": "China, with its vast population of over 1.3 billion people, plays a significant role in the global economy."
+            },
+            {
+                "merged_id": "7_8",
+                "merged_content": "The share of China's middle-income population was 3% in 2001.",
+                "order_id": 2,
+                "narrative": "Back in 2001, only 3% of China's population was considered middle-income, highlighting the country's economic challenges at the time."
+            },
+            {
+                "merged_id": "7_7",
+                "merged_content": "In 2001, China's middle-income population accounted for 8% of the global middle-income population.",
+                "order_id": 3,
+                "narrative": "Despite its small domestic share, China's middle-income group made up 8% of the global middle-income population in 2001."
+            },
+            {
+                "merged_id": "7_5",
+                "merged_content": "The share of China\u2019s population that is middle income increased by 15 percentage points from 2001 to 2011. China's middle-income population increased by 203 million from 2001 to 2011.",
+                "order_id": 4,
+                "narrative": "Between 2001 and 2011, China's middle-income population surged by 203 million, marking a 15 percentage point increase."
+            },
+            {
+                "merged_id": "7_4",
+                "merged_content": "707 million people in China were in the middle-income bracket by 2018.",
+                "order_id": 5,
+                "narrative": "By 2018, the number of middle-income individuals in China had reached 707 million, reflecting rapid economic growth."
+            },
+            {
+                "merged_id": "7_0",
+                "merged_content": "664 million adults are part of the middle class this year. 110 million middle class adults are Chinese. 92 million were Americans.",
+                "order_id": 6,
+                "narrative": "Currently, 664 million adults globally are part of the middle class, with 110 million in China and 92 million in the United States."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "15 percent of the world\u2019s total adult population is part of the middle class.",
+                "order_id": 7,
+                "narrative": "This middle class represents 15% of the world's total adult population, underscoring its global economic influence."
+            },
+            {
+                "merged_id": "7_2",
+                "merged_content": "A single-person-middle-income-earner in the US makes between US$26,000 and US$78,000 in a year.",
+                "order_id": 8,
+                "narrative": "In the United States, a single middle-income earner typically earns between $26,000 and $78,000 annually."
+            },
+            {
+                "merged_id": "7_3",
+                "merged_content": "China's middle class could consume nearly $10 trillion in goods and services by 2030. Middle-class consumption is expected to tally $64 trillion by 2030.",
+                "order_id": 9,
+                "narrative": "Looking ahead, China's middle class is projected to consume nearly $10 trillion by 2030, contributing to a global middle-class consumption forecast of $64 trillion."
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "number_of_facts": 2,
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "China may be home to about 400 million households with upper-middle and higher incomes by 2030.",
+                "order_id": 1,
+                "narrative": "By 2030, China is projected to have around 400 million households with upper-middle and higher incomes, indicating significant economic growth and a shift in the global economic landscape."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "16% of the world\u2019s population was living on $20 or more daily in 2011.",
+                "order_id": 2,
+                "narrative": "In 2011, only 16% of the global population lived on $20 or more per day, highlighting the economic disparity that existed at the time."
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "number_of_facts": 4,
+        "facts": [
+            {
+                "merged_id": "6_2",
+                "merged_content": "3% of the country's population was classified as middle class in 2000.",
+                "order_id": 1,
+                "narrative": "In 2000, only 3% of China's population was considered middle class, marking the beginning of a significant economic transformation."
+            },
+            {
+                "merged_id": "6_0",
+                "merged_content": "The number of millionaires in China may double from around five million today to ten million in 2025.",
+                "order_id": 2,
+                "narrative": "Fast forward to today, China is on the brink of doubling its millionaire population from five million to ten million by 2025."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Middle-class consumption is expected to tally $64 trillion by 2030.",
+                "order_id": 3,
+                "narrative": "This economic surge is further highlighted by the projection that middle-class consumption will reach $64 trillion by 2030."
+            },
+            {
+                "merged_id": "6_3",
+                "merged_content": "The share of the low-income population in North America was 18% in 2011.",
+                "order_id": 4,
+                "narrative": "In contrast, North America had 18% of its population classified as low-income in 2011, showcasing different economic dynamics."
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "The share of the world\u2019s middle-income population residing in Asia & South Pacific increased from 31% in 2001 to 51% in 2011.",
+                "order_id": 1,
+                "narrative": "Between 2001 and 2011, Asia and the South Pacific saw a significant rise in their share of the global middle-income population, growing from 31% to 51%."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "China's poverty rate decreased from 41% in 2001 to 12% in 2011.",
+                "order_id": 2,
+                "narrative": "During the same period, China's poverty rate experienced a dramatic decline, dropping from 41% to 12%."
+            },
+            {
+                "merged_id": "2_2",
+                "merged_content": "In 2011, China's middle-income population accounted for 30% of the global middle-income population.",
+                "order_id": 3,
+                "narrative": "By 2011, China alone represented 30% of the world's middle-income population, highlighting its economic transformation."
+            },
+            {
+                "merged_id": "2_5",
+                "merged_content": "The share of China's low-income population was 57% in 2001.",
+                "order_id": 4,
+                "narrative": "In 2001, a significant 57% of China's population was classified as low-income."
+            },
+            {
+                "merged_id": "2_4",
+                "merged_content": "The size of China's low-income population increased by 163 million from 2001 to 2011.",
+                "order_id": 5,
+                "narrative": "Despite economic growth, the number of low-income individuals in China increased by 163 million over the decade."
+            },
+            {
+                "merged_id": "2_3",
+                "merged_content": "The share of the middle-income and high-income population in North America in 2011.",
+                "order_id": 6,
+                "narrative": "In contrast, North America maintained a stable share of middle and high-income populations in 2011."
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "number_of_facts": 4,
+        "facts": [
+            {
+                "merged_id": "4_2",
+                "merged_content": "People moved out of poverty in China from 2001 to 2011.",
+                "order_id": 1,
+                "narrative": "Between 2001 and 2011, China witnessed a significant transformation as a large number of people moved out of poverty."
+            },
+            {
+                "merged_id": "4_0",
+                "merged_content": "China's middle-income and low-income population shares in 2011.",
+                "order_id": 2,
+                "narrative": "By 2011, China's population was characterized by distinct middle-income and low-income segments."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "Middle-income population in China in 2011.",
+                "order_id": 3,
+                "narrative": "In 2011, the middle-income population in China had grown, reflecting the country's economic progress."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "Income distribution in North America in 2001.",
+                "order_id": 4,
+                "narrative": "In contrast, North America's income distribution in 2001 presented a different economic landscape."
+            }
+        ]
+    }
+]

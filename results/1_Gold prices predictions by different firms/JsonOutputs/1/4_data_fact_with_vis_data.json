@@ -1,0 +1,187 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The 2025 breakout above $3,000/oz has prompted several analysts to revise their short-term gold value projections upward. Many forecasts now hinge on the pace of interest rate cuts, global growth uncertainty, and sustained demand from central banks.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "2025 breakout above $3,000/oz.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price Breakout",
+                            "value": "3000",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In June,Citilowered its gold price targets, cutting the 0-3 month forecast from $3,500 to $3,300 per ounce and the 6-12 month target from $3,000 to $2,800. The bank cited declining investment demand and a potentially improving global growth outlook.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Citi cut 0-3 month forecast from $3,500 to $3,300 per ounce.",
+                    "vis_data": [
+                        {
+                            "label": "Citi 0-3 Month Forecast",
+                            "value": "3300",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Citi cut 6-12 month target from $3,000 to $2,800 per ounce.",
+                    "vis_data": [
+                        {
+                            "label": "Citi 6-12 Month Target",
+                            "value": "2800",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "However,UBSprojected in April that gold would remain well supported, with a base-case target of $3,500/oz amid ongoing tariff and geopolitical uncertainties.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "UBS base-case target of $3,500/oz.",
+                    "vis_data": [
+                        {
+                            "label": "UBS Base-Case Target",
+                            "value": "3500",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In May,Goldman Sachsalso saw potential upside for the precious metal, updating its gold forecast to$3,700by the end of year, from a range of around$3,100-$3,300, as similar concerns arose over geopolitical issues and US economic health.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Goldman Sachs updated gold forecast to $3,700 by end of year.",
+                    "vis_data": [
+                        {
+                            "label": "Goldman Sachs Year-End Forecast",
+                            "value": "3700",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Goldman Sachs previous range was $3,100-$3,300.",
+                    "vis_data": [
+                        {
+                            "label": "Goldman Sachs Previous Range",
+                            "value": "3100-3300",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "JPMorganrevealed in June that it expected gold to average $3,675/oz by Q4 2025, citing the probability of recession and ongoing trade and tariff risks as conducive to general risk-off sentiment.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "JPMorgan expected gold to average $3,675/oz by Q4 2025.",
+                    "vis_data": [
+                        {
+                            "label": "JPMorgan Q4 2025 Average",
+                            "value": "3675",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "InvestingHaven, an independent financial research and forecasting site, sees a potential maximum gold price of $4,400 in 2027, with the peak price hitting an estimated $5,155 by 2030.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "InvestingHaven sees potential maximum gold price of $4,400 in 2027.",
+                    "vis_data": [
+                        {
+                            "label": "InvestingHaven 2027 Max Price",
+                            "value": "4400",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "InvestingHaven estimates peak price of $5,155 by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "InvestingHaven 2030 Peak Price",
+                            "value": "5155",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Swiss bankDukascopyprojects a potential average price of $2,500 in 2027, rising to $2,650 in 2028 and $2,950 by 2030.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Dukascopy projects potential average price of $2,500 in 2027.",
+                    "vis_data": [
+                        {
+                            "label": "Dukascopy 2027 Average Price",
+                            "value": "2500",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Dukascopy projects price rising to $2,650 in 2028.",
+                    "vis_data": [
+                        {
+                            "label": "Dukascopy 2028 Price",
+                            "value": "2650",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Dukascopy projects price rising to $2,950 by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "Dukascopy 2030 Price",
+                            "value": "2950",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "LBMA\u2019s Head of Multi Asset Charlie Morris believes gold could hit $7,000 by 2030, against a backdrop of raised inflation.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Charlie Morris believes gold could hit $7,000 by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "Charlie Morris 2030 Forecast",
+                            "value": "7000",
+                            "unit": "USD/oz"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

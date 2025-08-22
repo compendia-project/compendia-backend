@@ -1,0 +1,38 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Population Growth Analysis ofSingaporeBetween 2017-2021, the population of Singapore was highest in 2019, reaching 5 million people. The country witnessed a significant population decline in 2021 when compared to the previous years among both the male and female population. The population of Singapore has exponentially increased since the 1950s.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population of Singapore was highest in 2019, reaching 5 million people.",
+                    "vis_data": [
+                        {
+                            "label": "Population in 2019",
+                            "value": "5000000",
+                            "unit": "people"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6929840676023539
+        },
+        {
+            "paragraph": "The Population of Singapore attained a value of 6,036,860 people in 2024",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Population of Singapore attained a value of 6,036,860 people in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population in 2024",
+                            "value": "6036860",
+                            "unit": "people"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6687862097698917
+        }
+    ]
+}

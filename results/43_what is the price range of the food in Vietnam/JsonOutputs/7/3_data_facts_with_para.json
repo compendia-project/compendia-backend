@@ -1,0 +1,38 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "The cost of living and traveling in Vietnam can vary greatly depending on your lifestyle, accommodation choices, and travel preferences. On average, a budget traveler can expect to spend around 400,000 to 800,000 VND per day (17 to 35 USD) on food,accommodation,transportation, and sightseeing. This amount can go up if you prefer to stay in luxury hotels or travel by private transportation.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A budget traveler can expect to spend around 400,000 to 800,000 VND per day."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "A budget traveler can expect to spend around 17 to 35 USD per day."
+                }
+            ]
+        },
+        {
+            "paragraph": "For long-term stays, the cost of renting an apartment in Vietnam ranges from 4 to 15 million VND per month, depending on the location and size of the apartment.Foodis relatively cheap in Vietnam, with street food starting from as low as 15,000 VND (less than 1 USD) per meal. Restaurants and cafes are also affordable, with a decent meal costing around 60,000 to 150,000 VND.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cost of renting an apartment in Vietnam ranges from 4 to 15 million VND per month."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Street food starts from as low as 15,000 VND per meal."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Street food starts from less than 1 USD per meal."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "A decent meal in restaurants and cafes costs around 60,000 to 150,000 VND."
+                }
+            ]
+        }
+    ]
+}

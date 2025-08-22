@@ -1,0 +1,155 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "A total of 28,310 couples registered their marriages in 2023, a 3.7 per cent fall from the record high of 29,389 marriages in 2022.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "28,310 couples registered their marriages in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2023",
+                            "value": "28310",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "3.7 per cent fall in marriages from 2022 to 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Fall in Marriages",
+                            "value": "3.7",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "29,389 marriages in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2022",
+                            "value": "29389",
+                            "unit": "couples"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.538802229367467
+        },
+        {
+            "paragraph": "In 2023, there were over 28,000 marriages registered, which is over 2,000 marriages more than a decade ago. Overall, the five-year moving average for marriages has been stable.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Over 28,000 marriages registered in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2023",
+                            "value": "28000",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Over 2,000 marriages more in 2023 than a decade ago.",
+                    "vis_data": [
+                        {
+                            "label": "Increase from a Decade Ago",
+                            "value": "2000",
+                            "unit": "couples"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5092807869773361
+        },
+        {
+            "paragraph": "The corresponding figure for women was 25.1 per cent in 2013, and this rose to 28.7 per cent in 2023, an MSF spokeswoman told The Straits Times.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "25.1 per cent of female residents aged 25-49 were single in 2013.",
+                    "vis_data": [
+                        {
+                            "label": "Single Females 2013",
+                            "value": "25.1",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "28.7 per cent of female residents aged 25-49 were single in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Single Females 2023",
+                            "value": "28.7",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4849897596451933
+        },
+        {
+            "paragraph": "A total of 28,310 couples registered their marriages in 2023, down from 29,389 in 2022.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "28,310 couples registered their marriages in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2023",
+                            "value": "28310",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "29,389 couples registered their marriages in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2022",
+                            "value": "29389",
+                            "unit": "couples"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4788892229379663
+        },
+        {
+            "paragraph": "The proportion of male residents aged between 25 and 49 who were single increased from 31.2 per cent in 2013 to 35.4 per cent in 2023.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "31.2 per cent of male residents aged 25-49 were single in 2013.",
+                    "vis_data": [
+                        {
+                            "label": "Single Males 2013",
+                            "value": "31.2",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "35.4 per cent of male residents aged 25-49 were single in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Single Males 2023",
+                            "value": "35.4",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.47803185163182627
+        }
+    ]
+}

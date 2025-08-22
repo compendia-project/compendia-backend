@@ -1,0 +1,403 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Adjusted[1] gross income increased to SEK 28.6 (25.3) b. driven by a strong expansion in Networks adjusted[1] gross margin to 48.7% (39.9%). Reported gross income was SEK 28.2 (24.7) b.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted gross income increased to SEK 28.6 b.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted Gross Income",
+                            "value": "28.6",
+                            "unit": "SEK b"
+                        }
+                    ],
+                    "fact_id": "9_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Reported gross income was SEK 28.2 b.",
+                    "vis_data": [
+                        {
+                            "label": "Reported Gross Income",
+                            "value": "28.2",
+                            "unit": "SEK b"
+                        }
+                    ],
+                    "fact_id": "9_0_1"
+                }
+            ],
+            "relatedness_score": 0.43736248579716275,
+            "article_meta_data": {
+                "title": "Ericsson reports third quarter results 2024",
+                "date": "2024-10-15",
+                "url": "https://news.cision.com/ericsson/r/ericsson-reports-third-quarter-results-2024,c4051124",
+                "id": 9
+            },
+            "para_id": "9_0"
+        },
+        {
+            "paragraph": "Sales declined by -1%* YoY, with strong growth in market area North America of 55%* offset by declines in most other market areas. Reported sales were SEK 61.8 (64.5) b.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sales declined by -1% YoY.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Decline",
+                            "value": "-1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_1_2"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Strong growth in market area North America of 55%.",
+                    "vis_data": [
+                        {
+                            "label": "North America Growth",
+                            "value": "55",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Reported sales were SEK 61.8 b.",
+                    "vis_data": [
+                        {
+                            "label": "Reported Sales",
+                            "value": "61.8",
+                            "unit": "SEK b"
+                        }
+                    ],
+                    "fact_id": "9_1_4"
+                }
+            ],
+            "relatedness_score": 0.40592810451930617,
+            "article_meta_data": {
+                "title": "Ericsson reports third quarter results 2024",
+                "date": "2024-10-15",
+                "url": "https://news.cision.com/ericsson/r/ericsson-reports-third-quarter-results-2024,c4051124",
+                "id": 9
+            },
+            "para_id": "9_1"
+        },
+        {
+            "paragraph": "Adjusted[1] EBITA was SEK 7.8 (4.7) b. with a 12.6% (7.3%) margin, benefiting from higher gross income and cost reduction actions, partly offset by targeted investments in R&D. EBITA was SEK 6.2 (3.8) b.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted EBITA was SEK 7.8 b.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted EBITA",
+                            "value": "7.8",
+                            "unit": "SEK b"
+                        }
+                    ],
+                    "fact_id": "9_2_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "EBITA was SEK 6.2 b.",
+                    "vis_data": [
+                        {
+                            "label": "EBITA",
+                            "value": "6.2",
+                            "unit": "SEK b"
+                        }
+                    ],
+                    "fact_id": "9_2_6"
+                }
+            ],
+            "relatedness_score": 0.38669649611275514,
+            "article_meta_data": {
+                "title": "Ericsson reports third quarter results 2024",
+                "date": "2024-10-15",
+                "url": "https://news.cision.com/ericsson/r/ericsson-reports-third-quarter-results-2024,c4051124",
+                "id": 9
+            },
+            "para_id": "9_2"
+        },
+        {
+            "paragraph": "Net income was SEK 3.9 (-30.5) b. EPS diluted was SEK 1.14 (-9.21).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Net income was SEK 3.9 (-30.5) b.",
+                    "vis_data": [
+                        {
+                            "label": "Net Income",
+                            "value": "3.9",
+                            "unit": "SEK b"
+                        }
+                    ],
+                    "fact_id": "9_3_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "EPS diluted was SEK 1.14 (-9.21).",
+                    "vis_data": [
+                        {
+                            "label": "EPS Diluted",
+                            "value": "1.14",
+                            "unit": "SEK"
+                        }
+                    ],
+                    "fact_id": "9_3_8"
+                }
+            ],
+            "relatedness_score": 0.38136613438287315,
+            "article_meta_data": {
+                "title": "Ericsson reports third quarter results 2024",
+                "date": "2024-10-15",
+                "url": "https://news.cision.com/ericsson/r/ericsson-reports-third-quarter-results-2024,c4051124",
+                "id": 9
+            },
+            "para_id": "9_3"
+        },
+        {
+            "paragraph": "Adjusted[1] gross margin was 46.3% (39.2%) mainly due to market mix, commercial discipline, and cost actions. A customer settlement and increased IPR revenues also contributed. Reported gross margin was 45.6% (38.4%).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted gross margin was 46.3%.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted Gross Margin",
+                            "value": "46.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_4_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Reported gross margin was 45.6%.",
+                    "vis_data": [
+                        {
+                            "label": "Reported Gross Margin",
+                            "value": "45.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_4_10"
+                }
+            ],
+            "relatedness_score": 0.3328012509231979,
+            "article_meta_data": {
+                "title": "Ericsson reports third quarter results 2024",
+                "date": "2024-10-15",
+                "url": "https://news.cision.com/ericsson/r/ericsson-reports-third-quarter-results-2024,c4051124",
+                "id": 9
+            },
+            "para_id": "9_4"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "9_0",
+            "paragraph": "Adjusted[1] gross income increased to SEK 28.6 (25.3) b. driven by a strong expansion in Networks adjusted[1] gross margin to 48.7% (39.9%). Reported gross income was SEK 28.2 (24.7) b."
+        },
+        {
+            "para_id": "9_1",
+            "paragraph": "Sales declined by -1%* YoY, with strong growth in market area North America of 55%* offset by declines in most other market areas. Reported sales were SEK 61.8 (64.5) b."
+        },
+        {
+            "para_id": "9_2",
+            "paragraph": "Adjusted[1] EBITA was SEK 7.8 (4.7) b. with a 12.6% (7.3%) margin, benefiting from higher gross income and cost reduction actions, partly offset by targeted investments in R&D. EBITA was SEK 6.2 (3.8) b."
+        },
+        {
+            "para_id": "9_3",
+            "paragraph": "Net income was SEK 3.9 (-30.5) b. EPS diluted was SEK 1.14 (-9.21)."
+        },
+        {
+            "para_id": "9_4",
+            "paragraph": "Adjusted[1] gross margin was 46.3% (39.2%) mainly due to market mix, commercial discipline, and cost actions. A customer settlement and increased IPR revenues also contributed. Reported gross margin was 45.6% (38.4%)."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "Adjusted gross income increased to SEK 28.6 b."
+        },
+        {
+            "fact_id": "9_0_1",
+            "fact_content": "Reported gross income was SEK 28.2 b."
+        },
+        {
+            "fact_id": "9_1_2",
+            "fact_content": "Sales declined by -1% YoY."
+        },
+        {
+            "fact_id": "9_1_3",
+            "fact_content": "Strong growth in market area North America of 55%."
+        },
+        {
+            "fact_id": "9_1_4",
+            "fact_content": "Reported sales were SEK 61.8 b."
+        },
+        {
+            "fact_id": "9_2_5",
+            "fact_content": "Adjusted EBITA was SEK 7.8 b."
+        },
+        {
+            "fact_id": "9_2_6",
+            "fact_content": "EBITA was SEK 6.2 b."
+        },
+        {
+            "fact_id": "9_3_7",
+            "fact_content": "Net income was SEK 3.9 (-30.5) b."
+        },
+        {
+            "fact_id": "9_3_8",
+            "fact_content": "EPS diluted was SEK 1.14 (-9.21)."
+        },
+        {
+            "fact_id": "9_4_9",
+            "fact_content": "Adjusted gross margin was 46.3%."
+        },
+        {
+            "fact_id": "9_4_10",
+            "fact_content": "Reported gross margin was 45.6%."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Adjusted gross income increased to SEK 28.6 b.",
+            "vis_data": [
+                {
+                    "label": "Adjusted Gross Income",
+                    "value": "28.6",
+                    "unit": "SEK b"
+                }
+            ],
+            "fact_id": "9_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Reported gross income was SEK 28.2 b.",
+            "vis_data": [
+                {
+                    "label": "Reported Gross Income",
+                    "value": "28.2",
+                    "unit": "SEK b"
+                }
+            ],
+            "fact_id": "9_0_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Sales declined by -1% YoY.",
+            "vis_data": [
+                {
+                    "label": "Sales Decline",
+                    "value": "-1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_1_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Strong growth in market area North America of 55%.",
+            "vis_data": [
+                {
+                    "label": "North America Growth",
+                    "value": "55",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Reported sales were SEK 61.8 b.",
+            "vis_data": [
+                {
+                    "label": "Reported Sales",
+                    "value": "61.8",
+                    "unit": "SEK b"
+                }
+            ],
+            "fact_id": "9_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Adjusted EBITA was SEK 7.8 b.",
+            "vis_data": [
+                {
+                    "label": "Adjusted EBITA",
+                    "value": "7.8",
+                    "unit": "SEK b"
+                }
+            ],
+            "fact_id": "9_2_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "EBITA was SEK 6.2 b.",
+            "vis_data": [
+                {
+                    "label": "EBITA",
+                    "value": "6.2",
+                    "unit": "SEK b"
+                }
+            ],
+            "fact_id": "9_2_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Net income was SEK 3.9 (-30.5) b.",
+            "vis_data": [
+                {
+                    "label": "Net Income",
+                    "value": "3.9",
+                    "unit": "SEK b"
+                }
+            ],
+            "fact_id": "9_3_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "EPS diluted was SEK 1.14 (-9.21).",
+            "vis_data": [
+                {
+                    "label": "EPS Diluted",
+                    "value": "1.14",
+                    "unit": "SEK"
+                }
+            ],
+            "fact_id": "9_3_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Adjusted gross margin was 46.3%.",
+            "vis_data": [
+                {
+                    "label": "Adjusted Gross Margin",
+                    "value": "46.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_4_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Reported gross margin was 45.6%.",
+            "vis_data": [
+                {
+                    "label": "Reported Gross Margin",
+                    "value": "45.6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_4_10"
+        }
+    ]
+}

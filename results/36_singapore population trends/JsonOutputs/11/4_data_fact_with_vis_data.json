@@ -1,0 +1,85 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The median age in Singapore is 36.2 years (2025).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age in Singapore is 36.2 years.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age",
+                            "value": "36.2",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Currently, 0% of the population of Singapore is urban (0 people in 2025).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "0% of the population of Singapore is urban.",
+                    "vis_data": [
+                        {
+                            "label": "Urban Population",
+                            "value": "0",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The 2025 population density in Singapore is 8,387 people per Km2 (21,722 people per mi2), calculated on a total land area of 700 Km2 (270 sq. miles).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The 2025 population density in Singapore is 8,387 people per Km2.",
+                    "vis_data": [
+                        {
+                            "label": "Population Density",
+                            "value": "8387",
+                            "unit": "people per Km2"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The 2025 population density in Singapore is 21,722 people per mi2.",
+                    "vis_data": [
+                        {
+                            "label": "Population Density",
+                            "value": "21722",
+                            "unit": "people per mi2"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The total land area of Singapore is 700 Km2.",
+                    "vis_data": [
+                        {
+                            "label": "Land Area",
+                            "value": "700",
+                            "unit": "Km2"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The total land area of Singapore is 270 sq. miles.",
+                    "vis_data": [
+                        {
+                            "label": "Land Area",
+                            "value": "270",
+                            "unit": "sq. miles"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

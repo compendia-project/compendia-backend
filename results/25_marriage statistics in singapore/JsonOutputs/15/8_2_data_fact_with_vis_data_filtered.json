@@ -1,0 +1,186 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "['SINGAPORE -Wedding bells were busy ringing in 2022, with the number of marriages registered being the highest since data on marriages was first compiled and published in 1961.', 'A total of 29,389 couples said \u201cI do\u201d in 2022, a 3.7 per cent increase from the 28,329 marriages in 2021, the Statistics on Marriages and Divorces 2022 report released onWednesdayby the Department of Statistics (DOS) showed.', 'The previous record high was in 2014, when 28,407 couples tied the knot.', 'Meanwhile, fewer couples ended their marriage in 2022. A total of 7,107 marriages ended in a divorce or annulment in 2022, a fall of 9.9 per cent fromthe 7,890 marital dissolutions in 2021.', 'The closure of court services at the Syariah Court to prepare for the implementation of the new Divorce eService fromNov 18 to Dec 4, 2022, was one reason for the fall in Muslim divorces, the report said.', 'A total of 1,505 Muslim couples divorced in 2022, down from 1,767 in 2021.', 'The number of non-Muslim marital dissolutions also fell, from 6,123 in 2021 to 5,602 in 2022.', 'The report noted that the larger number of marital dissolutions in 2021 compared with other years was due to more divorce applications filed in that year and the resumption of divorce proceedings that were previously adjourned due to the Covid-19 pandemic.', 'In 2022, 78.6 per cent of all marriages involved first-time grooms and brides, an increase from the 74.9 per cent a decade ago.', 'Meanwhile, the proportion of inter-ethnic marriages remained \u201clargely stable\u201d in the last 10 years.', 'In 2022, 16.6 per cent of all marriages were between couples of different races.']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "29,389 couples married in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2022",
+                            "value": "29389",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "3.7% increase in marriages from 2021 to 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in Marriages",
+                            "value": "3.7",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "28,329 marriages in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2021",
+                            "value": "28329",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Previous record high was 28,407 marriages in 2014.",
+                    "vis_data": [
+                        {
+                            "label": "Record High in 2014",
+                            "value": "28407",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "7,107 marriages ended in divorce or annulment in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Divorces in 2022",
+                            "value": "7107",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "9.9% decrease in marital dissolutions from 2021 to 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Decrease in Divorces",
+                            "value": "9.9",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "7,890 marital dissolutions in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "Divorces in 2021",
+                            "value": "7890",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1,505 Muslim couples divorced in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Muslim Divorces in 2022",
+                            "value": "1505",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Muslim divorces decreased from 1,767 in 2021 to 1,505 in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Decrease in Muslim Divorces",
+                            "value": "262",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1,767 Muslim divorces in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "Muslim Divorces in 2021",
+                            "value": "1767",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "5,602 non-Muslim marital dissolutions in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Non-Muslim Divorces in 2022",
+                            "value": "5602",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Non-Muslim marital dissolutions decreased from 6,123 in 2021 to 5,602 in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Decrease in Non-Muslim Divorces",
+                            "value": "521",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "6,123 non-Muslim marital dissolutions in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "Non-Muslim Divorces in 2021",
+                            "value": "6123",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "78.6% of marriages in 2022 involved first-time grooms and brides.",
+                    "vis_data": [
+                        {
+                            "label": "First-time Marriages 2022",
+                            "value": "78.6",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Increase from 74.9% a decade ago to 78.6% in 2022 for first-time grooms and brides.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in First-time Marriages",
+                            "value": "3.7",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "16.6% of marriages in 2022 were inter-ethnic.",
+                    "vis_data": [
+                        {
+                            "label": "Inter-ethnic Marriages 2022",
+                            "value": "16.6",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6855379434571272
+        }
+    ]
+}

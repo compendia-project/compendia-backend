@@ -1,0 +1,1181 @@
+{
+    "cluster_wise_facts": [
+        {
+            "cluster_id": 4,
+            "cluster_size": 14,
+            "facts": [
+                {
+                    "fact_id": "21_0_0",
+                    "fact_content": "HIV-1A6 is the sixth most common subtype."
+                },
+                {
+                    "fact_id": "9_0_0",
+                    "fact_content": "88% of the patients were homosexual males in the Netherlands."
+                },
+                {
+                    "fact_id": "9_0_3",
+                    "fact_content": "81% of the patients were homosexual males in Sweden."
+                },
+                {
+                    "fact_id": "9_0_4",
+                    "fact_content": "79% of the patients were homosexual males in Norway."
+                },
+                {
+                    "fact_id": "9_0_5",
+                    "fact_content": "76% of the patients were homosexual males in the Federal Republic of Germany."
+                },
+                {
+                    "fact_id": "0_0_0",
+                    "fact_content": "About 8,000 people with HIV live in Sweden."
+                },
+                {
+                    "fact_id": "23_0_1",
+                    "fact_content": "Approximately 400\u2013500 new HIV cases each year in Sweden."
+                },
+                {
+                    "fact_id": "23_0_2",
+                    "fact_content": "In 2019, men accounted for 64% of new HIV cases in Sweden."
+                },
+                {
+                    "fact_id": "23_0_3",
+                    "fact_content": "38 years of age is the mean age at HIV diagnosis in Sweden."
+                },
+                {
+                    "fact_id": "20_0_8",
+                    "fact_content": "63 percent of new HIV infections in South Africa are women."
+                },
+                {
+                    "fact_id": "1_0_2",
+                    "fact_content": "95% proportion of diagnosed PWHIV reached in 2018."
+                },
+                {
+                    "fact_id": "22_0_2",
+                    "fact_content": "97.1% of those linked to care remained in care."
+                },
+                {
+                    "fact_id": "22_1_7",
+                    "fact_content": "74% of immigrants were successfully managed."
+                },
+                {
+                    "fact_id": "7_0_0",
+                    "fact_content": "More than 8,100 people are living with HIV diagnosis in Sweden."
+                }
+            ]
+        },
+        {
+            "cluster_id": 9,
+            "cluster_size": 11,
+            "facts": [
+                {
+                    "fact_id": "17_0_0",
+                    "fact_content": "Eighty percent of those diagnosed with HIV in Sweden are migrants."
+                },
+                {
+                    "fact_id": "9_0_2",
+                    "fact_content": "86% of the patients were homosexual males in Denmark."
+                },
+                {
+                    "fact_id": "9_0_3",
+                    "fact_content": "81% of the patients were homosexual males in Sweden."
+                },
+                {
+                    "fact_id": "20_0_4",
+                    "fact_content": "It is estimated that around 8,000 people live with HIV in Sweden."
+                },
+                {
+                    "fact_id": "20_0_5",
+                    "fact_content": "Approximately 69 cases per 100,000 inhabitants in Sweden have HIV."
+                },
+                {
+                    "fact_id": "1_0_6",
+                    "fact_content": "Diagnoses of exogenous acquisitions at 97.2% in 2022."
+                },
+                {
+                    "fact_id": "1_2_11",
+                    "fact_content": "13,029 people have been included in the InfCareHIV cohort."
+                },
+                {
+                    "fact_id": "1_2_12",
+                    "fact_content": "5% of PLHIV found with increased HIV RNA load in CSF despite suppression of plasma viral load."
+                },
+                {
+                    "fact_id": "22_0_0",
+                    "fact_content": "10% of all HIV-infected subjects in Sweden remain undiagnosed."
+                },
+                {
+                    "fact_id": "22_4_14",
+                    "fact_content": "78% of patients living with HIV in Sweden are virologically suppressed."
+                },
+                {
+                    "fact_id": "7_1_13",
+                    "fact_content": "5% of people living with HIV in Sweden were born in Latin America and Caribbean."
+                }
+            ]
+        },
+        {
+            "cluster_id": 3,
+            "cluster_size": 6,
+            "facts": [
+                {
+                    "fact_id": "9_0_1",
+                    "fact_content": "87% of the patients were homosexual males in the United Kingdom."
+                },
+                {
+                    "fact_id": "20_0_1",
+                    "fact_content": "By the conclusion of 2015, 90 percent of HIV cases in Sweden were diagnosed."
+                },
+                {
+                    "fact_id": "20_0_7",
+                    "fact_content": "Over seven million people live with HIV in South Africa."
+                },
+                {
+                    "fact_id": "1_0_1",
+                    "fact_content": "95% proportion of PWHIV with successful viral suppression reached in 2013."
+                },
+                {
+                    "fact_id": "1_0_3",
+                    "fact_content": "95% diagnoses among endogenous MSM transmissions reached in 2014."
+                },
+                {
+                    "fact_id": "7_1_15",
+                    "fact_content": "3% of people living with HIV in Sweden were born in Eastern Europe and Central Asia."
+                }
+            ]
+        },
+        {
+            "cluster_id": 6,
+            "cluster_size": 9,
+            "facts": [
+                {
+                    "fact_id": "0_0_1",
+                    "fact_content": "Approximately 400-500 new cases of HIV are reported each year."
+                },
+                {
+                    "fact_id": "20_0_3",
+                    "fact_content": "By the conclusion of 2015, 95 percent of individuals who had undergone a minimum of six months of antiretroviral treatment in Sweden maintained a viral load below 50 copies/ml."
+                },
+                {
+                    "fact_id": "20_0_6",
+                    "fact_content": "0.07 percent of the population in Sweden is estimated to live with HIV."
+                },
+                {
+                    "fact_id": "1_0_4",
+                    "fact_content": "95% diagnoses for IDU transmission reached in 2009."
+                },
+                {
+                    "fact_id": "1_0_5",
+                    "fact_content": "Diagnoses of endogenous acquisitions at 96.0% in 2022."
+                },
+                {
+                    "fact_id": "1_1_7",
+                    "fact_content": "96% PWHIV being diagnosed by 2022."
+                },
+                {
+                    "fact_id": "1_2_10",
+                    "fact_content": "InfCareHIV includes data on >99% of all people with diagnosed HIV in Sweden."
+                },
+                {
+                    "fact_id": "22_0_3",
+                    "fact_content": "95.1% of patients were on ART on 31 December 2015."
+                },
+                {
+                    "fact_id": "22_1_9",
+                    "fact_content": "70% of all individuals diagnosed with HIV in Denmark were virally suppressed in 2010."
+                }
+            ]
+        },
+        {
+            "cluster_id": 2,
+            "cluster_size": 4,
+            "facts": [
+                {
+                    "fact_id": "0_0_2",
+                    "fact_content": "The median age for those who were diagnosed with HIV in 2019 in Sweden was 38 years."
+                },
+                {
+                    "fact_id": "7_1_3",
+                    "fact_content": "Migrants made up approximately 12% of the population of the EU countries but accounted for 44% of newly reported HIV cases in 2019."
+                },
+                {
+                    "fact_id": "7_1_10",
+                    "fact_content": "36% of people living with HIV in Sweden were born in sub-Saharan Africa."
+                },
+                {
+                    "fact_id": "7_1_14",
+                    "fact_content": "4% of people living with HIV in Sweden were born in North America."
+                }
+            ]
+        },
+        {
+            "cluster_id": 7,
+            "cluster_size": 4,
+            "facts": [
+                {
+                    "fact_id": "0_1_3",
+                    "fact_content": "Infection rate in Sweden was about 300 new cases per year from the end of the 1980s to the early 2000s."
+                },
+                {
+                    "fact_id": "23_0_0",
+                    "fact_content": "Approximately 8,000 people are living with HIV in Sweden."
+                },
+                {
+                    "fact_id": "20_0_0",
+                    "fact_content": "Annually, Sweden reports around 400 to 500 new HIV cases."
+                },
+                {
+                    "fact_id": "20_0_2",
+                    "fact_content": "By the conclusion of 2015, 99.8 percent of individuals with HIV in Sweden were connected to care."
+                }
+            ]
+        },
+        {
+            "cluster_id": 1,
+            "cluster_size": 8,
+            "facts": [
+                {
+                    "fact_id": "20_0_4",
+                    "fact_content": "It is estimated that around 8,000 people live with HIV in Sweden."
+                },
+                {
+                    "fact_id": "1_0_0",
+                    "fact_content": "95% proportion of PWHIV on ART reached in 2013."
+                },
+                {
+                    "fact_id": "22_0_1",
+                    "fact_content": "99.8% of diagnosed patients in Sweden were linked to care."
+                },
+                {
+                    "fact_id": "22_0_3",
+                    "fact_content": "95.1% of patients were on ART on 31 December 2015."
+                },
+                {
+                    "fact_id": "22_1_6",
+                    "fact_content": "92% of Swedish/Danish men who have sex with men and heterosexual patients were successfully managed."
+                },
+                {
+                    "fact_id": "22_2_10",
+                    "fact_content": "6946 diagnosed subjects living with HIV-1 in Sweden by 31 December 2015."
+                },
+                {
+                    "fact_id": "7_0_1",
+                    "fact_content": "Just over 95% of people living with HIV in Sweden are under ARV treatment."
+                },
+                {
+                    "fact_id": "7_1_4",
+                    "fact_content": "Migrants make up about 20% of the Swedish population but approximately 70% of new HIV infection cases being reported each year."
+                }
+            ]
+        },
+        {
+            "cluster_id": 5,
+            "cluster_size": 7,
+            "facts": [
+                {
+                    "fact_id": "20_0_5",
+                    "fact_content": "Approximately 69 cases per 100,000 inhabitants in Sweden have HIV."
+                },
+                {
+                    "fact_id": "1_1_9",
+                    "fact_content": "98% of those on ART being virally suppressed by 2022."
+                },
+                {
+                    "fact_id": "22_1_5",
+                    "fact_content": "83% of HIV-infected individuals in Denmark were successfully managed in 2010."
+                },
+                {
+                    "fact_id": "22_1_8",
+                    "fact_content": "78% of injection drug users were successfully managed."
+                },
+                {
+                    "fact_id": "22_3_12",
+                    "fact_content": "83% of those infected with HIV in Sweden are on ART."
+                },
+                {
+                    "fact_id": "22_3_13",
+                    "fact_content": "78% of those infected with HIV in Sweden have a suppressed viral load (<50 copies/mL)."
+                },
+                {
+                    "fact_id": "7_1_13",
+                    "fact_content": "5% of people living with HIV in Sweden were born in Latin America and Caribbean."
+                }
+            ]
+        },
+        {
+            "cluster_id": 8,
+            "cluster_size": 11,
+            "facts": [
+                {
+                    "fact_id": "1_1_8",
+                    "fact_content": "99% of diagnosed PWHIV being on ART by 2022."
+                },
+                {
+                    "fact_id": "22_0_4",
+                    "fact_content": "94.7% of patients on treatment for at least 6 months had a viral load < 50 HIV-1 RNA copies/mL."
+                },
+                {
+                    "fact_id": "22_3_11",
+                    "fact_content": "90% of all those infected with HIV in Sweden are diagnosed."
+                },
+                {
+                    "fact_id": "7_0_2",
+                    "fact_content": "Over 95% of those under ARV treatment have well-managed treatment regimes."
+                },
+                {
+                    "fact_id": "7_1_5",
+                    "fact_content": "About 65% of people living with HIV in Sweden are foreign-born."
+                },
+                {
+                    "fact_id": "7_1_6",
+                    "fact_content": "By the end of 2021, around 8,289 people living with HIV were being treated in Sweden."
+                },
+                {
+                    "fact_id": "7_1_7",
+                    "fact_content": "61% of people living with HIV in Sweden were men."
+                },
+                {
+                    "fact_id": "7_1_8",
+                    "fact_content": "39% of people living with HIV in Sweden were women."
+                },
+                {
+                    "fact_id": "7_1_9",
+                    "fact_content": "64% of people living with HIV in Sweden were born abroad."
+                },
+                {
+                    "fact_id": "7_1_11",
+                    "fact_content": "11% of people living with HIV in Sweden were born in Southeast Asia."
+                },
+                {
+                    "fact_id": "7_1_12",
+                    "fact_content": "5% of people living with HIV in Sweden were born in Western Europe."
+                }
+            ]
+        }
+    ],
+    "fact_wise_clusters": [
+        {
+            "fact_id": "21_0_0",
+            "fact_content": "HIV-1A6 is the sixth most common subtype.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9989054705370292
+                }
+            ]
+        },
+        {
+            "fact_id": "17_0_0",
+            "fact_content": "Eighty percent of those diagnosed with HIV in Sweden are migrants.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9979663192130858
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "88% of the patients were homosexual males in the Netherlands.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9983176232465306
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_1",
+            "fact_content": "87% of the patients were homosexual males in the United Kingdom.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9992281239961056
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_2",
+            "fact_content": "86% of the patients were homosexual males in Denmark.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9995228317904079
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_3",
+            "fact_content": "81% of the patients were homosexual males in Sweden.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.5054275181175046
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.49457248188228775
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_4",
+            "fact_content": "79% of the patients were homosexual males in Norway.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9309556648288804
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_5",
+            "fact_content": "76% of the patients were homosexual males in the Federal Republic of Germany.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9814742857755062
+                }
+            ]
+        },
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "About 8,000 people with HIV live in Sweden.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9980805208707229
+                }
+            ]
+        },
+        {
+            "fact_id": "0_0_1",
+            "fact_content": "Approximately 400-500 new cases of HIV are reported each year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9905506174165654
+                }
+            ]
+        },
+        {
+            "fact_id": "0_0_2",
+            "fact_content": "The median age for those who were diagnosed with HIV in 2019 in Sweden was 38 years.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9994138073794515
+                }
+            ]
+        },
+        {
+            "fact_id": "0_1_3",
+            "fact_content": "Infection rate in Sweden was about 300 new cases per year from the end of the 1980s to the early 2000s.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9941488898587315
+                }
+            ]
+        },
+        {
+            "fact_id": "23_0_0",
+            "fact_content": "Approximately 8,000 people are living with HIV in Sweden.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9962354827934141
+                }
+            ]
+        },
+        {
+            "fact_id": "23_0_1",
+            "fact_content": "Approximately 400\u2013500 new HIV cases each year in Sweden.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9613513735144001
+                }
+            ]
+        },
+        {
+            "fact_id": "23_0_2",
+            "fact_content": "In 2019, men accounted for 64% of new HIV cases in Sweden.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9196010204761709
+                }
+            ]
+        },
+        {
+            "fact_id": "23_0_3",
+            "fact_content": "38 years of age is the mean age at HIV diagnosis in Sweden.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9998457909792022
+                }
+            ]
+        },
+        {
+            "fact_id": "20_0_0",
+            "fact_content": "Annually, Sweden reports around 400 to 500 new HIV cases.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9996758282833683
+                }
+            ]
+        },
+        {
+            "fact_id": "20_0_1",
+            "fact_content": "By the conclusion of 2015, 90 percent of HIV cases in Sweden were diagnosed.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9955245705073517
+                }
+            ]
+        },
+        {
+            "fact_id": "20_0_2",
+            "fact_content": "By the conclusion of 2015, 99.8 percent of individuals with HIV in Sweden were connected to care.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.99426811981811
+                }
+            ]
+        },
+        {
+            "fact_id": "20_0_3",
+            "fact_content": "By the conclusion of 2015, 95 percent of individuals who had undergone a minimum of six months of antiretroviral treatment in Sweden maintained a viral load below 50 copies/ml.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9913372427505234
+                }
+            ]
+        },
+        {
+            "fact_id": "20_0_4",
+            "fact_content": "It is estimated that around 8,000 people live with HIV in Sweden.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.600527461234711
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.3309864806380736
+                }
+            ]
+        },
+        {
+            "fact_id": "20_0_5",
+            "fact_content": "Approximately 69 cases per 100,000 inhabitants in Sweden have HIV.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.36743781777175566
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.6226924407956286
+                }
+            ]
+        },
+        {
+            "fact_id": "20_0_6",
+            "fact_content": "0.07 percent of the population in Sweden is estimated to live with HIV.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9682109848567967
+                }
+            ]
+        },
+        {
+            "fact_id": "20_0_7",
+            "fact_content": "Over seven million people live with HIV in South Africa.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9996375714425322
+                }
+            ]
+        },
+        {
+            "fact_id": "20_0_8",
+            "fact_content": "63 percent of new HIV infections in South Africa are women.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9795437399026166
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_0",
+            "fact_content": "95% proportion of PWHIV on ART reached in 2013.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9090698032982806
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_1",
+            "fact_content": "95% proportion of PWHIV with successful viral suppression reached in 2013.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9988074369059211
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_2",
+            "fact_content": "95% proportion of diagnosed PWHIV reached in 2018.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9822249691301532
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_3",
+            "fact_content": "95% diagnoses among endogenous MSM transmissions reached in 2014.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9998457623142084
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_4",
+            "fact_content": "95% diagnoses for IDU transmission reached in 2009.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9855975768120737
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_5",
+            "fact_content": "Diagnoses of endogenous acquisitions at 96.0% in 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9981332369292929
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_6",
+            "fact_content": "Diagnoses of exogenous acquisitions at 97.2% in 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9924541758899543
+                }
+            ]
+        },
+        {
+            "fact_id": "1_1_7",
+            "fact_content": "96% PWHIV being diagnosed by 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9998316220239242
+                }
+            ]
+        },
+        {
+            "fact_id": "1_1_8",
+            "fact_content": "99% of diagnosed PWHIV being on ART by 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.999263259362468
+                }
+            ]
+        },
+        {
+            "fact_id": "1_1_9",
+            "fact_content": "98% of those on ART being virally suppressed by 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.82483669724742
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_10",
+            "fact_content": "InfCareHIV includes data on >99% of all people with diagnosed HIV in Sweden.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9997266734122793
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_11",
+            "fact_content": "13,029 people have been included in the InfCareHIV cohort.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.8600941179830979
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_12",
+            "fact_content": "5% of PLHIV found with increased HIV RNA load in CSF despite suppression of plasma viral load.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9987492085507139
+                }
+            ]
+        },
+        {
+            "fact_id": "22_0_0",
+            "fact_content": "10% of all HIV-infected subjects in Sweden remain undiagnosed.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.979095410059873
+                }
+            ]
+        },
+        {
+            "fact_id": "22_0_1",
+            "fact_content": "99.8% of diagnosed patients in Sweden were linked to care.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9951157769337214
+                }
+            ]
+        },
+        {
+            "fact_id": "22_0_2",
+            "fact_content": "97.1% of those linked to care remained in care.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9371345949783136
+                }
+            ]
+        },
+        {
+            "fact_id": "22_0_3",
+            "fact_content": "95.1% of patients were on ART on 31 December 2015.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.6942489889328711
+                },
+                {
+                    "cluster_id": 6,
+                    "probability": 0.3057357353115053
+                }
+            ]
+        },
+        {
+            "fact_id": "22_0_4",
+            "fact_content": "94.7% of patients on treatment for at least 6 months had a viral load < 50 HIV-1 RNA copies/mL.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999995789621
+                }
+            ]
+        },
+        {
+            "fact_id": "22_1_5",
+            "fact_content": "83% of HIV-infected individuals in Denmark were successfully managed in 2010.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9408272419162674
+                }
+            ]
+        },
+        {
+            "fact_id": "22_1_6",
+            "fact_content": "92% of Swedish/Danish men who have sex with men and heterosexual patients were successfully managed.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9432855438205231
+                }
+            ]
+        },
+        {
+            "fact_id": "22_1_7",
+            "fact_content": "74% of immigrants were successfully managed.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.999641680523869
+                }
+            ]
+        },
+        {
+            "fact_id": "22_1_8",
+            "fact_content": "78% of injection drug users were successfully managed.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9998836997482238
+                }
+            ]
+        },
+        {
+            "fact_id": "22_1_9",
+            "fact_content": "70% of all individuals diagnosed with HIV in Denmark were virally suppressed in 2010.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.886660337572284
+                }
+            ]
+        },
+        {
+            "fact_id": "22_2_10",
+            "fact_content": "6946 diagnosed subjects living with HIV-1 in Sweden by 31 December 2015.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9946499255994009
+                }
+            ]
+        },
+        {
+            "fact_id": "22_3_11",
+            "fact_content": "90% of all those infected with HIV in Sweden are diagnosed.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999733738564
+                }
+            ]
+        },
+        {
+            "fact_id": "22_3_12",
+            "fact_content": "83% of those infected with HIV in Sweden are on ART.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999228982137435
+                }
+            ]
+        },
+        {
+            "fact_id": "22_3_13",
+            "fact_content": "78% of those infected with HIV in Sweden have a suppressed viral load (<50 copies/mL).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999998519721033
+                }
+            ]
+        },
+        {
+            "fact_id": "22_4_14",
+            "fact_content": "78% of patients living with HIV in Sweden are virologically suppressed.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9869206225778486
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "More than 8,100 people are living with HIV diagnosis in Sweden.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9998430983169064
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_1",
+            "fact_content": "Just over 95% of people living with HIV in Sweden are under ARV treatment.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9420767803989191
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_2",
+            "fact_content": "Over 95% of those under ARV treatment have well-managed treatment regimes.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999998463167
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_3",
+            "fact_content": "Migrants made up approximately 12% of the population of the EU countries but accounted for 44% of newly reported HIV cases in 2019.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9995798621780569
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_4",
+            "fact_content": "Migrants make up about 20% of the Swedish population but approximately 70% of new HIV infection cases being reported each year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9765878544321549
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_5",
+            "fact_content": "About 65% of people living with HIV in Sweden are foreign-born.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.999999978064088
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_6",
+            "fact_content": "By the end of 2021, around 8,289 people living with HIV were being treated in Sweden.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999998438955
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_7",
+            "fact_content": "61% of people living with HIV in Sweden were men.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_8",
+            "fact_content": "39% of people living with HIV in Sweden were women.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_9",
+            "fact_content": "64% of people living with HIV in Sweden were born abroad.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_10",
+            "fact_content": "36% of people living with HIV in Sweden were born in sub-Saharan Africa.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.994516511986084
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_11",
+            "fact_content": "11% of people living with HIV in Sweden were born in Southeast Asia.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_12",
+            "fact_content": "5% of people living with HIV in Sweden were born in Western Europe.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_13",
+            "fact_content": "5% of people living with HIV in Sweden were born in Latin America and Caribbean.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.794269108645588
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.2057308003153375
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_14",
+            "fact_content": "4% of people living with HIV in Sweden were born in North America.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9996473562758521
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_15",
+            "fact_content": "3% of people living with HIV in Sweden were born in Eastern Europe and Central Asia.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9998700812124782
+                }
+            ]
+        }
+    ],
+    "evaluation_metrics": {
+        "silhouette_score": 0.43028995394706726,
+        "davies_bouldin_score": 0.697930962563547,
+        "cluster_entropy": 0.11524472827224817
+    },
+    "cluster_summary": {
+        "4": {
+            "representative_fact": "HIV-1A6 is the sixth most common subtype.",
+            "top_keywords": [
+                "hiv",
+                "sweden",
+                "patients",
+                "homosexual",
+                "males"
+            ],
+            "mean_similarity": 0.5572373612774237,
+            "mean_similarity_normalized": 0.8724827784897459
+        },
+        "5": {
+            "representative_fact": "98% of those on ART being virally suppressed by 2022.",
+            "top_keywords": [
+                "hiv",
+                "sweden",
+                "infected",
+                "art",
+                "suppressed"
+            ],
+            "mean_similarity": 0.403545229594122,
+            "mean_similarity_normalized": 0.3034421522693364
+        },
+        "2": {
+            "representative_fact": "Migrants made up approximately 12% of the population of the EU countries but accounted for 44% of newly reported HIV cases in 2019.",
+            "top_keywords": [
+                "hiv",
+                "sweden",
+                "2019",
+                "people",
+                "living"
+            ],
+            "mean_similarity": 0.5679564211885539,
+            "mean_similarity_normalized": 0.9121697845681861
+        },
+        "9": {
+            "representative_fact": "It is estimated that around 8,000 people live with HIV in Sweden.",
+            "top_keywords": [
+                "hiv",
+                "sweden",
+                "patients",
+                "people",
+                "homosexual"
+            ],
+            "mean_similarity": 0.5549666514315472,
+            "mean_similarity_normalized": 0.8640755416422216
+        },
+        "8": {
+            "representative_fact": "Over 95% of those under ARV treatment have well-managed treatment regimes.",
+            "top_keywords": [
+                "hiv",
+                "sweden",
+                "people",
+                "living",
+                "born"
+            ],
+            "mean_similarity": 0.5916784761946767,
+            "mean_similarity_normalized": 1.0
+        },
+        "6": {
+            "representative_fact": "Approximately 400-500 new cases of HIV are reported each year.",
+            "top_keywords": [
+                "hiv",
+                "95",
+                "sweden",
+                "diagnosed",
+                "2015"
+            ],
+            "mean_similarity": 0.3579702002517704,
+            "mean_similarity_normalized": 0.1347019379659457
+        },
+        "1": {
+            "representative_fact": "99.8% of diagnosed patients in Sweden were linked to care.",
+            "top_keywords": [
+                "hiv",
+                "sweden",
+                "95",
+                "patients",
+                "8"
+            ],
+            "mean_similarity": 0.5202478020279288,
+            "mean_similarity_normalized": 0.7355300163124194
+        },
+        "3": {
+            "representative_fact": "87% of the patients were homosexual males in the United Kingdom.",
+            "top_keywords": [
+                "hiv",
+                "sweden",
+                "people",
+                "95",
+                "reached"
+            ],
+            "mean_similarity": 0.5337209003288682,
+            "mean_similarity_normalized": 0.7854137690480105
+        },
+        "7": {
+            "representative_fact": "Infection rate in Sweden was about 300 new cases per year from the end of the 1980s to the early 2000s.",
+            "top_keywords": [
+                "sweden",
+                "hiv",
+                "new",
+                "cases",
+                "8"
+            ],
+            "mean_similarity": 0.32158856591159024,
+            "mean_similarity_normalized": 0.0
+        }
+    }
+}

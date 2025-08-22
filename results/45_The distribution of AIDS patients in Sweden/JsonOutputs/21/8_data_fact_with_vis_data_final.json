@@ -1,0 +1,20 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The distribution of HIV-1 subtypes in Sweden has changed a lot since the beginning of the AIDS epidemic and has become very diverse, mostly due to migration of already infected people to Sweden. Currently, HIV-1A6 is the sixth most common subtype. People from Ukraine are not always aware that they are infected, and the majority of Ukrainian people living with HIV are infected with HIV-1A6.",
+            "facts": [
+                {
+                    "fact_type": "rank",
+                    "fact_content": "HIV-1A6 is the sixth most common subtype.",
+                    "vis_data": [
+                        {
+                            "label": "HIV-1A6 Subtype Rank",
+                            "value": "6",
+                            "unit": "rank"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

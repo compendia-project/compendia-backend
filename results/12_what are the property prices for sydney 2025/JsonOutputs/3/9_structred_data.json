@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year as high borrowing costs keep a lid on home values, according toa new report by SQM Research.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney & Melbourne Price Drop",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "3_0_0"
+                }
+            ],
+            "relatedness_score": 0.5876885679549438,
+            "article_meta_data": {
+                "title": "Sydney and Melbourne house prices tipped to fall in 2025",
+                "date": "2024-11-25",
+                "url": "https://www.theguardian.com/australia-news/2024/nov/26/sydney-and-melbourne-house-price-analysis-2025-fall-predicted-sqm",
+                "id": 3
+            },
+            "para_id": "3_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "3_0",
+            "paragraph": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year as high borrowing costs keep a lid on home values, according toa new report by SQM Research."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "3_0_0",
+            "fact_content": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year.",
+            "vis_data": [
+                {
+                    "label": "Sydney & Melbourne Price Drop",
+                    "value": "5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "3_0_0"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "BYD reported selling more than 526,000 EVs in the fourth quarter of 2023, compared with Tesla\u2019s sales of nearly 485,000 for the same period.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD reported selling more than 526,000 EVs in the fourth quarter of 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla\u2019s sales were nearly 485,000 EVs in the fourth quarter of 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "Despite the overtaking, Tesla still managed to hit its yearly sales target of 1.81M delivered EV\u2019s in 2023. The company\u2019s global vehicle delivery increased by 38% year-on-year, while production increased by 35% year-on-year to 1.85M vehicles.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla hit its yearly sales target of 1.81M delivered EVs in 2023."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla\u2019s global vehicle delivery increased by 38% year-on-year."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla\u2019s production increased by 35% year-on-year to 1.85M vehicles."
+                }
+            ]
+        },
+        {
+            "paragraph": "Despite this shift, Tesla continues to grow, though at a slower rate. It maintained 17% of the global market YoY but only saw 27% growth. Tesla\u2019s Model Y remains the best-selling battery EV on the planet, and the American automaker was recently able to stumble over the finish line in delivering Cybertrucks to customers.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Tesla maintained 17% of the global market YoY."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla saw 27% growth."
+                }
+            ]
+        }
+    ]
+}

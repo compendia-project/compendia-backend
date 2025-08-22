@@ -1,0 +1,104 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "BYD reported a revenue increase of 3.97% year-over-year to 124.94B CNY in March 2024. Net income rose by 10.62% to 4.57B CNY, driven by strong sales of NEVs such as Seagull and Seal. The company's EPS improved by 5.14% to 1.29 CNY, while EBITDA surged by 45.78% to 15.09B CNY, indicating operational efficiency.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD's revenue increased by 3.97% year-over-year to 124.94B CNY in March 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue",
+                            "value": "124.94",
+                            "unit": "B CNY"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD's net income rose by 10.62% to 4.57B CNY.",
+                    "vis_data": [
+                        {
+                            "label": "Net Income",
+                            "value": "4.57",
+                            "unit": "B CNY"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD's EPS improved by 5.14% to 1.29 CNY.",
+                    "vis_data": [
+                        {
+                            "label": "EPS",
+                            "value": "1.29",
+                            "unit": "CNY"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD's EBITDA surged by 45.78% to 15.09B CNY.",
+                    "vis_data": [
+                        {
+                            "label": "EBITDA",
+                            "value": "15.09",
+                            "unit": "B CNY"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5980367567119897
+        },
+        {
+            "paragraph": "Tesla's {{ m-tag option=\"price\" ticker=\"TSLA\" currency=\"USD\" }} revenue for March 2024 decreased by 8.69% year-over-year to $21.30B, and net income fell sharply by 55.07% to $1.13B. The EPS dropped by 47.06% to $0.45, and EBITDA declined by 34.85% to $2.42B, reflecting increased operational expenses and market challenges.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's revenue decreased by 8.69% year-over-year to $21.30B in March 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue",
+                            "value": "21.30",
+                            "unit": "B USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's net income fell by 55.07% to $1.13B.",
+                    "vis_data": [
+                        {
+                            "label": "Net Income",
+                            "value": "1.13",
+                            "unit": "B USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's EPS dropped by 47.06% to $0.45.",
+                    "vis_data": [
+                        {
+                            "label": "EPS",
+                            "value": "0.45",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's EBITDA declined by 34.85% to $2.42B.",
+                    "vis_data": [
+                        {
+                            "label": "EBITDA",
+                            "value": "2.42",
+                            "unit": "B USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.479986150787141
+        }
+    ]
+}

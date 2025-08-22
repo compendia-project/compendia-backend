@@ -1,0 +1,26 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Never before in my life have I been able to sit down at a restaurant and get a tasty veggie burger with fries and a Diet Coke for under $3. How is this a thing? Well, at Burgers Plus it\u2019s the real deal. For all the days that we\u2019ve felt like we can\u2019t possibly eat another spring roll or Cau Lao,Burgers Plus has become our Western refuge.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A veggie burger with fries and a Diet Coke costs under $3 at Burgers Plus."
+                }
+            ]
+        },
+        {
+            "paragraph": "One of the most amazing things about Hoi An is they do not add tax and gratuity to the bill! We came to Vietnam from Bali and there it wasn\u2019t uncommon to see a 10% tax and 10% added gratuity to each cheque. 20% certainly adds up over time, especially with the rising costs of food there.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "In Bali, it was common to see a 10% tax and 10% added gratuity to each cheque."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "20% difference in total bill cost due to tax and gratuity in Bali compared to Hoi An."
+                }
+            ]
+        }
+    ]
+}

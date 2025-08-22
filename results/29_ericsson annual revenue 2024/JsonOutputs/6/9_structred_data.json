@@ -1,0 +1,257 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "We delivered SEK 3.7 billion of free cash flow[4] in Q1, benefiting from our operational improvements, and lower working capital as we concluded an intense 5G roll-out phase in India.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "SEK 3.7 billion of free cash flow in Q1.",
+                    "vis_data": [
+                        {
+                            "label": "Free Cash Flow Q1",
+                            "value": "3.7",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "6_0_0"
+                }
+            ],
+            "relatedness_score": 0.4249559568798086,
+            "article_meta_data": {
+                "title": "Ericsson reports first quarter results 2024",
+                "date": "2024-04-16",
+                "url": "https://www.inderes.se/en/releases/ericsson-reports-first-quarter-results-2024",
+                "id": 6
+            },
+            "para_id": "6_0"
+        },
+        {
+            "paragraph": "Networks sales[1] decreased organically by -19% YoY as our customers continued to be cautious with their investments. Despite this, we generated a strong gross margin[2] of 44.3% - a testament to our technology leadership, our competitive product portfolio, and the strategic actions we are taking, including on costs.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Networks sales decreased organically by -19% YoY.",
+                    "vis_data": [
+                        {
+                            "label": "Networks Sales Decline",
+                            "value": "-19",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_1_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gross margin of 44.3%.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Margin",
+                            "value": "44.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_1_2"
+                }
+            ],
+            "relatedness_score": 0.3943892715051289,
+            "article_meta_data": {
+                "title": "Ericsson reports first quarter results 2024",
+                "date": "2024-04-16",
+                "url": "https://www.inderes.se/en/releases/ericsson-reports-first-quarter-results-2024",
+                "id": 6
+            },
+            "para_id": "6_1"
+        },
+        {
+            "paragraph": "While organic sales[1] declined by -14%, we reached a gross margin[2] of 42.7%, generated EBITA[3] of SEK 5.1 billion and a 9.6% EBITA margin[3].",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Organic sales declined by -14%.",
+                    "vis_data": [
+                        {
+                            "label": "Organic Sales Decline",
+                            "value": "-14",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_2_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gross margin of 42.7%.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Margin",
+                            "value": "42.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_2_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "EBITA of SEK 5.1 billion.",
+                    "vis_data": [
+                        {
+                            "label": "EBITA",
+                            "value": "5.1",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "6_2_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "EBITA margin of 9.6%.",
+                    "vis_data": [
+                        {
+                            "label": "EBITA Margin",
+                            "value": "9.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_2_6"
+                }
+            ],
+            "relatedness_score": 0.38239299267906945,
+            "article_meta_data": {
+                "title": "Ericsson reports first quarter results 2024",
+                "date": "2024-04-16",
+                "url": "https://www.inderes.se/en/releases/ericsson-reports-first-quarter-results-2024",
+                "id": 6
+            },
+            "para_id": "6_2"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "6_0",
+            "paragraph": "We delivered SEK 3.7 billion of free cash flow[4] in Q1, benefiting from our operational improvements, and lower working capital as we concluded an intense 5G roll-out phase in India."
+        },
+        {
+            "para_id": "6_1",
+            "paragraph": "Networks sales[1] decreased organically by -19% YoY as our customers continued to be cautious with their investments. Despite this, we generated a strong gross margin[2] of 44.3% - a testament to our technology leadership, our competitive product portfolio, and the strategic actions we are taking, including on costs."
+        },
+        {
+            "para_id": "6_2",
+            "paragraph": "While organic sales[1] declined by -14%, we reached a gross margin[2] of 42.7%, generated EBITA[3] of SEK 5.1 billion and a 9.6% EBITA margin[3]."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "SEK 3.7 billion of free cash flow in Q1."
+        },
+        {
+            "fact_id": "6_1_1",
+            "fact_content": "Networks sales decreased organically by -19% YoY."
+        },
+        {
+            "fact_id": "6_1_2",
+            "fact_content": "Gross margin of 44.3%."
+        },
+        {
+            "fact_id": "6_2_3",
+            "fact_content": "Organic sales declined by -14%."
+        },
+        {
+            "fact_id": "6_2_4",
+            "fact_content": "Gross margin of 42.7%."
+        },
+        {
+            "fact_id": "6_2_5",
+            "fact_content": "EBITA of SEK 5.1 billion."
+        },
+        {
+            "fact_id": "6_2_6",
+            "fact_content": "EBITA margin of 9.6%."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "SEK 3.7 billion of free cash flow in Q1.",
+            "vis_data": [
+                {
+                    "label": "Free Cash Flow Q1",
+                    "value": "3.7",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "6_0_0"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Networks sales decreased organically by -19% YoY.",
+            "vis_data": [
+                {
+                    "label": "Networks Sales Decline",
+                    "value": "-19",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Gross margin of 44.3%.",
+            "vis_data": [
+                {
+                    "label": "Gross Margin",
+                    "value": "44.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_1_2"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Organic sales declined by -14%.",
+            "vis_data": [
+                {
+                    "label": "Organic Sales Decline",
+                    "value": "-14",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_2_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Gross margin of 42.7%.",
+            "vis_data": [
+                {
+                    "label": "Gross Margin",
+                    "value": "42.7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_2_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "EBITA of SEK 5.1 billion.",
+            "vis_data": [
+                {
+                    "label": "EBITA",
+                    "value": "5.1",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "6_2_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "EBITA margin of 9.6%.",
+            "vis_data": [
+                {
+                    "label": "EBITA Margin",
+                    "value": "9.6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_2_6"
+        }
+    ]
+}

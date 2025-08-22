@@ -1,0 +1,470 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Of the 90 colleges and universities in my analysis, 17 received at least 20 percent of their funding from the federal government and 47 received between 10 and 20 percent. Only 11 institutions received less than 5 percent of their total revenue from federal sources in 2022\u201323. All but one of these 11 colleges (SUNY at Purchase College) is in the private, nonprofit sector. These estimates represent a federal funding floor because federal student loans are not included.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "17 colleges and universities received at least 20% of their funding from the federal government.",
+                    "vis_data": [
+                        {
+                            "label": "Colleges with \u226520% Federal Revenue",
+                            "value": "17",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "15_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "47 colleges and universities received between 10% and 20% of their funding from the federal government.",
+                    "vis_data": [
+                        {
+                            "label": "Colleges with 10-20% Federal Revenue",
+                            "value": "47",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "15_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "11 institutions received less than 5% of their total revenue from federal sources in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "Colleges with <5% Federal Revenue",
+                            "value": "11",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "15_0_2"
+                }
+            ],
+            "relatedness_score": 0.5778840263953173,
+            "article_meta_data": {
+                "title": "How Much Federal Funding Do Colleges and Universities Receive?",
+                "date": "2025-05-08",
+                "url": "https://www.urban.org/urban-wire/how-much-federal-funding-do-colleges-and-universities-receive",
+                "id": 15
+            },
+            "para_id": "15_0"
+        },
+        {
+            "paragraph": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323, which made up 42 percent of the school\u2019s total revenue that year. Funding originated from the National Institutes of Health (NIH), the National Science Foundation (NSF), and the US Departments of Energy and Defense. MIT received 48 percent of its funding from the federal government, a total of $1.7 billion, during that year. Much of this funding goes to MIT\u2019s Lincoln Laboratory, which \u201cresearches and develops a broad array of advanced technologies to meet critical national security needs.\u201d",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Federal Funding",
+                            "value": "4000",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_1_3"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "42% of Johns Hopkins' total revenue in 2022\u201323 came from federal sources.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Federal Revenue",
+                            "value": "42",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_1_4"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "MIT received 48% of its funding from the federal government in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "MIT Federal Revenue",
+                            "value": "48",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "MIT received a total of $1.7 billion from the federal government in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "MIT Federal Funding",
+                            "value": "1700",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_1_6"
+                }
+            ],
+            "relatedness_score": 0.5557605867495462,
+            "article_meta_data": {
+                "title": "How Much Federal Funding Do Colleges and Universities Receive?",
+                "date": "2025-05-08",
+                "url": "https://www.urban.org/urban-wire/how-much-federal-funding-do-colleges-and-universities-receive",
+                "id": 15
+            },
+            "para_id": "15_1"
+        },
+        {
+            "paragraph": "Among the institutions under investigation, the Massachusetts Institute of Technology (MIT) and Johns Hopkins University receive the most federal funding\u2014more than 40 percent of their total revenue\u2014while 26 other colleges under investigation receive less than 10 percent of their revenue from federal sources.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "MIT and Johns Hopkins University receive more than 40% of their total revenue from federal funding.",
+                    "vis_data": [
+                        {
+                            "label": "MIT & Johns Hopkins Federal Revenue",
+                            "value": "41",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_2_7"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "26 colleges under investigation receive less than 10% of their revenue from federal sources.",
+                    "vis_data": [
+                        {
+                            "label": "26 Colleges Federal Revenue",
+                            "value": "9",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_2_8"
+                }
+            ],
+            "relatedness_score": 0.5443265032795774,
+            "article_meta_data": {
+                "title": "How Much Federal Funding Do Colleges and Universities Receive?",
+                "date": "2025-05-08",
+                "url": "https://www.urban.org/urban-wire/how-much-federal-funding-do-colleges-and-universities-receive",
+                "id": 15
+            },
+            "para_id": "15_2"
+        },
+        {
+            "paragraph": "Many public institutions also receive large shares of their revenue from federal sources. The University of Alabama at Birmingham (UAB), University of Michigan\u2013Ann Arbor, University of Hawaii at Manoa, and Montana State University all received more than 25 percent of their funding from the federal government in 2022\u201323. UAB received more than $400 million in funding from NIH in 2022 and is in the top 1 percent of NIH-funded institutions. The University of Michigan received the most federal funding among public institutions at $1.2 billion, with the University of California, San Diego, ($1.1 billion) and the University of North Carolina at Chapel Hill ($950 million) close behind. Much of the federal revenue at these public institutions comes from NIH and NSF.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "UAB, University of Michigan\u2013Ann Arbor, University of Hawaii at Manoa, and Montana State University received more than 25% of their funding from the federal government in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "Public Institutions Federal Revenue",
+                            "value": "26",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_3_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "UAB received more than $400 million in funding from NIH in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "UAB NIH Funding",
+                            "value": "401",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_3_10"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The University of Michigan received $1.2 billion in federal funding in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "University of Michigan Federal Funding",
+                            "value": "1200",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_3_11"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The University of California, San Diego, received $1.1 billion in federal funding in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "UC San Diego Federal Funding",
+                            "value": "1100",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_3_12"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The University of North Carolina at Chapel Hill received $950 million in federal funding in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "UNC Chapel Hill Federal Funding",
+                            "value": "950",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_3_13"
+                }
+            ],
+            "relatedness_score": 0.532383515151049,
+            "article_meta_data": {
+                "title": "How Much Federal Funding Do Colleges and Universities Receive?",
+                "date": "2025-05-08",
+                "url": "https://www.urban.org/urban-wire/how-much-federal-funding-do-colleges-and-universities-receive",
+                "id": 15
+            },
+            "para_id": "15_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "15_0",
+            "paragraph": "Of the 90 colleges and universities in my analysis, 17 received at least 20 percent of their funding from the federal government and 47 received between 10 and 20 percent. Only 11 institutions received less than 5 percent of their total revenue from federal sources in 2022\u201323. All but one of these 11 colleges (SUNY at Purchase College) is in the private, nonprofit sector. These estimates represent a federal funding floor because federal student loans are not included."
+        },
+        {
+            "para_id": "15_1",
+            "paragraph": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323, which made up 42 percent of the school\u2019s total revenue that year. Funding originated from the National Institutes of Health (NIH), the National Science Foundation (NSF), and the US Departments of Energy and Defense. MIT received 48 percent of its funding from the federal government, a total of $1.7 billion, during that year. Much of this funding goes to MIT\u2019s Lincoln Laboratory, which \u201cresearches and develops a broad array of advanced technologies to meet critical national security needs.\u201d"
+        },
+        {
+            "para_id": "15_2",
+            "paragraph": "Among the institutions under investigation, the Massachusetts Institute of Technology (MIT) and Johns Hopkins University receive the most federal funding\u2014more than 40 percent of their total revenue\u2014while 26 other colleges under investigation receive less than 10 percent of their revenue from federal sources."
+        },
+        {
+            "para_id": "15_3",
+            "paragraph": "Many public institutions also receive large shares of their revenue from federal sources. The University of Alabama at Birmingham (UAB), University of Michigan\u2013Ann Arbor, University of Hawaii at Manoa, and Montana State University all received more than 25 percent of their funding from the federal government in 2022\u201323. UAB received more than $400 million in funding from NIH in 2022 and is in the top 1 percent of NIH-funded institutions. The University of Michigan received the most federal funding among public institutions at $1.2 billion, with the University of California, San Diego, ($1.1 billion) and the University of North Carolina at Chapel Hill ($950 million) close behind. Much of the federal revenue at these public institutions comes from NIH and NSF."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "17 colleges and universities received at least 20% of their funding from the federal government."
+        },
+        {
+            "fact_id": "15_0_1",
+            "fact_content": "47 colleges and universities received between 10% and 20% of their funding from the federal government."
+        },
+        {
+            "fact_id": "15_0_2",
+            "fact_content": "11 institutions received less than 5% of their total revenue from federal sources in 2022\u201323."
+        },
+        {
+            "fact_id": "15_1_3",
+            "fact_content": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323."
+        },
+        {
+            "fact_id": "15_1_4",
+            "fact_content": "42% of Johns Hopkins' total revenue in 2022\u201323 came from federal sources."
+        },
+        {
+            "fact_id": "15_1_5",
+            "fact_content": "MIT received 48% of its funding from the federal government in 2022\u201323."
+        },
+        {
+            "fact_id": "15_1_6",
+            "fact_content": "MIT received a total of $1.7 billion from the federal government in 2022\u201323."
+        },
+        {
+            "fact_id": "15_2_7",
+            "fact_content": "MIT and Johns Hopkins University receive more than 40% of their total revenue from federal funding."
+        },
+        {
+            "fact_id": "15_2_8",
+            "fact_content": "26 colleges under investigation receive less than 10% of their revenue from federal sources."
+        },
+        {
+            "fact_id": "15_3_9",
+            "fact_content": "UAB, University of Michigan\u2013Ann Arbor, University of Hawaii at Manoa, and Montana State University received more than 25% of their funding from the federal government in 2022\u201323."
+        },
+        {
+            "fact_id": "15_3_10",
+            "fact_content": "UAB received more than $400 million in funding from NIH in 2022."
+        },
+        {
+            "fact_id": "15_3_11",
+            "fact_content": "The University of Michigan received $1.2 billion in federal funding in 2022\u201323."
+        },
+        {
+            "fact_id": "15_3_12",
+            "fact_content": "The University of California, San Diego, received $1.1 billion in federal funding in 2022\u201323."
+        },
+        {
+            "fact_id": "15_3_13",
+            "fact_content": "The University of North Carolina at Chapel Hill received $950 million in federal funding in 2022\u201323."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "17 colleges and universities received at least 20% of their funding from the federal government.",
+            "vis_data": [
+                {
+                    "label": "Colleges with \u226520% Federal Revenue",
+                    "value": "17",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "15_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "47 colleges and universities received between 10% and 20% of their funding from the federal government.",
+            "vis_data": [
+                {
+                    "label": "Colleges with 10-20% Federal Revenue",
+                    "value": "47",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "15_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "11 institutions received less than 5% of their total revenue from federal sources in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "Colleges with <5% Federal Revenue",
+                    "value": "11",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "15_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "Johns Hopkins Federal Funding",
+                    "value": "4000",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_1_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "42% of Johns Hopkins' total revenue in 2022\u201323 came from federal sources.",
+            "vis_data": [
+                {
+                    "label": "Johns Hopkins Federal Revenue",
+                    "value": "42",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_1_4"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "MIT received 48% of its funding from the federal government in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "MIT Federal Revenue",
+                    "value": "48",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "MIT received a total of $1.7 billion from the federal government in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "MIT Federal Funding",
+                    "value": "1700",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_1_6"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "MIT and Johns Hopkins University receive more than 40% of their total revenue from federal funding.",
+            "vis_data": [
+                {
+                    "label": "MIT & Johns Hopkins Federal Revenue",
+                    "value": "41",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_2_7"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "26 colleges under investigation receive less than 10% of their revenue from federal sources.",
+            "vis_data": [
+                {
+                    "label": "26 Colleges Federal Revenue",
+                    "value": "9",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_2_8"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "UAB, University of Michigan\u2013Ann Arbor, University of Hawaii at Manoa, and Montana State University received more than 25% of their funding from the federal government in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "Public Institutions Federal Revenue",
+                    "value": "26",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_3_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "UAB received more than $400 million in funding from NIH in 2022.",
+            "vis_data": [
+                {
+                    "label": "UAB NIH Funding",
+                    "value": "401",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_3_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The University of Michigan received $1.2 billion in federal funding in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "University of Michigan Federal Funding",
+                    "value": "1200",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_3_11"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The University of California, San Diego, received $1.1 billion in federal funding in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "UC San Diego Federal Funding",
+                    "value": "1100",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_3_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The University of North Carolina at Chapel Hill received $950 million in federal funding in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "UNC Chapel Hill Federal Funding",
+                    "value": "950",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_3_13"
+        }
+    ]
+}

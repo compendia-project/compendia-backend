@@ -1,0 +1,11 @@
+{
+    "title": "Machine Learning Models for Gold Price Prediction",
+    "date": "2024-01-09",
+    "paragraphs": [
+        "The prediction of gold prices is meaningful for multiple industries. Gold is a relatively stable store of value, and its price is closely linked to stocks, exchange rates, and monetary policy. Observing the trend of gold prices can promote the stable development of financial businesses. In this article, the daily opening and closing prices of gold over the past ten years were chosen as the data support. Seven different models were trained to predict prices on a yearly basis with a half-year interval. These predictions were then compared to actual data, and evaluations and analyses were conducted to identify the most suitable model for gold price forecasting. The machine learning models used included Ridge Regression, Linear Regression, Decision Tree Random Forest, Lasso Regression, Support Vector Machine, and K-Nearest Neighbors. In the evaluation process, Mean Squared Error (MSE) was used as the criterion to assess the accuracy of the model predictions."
+    ],
+    "id": 4,
+    "url": "https://drpress.org/ojs/index.php/HBEM/article/view/24537",
+    "title_original": "Machine Learning Models for Gold Price Prediction",
+    "date_original": "9 Jan 2024"
+}

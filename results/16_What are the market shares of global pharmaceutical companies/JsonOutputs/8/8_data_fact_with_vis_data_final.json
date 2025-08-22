@@ -1,0 +1,52 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The oncology segment dominated the industry with a 32.8% market share in 2024.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The oncology segment had a 32.8% market share in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Oncology Market Share",
+                            "value": "32.8",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The pharmaceutical companies segment dominated the industry with a 52.0% market share in 2024.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The pharmaceutical companies segment had a 52.0% market share in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Pharmaceutical Companies Market Share",
+                            "value": "52.0",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Due to the high healthcare costs, sophisticated commercialization techniques, and the existence of significant pharmaceutical and biopharmaceutical businesses, North America pharmaceutical contract sales organizations market accounted for the largest share of 38.0% in 2024.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "North America pharmaceutical contract sales organizations market accounted for 38.0% in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "North America Market Share",
+                            "value": "38.0",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

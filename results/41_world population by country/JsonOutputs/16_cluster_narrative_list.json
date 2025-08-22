@@ -1,0 +1,494 @@
+[
+    {
+        "cluster_id": 6,
+        "number_of_facts": 11,
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "World population estimates for 2023 and 2025.",
+                "order_id": 1,
+                "narrative": "The world population is projected to reach significant milestones in 2023 and 2025, reflecting ongoing global demographic trends."
+            },
+            {
+                "merged_id": "6_4",
+                "merged_content": "Proportion of global population living in Asia in 2023.",
+                "order_id": 2,
+                "narrative": "In 2023, a substantial portion of the global population resides in Asia, highlighting the continent's demographic dominance."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Population estimates for China and India.",
+                "order_id": 3,
+                "narrative": "China and India, the two most populous countries, continue to shape global population dynamics with their large populations."
+            },
+            {
+                "merged_id": "6_7",
+                "merged_content": "China's fertility rate in the 1960s.",
+                "order_id": 4,
+                "narrative": "China's fertility rate in the 1960s was notably high, setting the stage for its current demographic profile."
+            },
+            {
+                "merged_id": "6_5",
+                "merged_content": "Population estimates for China and India in 2030.",
+                "order_id": 5,
+                "narrative": "By 2030, population estimates for China and India suggest shifts that could impact their economic and social landscapes."
+            },
+            {
+                "merged_id": "6_3",
+                "merged_content": "Population estimates for Africa in 2024.",
+                "order_id": 6,
+                "narrative": "Africa's population is expected to grow significantly by 2024, contributing to its rising global demographic influence."
+            },
+            {
+                "merged_id": "6_6",
+                "merged_content": "Population gain in Nigeria by 2100.",
+                "order_id": 7,
+                "narrative": "Nigeria is projected to experience a substantial population increase by 2100, positioning it as a key player in global demographics."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "Population estimates for the United States in 2025 and 2060.",
+                "order_id": 8,
+                "narrative": "The United States is projected to see population growth by 2025 and further changes by 2060, affecting its demographic structure."
+            },
+            {
+                "merged_id": "6_10",
+                "merged_content": "World population as of July 13, 2025.",
+                "order_id": 9,
+                "narrative": "As of July 13, 2025, the world population will have reached a new peak, underscoring ongoing global growth."
+            },
+            {
+                "merged_id": "6_9",
+                "merged_content": "Countries with population estimates and sample surveys.",
+                "order_id": 10,
+                "narrative": "Various countries are utilizing population estimates and sample surveys to better understand and plan for demographic changes."
+            },
+            {
+                "merged_id": "6_8",
+                "merged_content": "Website visitors since 2020.",
+                "order_id": 11,
+                "narrative": "Since 2020, there has been a notable increase in website visitors, reflecting growing interest in demographic data."
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "4_2",
+                "merged_content": "Population statistics for various countries.",
+                "order_id": 1,
+                "narrative": "Understanding the current population statistics of various countries provides a foundation for analyzing future trends."
+            },
+            {
+                "merged_id": "4_0",
+                "merged_content": "Population growth trends by 2100 for various countries.",
+                "order_id": 2,
+                "narrative": "Projections indicate significant population growth trends by 2100, with varying impacts across different countries."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "Projected populations for various countries in 2025 and 2060.",
+                "order_id": 3,
+                "narrative": "Looking ahead, population projections for 2025 and 2060 offer insights into demographic shifts and potential challenges."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "Population growth rate of Bangladesh.",
+                "order_id": 4,
+                "narrative": "Bangladesh is experiencing a notable population growth rate, which could influence its economic and social landscape."
+            },
+            {
+                "merged_id": "4_4",
+                "merged_content": "Population density comparison between Mexico and the USA.",
+                "order_id": 5,
+                "narrative": "A comparison of population density between Mexico and the USA highlights differences in how populations are distributed."
+            },
+            {
+                "merged_id": "4_5",
+                "merged_content": "Comparison of Asian countries in top 10 rankings.",
+                "order_id": 6,
+                "narrative": "Several Asian countries feature prominently in the top 10 rankings, reflecting their significant population sizes."
+            },
+            {
+                "merged_id": "4_6",
+                "merged_content": "Population ratio between Asia and Africa.",
+                "order_id": 7,
+                "narrative": "The population ratio between Asia and Africa underscores the demographic weight of these continents on the global stage."
+            }
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "10_2",
+                "merged_content": "Birth rate in Africa today.",
+                "order_id": 1,
+                "narrative": "Africa currently experiences one of the highest birth rates in the world, setting the stage for significant population growth in the coming decades."
+            },
+            {
+                "merged_id": "10_1",
+                "merged_content": "Africa's population growth by 2050.",
+                "order_id": 2,
+                "narrative": "By 2050, Africa's population is projected to grow substantially, driven by its high birth rates and youthful demographic."
+            },
+            {
+                "merged_id": "10_0",
+                "merged_content": "Population changes by 2100 for Brazil, Bangladesh, DR Congo, and Niger.",
+                "order_id": 3,
+                "narrative": "Looking further ahead to 2100, countries like Brazil, Bangladesh, DR Congo, and Niger are expected to see notable shifts in their population sizes, reflecting broader global demographic trends."
+            },
+            {
+                "merged_id": "10_4",
+                "merged_content": "Nigeria's urban population.",
+                "order_id": 4,
+                "narrative": "In Nigeria, the urban population is rapidly increasing, contributing to the country's overall population density and urbanization challenges."
+            },
+            {
+                "merged_id": "10_6",
+                "merged_content": "Nigeria's population density.",
+                "order_id": 5,
+                "narrative": "As Nigeria's population continues to grow, its population density is becoming a critical factor in urban planning and resource management."
+            },
+            {
+                "merged_id": "10_3",
+                "merged_content": "Colombia's population density.",
+                "order_id": 6,
+                "narrative": "Colombia, on the other hand, faces its own unique challenges with population density, which impacts its infrastructure and development strategies."
+            },
+            {
+                "merged_id": "10_5",
+                "merged_content": "Vatican City's population.",
+                "order_id": 7,
+                "narrative": "Meanwhile, Vatican City remains an outlier with its small, stable population, highlighting the diversity of population dynamics worldwide."
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "number_of_facts": 10,
+        "facts": [
+            {
+                "merged_id": "9_1",
+                "merged_content": "India has almost 1.46 billion people in 2022. China's population reached 1.45 billion in 2022. China is expected to have approximately 1.42 billion people in 2025.",
+                "order_id": 1,
+                "narrative": "In 2022, India and China were neck and neck in population, with India at 1.46 billion and China at 1.45 billion. However, by 2025, China's population is expected to slightly decrease to 1.42 billion."
+            },
+            {
+                "merged_id": "9_7",
+                "merged_content": "China's population has decreased by 0.23%. India's annual growth rate is 0.89%.",
+                "order_id": 2,
+                "narrative": "China's population is experiencing a slight decline, decreasing by 0.23%, while India continues to grow at an annual rate of 0.89%."
+            },
+            {
+                "merged_id": "9_5",
+                "merged_content": "India is expected to reach 1.7 billion by 2050. Pakistan has around 243 million inhabitants in 2025.",
+                "order_id": 3,
+                "narrative": "Looking ahead, India's population is projected to surge to 1.7 billion by 2050, while Pakistan will have approximately 243 million people by 2025."
+            },
+            {
+                "merged_id": "9_0",
+                "merged_content": "The number of Europeans will decline by approximately 6% by 2050.",
+                "order_id": 4,
+                "narrative": "In contrast, Europe's population is expected to decline by about 6% by 2050, highlighting a demographic shift."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "The world's population is expected to reach around 10.3 billion people in the 2080s. The global population is estimated to pass 10 billion by 2060.",
+                "order_id": 5,
+                "narrative": "Globally, the population is on a growth trajectory, anticipated to surpass 10 billion by 2060 and reach approximately 10.3 billion in the 2080s."
+            },
+            {
+                "merged_id": "9_3",
+                "merged_content": "The United States will have 421 million inhabitants in 2100. Nigeria's population is expected to reach 400 million by 2060.",
+                "order_id": 6,
+                "narrative": "By 2100, the United States is projected to have 421 million residents, while Nigeria's population is expected to grow to 400 million by 2060."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "Africa's population is forecast to grow to 3.9 billion by 2100. Egypt's population is expected to increase by 120% by 2100. Bosnia-Herzegovina is expected to have a 50% decrease in population by 2100.",
+                "order_id": 7,
+                "narrative": "Africa's population is set to expand significantly, reaching 3.9 billion by 2100, with Egypt's population increasing by 120%. Conversely, Bosnia-Herzegovina will see a 50% population decrease."
+            },
+            {
+                "merged_id": "9_9",
+                "merged_content": "By 2100, there will be almost four people age 65 and older for every person age 14 and younger.",
+                "order_id": 8,
+                "narrative": "Demographic aging is a global trend, with projections indicating that by 2100, there will be nearly four people aged 65 and older for every person aged 14 and younger."
+            },
+            {
+                "merged_id": "9_6",
+                "merged_content": "The Population Weighted Density for the USA is 2.2k pp/km2 for 2020.",
+                "order_id": 9,
+                "narrative": "In 2020, the United States had a Population Weighted Density of 2.2k people per square kilometer, reflecting its population distribution."
+            },
+            {
+                "merged_id": "9_8",
+                "merged_content": "91.4% of Brazil's population live in urban areas.",
+                "order_id": 10,
+                "narrative": "Urbanization is prominent in Brazil, with 91.4% of its population residing in urban areas, showcasing a significant urban demographic."
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "8_3",
+                "merged_content": "National population censuses conducted between 1950 and 2023.",
+                "order_id": 1,
+                "narrative": "Since 1950, national population censuses have been a crucial tool for understanding demographic changes, providing insights into how populations have evolved over time."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "Population of China, Asia, and Vietnam.",
+                "order_id": 2,
+                "narrative": "China, along with other Asian countries like Vietnam, plays a significant role in the continent's demographic landscape, contributing to Asia's status as the most populous region."
+            },
+            {
+                "merged_id": "8_0",
+                "merged_content": "Population growth rates of India, Brazil, Indonesia, and the U.S. in 2025.",
+                "order_id": 3,
+                "narrative": "By 2025, India, Brazil, Indonesia, and the U.S. are expected to experience varying population growth rates, reflecting diverse demographic trends across these nations."
+            },
+            {
+                "merged_id": "8_5",
+                "merged_content": "Pakistan's expected population in 2025.",
+                "order_id": 4,
+                "narrative": "Pakistan is projected to see a significant increase in its population by 2025, highlighting its rapid demographic expansion."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "Population densities of Russia and Ethiopia.",
+                "order_id": 5,
+                "narrative": "Russia and Ethiopia present contrasting population densities, with vast differences in how their populations are distributed across their territories."
+            },
+            {
+                "merged_id": "8_6",
+                "merged_content": "Urban population in the U.S.",
+                "order_id": 6,
+                "narrative": "The urban population in the U.S. continues to grow, indicating a trend towards increased urbanization and the challenges and opportunities it presents."
+            },
+            {
+                "merged_id": "8_4",
+                "merged_content": "Projected population changes in Ethiopia and the U.S. by 2100.",
+                "order_id": 7,
+                "narrative": "Looking ahead to 2100, Ethiopia and the U.S. are expected to undergo significant population changes, with implications for their social and economic landscapes."
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "number_of_facts": 8,
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "India's population data for 2022.",
+                "order_id": 1,
+                "narrative": "In 2022, India continues to be one of the most populous countries in the world, with its population data reflecting significant demographic trends."
+            },
+            {
+                "merged_id": "5_7",
+                "merged_content": "India's current population estimate.",
+                "order_id": 2,
+                "narrative": "The current population estimate for India highlights its position as a demographic giant, influencing global population dynamics."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "India's rural population data for 2020.",
+                "order_id": 3,
+                "narrative": "In 2020, India's rural population data underscored the vast number of people living in non-urban areas, shaping the country's socio-economic landscape."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "Population projections for Indonesia and Bangladesh in 2025.",
+                "order_id": 4,
+                "narrative": "Looking ahead to 2025, population projections for Indonesia and Bangladesh suggest significant growth, impacting regional demographics."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "China's population trends and projections.",
+                "order_id": 5,
+                "narrative": "China's population trends and projections reveal shifts that could alter its demographic profile in the coming years."
+            },
+            {
+                "merged_id": "5_4",
+                "merged_content": "Annual growth rates of China and Pakistan.",
+                "order_id": 6,
+                "narrative": "The annual growth rates of China and Pakistan provide insights into their evolving population dynamics and future challenges."
+            },
+            {
+                "merged_id": "5_5",
+                "merged_content": "C\u00f4te d\u2019Ivoire's population growth from 1998 to 2024.",
+                "order_id": 7,
+                "narrative": "C\u00f4te d\u2019Ivoire's population growth from 1998 to 2024 illustrates a steady increase, reflecting broader trends in African population dynamics."
+            },
+            {
+                "merged_id": "5_6",
+                "merged_content": "Comparison of age groups today.",
+                "order_id": 8,
+                "narrative": "A comparison of age groups today reveals diverse demographic structures across countries, influencing economic and social policies."
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "number_of_facts": 4,
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "Comparison of growth rates in Nigeria and the US.",
+                "order_id": 1,
+                "narrative": "Nigeria and the US exhibit contrasting growth rates, highlighting differing economic and demographic dynamics between the two nations."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "Urban population distribution in China, India, and Indonesia.",
+                "order_id": 2,
+                "narrative": "China, India, and Indonesia showcase diverse urban population distributions, reflecting varied urbanization trends and challenges in these populous countries."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "Angola's projected population increase by 2100.",
+                "order_id": 3,
+                "narrative": "Angola is expected to experience a significant population increase by 2100, indicating potential shifts in its demographic landscape."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "India's projected population by 2070.",
+                "order_id": 4,
+                "narrative": "By 2070, India's population is projected to reach substantial numbers, underscoring its role as a major demographic player on the global stage."
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "7_0",
+                "merged_content": "Moldova is expected to have a 50% decrease in population by 2100.",
+                "order_id": 1,
+                "narrative": "Moldova faces a significant demographic challenge, with projections indicating a 50% decrease in its population by the year 2100."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "Half the world's babies will be born in Africa by 2100.",
+                "order_id": 2,
+                "narrative": "In stark contrast, Africa is set to become the epicenter of global birth rates, with half of the world's babies expected to be born there by 2100."
+            },
+            {
+                "merged_id": "7_2",
+                "merged_content": "US growth rate is 0.54%. Ethiopia's population grows at a high rate of 2.58%.",
+                "order_id": 3,
+                "narrative": "Population growth rates vary significantly, with the US experiencing a modest growth rate of 0.54%, while Ethiopia's population expands rapidly at 2.58%."
+            },
+            {
+                "merged_id": "7_3",
+                "merged_content": "More than 37% of India's population live in urban areas. 75% of Russia's population live in cities.",
+                "order_id": 4,
+                "narrative": "Urbanization trends show that over 37% of India's population resides in urban areas, whereas a substantial 75% of Russia's population lives in cities."
+            },
+            {
+                "merged_id": "7_4",
+                "merged_content": "Russia is expected to have approximately 144 million people in 2025. The U.S. is expected to have around 347 million residents in 2025.",
+                "order_id": 5,
+                "narrative": "Looking ahead to 2025, Russia's population is projected to be around 144 million, while the U.S. is expected to reach approximately 347 million residents."
+            },
+            {
+                "merged_id": "7_5",
+                "merged_content": "South Korea's 2024 population is 19% larger than in 1990.",
+                "order_id": 6,
+                "narrative": "South Korea has seen a notable demographic shift, with its population in 2024 being 19% larger than it was in 1990."
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "number_of_facts": 5,
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "Vatican City is the smallest country in the world in terms of population with around 500 people.",
+                "order_id": 1,
+                "narrative": "Vatican City holds the title of the smallest country in the world by population, with only about 500 residents."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "Population density comparison of China, Pakistan, and Bangladesh.",
+                "order_id": 2,
+                "narrative": "When comparing population densities, China, Pakistan, and Bangladesh present intriguing contrasts, with Bangladesh being notably dense."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Projected populations of India, Brazil, and Nigeria in 2025.",
+                "order_id": 3,
+                "narrative": "Looking ahead to 2025, India, Brazil, and Nigeria are projected to see significant population growth, reflecting global demographic shifts."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "Urban population percentages in Pakistan and Ethiopia.",
+                "order_id": 4,
+                "narrative": "In terms of urbanization, Pakistan and Ethiopia show varying urban population percentages, highlighting different stages of urban development."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "Russia's population decline percentage.",
+                "order_id": 5,
+                "narrative": "Russia faces a demographic challenge with a notable percentage decline in its population, contrasting with growth trends elsewhere."
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "Over 42% of Bangladesh's population live in urban areas.",
+                "order_id": 1,
+                "narrative": "Bangladesh is experiencing significant urbanization, with over 42% of its population now residing in urban areas."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "Nigeria's population grows at approximately 2.08% annually.",
+                "order_id": 2,
+                "narrative": "Nigeria's population is expanding rapidly, with an annual growth rate of approximately 2.08%."
+            },
+            {
+                "merged_id": "2_2",
+                "merged_content": "In 2024, Canada's rate of net migration is 6.1 per thousand.",
+                "order_id": 3,
+                "narrative": "Canada is witnessing a notable influx of people, with a net migration rate of 6.1 per thousand in 2024."
+            },
+            {
+                "merged_id": "2_4",
+                "merged_content": "Canada's population age 65 and older more than doubled from 3.2 million in 1991 to 8.2 million in 2024.",
+                "order_id": 4,
+                "narrative": "Canada's demographic landscape is shifting, as the population aged 65 and older has more than doubled from 3.2 million in 1991 to 8.2 million in 2024."
+            },
+            {
+                "merged_id": "2_3",
+                "merged_content": "South Korea's population age 65 or older in 1990 and 2024.",
+                "order_id": 5,
+                "narrative": "South Korea has seen a significant increase in its elderly population from 1990 to 2024."
+            },
+            {
+                "merged_id": "2_5",
+                "merged_content": "People age 65 and over will make up 50% of South Korea's population by 2062.",
+                "order_id": 6,
+                "narrative": "By 2062, South Korea is projected to have half of its population aged 65 and over, indicating a dramatic demographic shift."
+            },
+            {
+                "merged_id": "2_6",
+                "merged_content": "In the 1980s, people ages 0-14 outnumbered people age 65 and older by more than 3 to 1.",
+                "order_id": 7,
+                "narrative": "In the 1980s, the global demographic trend showed that young people aged 0-14 outnumbered those aged 65 and older by more than 3 to 1, highlighting a shift over the decades."
+            }
+        ]
+    }
+]

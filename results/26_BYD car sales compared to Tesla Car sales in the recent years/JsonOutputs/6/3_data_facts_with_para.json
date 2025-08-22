@@ -1,0 +1,17 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "['\u201cAlthough the difference between the two brands\u2019 monthly sales totals may be small, the implications are enormous. This is a watershed moment for Europe\u2019s car market, particularly when you consider that Tesla has led the European BEV market for years, while BYD only officially began operations beyond Norway and the Netherlands in late 2022,\u201d Munoz noted.', 'Tesla reported another monthly drop in April, with total volumes down 49% year on year. In contrast, BYD saw an increase of 359% over the same period thanks to its broad and competitive line up of fully electric vehicles and plug-in hybrids. BYD\u2019s rapid expansion has already pushed it ahead of established European car brands \u2013 outselling Fiat, Dacia, and Seat in the UK; Fiat and Seat in France; Seat in Italy; and Fiat in Spain. This growth comes even before production begins at its new plant in Hungary.']",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's total volumes down 49% year on year in April."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD saw an increase of 359% over the same period."
+                }
+            ]
+        }
+    ]
+}

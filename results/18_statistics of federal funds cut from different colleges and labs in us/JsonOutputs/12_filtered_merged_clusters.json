@@ -1,0 +1,284 @@
+[
+    {
+        "cluster_id": "9",
+        "facts": [
+            {
+                "merged_id": "9_0",
+                "merged_content": "Federal funding to universities in 2023."
+            },
+            {
+                "merged_id": "9_1",
+                "merged_content": "Contract cancellations in fiscal 2024."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "Funding frozen for Northwestern University in 2023."
+            },
+            {
+                "merged_id": "9_3",
+                "merged_content": "NIH funding and project statistics."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "NIH project and grant statistics."
+            },
+            {
+                "merged_id": "9_5",
+                "merged_content": "UC Davis federal grant proposals in 2024."
+            },
+            {
+                "merged_id": "9_6",
+                "merged_content": "Impact of R&D cuts on GDP."
+            },
+            {
+                "merged_id": "9_7",
+                "merged_content": "Funding cut off to colleges and universities."
+            }
+        ]
+    },
+    {
+        "cluster_id": "10",
+        "facts": [
+            {
+                "merged_id": "10_0",
+                "merged_content": "Cancellation and threat of federal funding for research."
+            },
+            {
+                "merged_id": "10_1",
+                "merged_content": "Proportion of revenue from federal funds for various institutions."
+            },
+            {
+                "merged_id": "10_2",
+                "merged_content": "Federal funding for public institutions in 2022\u201323."
+            }
+        ]
+    },
+    {
+        "cluster_id": "2",
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "Comparison of funding cuts and losses in various programs and institutions. $980 million was slashed from the Federal Work-Study program. The University of Massachusetts Amherst, with over 100 grants, received $38 million in funding in 2024 and faces an estimated loss of $6 million."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "Federal funding received by universities in 2022-2023. Columbia received around $1.2 billion from federal sources in the 2022-2023 academic year. The University of California, San Diego, received $1.1 billion in federal funding in 2022\u201323."
+            },
+            {
+                "merged_id": "2_2",
+                "merged_content": "Percentage impacts of budget cuts and funding sources. A 25 percent reduction in public research and development spending would shrink the U.S. GDP by 3.8 percent. The CDC budget would be cut by 53%. 42% of Johns Hopkins' total revenue in 2022\u201323 came from federal sources. Some universities benefitted from a 60% indirect cost payment."
+            },
+            {
+                "merged_id": "2_3",
+                "merged_content": "NIH project and staff reductions. NIH slashed nearly 800 projects. 1,200 staff members were let go from the NIH earlier this month. The NIH has terminated or delayed over 2,000 grant awards."
+            },
+            {
+                "merged_id": "2_4",
+                "merged_content": "Funding for climate research in the proposed 2026 budget. $0 funding for climate research in the proposed 2026 budget."
+            }
+        ]
+    },
+    {
+        "cluster_id": "6",
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "Research funding impacts and budget cuts."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Research funding and project impacts."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "Research institutions and NIH funding."
+            }
+        ]
+    },
+    {
+        "cluster_id": "4",
+        "facts": [
+            {
+                "merged_id": "4_0",
+                "merged_content": "Funding and grants for research institutions, including Massachusetts and Columbia University, affected by NIH funding freeze."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "Staff reductions in the U.S. Department of Education and the FDA."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "NASA's science budget cut by 47%."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "Federal funding for colleges and universities with significant federal revenue."
+            },
+            {
+                "merged_id": "4_4",
+                "merged_content": "Total initiative funding of $60 million cut off."
+            }
+        ]
+    },
+    {
+        "cluster_id": "8",
+        "facts": [
+            {
+                "merged_id": "8_0",
+                "merged_content": "Funding received by universities and research projects in 2024."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "Funding for research projects and grants."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "Canceled funding for universities and grants."
+            },
+            {
+                "merged_id": "8_3",
+                "merged_content": "Decline in federal support for academic research from 1970 to 2023."
+            }
+        ]
+    },
+    {
+        "cluster_id": "5",
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "The University of Massachusetts Amherst faces an estimated loss of $6 million. The college lost a $530,000 Inclusive Excellence Grant from HHMI. The college has three ongoing grants from NIH totaling $1,133,900. Middlebury has at least 17 active grants from NSF totaling over $4.9 million."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "Columbia got close to a fifth of its revenue from federal sources in the 2022-2023 academic year. Columbia received around $1.2 billion from federal sources in the 2022-2023 academic year. Columbia received $99 million to study aging."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "The government froze about $790 million in funding for Northwestern University. The federal government chopped off $175 million from the University of Pennsylvania's research budget."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "NIH has a yearly budget of $47 billion."
+            },
+            {
+                "merged_id": "5_4",
+                "merged_content": "20,000 health workers were slimmed down by the Trump administration."
+            },
+            {
+                "merged_id": "5_5",
+                "merged_content": "NIH cap on indirect costs at 15% of a grant\u2019s value."
+            },
+            {
+                "merged_id": "5_6",
+                "merged_content": "42% of Johns Hopkins' total revenue in 2022\u201323 came from federal sources."
+            }
+        ]
+    },
+    {
+        "cluster_id": "3",
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "The total losses from NIH increase by roughly $3.5 million a week."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "University of Arizona has allocated $1 million in bridge funding."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Columbia received $166 million for global AIDS programs in the 2022-2023 academic year."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "2,400 staff members were let go from the CDC earlier this month."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "Average indirect cost rate was nearly 30% since 2009."
+            },
+            {
+                "merged_id": "3_5",
+                "merged_content": "The NIH budget would be cut by 40%."
+            },
+            {
+                "merged_id": "3_6",
+                "merged_content": "The National Institutes of Health (NIH) has nearly $40 billion in annual grant funding."
+            },
+            {
+                "merged_id": "3_7",
+                "merged_content": "Johns Hopkins, MIT, and UNC Chapel Hill federal funding in 2022\u201323."
+            },
+            {
+                "merged_id": "3_8",
+                "merged_content": "Proportion of revenue from federal funding for schools."
+            }
+        ]
+    },
+    {
+        "cluster_id": "1",
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "A 50% R&D cut would result in GDP declines of 7.5%."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "Industry and charities contributed about 15% to research funding at colleges in 2023."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "Yale\u2019s Graduate School is investing $4 million to support students who lost grants."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "Johns Hopkins is using its $13.2 billion endowment to fund researchers with $100,000 or $150,000 grants."
+            },
+            {
+                "merged_id": "1_4",
+                "merged_content": "Nearly 100 colleges received over $33 billion in federal revenue in 2022-2023."
+            }
+        ]
+    },
+    {
+        "cluster_id": "7",
+        "facts": [
+            {
+                "merged_id": "7_0",
+                "merged_content": "Cuts to indirect funding from the NIH proposed to be capped at 15%."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "The project was designed to reach 45,000 STEM students annually."
+            },
+            {
+                "merged_id": "7_2",
+                "merged_content": "Universities increased their own research and development spending from 10% in 1970 to 25% in 2023."
+            },
+            {
+                "merged_id": "7_3",
+                "merged_content": "6.8% of research expenditures in the United States came from industry in 2023."
+            },
+            {
+                "merged_id": "7_4",
+                "merged_content": "For some prestigious research universities, federal money represented up to half of their revenue."
+            },
+            {
+                "merged_id": "7_5",
+                "merged_content": "Comparison of federal funding received by universities."
+            },
+            {
+                "merged_id": "7_6",
+                "merged_content": "The NIH has cancelled well over $3 billion in grants, leading to economic and job losses."
+            },
+            {
+                "merged_id": "7_7",
+                "merged_content": "The cuts would lead to about $16 billion in economic loss and around 68,000 lost jobs annually."
+            },
+            {
+                "merged_id": "7_8",
+                "merged_content": "11 institutions received less than 5% of their total revenue from federal sources in 2022\u201323."
+            }
+        ]
+    }
+]

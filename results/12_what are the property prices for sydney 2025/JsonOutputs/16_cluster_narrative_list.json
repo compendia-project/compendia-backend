@@ -1,0 +1,482 @@
+[
+    {
+        "cluster_id": 10,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "10_0",
+                "merged_content": "Sydney property prices are forecast to drop by as much as 5% next year.",
+                "order_id": 1,
+                "narrative": "Sydney's property market is expected to face a downturn, with prices forecasted to drop by up to 5% next year."
+            },
+            {
+                "merged_id": "10_5",
+                "merged_content": "Median price growth over past 12 months: 12 per cent. Growth in 2024: 8 per cent.",
+                "order_id": 2,
+                "narrative": "Despite the anticipated decline, Sydney has experienced a robust 12% growth in median prices over the past year, with an expected 8% growth in 2024."
+            },
+            {
+                "merged_id": "10_6",
+                "merged_content": "Forecast growth over next six months: Over 5 per cent",
+                "order_id": 3,
+                "narrative": "In the short term, the forecast suggests a growth of over 5% in the next six months."
+            },
+            {
+                "merged_id": "10_3",
+                "merged_content": "Quarterly gains in median house price are in positive territory of +1.3 per cent in May 2025.",
+                "order_id": 4,
+                "narrative": "By May 2025, quarterly gains in median house prices are projected to remain positive, with a 1.3% increase."
+            },
+            {
+                "merged_id": "10_1",
+                "merged_content": "Canberra and Melbourne are expected to rise by 3.5% in 2025.",
+                "order_id": 5,
+                "narrative": "Meanwhile, Canberra and Melbourne are set to see a 3.5% rise in property prices in 2025."
+            },
+            {
+                "merged_id": "10_4",
+                "merged_content": "Median Unit Price in Concord is $1,100,000. Median house price in Sydney: $1,301,000.",
+                "order_id": 6,
+                "narrative": "Currently, the median unit price in Concord stands at $1,100,000, while Sydney's median house price is $1,301,000."
+            },
+            {
+                "merged_id": "10_2",
+                "merged_content": "Sydney\u2019s median house price is on track to hit $2 million by the end of 2026.",
+                "order_id": 7,
+                "narrative": "Looking further ahead, Sydney's median house price is on track to reach $2 million by the end of 2026."
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "4_0",
+                "merged_content": "Sydney housing price trends and forecasts for 2024 and 2025.",
+                "order_id": 1,
+                "narrative": "Sydney's housing market is under the spotlight as experts analyze trends and forecasts for 2024 and 2025, providing insights into future price movements."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "Current and forecasted median house prices in Sydney.",
+                "order_id": 2,
+                "narrative": "The current median house prices in Sydney are being closely monitored, with forecasts suggesting potential changes in the coming years."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "Current and forecasted unit prices in Sydney.",
+                "order_id": 3,
+                "narrative": "In addition to houses, unit prices in Sydney are also being tracked, with forecasts indicating possible shifts in the market."
+            },
+            {
+                "merged_id": "4_4",
+                "merged_content": "Median house prices in different regions.",
+                "order_id": 4,
+                "narrative": "Across various regions, median house prices show diverse trends, reflecting the unique dynamics of each area."
+            },
+            {
+                "merged_id": "4_5",
+                "merged_content": "Property value growth in Ashfield.",
+                "order_id": 5,
+                "narrative": "Ashfield stands out with notable property value growth, highlighting its appeal in the broader Sydney market."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "Various house price trends and values in Australia for 2025.",
+                "order_id": 6,
+                "narrative": "Looking at the national level, Australia's house price trends for 2025 reveal broader economic influences on the housing market."
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "number_of_facts": 9,
+        "facts": [
+            {
+                "merged_id": "9_0",
+                "merged_content": "House price growth in various Australian cities.",
+                "order_id": 1,
+                "narrative": "House prices have been on the rise across various Australian cities, reflecting a broader trend of increasing property values."
+            },
+            {
+                "merged_id": "9_5",
+                "merged_content": "Sydney's typical house price increase.",
+                "order_id": 2,
+                "narrative": "Sydney, in particular, has seen a notable increase in typical house prices, underscoring its position as a key player in the national housing market."
+            },
+            {
+                "merged_id": "9_8",
+                "merged_content": "Quarterly movement in Sydney's median unit price.",
+                "order_id": 3,
+                "narrative": "The quarterly movement in Sydney's median unit price further highlights the dynamic nature of the city's real estate market."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "Current and forecasted house prices in Sydney.",
+                "order_id": 4,
+                "narrative": "Current and forecasted data suggest that Sydney's house prices will continue to evolve, with significant implications for buyers and investors."
+            },
+            {
+                "merged_id": "9_7",
+                "merged_content": "Sydney's median unit price forecast.",
+                "order_id": 5,
+                "narrative": "Forecasts for Sydney's median unit price indicate potential shifts, which could impact affordability and investment strategies."
+            },
+            {
+                "merged_id": "9_1",
+                "merged_content": "Forecasted house price changes in 2025.",
+                "order_id": 6,
+                "narrative": "Looking ahead to 2025, forecasts suggest changes in house prices, with some areas experiencing growth while others may see declines."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "Forecasted city price fall in 2025.",
+                "order_id": 7,
+                "narrative": "Certain cities are expected to face a fall in house prices by 2025, reflecting varying economic and market conditions."
+            },
+            {
+                "merged_id": "9_3",
+                "merged_content": "Forecasted house price rise in Australia by 2026.",
+                "order_id": 8,
+                "narrative": "Despite potential short-term declines, house prices in Australia are forecasted to rise again by 2026, indicating a resilient market."
+            },
+            {
+                "merged_id": "9_6",
+                "merged_content": "Average full-time earnings in Australia.",
+                "order_id": 9,
+                "narrative": "Amidst these housing trends, average full-time earnings in Australia play a crucial role in determining affordability and purchasing power."
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "number_of_facts": 3,
+        "facts": [
+            {
+                "merged_id": "8_0",
+                "merged_content": "Comparison of median house prices in various locations.",
+                "order_id": 1,
+                "narrative": "The story begins with a comparison of median house prices across different locations, setting the stage for understanding the real estate landscape."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "Analysis of property value changes and forecasts.",
+                "order_id": 2,
+                "narrative": "Following the price comparison, an analysis of property value changes and forecasts provides insights into market trends and future expectations."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "Rental yield in Strathfield and growth forecasts.",
+                "order_id": 3,
+                "narrative": "The narrative concludes with a focus on Strathfield, highlighting its rental yield and growth forecasts, offering a detailed look at this specific market."
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "number_of_facts": 14,
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "Sydney house and unit price growth in the past year.",
+                "order_id": 1,
+                "narrative": "Over the past year, Sydney has experienced notable growth in both house and unit prices, reflecting a robust real estate market."
+            },
+            {
+                "merged_id": "5_6",
+                "merged_content": "Sydney price gain in February.",
+                "order_id": 2,
+                "narrative": "In February, Sydney saw a significant price gain, further boosting the city's real estate market."
+            },
+            {
+                "merged_id": "5_9",
+                "merged_content": "Current median house value in Sydney.",
+                "order_id": 3,
+                "narrative": "Currently, the median house value in Sydney stands at a substantial figure, indicative of the city's high property demand."
+            },
+            {
+                "merged_id": "5_10",
+                "merged_content": "Current median unit price in Sydney.",
+                "order_id": 4,
+                "narrative": "Similarly, the median unit price in Sydney is also high, underscoring the competitive nature of the housing market."
+            },
+            {
+                "merged_id": "5_11",
+                "merged_content": "Concord property value growth over the past decade.",
+                "order_id": 5,
+                "narrative": "In Concord, a suburb of Sydney, property values have shown impressive growth over the past decade, mirroring the broader trends in the city."
+            },
+            {
+                "merged_id": "5_8",
+                "merged_content": "Sydney home price fall forecast for next year.",
+                "order_id": 6,
+                "narrative": "Despite recent gains, forecasts suggest a potential fall in Sydney home prices next year, hinting at a market correction."
+            },
+            {
+                "merged_id": "5_13",
+                "merged_content": "Forecast growth over the next six months.",
+                "order_id": 7,
+                "narrative": "However, in the short term, growth is still expected over the next six months, maintaining a positive outlook."
+            },
+            {
+                "merged_id": "5_5",
+                "merged_content": "Sydney house price increase forecast.",
+                "order_id": 8,
+                "narrative": "Long-term forecasts predict an increase in Sydney house prices, driven by ongoing demand and limited supply."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "Sydney house and unit price forecast for 2025-26.",
+                "order_id": 9,
+                "narrative": "Looking ahead to 2025-26, both house and unit prices in Sydney are expected to rise, continuing the upward trend."
+            },
+            {
+                "merged_id": "5_4",
+                "merged_content": "Sydney unit price forecast for 2025-26.",
+                "order_id": 10,
+                "narrative": "Specifically, unit prices are projected to see significant growth during 2025-26, reflecting sustained interest in urban living."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "Sydney house price forecast for June 2026.",
+                "order_id": 11,
+                "narrative": "By June 2026, house prices in Sydney are forecasted to reach new heights, driven by economic factors and population growth."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "Sydney and Perth unit price forecast for 2025.",
+                "order_id": 12,
+                "narrative": "In 2025, unit prices in both Sydney and Perth are expected to rise, highlighting a nationwide trend in urban property markets."
+            },
+            {
+                "merged_id": "5_7",
+                "merged_content": "Sydney unit price threshold forecast.",
+                "order_id": 13,
+                "narrative": "Sydney's unit prices are anticipated to reach a new threshold, setting a benchmark for future market evaluations."
+            },
+            {
+                "merged_id": "5_12",
+                "merged_content": "Current median house price.",
+                "order_id": 14,
+                "narrative": "The current median house price remains a key indicator of the market's health and future potential."
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "Unit prices and property values growth in Brisbane and Strathfield over the past year.",
+                "order_id": 1,
+                "narrative": "Over the past year, both Brisbane and Strathfield have experienced notable growth in unit prices and property values, indicating a robust real estate market in these areas."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "Property values growth in Croydon and Ashfield over the past decade.",
+                "order_id": 2,
+                "narrative": "In a longer-term view, Croydon and Ashfield have seen significant property value growth over the past decade, reflecting sustained demand and development."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Median Unit Prices in Dulwich Hill, Marrickville, Strathfield, and Croydon.",
+                "order_id": 3,
+                "narrative": "The median unit prices in Dulwich Hill, Marrickville, Strathfield, and Croydon provide a snapshot of the current market, highlighting these areas as key players in the real estate landscape."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "Median House Prices in Rozelle, Dulwich Hill, Marrickville, and Ashfield.",
+                "order_id": 4,
+                "narrative": "Rozelle, Dulwich Hill, Marrickville, and Ashfield showcase their market strength through their median house prices, underscoring their appeal to homebuyers."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "Median House Prices in Croydon, Strathfield, Five Dock, and Concord.",
+                "order_id": 5,
+                "narrative": "The median house prices in Croydon, Strathfield, Five Dock, and Concord further illustrate the competitive nature of these suburbs in the housing market."
+            },
+            {
+                "merged_id": "3_5",
+                "merged_content": "Median Unit Prices in Five Dock.",
+                "order_id": 6,
+                "narrative": "Five Dock's median unit prices highlight its position as a desirable location for unit buyers, contributing to its overall market dynamics."
+            },
+            {
+                "merged_id": "3_6",
+                "merged_content": "Sydney's 2025 house price and capital gain forecast.",
+                "order_id": 7,
+                "narrative": "Looking ahead, Sydney's 2025 house price and capital gain forecast suggests continued growth, promising opportunities for investors and homeowners alike."
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "2_2",
+                "merged_content": "Median house prices and forecast growth.",
+                "order_id": 1,
+                "narrative": "The real estate market is closely watching median house prices and their forecasted growth."
+            },
+            {
+                "merged_id": "2_4",
+                "merged_content": "Median price growth over past 12 months: 10%, 4%, and 6%.",
+                "order_id": 2,
+                "narrative": "Over the past year, median house prices have seen significant growth, with increases of 10%, 4%, and 6%."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "Property values in Rozelle have risen by 4.10% over the past year.",
+                "order_id": 3,
+                "narrative": "In Rozelle, property values have specifically risen by 4.10% over the past year, reflecting a strong local market."
+            },
+            {
+                "merged_id": "2_5",
+                "merged_content": "The median house price in Greater Sydney rose 5.2% in 2024.",
+                "order_id": 4,
+                "narrative": "In 2024, Greater Sydney experienced a 5.2% rise in median house prices, indicating a robust market."
+            },
+            {
+                "merged_id": "2_3",
+                "merged_content": "Forecast growth over next six months: Over 5% and 3-4%.",
+                "order_id": 5,
+                "narrative": "Looking ahead, the forecast for the next six months predicts growth of over 5% and between 3-4%."
+            },
+            {
+                "merged_id": "2_0",
+                "merged_content": "Sydney and Brisbane are expected to rise by 3.3% and 3.1% respectively in 2025.",
+                "order_id": 6,
+                "narrative": "By 2025, Sydney and Brisbane are expected to see property value increases of 3.3% and 3.1%, respectively."
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "number_of_facts": 4,
+        "facts": [
+            {
+                "merged_id": "7_0",
+                "merged_content": "Median dwelling price in Sydney is $1,210,222 as of June 2025.",
+                "order_id": 1,
+                "narrative": "As of June 2025, the median dwelling price in Sydney stands at a substantial $1,210,222, reflecting the city's high property values."
+            },
+            {
+                "merged_id": "7_2",
+                "merged_content": "Median values shot up +25.3% in 2021.",
+                "order_id": 2,
+                "narrative": "This impressive figure follows a significant surge in 2021, when median values skyrocketed by 25.3%, highlighting a period of rapid growth."
+            },
+            {
+                "merged_id": "7_3",
+                "merged_content": "Annual change in median unit price is -0.2% in 2025.",
+                "order_id": 3,
+                "narrative": "However, the market has since cooled, with the annual change in median unit price showing a slight decline of 0.2% in 2025."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "The median unit price in Sydney is forecast to increase by $53,000 in 2025-26.",
+                "order_id": 4,
+                "narrative": "Looking ahead, forecasts suggest a rebound, with the median unit price expected to rise by $53,000 in 2025-26, indicating renewed growth potential."
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "St Marys and other regions experienced price growth in the past 12 months.",
+                "order_id": 1,
+                "narrative": "Over the past year, St Marys and several other regions have witnessed a notable increase in property prices."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "Sydney's house price boost in May.",
+                "order_id": 2,
+                "narrative": "In May, Sydney experienced a significant boost in house prices, contributing to the overall upward trend."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "Property values in the suburb have grown by 40.20% over the past five years.",
+                "order_id": 3,
+                "narrative": "Over the last five years, property values in the suburb have surged by an impressive 40.20%."
+            },
+            {
+                "merged_id": "1_5",
+                "merged_content": "Median house price in Sydney.",
+                "order_id": 4,
+                "narrative": "The median house price in Sydney reflects the city's dynamic real estate market."
+            },
+            {
+                "merged_id": "1_6",
+                "merged_content": "Sydney's median unit price forecast to increase by $53,000 in 12 months.",
+                "order_id": 5,
+                "narrative": "Looking ahead, Sydney's median unit price is expected to rise by $53,000 over the next year."
+            },
+            {
+                "merged_id": "1_4",
+                "merged_content": "Forecast growth over next six months: Over 5 per cent",
+                "order_id": 6,
+                "narrative": "In the short term, property prices are forecasted to grow by over 5% in the next six months."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "House and unit price changes in Sydney for 2025.",
+                "order_id": 7,
+                "narrative": "By 2025, changes in house and unit prices in Sydney will continue to shape the real estate landscape."
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "number_of_facts": 7,
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "Sydney's house and unit price trends for 2025-26 show a 7% increase in house prices, a 0.5% rise in unit prices in May 2025, a 1.6% annual house price change, and a 3% growth forecast for 2025.",
+                "order_id": 1,
+                "narrative": "Sydney's real estate market is on an upward trajectory, with house prices expected to rise by 7% and unit prices by 0.5% in May 2025. The annual house price change is projected at 1.6%, with a 3% growth forecast for 2025."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Five Dock property values soared by 125% over the past decade and grew by 47.4% in the last five years.",
+                "order_id": 2,
+                "narrative": "Five Dock has experienced a remarkable property boom, with values skyrocketing by 125% over the past decade and a 47.4% increase in the last five years."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "Concord and Annandale property values grew by 6.42% and 9.41% respectively in the past year.",
+                "order_id": 3,
+                "narrative": "In the past year, Concord and Annandale have seen property values rise by 6.42% and 9.41%, respectively, indicating strong local market performance."
+            },
+            {
+                "merged_id": "6_3",
+                "merged_content": "Marrickville and Rozelle property values increased by 125% and 76.92% over the past decade.",
+                "order_id": 4,
+                "narrative": "Marrickville and Rozelle have also witnessed significant growth, with property values increasing by 125% and 76.92% over the past decade."
+            },
+            {
+                "merged_id": "6_4",
+                "merged_content": "Marrickville's unit market increased by 7.25% in the past year.",
+                "order_id": 5,
+                "narrative": "Marrickville's unit market has shown robust growth, with a 7.25% increase in the past year alone."
+            },
+            {
+                "merged_id": "6_5",
+                "merged_content": "Median property prices: Ashfield unit $820,000, Annandale house $2,200,000, unit $1,050,000, Rozelle unit $1,400,000.",
+                "order_id": 6,
+                "narrative": "Current median property prices highlight the market's diversity: Ashfield units at $820,000, Annandale houses at $2,200,000, units at $1,050,000, and Rozelle units at $1,400,000."
+            },
+            {
+                "merged_id": "6_6",
+                "merged_content": "Abbotsford median prices: house $3,200,000, unit $1,350,000.",
+                "order_id": 7,
+                "narrative": "In Abbotsford, median prices reflect a premium market, with houses at $3,200,000 and units at $1,350,000."
+            }
+        ]
+    }
+]

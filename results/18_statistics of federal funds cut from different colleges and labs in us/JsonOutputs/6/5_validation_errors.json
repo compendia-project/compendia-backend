@@ -1,0 +1,22 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "In addition, the NIH said it would be cutting billions in overhead payments by capping so-called indirect costs for researchers at 15%, which has been described as \u201ca sure-fire way to cripple lifesaving research and innovation\u201d1. Overheads typically cover essential research costs, including equipment, administration and researcher salaries. At the same time, negative media coverage of campus controversies has further affected institutions. Additionally, accusations have emerged that the Trump administration\u2019s funding cuts are partly motivated by perceptions that conservative values are underrepresented in academia.2",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "NIH capping indirect costs for researchers at 15%.",
+                    "vis_data": [
+                        {
+                            "label": "Indirect Cost Cap",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

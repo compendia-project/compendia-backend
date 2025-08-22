@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Constructed in three stages, the cathedral was completed in 1250. This period witnessed Paris coming into its own force as a center of political power and commerce. No expense was spared in creating a church that would reflect the capital's newly won prestige. These were the 'development' years of early Gothic architecture, it was essential that Paris should contain an impressive cathedral featuring innovations to surpass such smaller towns as Sens and Noyon. An advantage which Paris possessed over other sites, was that the construction efforts were supported and encouraged by the the king, Louis VII.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cathedral was completed in 1250.",
+                    "vis_data": [
+                        {
+                            "label": "Cathedral Completion Year",
+                            "value": "1250",
+                            "unit": "year"
+                        }
+                    ],
+                    "fact_id": "16_0_0"
+                }
+            ],
+            "relatedness_score": 0.4860834762293742,
+            "article_meta_data": {
+                "title": "Notre Dame de Paris Historic Overview",
+                "date": "Unknown",
+                "url": "https://www.elore.com/el04ho01.html",
+                "id": 16
+            },
+            "para_id": "16_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "16_0",
+            "paragraph": "Constructed in three stages, the cathedral was completed in 1250. This period witnessed Paris coming into its own force as a center of political power and commerce. No expense was spared in creating a church that would reflect the capital's newly won prestige. These were the 'development' years of early Gothic architecture, it was essential that Paris should contain an impressive cathedral featuring innovations to surpass such smaller towns as Sens and Noyon. An advantage which Paris possessed over other sites, was that the construction efforts were supported and encouraged by the the king, Louis VII."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "16_0_0",
+            "fact_content": "The cathedral was completed in 1250."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The cathedral was completed in 1250.",
+            "vis_data": [
+                {
+                    "label": "Cathedral Completion Year",
+                    "value": "1250",
+                    "unit": "year"
+                }
+            ],
+            "fact_id": "16_0_0"
+        }
+    ]
+}

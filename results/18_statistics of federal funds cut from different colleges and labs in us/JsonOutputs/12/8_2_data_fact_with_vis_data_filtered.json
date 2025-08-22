@@ -1,0 +1,148 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Over the past several decades, universities have already substantially increased the amount of money they spend on their own research and development\u2014from 10 percent of the total in 1970 to 25 percent in 2023, according to federal data. Meanwhile, federal support for academic research has been on the decline, falling from 71 percent to 55 percent during that same timeframe. And support from industry, charities and other sources have always been marginal, collectively making up about 15 percent of contributions to research funding at colleges and universities in 2023.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Universities increased their own research and development spending from 10% in 1970 to 25% in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "University R&D Spending 1970",
+                            "value": "10",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "University R&D Spending 2023",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Federal support for academic research declined from 71% to 55% from 1970 to 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Support 1970",
+                            "value": "71",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Federal Support 2023",
+                            "value": "55",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Support from industry, charities, and other sources made up about 15% of contributions to research funding at colleges and universities in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Industry & Charities Support 2023",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5021612416062107
+        },
+        {
+            "paragraph": "In February, the Yale School of Medicine beganoffering temporary fundingto researchers with terminated grants\u2014many related to topics the Trump administration has deemed unworthy of scientific inquiry, such as transgender health\u2014to give them time to reorient their research. Yale\u2019s Graduate School of Arts and Sciences is also investing $4 million to support graduate students who have lost training and research grants. Similarly, last monthJohns Hopkins University announcedthat it is tapping earnings from its $13.2 billion endowment to give researchers $100,000 each for delayed grants, or $150,000 for terminated grants, during a 12-month period. And Northwestern University\u2014whichhasn\u2019t received any grant paymentsfrom the National Institutes of Health since March\u2014is offering facultyup to $50,000 to maintain projectsfor up to one year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Yale\u2019s Graduate School of Arts and Sciences is investing $4 million to support graduate students who have lost training and research grants.",
+                    "vis_data": [
+                        {
+                            "label": "Yale Graduate Support",
+                            "value": "4000000",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins University is tapping earnings from its $13.2 billion endowment.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Endowment",
+                            "value": "13200000000",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins University gives researchers $100,000 each for delayed grants.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Delayed Grant",
+                            "value": "100000",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins University gives researchers $150,000 for terminated grants during a 12-month period.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Terminated Grant",
+                            "value": "150000",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Northwestern University is offering faculty up to $50,000 to maintain projects for up to one year.",
+                    "vis_data": [
+                        {
+                            "label": "Northwestern Project Maintenance",
+                            "value": "50000",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4683773972728089
+        },
+        {
+            "paragraph": "In 2023, only 6.8 percent of research expenditures in the United States came from industry, according to data from the Association of University Technology Managers (AUTM).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "6.8% of research expenditures in the United States came from industry in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Industry Research Expenditure 2023",
+                            "value": "6.8",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4367929619658032
+        },
+        {
+            "paragraph": "Soon after faculty at the University of Arizona raised concerns about cuts to research funding,officials established a Bridge Funding Investment Programto aid faculty with an established track record of extramural funding, with a particular focus on preserving Ph.D. student support. According to Tom\u00e1s D\u00edaz de la Rubia, senior vice president for research and innovation, UA\u2014which isstill recovering from a budget crisis\u2014has allocated $1 million in bridge funding.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "University of Arizona has allocated $1 million in bridge funding.",
+                    "vis_data": [
+                        {
+                            "label": "Arizona Bridge Funding",
+                            "value": "1000000",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4304007145945745
+        }
+    ]
+}

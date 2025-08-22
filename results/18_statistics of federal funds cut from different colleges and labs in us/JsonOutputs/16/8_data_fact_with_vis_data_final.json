@@ -1,0 +1,204 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The U.S. National Institutes of Health (NIH) \u2013 the primary federal agency for biomedical research \u2013 slashed nearly 800 projects and vowed to wipe out billions of dollars from biomedical research funding. The NIH is the world\u2019s largest public funder of biomedical research and has a yearly budget of $47 billion, which accounts for more than 60,000 grants. But now, these grants are at stake.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "NIH slashed nearly 800 projects.",
+                    "vis_data": [
+                        {
+                            "label": "Projects Slashed",
+                            "value": "800",
+                            "unit": "projects"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "NIH has a yearly budget of $47 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Yearly Budget",
+                            "value": "47",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "NIH accounts for more than 60,000 grants.",
+                    "vis_data": [
+                        {
+                            "label": "Grants",
+                            "value": "60000+",
+                            "unit": "grants"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The NIH has struck universities with a cap on indirect costs at 15% of a grant\u2019s value. Indirect costs pertain to expenses that support a project but are not directly tied to a specific project. These costs cover utilities, administrative salaries, and facilities maintenance.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "NIH cap on indirect costs at 15% of a grant\u2019s value.",
+                    "vis_data": [
+                        {
+                            "label": "Indirect Cost Cap",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "This is a stark and sudden change to the average indirect cost rate of nearly 30% since 2009, with some universities even benefitting from a 60% indirect cost payment.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Average indirect cost rate was nearly 30% since 2009.",
+                    "vis_data": [
+                        {
+                            "label": "Average Indirect Cost Rate",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Some universities benefitted from a 60% indirect cost payment.",
+                    "vis_data": [
+                        {
+                            "label": "Max Indirect Cost Payment",
+                            "value": "60",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Meanwhile, recent layoffs owing to these budget cuts are \u201cgumming up the works, slowing the review of proposals, and choking off the earliest lifeline for academic innovators,\u201d expressed Hoffman. Several top officials overseeing food and drug safety in the country were laid off in April in efforts by the Trump administration to slim down the workforce by 20,000 health workers. Around 2,400 staff members were let go from the U.S. Food and Drug Administration (FDA), 2,400 from the CDC, and 1,200 from the NIH earlier this month.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "20,000 health workers were slimmed down by the Trump administration.",
+                    "vis_data": [
+                        {
+                            "label": "Health Workers Reduced",
+                            "value": "20000",
+                            "unit": "workers"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Around 2,400 staff members were let go from the FDA.",
+                    "vis_data": [
+                        {
+                            "label": "FDA Staff Let Go",
+                            "value": "2400",
+                            "unit": "staff"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "2,400 staff members were let go from the CDC.",
+                    "vis_data": [
+                        {
+                            "label": "CDC Staff Let Go",
+                            "value": "2400",
+                            "unit": "staff"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1,200 staff members were let go from the NIH.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Staff Let Go",
+                            "value": "1200",
+                            "unit": "staff"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The federal government is investigating more than 50 universities as part of its anti-DEI (diversity, equity, inclusion) crackdown. New York-based Columbia University was one of the first few universities to be slammed with funding cuts. In March, the White House canceled $400 million worth of funding, demanding that the Ivy League school comply with policy changes. Columbia is currently in talks with the federal government to reverse the budget cuts.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The White House canceled $400 million worth of funding for Columbia University.",
+                    "vis_data": [
+                        {
+                            "label": "Columbia Funding Canceled",
+                            "value": "400",
+                            "unit": "million USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Similarly, in a major blow to tech transfer, several universities have had their research funding cut. Illinois-based Northwestern University\u2019s spokesperson Jon Yates said that scientific research was \u201cat jeopardy\u201d after the government froze about $790 million in funding. As for the University of Pennsylvania, the federal government chopped off $175 million from its research budget, citing the school\u2019s policies on transgender athletes.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The government froze about $790 million in funding for Northwestern University.",
+                    "vis_data": [
+                        {
+                            "label": "Northwestern Funding Frozen",
+                            "value": "790",
+                            "unit": "million USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The federal government chopped off $175 million from the University of Pennsylvania's research budget.",
+                    "vis_data": [
+                        {
+                            "label": "Pennsylvania Funding Cut",
+                            "value": "175",
+                            "unit": "million USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "However, Harvard University has predicted what\u2019s about to happen, and things look bleak. The Massachusetts Ivy League school was hit with a steep research funding freeze \u2013 $2.2 billion to be exact \u2013 three weeks ago. Several researchers at the school received stop-work orders, one of whom was Sarah Fortune, Professor at the Harvard School of Public Health. Fortune had been researching tuberculosis for over a decade and was involved in a $60 million research project. Part of the research was a vaccine study on primates, whose lives are now at risk as the team scrambles for funds to support them and prevent them from being euthanized.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Harvard University was hit with a $2.2 billion research funding freeze.",
+                    "vis_data": [
+                        {
+                            "label": "Harvard Funding Freeze",
+                            "value": "2.2",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sarah Fortune was involved in a $60 million research project.",
+                    "vis_data": [
+                        {
+                            "label": "Fortune's Research Project",
+                            "value": "60",
+                            "unit": "million USD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "The World Population Prospects publication provides United Nations population estimates for all countries in the world for each year between 1950 and 2020 and projections under different scenarios (low, medium and high) for each year between 2020 and 2100. The figures presented here correspond to the projections for the current year in the medium scenario. World Population Prospects. The 2024 Revision.World Population Prospects publishes United Nations population estimates for all world countries and every year from 1950 to 2024, as well as projections for different scenarios (low, middle and high variants) from 2024 to 2100. The figures presented here correspond to middle variant projections for the given year.Note for the reader: The United States, the world\u2019s third most populous country in 2025 (347 million inhabitants), will be sixth in 2100 (421 million).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The United States will have 347 million inhabitants in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "US Population 2025",
+                            "value": "347",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "6_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The United States will have 421 million inhabitants in 2100.",
+                    "vis_data": [
+                        {
+                            "label": "US Population 2100",
+                            "value": "421",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "6_0_1"
+                }
+            ],
+            "relatedness_score": 0.5011737601770285,
+            "article_meta_data": {
+                "title": "World Population Prospects",
+                "date": "Unknown",
+                "url": "https://www.ined.fr/en/everything_about_population/data/world-projections/projections-by-countries/",
+                "id": 6
+            },
+            "para_id": "6_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "6_0",
+            "paragraph": "The World Population Prospects publication provides United Nations population estimates for all countries in the world for each year between 1950 and 2020 and projections under different scenarios (low, medium and high) for each year between 2020 and 2100. The figures presented here correspond to the projections for the current year in the medium scenario. World Population Prospects. The 2024 Revision.World Population Prospects publishes United Nations population estimates for all world countries and every year from 1950 to 2024, as well as projections for different scenarios (low, middle and high variants) from 2024 to 2100. The figures presented here correspond to middle variant projections for the given year.Note for the reader: The United States, the world\u2019s third most populous country in 2025 (347 million inhabitants), will be sixth in 2100 (421 million)."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "The United States will have 347 million inhabitants in 2025."
+        },
+        {
+            "fact_id": "6_0_1",
+            "fact_content": "The United States will have 421 million inhabitants in 2100."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The United States will have 347 million inhabitants in 2025.",
+            "vis_data": [
+                {
+                    "label": "US Population 2025",
+                    "value": "347",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "6_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The United States will have 421 million inhabitants in 2100.",
+            "vis_data": [
+                {
+                    "label": "US Population 2100",
+                    "value": "421",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "6_0_1"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Executive orders, looming budget cuts and other changes to major federal agencies by the Trump administration pose a serious threat to over $6 million in scientific research funding at Middlebury this spring. Hundreds of thousands in grants have already been lost, prompting faculty to worry that their ongoing projects will be impacted next.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Over $6 million in scientific research funding at Middlebury is threatened.",
+                    "vis_data": [
+                        {
+                            "label": "Threatened Research Funding",
+                            "value": "over 6000000",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5527644835609146
+        },
+        {
+            "paragraph": "On Feb. 10, Vermont and 21 other states sued the federal government over these cuts to the NIH\u2019s indirect cost rates, and they received a temporary reprieve later that day. The state currently has 128 NIH-funded projects, totaling $84,668,147 for colleges, universities and several medical companies. A full hearing on the suit is set for Feb. 21, according to The New York Times.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Vermont has 128 NIH-funded projects totaling $84,668,147.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Projects Total Funding",
+                            "value": "84668147",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Number of NIH Projects",
+                            "value": "128",
+                            "unit": ""
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.537267302364318
+        },
+        {
+            "paragraph": "Two weeks ago the college lost a $530,000 Inclusive Excellence Grant from the Howard Hughes Medical Institute (HHMI) after Trump\u2019s executive order targeted Diversity, Equity, and Inclusion (DEI) programs. The grant was in its third year of funding as part of a now-defunct $60 million initiative from the nation\u2019s largest private funder of biomedical research, which cut off this funding to over 100 colleges and universities on Feb. 5.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The college lost a $530,000 Inclusive Excellence Grant from HHMI.",
+                    "vis_data": [
+                        {
+                            "label": "Lost HHMI Grant",
+                            "value": "530000",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The $530,000 grant was part of a $60 million initiative.",
+                    "vis_data": [
+                        {
+                            "label": "Total Initiative Funding",
+                            "value": "60000000",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Funding was cut off to over 100 colleges and universities.",
+                    "vis_data": [
+                        {
+                            "label": "Affected Institutions",
+                            "value": "100",
+                            "unit": "count"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4561607396737988
+        },
+        {
+            "paragraph": "The college also has three ongoing grants from the National Institutes of Health (NIH), which provides $1,133,900 in total to those projects, according to the agency\u2019s website.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The college has three ongoing grants from NIH totaling $1,133,900.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Grants Total",
+                            "value": "1133900",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.43367916946590523
+        },
+        {
+            "paragraph": "As of Feb. 10, Middlebury has at least 17 active grants based in Vermont provided by the National Science Foundation (NSF) that total over $4.9 million in scientific research funding, according to the organization\u2019s online database.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Middlebury has at least 17 active grants from NSF totaling over $4.9 million.",
+                    "vis_data": [
+                        {
+                            "label": "NSF Grants Total",
+                            "value": "4900000",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Number of NSF Grants",
+                            "value": "17",
+                            "unit": ""
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.41367364782867533
+        }
+    ]
+}

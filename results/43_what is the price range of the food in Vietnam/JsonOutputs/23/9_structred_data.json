@@ -1,0 +1,363 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "['To give you an idea of just how cheap, we\u2019ve put together a list of some of our favourite dishes and how much you can expect to pay for them.', 'The following are guide prices based on eating at a standard restaurant \u2013 the kind of no-frills, no-nonsense eateries the locals use. As with anywhere, you can pay a lot more than we\u2019ve suggested \u2013 and you can probably find it cheaper too, from markets and street food carts.', 'Cost: around 50-60,000 VND (USD $2.05-2.50 / \u00a31.60-1.95)', 'Cost: around 20-25,000 VND (USD $0.80-1.00 / \u00a30.65-80)', 'Cost: around 20,000 VND (USD $0.80 / \u00a30.65) (large snack size)', 'Cost: around 20,000 VND (USD $0.80 / \u00a30.65) per portion fresh or 30,000 (USD $1.25 / \u00a31) fried', 'Cost: around 40-50,000 VND (USD $1.65-2.05 / \u00a31.30-1.60)', 'Cost: around 20,000 VND for a portion (USD $0.80 / \u00a30.65)', 'Cost: around 225,000 VND per person ($9.25 / \u00a37.30)', 'Cost: around 40-50,000 VND (USD $1.65-2.05 / \u00a31.30-1.60)', 'Cost:', ' * 8-10,000 VND (USD $0.30-0.40 / \u00a30.25-35) for bia hoi', ' * 10-15,000 (USD $0.40-0.60 / \u00a30.35-0.50) bottled', ' * At the most expensive places you might pay up to around 100,000 VND ($4.10 / \u00a33.25) for a beer \u2013 still cheaper than a Londoner\u2019s wildest dreams!']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: around 50-60,000 VND (USD $2.05-2.50 / \u00a31.60-1.95)",
+                    "vis_data": [
+                        {
+                            "label": "Pho",
+                            "value": "50000-60000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: around 20-25,000 VND (USD $0.80-1.00 / \u00a30.65-80)",
+                    "vis_data": [
+                        {
+                            "label": "Banh mi",
+                            "value": "20000-25000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: around 20,000 VND (USD $0.80 / \u00a30.65) (large snack size)",
+                    "vis_data": [
+                        {
+                            "label": "Banh xeo (snack size)",
+                            "value": "20000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: around 20,000 VND (USD $0.80 / \u00a30.65) per portion fresh",
+                    "vis_data": [
+                        {
+                            "label": "Spring rolls (fresh)",
+                            "value": "20000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: 30,000 VND (USD $1.25 / \u00a31) fried",
+                    "vis_data": [
+                        {
+                            "label": "Spring rolls (fried)",
+                            "value": "30000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: around 40-50,000 VND (USD $1.65-2.05 / \u00a31.30-1.60)",
+                    "vis_data": [
+                        {
+                            "label": "Bun bo Hue",
+                            "value": "40000-50000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: around 20,000 VND for a portion (USD $0.80 / \u00a30.65)",
+                    "vis_data": [
+                        {
+                            "label": "Banh tom",
+                            "value": "20000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: around 225,000 VND per person ($9.25 / \u00a37.30)",
+                    "vis_data": [
+                        {
+                            "label": "Hai san nuong",
+                            "value": "225000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: 8-10,000 VND (USD $0.30-0.40 / \u00a30.25-35) for bia hoi",
+                    "vis_data": [
+                        {
+                            "label": "Bia hoi",
+                            "value": "8000-10000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: 10-15,000 VND (USD $0.40-0.60 / \u00a30.35-0.50) bottled",
+                    "vis_data": [
+                        {
+                            "label": "Beer (bottled)",
+                            "value": "10000-15000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: up to around 100,000 VND ($4.10 / \u00a33.25) for a beer",
+                    "vis_data": [
+                        {
+                            "label": "Beer (expensive)",
+                            "value": "100000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_10"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost: around 40-50,000 VND (USD $1.65-2.05 / \u00a31.30-1.60)",
+                    "vis_data": [
+                        {
+                            "label": "Bun cha",
+                            "value": "40000-50000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "23_0_11"
+                }
+            ],
+            "relatedness_score": 0.6792885059271072,
+            "article_meta_data": {
+                "title": "Dining on a dime: The cost of food in Vietnam",
+                "date": "2023-08-29",
+                "url": "https://www.insideasiatours.com/blog/cost-of-food-in-vietnam",
+                "id": 23
+            },
+            "para_id": "23_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "23_0",
+            "paragraph": "['To give you an idea of just how cheap, we\u2019ve put together a list of some of our favourite dishes and how much you can expect to pay for them.', 'The following are guide prices based on eating at a standard restaurant \u2013 the kind of no-frills, no-nonsense eateries the locals use. As with anywhere, you can pay a lot more than we\u2019ve suggested \u2013 and you can probably find it cheaper too, from markets and street food carts.', 'Cost: around 50-60,000 VND (USD $2.05-2.50 / \u00a31.60-1.95)', 'Cost: around 20-25,000 VND (USD $0.80-1.00 / \u00a30.65-80)', 'Cost: around 20,000 VND (USD $0.80 / \u00a30.65) (large snack size)', 'Cost: around 20,000 VND (USD $0.80 / \u00a30.65) per portion fresh or 30,000 (USD $1.25 / \u00a31) fried', 'Cost: around 40-50,000 VND (USD $1.65-2.05 / \u00a31.30-1.60)', 'Cost: around 20,000 VND for a portion (USD $0.80 / \u00a30.65)', 'Cost: around 225,000 VND per person ($9.25 / \u00a37.30)', 'Cost: around 40-50,000 VND (USD $1.65-2.05 / \u00a31.30-1.60)', 'Cost:', ' * 8-10,000 VND (USD $0.30-0.40 / \u00a30.25-35) for bia hoi', ' * 10-15,000 (USD $0.40-0.60 / \u00a30.35-0.50) bottled', ' * At the most expensive places you might pay up to around 100,000 VND ($4.10 / \u00a33.25) for a beer \u2013 still cheaper than a Londoner\u2019s wildest dreams!']"
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "23_0_0",
+            "fact_content": "Cost: around 50-60,000 VND (USD $2.05-2.50 / \u00a31.60-1.95)"
+        },
+        {
+            "fact_id": "23_0_1",
+            "fact_content": "Cost: around 20-25,000 VND (USD $0.80-1.00 / \u00a30.65-80)"
+        },
+        {
+            "fact_id": "23_0_2",
+            "fact_content": "Cost: around 20,000 VND (USD $0.80 / \u00a30.65) (large snack size)"
+        },
+        {
+            "fact_id": "23_0_3",
+            "fact_content": "Cost: around 20,000 VND (USD $0.80 / \u00a30.65) per portion fresh"
+        },
+        {
+            "fact_id": "23_0_4",
+            "fact_content": "Cost: 30,000 VND (USD $1.25 / \u00a31) fried"
+        },
+        {
+            "fact_id": "23_0_5",
+            "fact_content": "Cost: around 40-50,000 VND (USD $1.65-2.05 / \u00a31.30-1.60)"
+        },
+        {
+            "fact_id": "23_0_6",
+            "fact_content": "Cost: around 20,000 VND for a portion (USD $0.80 / \u00a30.65)"
+        },
+        {
+            "fact_id": "23_0_7",
+            "fact_content": "Cost: around 225,000 VND per person ($9.25 / \u00a37.30)"
+        },
+        {
+            "fact_id": "23_0_8",
+            "fact_content": "Cost: 8-10,000 VND (USD $0.30-0.40 / \u00a30.25-35) for bia hoi"
+        },
+        {
+            "fact_id": "23_0_9",
+            "fact_content": "Cost: 10-15,000 VND (USD $0.40-0.60 / \u00a30.35-0.50) bottled"
+        },
+        {
+            "fact_id": "23_0_10",
+            "fact_content": "Cost: up to around 100,000 VND ($4.10 / \u00a33.25) for a beer"
+        },
+        {
+            "fact_id": "23_0_11",
+            "fact_content": "Cost: around 40-50,000 VND (USD $1.65-2.05 / \u00a31.30-1.60)"
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: around 50-60,000 VND (USD $2.05-2.50 / \u00a31.60-1.95)",
+            "vis_data": [
+                {
+                    "label": "Pho",
+                    "value": "50000-60000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: around 20-25,000 VND (USD $0.80-1.00 / \u00a30.65-80)",
+            "vis_data": [
+                {
+                    "label": "Banh mi",
+                    "value": "20000-25000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: around 20,000 VND (USD $0.80 / \u00a30.65) (large snack size)",
+            "vis_data": [
+                {
+                    "label": "Banh xeo (snack size)",
+                    "value": "20000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: around 20,000 VND (USD $0.80 / \u00a30.65) per portion fresh",
+            "vis_data": [
+                {
+                    "label": "Spring rolls (fresh)",
+                    "value": "20000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: 30,000 VND (USD $1.25 / \u00a31) fried",
+            "vis_data": [
+                {
+                    "label": "Spring rolls (fried)",
+                    "value": "30000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: around 40-50,000 VND (USD $1.65-2.05 / \u00a31.30-1.60)",
+            "vis_data": [
+                {
+                    "label": "Bun bo Hue",
+                    "value": "40000-50000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: around 20,000 VND for a portion (USD $0.80 / \u00a30.65)",
+            "vis_data": [
+                {
+                    "label": "Banh tom",
+                    "value": "20000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: around 225,000 VND per person ($9.25 / \u00a37.30)",
+            "vis_data": [
+                {
+                    "label": "Hai san nuong",
+                    "value": "225000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: 8-10,000 VND (USD $0.30-0.40 / \u00a30.25-35) for bia hoi",
+            "vis_data": [
+                {
+                    "label": "Bia hoi",
+                    "value": "8000-10000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: 10-15,000 VND (USD $0.40-0.60 / \u00a30.35-0.50) bottled",
+            "vis_data": [
+                {
+                    "label": "Beer (bottled)",
+                    "value": "10000-15000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: up to around 100,000 VND ($4.10 / \u00a33.25) for a beer",
+            "vis_data": [
+                {
+                    "label": "Beer (expensive)",
+                    "value": "100000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost: around 40-50,000 VND (USD $1.65-2.05 / \u00a31.30-1.60)",
+            "vis_data": [
+                {
+                    "label": "Bun cha",
+                    "value": "40000-50000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "23_0_11"
+        }
+    ]
+}

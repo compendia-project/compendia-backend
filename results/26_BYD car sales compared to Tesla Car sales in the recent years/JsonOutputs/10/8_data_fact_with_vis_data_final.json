@@ -1,0 +1,47 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "['Chinese automaker BYD reported annual revenue of 777 billion yuan ($107 billion) for 2024, leapfrogging U.S. rival Tesla as competition between the two electric vehicle rivals heats up.', \"In a filing published Monday, BYD posted a 29% increase in revenue from the previous year, bolstered by sales of its hybrid vehicles. This figure exceeded the $97.7 billion annual revenue reported by Elon Musk's Tesla.\"]",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD reported annual revenue of 777 billion yuan ($107 billion) for 2024.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Revenue 2024",
+                            "value": "107",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "BYD's revenue exceeded Tesla's $97.7 billion annual revenue.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Revenue",
+                            "value": "107",
+                            "unit": "billion USD"
+                        },
+                        {
+                            "label": "Tesla Revenue",
+                            "value": "97.7",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD posted a 29% increase in revenue from the previous year.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue Increase",
+                            "value": "29",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "So, How much does Pho cost in Vietnam? The cost of a bowl of Pho depends a lot on what types of cuts of beef you choose to eat. The most expensive is the \u201cmixed\u201d or \u201cThap Cam,\u201d which is going to be a little bit of everything they have at the restaurant stall. On average, you couldexpect to spend between 50,000 \u2013 75,000 VNDfor your bowl of Pho Bo. But some more popular places with a good reputation will be closer to 100,000 VND per Bowl.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "On average, you could expect to spend between 50,000 \u2013 75,000 VND for your bowl of Pho Bo."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Some more popular places with a good reputation will be closer to 100,000 VND per Bowl."
+                }
+            ]
+        },
+        {
+            "paragraph": "Pho Ga is Pho noodles with Chicken broth and pulled chicken meat and is a variation of the classic beef pho. I usually don\u2019t eat pho ga often, as I\u2019ll steer more towards glass noodles instead ofrice noodlesif I\u2019m feeling like chicken broth. The cost is similar to a bowl of pho bo. You canexpect to pay between 50,000 VND and 70,000 VNDfor a bowl of Chicken Pho.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "You can expect to pay between 50,000 VND and 70,000 VND for a bowl of Chicken Pho."
+                }
+            ]
+        },
+        {
+            "paragraph": "You can find some much more expensive Pho\u2019s, though. A great example is Pho Thin by Sol here in Saigon, which offers a bowl of Wagyu Beef Pho for around 288,000 VND, and that isn\u2019t even the most expensive bowl of Pho on the menu!",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pho Thin by Sol in Saigon offers a bowl of Wagyu Beef Pho for around 288,000 VND."
+                }
+            ]
+        },
+        {
+            "paragraph": "Vegetarian pho, like many vegetarian dishes in Vietnam, is delicious and very close in flavor to that of normal Pho. This dish is usually packed with lots of mushrooms, while tailored for vegetarians, it still maintains the blend of spices that mirror the traditional pho taste. The price for a bowl of vegetarian pho will usually cost about 45,000 \u2013 50,000 VND at a local vegetarian shop. The price will rise significantly by about double if you choose to at a more established and comfortable restaurant that specializes in Vegetarian food. Compared to chicken (pho ga) and beef (pho bo),vegetarian phois slightly less expensive but also a testament to the Vietnamese ability to create wonderful tasting Vegetarian food.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The price for a bowl of vegetarian pho will usually cost about 45,000 \u2013 50,000 VND at a local vegetarian shop."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The price of vegetarian pho will rise significantly by about double at a more established and comfortable restaurant."
+                }
+            ]
+        }
+    ]
+}

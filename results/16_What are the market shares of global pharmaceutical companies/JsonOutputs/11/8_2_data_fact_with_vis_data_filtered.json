@@ -1,0 +1,120 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "From Johnson & Johnson to Bristol Myers Squibb (BMS), Pharmaceutical Technology lists the top ten pharmaceutical companies in 2023, based on their revenues. 1. Johnson & Johnson- $85.2bn2. F. Hoffmann-La Roche Ltd- $66.4bn3. Merck & Co \u2013 $60.1bn4. Pfizer \u2013 $58.5bn5. AbbVie \u2013 $54.3bn6. Bayer \u2013 $51.9bn7. Sanofi- $46.9bn8. AstraZeneca \u2013 $45.8bn9. Novartis- $45.4bn10. Bristol Myers Squibb- $45.0bn",
+            "facts": [
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Johnson & Johnson is ranked 1st with $85.2bn.",
+                    "vis_data": [
+                        {
+                            "label": "Johnson & Johnson Revenue",
+                            "value": "85.2",
+                            "unit": "bn USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "F. Hoffmann-La Roche Ltd is ranked 2nd with $66.4bn.",
+                    "vis_data": [
+                        {
+                            "label": "Roche Revenue",
+                            "value": "66.4",
+                            "unit": "bn USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Merck & Co is ranked 3rd with $60.1bn.",
+                    "vis_data": [
+                        {
+                            "label": "Merck & Co Revenue",
+                            "value": "60.1",
+                            "unit": "bn USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Pfizer is ranked 4th with $58.5bn.",
+                    "vis_data": [
+                        {
+                            "label": "Pfizer Revenue",
+                            "value": "58.5",
+                            "unit": "bn USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "AbbVie is ranked 5th with $54.3bn.",
+                    "vis_data": [
+                        {
+                            "label": "AbbVie Revenue",
+                            "value": "54.3",
+                            "unit": "bn USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Bayer is ranked 6th with $51.9bn.",
+                    "vis_data": [
+                        {
+                            "label": "Bayer Revenue",
+                            "value": "51.9",
+                            "unit": "bn USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Sanofi is ranked 7th with $46.9bn.",
+                    "vis_data": [
+                        {
+                            "label": "Sanofi Revenue",
+                            "value": "46.9",
+                            "unit": "bn USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "AstraZeneca is ranked 8th with $45.8bn.",
+                    "vis_data": [
+                        {
+                            "label": "AstraZeneca Revenue",
+                            "value": "45.8",
+                            "unit": "bn USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Novartis is ranked 9th with $45.4bn.",
+                    "vis_data": [
+                        {
+                            "label": "Novartis Revenue",
+                            "value": "45.4",
+                            "unit": "bn USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Bristol Myers Squibb is ranked 10th with $45.0bn.",
+                    "vis_data": [
+                        {
+                            "label": "Bristol Myers Squibb Revenue",
+                            "value": "45.0",
+                            "unit": "bn USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5974597573393349
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "2 There were fewer marriages in 2024, 7.0% lower than the marriages registered in 2023. In terms of marriage stability, recent marriage cohorts from 2006 to 2013 show greater stability, compared to the 2005 cohort. The cumulative proportion of marriages that dissolved before the 10thanniversary declined from 17.0% for the 2005 marriage cohort to 14.4% for the 2013 marriage cohort.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "There were 7.0% fewer marriages in 2024 compared to 2023."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "17.0% of marriages from the 2005 cohort dissolved before the 10th anniversary."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "14.4% of marriages from the 2013 cohort dissolved before the 10th anniversary."
+                }
+            ]
+        }
+    ]
+}

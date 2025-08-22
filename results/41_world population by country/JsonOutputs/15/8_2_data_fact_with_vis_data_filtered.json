@@ -1,0 +1,488 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "According to recent data from theWorld Population Review (WPR), India ranks in first place in terms of population size, with over 1.46 billion people. China follows closely behind in second place, with just over 1.42 billion people.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "India has over 1.46 billion people.",
+                    "vis_data": [
+                        {
+                            "label": "India Population",
+                            "value": "1463865525",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China has just over 1.42 billion people.",
+                    "vis_data": [
+                        {
+                            "label": "China Population",
+                            "value": "1416096094",
+                            "unit": "people"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5491142528824644
+        },
+        {
+            "paragraph": "China, the second most populous country, with approximately 1.42 billion people in 2025. Its population has slightly decreased by 0.23%, a sign of demographic shifts. The country has a high population density of 151 people per km\u00b2 and a median age of 40.1 years. Most Chinese live in urban areas, which make up 67.5% of the population. China faces challenges related to ageing populations and lower birth rates.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "China is expected to have approximately 1.42 billion people in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "China Population 2025",
+                            "value": "1420000000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "China's population has decreased by 0.23%.",
+                    "vis_data": [
+                        {
+                            "label": "China Population Decrease",
+                            "value": "0.23",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "China has a population density of 151 people per km\u00b2.",
+                    "vis_data": [
+                        {
+                            "label": "China Population Density",
+                            "value": "151",
+                            "unit": "people/km\u00b2"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "67.5% of China's population live in urban areas.",
+                    "vis_data": [
+                        {
+                            "label": "China Urban Population",
+                            "value": "67.5",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5394020157954192
+        },
+        {
+            "paragraph": "India is the most populous country in the world, with over 1.46 billion people expected in 2025. Its population grows annually at about 0.89%. India\u2019s demographic makeup is diverse, with a median age of around 28.8 years, and more than 37% live in urban areas.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "India is expected to have over 1.46 billion people in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "India Population 2025",
+                            "value": "1460000000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "India's population grows annually at about 0.89%.",
+                    "vis_data": [
+                        {
+                            "label": "India Annual Growth Rate",
+                            "value": "0.89",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "More than 37% of India's population live in urban areas.",
+                    "vis_data": [
+                        {
+                            "label": "India Urban Population",
+                            "value": "more than 37",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5062528449339088
+        },
+        {
+            "paragraph": "Brazil\u2019s population is estimated at 213 million in 2025, with a growth rate of 0.38%. Its land area spans over 8.36 million km\u00b2, making it the largest country in South America. The median age is 34.8 years, with urbanisation high at 91.4%. Brazil\u2019s population growth has slowed considerably, leading to ageing demographics.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Brazil is expected to have an estimated 213 million people in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Brazil Population 2025",
+                            "value": "213000000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Brazil's population grows at a rate of 0.38%.",
+                    "vis_data": [
+                        {
+                            "label": "Brazil Annual Growth Rate",
+                            "value": "0.38",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "91.4% of Brazil's population live in urban areas.",
+                    "vis_data": [
+                        {
+                            "label": "Brazil Urban Population",
+                            "value": "91.4",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4315467115477152
+        },
+        {
+            "paragraph": "Indonesia's population will be roughly 286 million in 2025, growing at about 0.79% annually. Its land area of 1.81 million km\u00b2 makes it the world's largest island nation. The median age is around 30.4 years, with nearly 60% residing in urban areas. Population growth remains strong, driven by high fertility rates of 2.1 children per woman.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Indonesia is expected to have roughly 286 million people in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Indonesia Population 2025",
+                            "value": "286000000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Indonesia's population grows at about 0.79% annually.",
+                    "vis_data": [
+                        {
+                            "label": "Indonesia Annual Growth Rate",
+                            "value": "0.79",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Nearly 60% of Indonesia's population reside in urban areas.",
+                    "vis_data": [
+                        {
+                            "label": "Indonesia Urban Population",
+                            "value": "60",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.41181383575572406
+        },
+        {
+            "paragraph": "Pakistan's population is an estimated 255 million, experiencing rapid growth at about 1.57% annually. It covers roughly 770,880 km\u00b2, with a density of 331 people per km\u00b2. The median age is around 20.6 years, indicating a very young population. Urbanisation is moderate, with about 34.4% in cities. Pakistan faces challenges related to overpopulation, poverty, and infrastructure.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pakistan is expected to have an estimated 255 million people in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Pakistan Population 2025",
+                            "value": "255000000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Pakistan's population grows at about 1.57% annually.",
+                    "vis_data": [
+                        {
+                            "label": "Pakistan Annual Growth Rate",
+                            "value": "1.57",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Pakistan has a population density of 331 people per km\u00b2.",
+                    "vis_data": [
+                        {
+                            "label": "Pakistan Population Density",
+                            "value": "331",
+                            "unit": "people/km\u00b2"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "About 34.4% of Pakistan's population live in cities.",
+                    "vis_data": [
+                        {
+                            "label": "Pakistan Urban Population",
+                            "value": "34.4",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4114527991661041
+        },
+        {
+            "paragraph": "Russia\u2019s population will be approximately 144 million in 2025, experiencing a decline of 0.57%. Covering 16.4 million km\u00b2, it has a low population density of 9 people per km\u00b2. The median age is 40.3 years, reflecting an ageing population. Urbanisation is high, with 75% living in cities.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Russia is expected to have approximately 144 million people in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Russia Population 2025",
+                            "value": "144000000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Russia's population declines by 0.57%.",
+                    "vis_data": [
+                        {
+                            "label": "Russia Population Decline",
+                            "value": "0.57",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Russia has a population density of 9 people per km\u00b2.",
+                    "vis_data": [
+                        {
+                            "label": "Russia Population Density",
+                            "value": "9",
+                            "unit": "people/km\u00b2"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "75% of Russia's population live in cities.",
+                    "vis_data": [
+                        {
+                            "label": "Russia Urban Population",
+                            "value": "75",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.3903452216323864
+        },
+        {
+            "paragraph": "The U.S. has around 347 million residents in 2025, with a modest annual growth rate of 0.54%. Its population growth is driven by migration and natural increase. The median age is 38.5 years, with urban areas housing over 82% of Americans.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The U.S. is expected to have around 347 million residents in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "U.S. Population 2025",
+                            "value": "347",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The U.S. population grows at an annual rate of 0.54%.",
+                    "vis_data": [
+                        {
+                            "label": "U.S. Annual Growth Rate",
+                            "value": "0.54",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Over 82% of Americans live in urban areas.",
+                    "vis_data": [
+                        {
+                            "label": "U.S. Urban Population",
+                            "value": "82",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.3836166736611679
+        },
+        {
+            "paragraph": "Bangladesh\u2019s population will be about 176 million in 2025, growing at 1.22%. Its land area is 130,170 km\u00b2, resulting in a very high density of 1,350 people per km\u00b2. The median age is around 26 years, with over 42% of residents living in urban areas.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bangladesh is expected to have about 176 million people in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Bangladesh Population 2025",
+                            "value": "176000000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Bangladesh's population grows at 1.22%.",
+                    "vis_data": [
+                        {
+                            "label": "Bangladesh Annual Growth Rate",
+                            "value": "1.22",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Bangladesh has a population density of 1,350 people per km\u00b2.",
+                    "vis_data": [
+                        {
+                            "label": "Bangladesh Population Density",
+                            "value": "1350",
+                            "unit": "people/km\u00b2"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Over 42% of Bangladesh's population live in urban areas.",
+                    "vis_data": [
+                        {
+                            "label": "Bangladesh Urban Population",
+                            "value": "42",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.38266330262766857
+        },
+        {
+            "paragraph": "Ethiopia is estimated to have 135 million people in 2025, with a high growth rate of 2.58%. Its land area of 1 million km\u00b2 creates a density of 135 people per km\u00b2. The median age is around 19.1 years, with only 22.5% living in urban areas.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ethiopia is expected to have 135 million people in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Ethiopia Population 2025",
+                            "value": "135000000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Ethiopia's population grows at a high rate of 2.58%.",
+                    "vis_data": [
+                        {
+                            "label": "Ethiopia Annual Growth Rate",
+                            "value": "2.58",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Ethiopia has a population density of 135 people per km\u00b2.",
+                    "vis_data": [
+                        {
+                            "label": "Ethiopia Population Density",
+                            "value": "135",
+                            "unit": "people/km\u00b2"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Only 22.5% of Ethiopia's population live in urban areas.",
+                    "vis_data": [
+                        {
+                            "label": "Ethiopia Urban Population",
+                            "value": "22.5",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.3741757594940115
+        },
+        {
+            "paragraph": "Nigeria will have around 238 million inhabitants in 2025, growing at approximately 2.08% annually. Its land area of 910,770 km\u00b2 results in a density of 261 people per km\u00b2. Nigeria has a median age of about 18.1 years, with more than half living in urban areas. The country\u2019s population growth is driven by high birth rates (4.3 children per woman).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Nigeria is expected to have around 238 million inhabitants in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Nigeria Population 2025",
+                            "value": "238000000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Nigeria's population grows at approximately 2.08% annually.",
+                    "vis_data": [
+                        {
+                            "label": "Nigeria Annual Growth Rate",
+                            "value": "2.08",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Nigeria has a population density of 261 people per km\u00b2.",
+                    "vis_data": [
+                        {
+                            "label": "Nigeria Population Density",
+                            "value": "261",
+                            "unit": "people/km\u00b2"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "More than half of Nigeria's population live in urban areas.",
+                    "vis_data": [
+                        {
+                            "label": "Nigeria Urban Population",
+                            "value": "51",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.37406943748771604
+        }
+    ]
+}

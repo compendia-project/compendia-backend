@@ -1,0 +1,201 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "You were right, it\u2019sChina that comes in at number 1in this ranking of the world\u2019s most populous countries!In the 1960s, the fertility rate reached a record7.4 children per woman, so obviously it\u2019s going up fast!Despite itsone-childpolicy implemented between 1970 and 2015, and its attempts at birth control, China is experiencing intensedemographic inertia, reaching a populationof 1.45 billionin 2022, i.e.one-fifthof humanity!",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "China's population reached 1.45 billion in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "China Population 2022",
+                            "value": "1450000000",
+                            "unit": "people"
+                        }
+                    ],
+                    "fact_id": "24_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "In the 1960s, China's fertility rate reached 7.4 children per woman.",
+                    "vis_data": [
+                        {
+                            "label": "China Fertility Rate 1960s",
+                            "value": "7.4",
+                            "unit": "children per woman"
+                        }
+                    ],
+                    "fact_id": "24_0_1"
+                }
+            ],
+            "relatedness_score": 0.5470935984854393,
+            "article_meta_data": {
+                "title": "What are the 10 most populous countries in the world?",
+                "date": "2025-05-21",
+                "url": "https://navaway.com/what-are-the-10-most-populous-countries-in-the-world/",
+                "id": 24
+            },
+            "para_id": "24_0"
+        },
+        {
+            "paragraph": "As you might have guessed, behind China is India! And it\u2019s right on its heels, with a population of 1.41 billion in 2022. Experts believe that India will double China\u2019s population by 2023 and reach1.7 billion by 2050(source: UN)!",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "India's population was 1.41 billion in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "India Population 2022",
+                            "value": "1410000000",
+                            "unit": "people"
+                        }
+                    ],
+                    "fact_id": "24_1_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "India is expected to reach 1.7 billion by 2050.",
+                    "vis_data": [
+                        {
+                            "label": "India Population 2050",
+                            "value": "1700000000",
+                            "unit": "people"
+                        }
+                    ],
+                    "fact_id": "24_1_3"
+                }
+            ],
+            "relatedness_score": 0.5002540004415099,
+            "article_meta_data": {
+                "title": "What are the 10 most populous countries in the world?",
+                "date": "2025-05-21",
+                "url": "https://navaway.com/what-are-the-10-most-populous-countries-in-the-world/",
+                "id": 24
+            },
+            "para_id": "24_1"
+        },
+        {
+            "paragraph": "In the middle of this ranking comes Pakistan with around 243 million inhabitants.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pakistan has around 243 million inhabitants.",
+                    "vis_data": [
+                        {
+                            "label": "Pakistan Population",
+                            "value": "243000000",
+                            "unit": "people"
+                        }
+                    ],
+                    "fact_id": "24_2_4"
+                }
+            ],
+            "relatedness_score": 0.4125144110549992,
+            "article_meta_data": {
+                "title": "What are the 10 most populous countries in the world?",
+                "date": "2025-05-21",
+                "url": "https://navaway.com/what-are-the-10-most-populous-countries-in-the-world/",
+                "id": 24
+            },
+            "para_id": "24_2"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "24_0",
+            "paragraph": "You were right, it\u2019sChina that comes in at number 1in this ranking of the world\u2019s most populous countries!In the 1960s, the fertility rate reached a record7.4 children per woman, so obviously it\u2019s going up fast!Despite itsone-childpolicy implemented between 1970 and 2015, and its attempts at birth control, China is experiencing intensedemographic inertia, reaching a populationof 1.45 billionin 2022, i.e.one-fifthof humanity!"
+        },
+        {
+            "para_id": "24_1",
+            "paragraph": "As you might have guessed, behind China is India! And it\u2019s right on its heels, with a population of 1.41 billion in 2022. Experts believe that India will double China\u2019s population by 2023 and reach1.7 billion by 2050(source: UN)!"
+        },
+        {
+            "para_id": "24_2",
+            "paragraph": "In the middle of this ranking comes Pakistan with around 243 million inhabitants."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "24_0_0",
+            "fact_content": "China's population reached 1.45 billion in 2022."
+        },
+        {
+            "fact_id": "24_0_1",
+            "fact_content": "In the 1960s, China's fertility rate reached 7.4 children per woman."
+        },
+        {
+            "fact_id": "24_1_2",
+            "fact_content": "India's population was 1.41 billion in 2022."
+        },
+        {
+            "fact_id": "24_1_3",
+            "fact_content": "India is expected to reach 1.7 billion by 2050."
+        },
+        {
+            "fact_id": "24_2_4",
+            "fact_content": "Pakistan has around 243 million inhabitants."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "China's population reached 1.45 billion in 2022.",
+            "vis_data": [
+                {
+                    "label": "China Population 2022",
+                    "value": "1450000000",
+                    "unit": "people"
+                }
+            ],
+            "fact_id": "24_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "In the 1960s, China's fertility rate reached 7.4 children per woman.",
+            "vis_data": [
+                {
+                    "label": "China Fertility Rate 1960s",
+                    "value": "7.4",
+                    "unit": "children per woman"
+                }
+            ],
+            "fact_id": "24_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "India's population was 1.41 billion in 2022.",
+            "vis_data": [
+                {
+                    "label": "India Population 2022",
+                    "value": "1410000000",
+                    "unit": "people"
+                }
+            ],
+            "fact_id": "24_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "India is expected to reach 1.7 billion by 2050.",
+            "vis_data": [
+                {
+                    "label": "India Population 2050",
+                    "value": "1700000000",
+                    "unit": "people"
+                }
+            ],
+            "fact_id": "24_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Pakistan has around 243 million inhabitants.",
+            "vis_data": [
+                {
+                    "label": "Pakistan Population",
+                    "value": "243000000",
+                    "unit": "people"
+                }
+            ],
+            "fact_id": "24_2_4"
+        }
+    ]
+}

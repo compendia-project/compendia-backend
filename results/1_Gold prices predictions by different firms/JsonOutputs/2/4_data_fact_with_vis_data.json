@@ -1,0 +1,594 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The current gold price as of 05.07.2025 is $3 334.86.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The current gold price as of 05.07.2025 is $3 334.86.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price",
+                            "value": "3334.86",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Long-term forecasts are typically less reliable due to the difficulty of predicting which factors will influence prices over the next five years. However, if inflation remains high and the global economy faces headwinds, gold may reach new all-time highs of $5,917.17\u2013$5,952.00.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Gold may reach new all-time highs of $5,917.17\u2013$5,952.00.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price High",
+                            "value": "5917.17",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "Gold Price High",
+                            "value": "5952.00",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Gold is correcting downwards, testing the support (A) 3301 - 3286. The price has not settled below this zone. As a result, new purchases can be considered near this support area with the first target at 3368 and the second target at the June high of 3451.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold is testing the support (A) 3301 - 3286.",
+                    "vis_data": [
+                        {
+                            "label": "Support Level",
+                            "value": "3301",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "Support Level",
+                            "value": "3286",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The first target for new purchases is 3368.",
+                    "vis_data": [
+                        {
+                            "label": "First Target",
+                            "value": "3368",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The second target for new purchases is the June high of 3451.",
+                    "vis_data": [
+                        {
+                            "label": "Second Target",
+                            "value": "3451",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "If the price consolidates below the support (A) this week, the correction is expected to continue to the support (B) 3226 - 3203. This zone marks the boundary of the medium-term uptrend. Long positions can also be considered in this area with the target at the June high.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The correction is expected to continue to the support (B) 3226 - 3203.",
+                    "vis_data": [
+                        {
+                            "label": "Support Level B",
+                            "value": "3226",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "Support Level B",
+                            "value": "3203",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Buy near support (A) 3226 - 3203. TakeProfit: 3327, 3451. StopLoss: 3159.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Buy near support (A) 3226 - 3203.",
+                    "vis_data": [
+                        {
+                            "label": "Buy Support Level",
+                            "value": "3226",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "Buy Support Level",
+                            "value": "3203",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "TakeProfit: 3327, 3451.",
+                    "vis_data": [
+                        {
+                            "label": "TakeProfit",
+                            "value": "3327",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "TakeProfit",
+                            "value": "3451",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "StopLoss: 3159.",
+                    "vis_data": [
+                        {
+                            "label": "StopLoss",
+                            "value": "3159",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Let's conduct a technical analysis of the weekly chart to determine the price trends of the XAUUSD in 2025. As can be seen on the chart, the quotes are trading near $3,176.53 within a long-term uptrend.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The quotes are trading near $3,176.53 within a long-term uptrend.",
+                    "vis_data": [
+                        {
+                            "label": "Trading Price",
+                            "value": "3176.53",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In the next 2\u20133 months, the XAUUSD is likely to undergo a downward correction to the key support level of $2,961.21. The analysis has allowed us to reveal the key support and resistance levels that can be used in the following trading strategy.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The XAUUSD is likely to undergo a downward correction to the key support level of $2,961.21.",
+                    "vis_data": [
+                        {
+                            "label": "Key Support Level",
+                            "value": "2961.21",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Price range in 2025: $2,729.00\u2013$3,633.00 (as of 16.05.2025).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price range in 2025: $2,729.00\u2013$3,633.00.",
+                    "vis_data": [
+                        {
+                            "label": "Price Range Low",
+                            "value": "2729.00",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "Price Range High",
+                            "value": "3633.00",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "LongForecast projects that the gold price will slide to $2,873.00 by mid-2025. By the end of the year, analysts anticipate that the XAUUSD will recover to $3,315.00.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Gold price will slide to $2,873.00 by mid-2025.",
+                    "vis_data": [
+                        {
+                            "label": "Mid-2025 Price",
+                            "value": "2873.00",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "XAUUSD will recover to $3,315.00 by the end of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "End-2025 Price",
+                            "value": "3315.00",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "According to Gov Capital, gold will trade in a broad range between $2,916.51 and $4,351.84 in 2025. By mid-year, analysts expect the average price of gold to climb to $3,458.22. By the end of the year, it will likely surge to $3,956.22.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold will trade in a broad range between $2,916.51 and $4,351.84 in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Range Low",
+                            "value": "2916.51",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "Range High",
+                            "value": "4351.84",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Average price of gold to climb to $3,458.22 by mid-2025.",
+                    "vis_data": [
+                        {
+                            "label": "Mid-2025 Avg Price",
+                            "value": "3458.22",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Gold price will likely surge to $3,956.22 by the end of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "End-2025 Price",
+                            "value": "3956.22",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Analysts from CoinCodex give a positive outlook for the XAUUSD rate in 2025. According to experts, the average price could be around $3,154.82 by the end of the first half of the year. Analysts expect the rally to continue, reaching $3,925.39 by the end of the year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Average price could be around $3,154.82 by the end of the first half of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Mid-2025 Avg Price",
+                            "value": "3154.82",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Rally to continue, reaching $3,925.39 by the end of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "End-2025 Price",
+                            "value": "3925.39",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Analytical agencies predict mixed performance for the precious metal in 2026. Most experts believe that moderate growth will be driven by inflation and geopolitical uncertainty. Gold will trade in the range of $3,266.00\u2013$5,155.30, depending on the macroeconomic environment and demand from central banks.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold will trade in the range of $3,266.00\u2013$5,155.30 in 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Range Low",
+                            "value": "3266.00",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "Range High",
+                            "value": "5155.30",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "According to LongForecast, the XAUUSD price may reach $3,315.00 at the beginning of 2026. By June, the asset may increase to $3,958.00. At the end of the year, analysts forecast a closing price of $4,412.00, with a yearly high of $4,633.00.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "XAUUSD price may reach $3,315.00 at the beginning of 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Start-2026 Price",
+                            "value": "3315.00",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Asset may increase to $3,958.00 by June 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Mid-2026 Price",
+                            "value": "3958.00",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Analysts forecast a closing price of $4,412.00 at the end of 2026.",
+                    "vis_data": [
+                        {
+                            "label": "End-2026 Price",
+                            "value": "4412.00",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Yearly high of $4,633.00 in 2026.",
+                    "vis_data": [
+                        {
+                            "label": "2026 High",
+                            "value": "4633.00",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "WalletInvestor offers a more conservative outlook for the price of gold in 2026. At the beginning of the year, the asset is expected to trade near $3,398.14. By the end of the first half of the year, gold may surge to $3,552.69. At the end of the year, experts predict further growth to $3,695.53.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Asset is expected to trade near $3,398.14 at the beginning of 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Start-2026 Price",
+                            "value": "3398.14",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Gold may surge to $3,552.69 by the end of the first half of 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Mid-2026 Price",
+                            "value": "3552.69",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Experts predict further growth to $3,695.53 by the end of 2026.",
+                    "vis_data": [
+                        {
+                            "label": "End-2026 Price",
+                            "value": "3695.53",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The analytical portal CoinCodex estimates that the precious metal will increase in 2026. Between January and June, the price of gold is expected to range between $3,904.54 and $4,800.90, with a closing price of $4,722.94 in June. Experts predict a decline to $4,277.91 by the end of December.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price of gold is expected to range between $3,904.54 and $4,800.90 between January and June 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Range Low",
+                            "value": "3904.54",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "Range High",
+                            "value": "4800.90",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Closing price of $4,722.94 in June 2026.",
+                    "vis_data": [
+                        {
+                            "label": "June 2026 Close",
+                            "value": "4722.94",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Experts predict a decline to $4,277.91 by the end of December 2026.",
+                    "vis_data": [
+                        {
+                            "label": "End-2026 Price",
+                            "value": "4277.91",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2027, the XAUUSD is forecast to continue growing, fueled by recession fears and a weakening dollar. Some analysts expect new all-time highs above $5,000 if the global economy faces serious challenges. Investment demand will remain elevated.",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Some analysts expect new all-time highs above $5,000 in 2027.",
+                    "vis_data": [
+                        {
+                            "label": "2027 High",
+                            "value": "5000.00",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "LongForecast gives a moderately bullish outlook for the gold price in 2027. By June, the price will likely fluctuate between $4,152.00 and $4,920.00, with an average price of $4,370.00. Between June and December, analysts predict that the upward trend will continue to $5,102.00.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price will likely fluctuate between $4,152.00 and $4,920.00 by June 2027.",
+                    "vis_data": [
+                        {
+                            "label": "Range Low",
+                            "value": "4152.00",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "Range High",
+                            "value": "4920.00",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Average price of $4,370.00 by June 2027.",
+                    "vis_data": [
+                        {
+                            "label": "June 2027 Avg Price",
+                            "value": "4370.00",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Upward trend will continue to $5,102.00 between June and December 2027.",
+                    "vis_data": [
+                        {
+                            "label": "End-2027 Price",
+                            "value": "5102.00",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Analysts from WalletInvestor also predict bullish momentum for gold in 2027. At the beginning of the year, the price may reach $3,697.19. By mid-year, gold will likely post moderate gains and increase to $3,852.81. By December, the trading instrument may edge higher to $3,994.61.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price may reach $3,697.19 at the beginning of 2027.",
+                    "vis_data": [
+                        {
+                            "label": "Start-2027 Price",
+                            "value": "3697.19",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Gold will likely increase to $3,852.81 by mid-2027.",
+                    "vis_data": [
+                        {
+                            "label": "Mid-2027 Price",
+                            "value": "3852.81",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Trading instrument may edge higher to $3,994.61 by December 2027.",
+                    "vis_data": [
+                        {
+                            "label": "End-2027 Price",
+                            "value": "3994.61",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "According to CoinCodex, XAUUSD quotes are expected to rise in the first half of 2027. According to analysts, the price may fluctuate within the range of $4,239.11\u2013$5,306.62, with a closing price of $5,093.63 at the end of June. In the second half of the year, analysts anticipate a trend reversal, with a subsequent decline to approximately $4,600.34.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price may fluctuate within the range of $4,239.11\u2013$5,306.62 in the first half of 2027.",
+                    "vis_data": [
+                        {
+                            "label": "Range Low",
+                            "value": "4239.11",
+                            "unit": "$"
+                        },
+                        {
+                            "label": "Range High",
+                            "value": "5306.62",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Closing price of $5,093.63 at the end of June 2027.",
+                    "vis_data": [
+                        {
+                            "label": "June 2027 Close",
+                            "value": "5093.63",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Analysts anticipate a trend reversal with a decline to approximately $4,600.34 in the second half of 2027.",
+                    "vis_data": [
+                        {
+                            "label": "End-2027 Price",
+                            "value": "4600.34",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

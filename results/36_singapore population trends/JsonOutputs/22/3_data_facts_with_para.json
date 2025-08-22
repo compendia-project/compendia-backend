@@ -1,0 +1,96 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "The Singapore population reached 6.0 million people in Jun 2024, compared with the previously reported figure of 5.9 million people in Jun 2023 See the table below for more data.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population reached 6.0 million people in Jun 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population was 5.9 million people in Jun 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "The Singapore population reached 6.0 million people in Jun 2024, compared with the previously reported figure of 5.9 million people in Jun 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population reached 6.0 million people in Jun 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population was 5.9 million people in Jun 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "The Singapore population reached 6.0 million people in Jun 2024, compared with the previously reported figure of 5.9 million people in Jun 2023",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population reached 6.0 million people in Jun 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population was 5.9 million people in Jun 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "The data reached an all-time high of 6.0 million people in Jun 2024 and a record low of 1.0 million people in Jun 1950",
+            "facts": [
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The data reached an all-time high of 6.0 million people in Jun 2024."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The data reached a record low of 1.0 million people in Jun 1950."
+                }
+            ]
+        },
+        {
+            "paragraph": "In the latest reports, Singapore Unemployment Rate increased to 1.9 % in May 2023",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Unemployment Rate increased to 1.9 % in May 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "Monthly earnings of the Singapore population was 4,813.3 USD in Jun 2024",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Monthly earnings of the Singapore population was 4,813.3 USD in Jun 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Labour Force Participation Rate dropped to 68.6 % in Jun 2023",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore Labour Force Participation Rate dropped to 68.6 % in Jun 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "What was Singapore's Population in 2024? The Singapore population reached 6.0 million people in Jun 2024, compared with the previously reported figure of 5.9 million people in Jun 2023",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population reached 6.0 million people in Jun 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Singapore population was 5.9 million people in Jun 2023."
+                }
+            ]
+        }
+    ]
+}

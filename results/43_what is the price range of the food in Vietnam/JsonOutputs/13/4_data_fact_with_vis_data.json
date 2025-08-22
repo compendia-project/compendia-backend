@@ -1,0 +1,566 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Address: 26 L\u00ea Th\u1ecb Ri\u00eang, Ben Thanh, District 1, Ho Chi Minh City, VietnamOpen hours: About 3:30 pm \u2013 midnight dailyPrice:30,000 VND ($1.40), more expensive than others, but worth it for the amount of meat",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 30,000 VND ($1.40)",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "30000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 62 Nguy\u1ec5n V\u0103n Tr\u00e1ng, District 1, Ho Chi Minh City, VietnamOpen hours: I think open in the morning, I arrived at 8 am, and they seemed to be at their peak serving, so good place for breakfastPrice:17,000 VND ($0.80)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 17,000 VND ($0.80)",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "17000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 37 Nguy\u1ec5n Tr\u00e3i, Ho Chi Minh City (though the address is 37, it\u2019s right at Hem 39)Open hours: From around 4:30 pm \u2013 7:30 pm each dayPrice: 16,000 VND ($0.75)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 16,000 VND ($0.75)",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "16000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 53 Cao Th\u1eafng, District 3, Ho Chi Minh CityOpen hours: 7 am \u2013 10 am or so, until they sell outPrices: For a full banh mi op la the price is somewhere around 30,000 \u2013 40,000 VND, our total bill for two of us, with two meals, tea, bread, and pate came to 91,000 VND ($4.21)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 30,000 \u2013 40,000 VND for a full banh mi op la",
+                    "vis_data": [
+                        {
+                            "label": "Price Range",
+                            "value": "30000-40000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total bill: 91,000 VND ($4.21) for two meals, tea, bread, and pate",
+                    "vis_data": [
+                        {
+                            "label": "Total Bill",
+                            "value": "91000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 25 Nguy\u1ec5n Th\u1ecb Minh Khai, Saigon, VietnamOpen hours: All day and night \u2013 they are open 24 hoursPrices: 28,000 VND ($1.29) for a bowl",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 28,000 VND ($1.29) for a bowl",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "28000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 25 Ho\u00e0ng Sa, District 1, Ho Chi Minh City, Vietnam (it\u2019s located very close to the famous Lunch Lady of Saigon)Open hours: 6 am \u2013 9 pm daily \u2013 great for any mealPrices: 40,000 VND ($1.85) for my bowl",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 40,000 VND ($1.85) for a bowl",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "40000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 18/5 Nguy\u1ec5n C\u1ea3nh Ch\u00e2n, District 1, Ho Chi Minh CityOpen hours: 11 am \u2013 7 pm dailyPrices: 45,000 VND ($2.08)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 45,000 VND ($2.08)",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "45000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 22 Phan B\u1ed9i Ch\u00e2u, across from Ben Thanh market, SaigonOpen hours: Not sure exactly, but they are open for breakfast, lunch and throughout the afternoonPrice: 65,000 VND ($3) per bowl",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 65,000 VND ($3) per bowl",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "65000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 300 V\u00f5 V\u0103n T\u1ea7n, District 3, Ho Chi Minh CityOpen hours:6 am \u2013 10 pm dailyPrice:60,000 VND ($2.77) per bowl, a bit expensive, but extremely generous on the meat",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 60,000 VND ($2.77) per bowl",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "60000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Price:30,000 VND ($1.38)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 30,000 VND ($1.38)",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "30000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Prices: We ordered 1 combination plate, 1 regular plate of rice with just a pork chop, and a couple of drinks and our total bill came to 104,000 VND (I think my combination plate was about 60,000 VND \u2013 $2.77, but I think just rice and pork was more about 30,000 VND)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total bill: 104,000 VND",
+                    "vis_data": [
+                        {
+                            "label": "Total Bill",
+                            "value": "104000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Combination plate: 60,000 VND ($2.77)",
+                    "vis_data": [
+                        {
+                            "label": "Combination Plate",
+                            "value": "60000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Rice and pork: 30,000 VND",
+                    "vis_data": [
+                        {
+                            "label": "Rice and Pork",
+                            "value": "30000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "At many street side stalls in Saigon a plate of com tam suon nuong, with just the broken rice and pork chop should run around 30,000 VND and with an egg around 35,000 VD \u2013 40,000 VND.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 30,000 VND for com tam suon nuong with rice and pork chop",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "30000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 35,000 \u2013 40,000 VND with an egg",
+                    "vis_data": [
+                        {
+                            "label": "Price with Egg",
+                            "value": "35000-40000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Often a plate of rice with 2 or 3 dishes on top will cost 20,000 \u2013 30,000 VND ($0.92 \u2013 $1.38), and if you get rice with dishes on the side in separate bowls, it will run a little higher, but you usually get bigger portions.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 20,000 \u2013 30,000 VND ($0.92 \u2013 $1.38) for rice with 2 or 3 dishes",
+                    "vis_data": [
+                        {
+                            "label": "Price Range",
+                            "value": "20000-30000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Prices: Everything we ordered came to 70,000 VND ($3.23) for my wife and I",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total bill: 70,000 VND ($3.23)",
+                    "vis_data": [
+                        {
+                            "label": "Total Bill",
+                            "value": "70000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Prices: Our full meal for 2, came to 68,000 VND ($3.15), and we must have eaten about 4 or 5 different dishes",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total bill: 68,000 VND ($3.15) for a full meal for 2",
+                    "vis_data": [
+                        {
+                            "label": "Total Bill",
+                            "value": "68000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Price: We paid a total of 283,000 VND (about $13) for three of us, but rather than a light breakfast, we had an entire family sized meal, which probably should have fed more than three of us (but I wasn\u2019t complaining, that\u2019s for sure).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total bill: 283,000 VND (about $13) for three people",
+                    "vis_data": [
+                        {
+                            "label": "Total Bill",
+                            "value": "283000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Price: Dishes can range from 40,000 \u2013 100,000 VND ($1.85 \u2013 $4.62)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price range: 40,000 \u2013 100,000 VND ($1.85 \u2013 $4.62)",
+                    "vis_data": [
+                        {
+                            "label": "Price Range",
+                            "value": "40000-100000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Price: 35,000 VND ($1.62) per bowl of beef stew \u2013 and it was a pretty decent size portion and included plenty of beef",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 35,000 VND ($1.62) per bowl of beef stew",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "35000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Price: A huge meal for two of us cost 132,000 VND ($6.09), and we got an entire spread of bo la lot and sausages and spring rolls, and the owner even gave us some free plates of some delicious extras as well",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total bill: 132,000 VND ($6.09) for a huge meal for two",
+                    "vis_data": [
+                        {
+                            "label": "Total Bill",
+                            "value": "132000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: It\u2019s on Cao Thang road just past Nguyen Dinh ChieuOpen hours: Open for lunch for sure from about 10 am \u2013 2 pm or soPrice:22,000 VND ($1) \u2013 it\u2019s pretty cheap but didn\u2019t include much meat",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 22,000 VND ($1)",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "22000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: I think there are a number of different location, but I ate at the branch on 72 Nguy\u1ec5n Th\u01b0\u1ee3ng Hi\u1ec1nOpen hours: About 5 pm \u2013 10 pmPrice: 65,000 VND ($3)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 65,000 VND ($3)",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "65000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 140b L\u00fd Ch\u00ednh Th\u1eafng, District 3, Ho Chi Minh City, VietnamOpen hours: 6:30 am \u2013 8 pm dailyPrices: bowls of normal sized bun cha combinations are 38,000 VND ($1.75)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 38,000 VND ($1.75) for bun cha combinations",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "38000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address:87 Tr\u1ea7n Kh\u1eafc Ch\u00e2n, Ho Chi Minh CityOpen hours: 2 pm \u2013 9:30 pm dailyPrices: 35,000 VND ($1.62) per bowl, and then I had a plate ofChinese donutsfor just \u2013 3,000 VND, good price for great food",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 35,000 VND ($1.62) per bowl",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "35000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 3,000 VND for a plate of Chinese donuts",
+                    "vis_data": [
+                        {
+                            "label": "Price for Chinese Donuts",
+                            "value": "3000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 195 C\u00f4 Giang, District 1, Ho Chi Minh CityOpen hours: 7 am \u2013 10 pm dailyPrices: 40,000 VND ($1.85)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 40,000 VND ($1.85)",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "40000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 352 Nguy\u1ec5n Tr\u00e3i, District 5, Ho Chi Minh City, VietnamOpen hours: 9 am \u2013 11 pm dailyPrices: All together we ate 2 plates of banh tam bi, 1 banh mi, 1 plate of goi cuon (fresh summer rolls), plus a couple of drinks, and our total price came to 126,000 VND ($5.86) \u2013 so I\u2019m guessing the plates of banh tam bi were about 30 \u2013 35,000 VND each",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total bill: 126,000 VND ($5.86)",
+                    "vis_data": [
+                        {
+                            "label": "Total Bill",
+                            "value": "126000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 30 \u2013 35,000 VND for plates of banh tam bi",
+                    "vis_data": [
+                        {
+                            "label": "Price for Banh Tam Bi",
+                            "value": "30000-35000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 11A Cao Th\u1eafng, District 3, Ho Chi Minh City, VietnamOpen hours: 7:30 am \u2013 10:45 pm dailyPrice: A normal plate of banh cuon is 30,000 VND ($1.38) here",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 30,000 VND ($1.38) for a plate of banh cuon",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "30000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 46 \u0110inh C\u00f4ng Tr\u00e1ng, Tan Dinh, District 1, Ho Chi Minh CityOpen hours: 9 am \u2013 9 pm dailyPrices: We ordered the giant special banh xeo which was pretty big and pretty expensive at 110,000 VND ($5.09) \u2013 prices are very high here due to fame I think",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 110,000 VND ($5.09) for a giant special banh xeo",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "110000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: Somewhere in the tangle of Ch\u1ee3 B\u00e0n C\u1edd marketOpen hours: No sure, but I think for most of the dayPrice: 20,000 VND ($0.92) for a plate that included about 10",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 20,000 VND ($0.92) for a plate",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "20000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 102 Cao Th\u1eafng, District 3, Ho Chi Minh City (but there are a couple of locations)Open hours: 7 am \u2013 10 pm, if you go during peak mealtimes it can get pretty busyPrice: Ying and I had a full meal of about 3 \u2013 4 dishes for around the 200 \u2013 300,000 VND ($9.23 \u2013 $13.85) range",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price range: 200 \u2013 300,000 VND ($9.23 \u2013 $13.85) for a full meal of about 3 \u2013 4 dishes",
+                    "vis_data": [
+                        {
+                            "label": "Price Range",
+                            "value": "200000-300000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: Somewhere around Hem 174 Nguy\u1ec5n Thi\u1ec7n Thu\u1eadt, just off Ban Co streetOpen hours: I\u2019m actually not sure, but I ate this plate of bot chien at about 10 am and she was open. I think she\u2019s open from morning to evening.Prices: 25,000 VND ($1.15) for a plate",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 25,000 VND ($1.15) for a plate",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "25000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Address: 38 Nguy\u1ec5n Th\u01b0\u1ee3ng Hi\u1ec1n, District 3, Ho Chi Minh City, Ho Chi Minh City, VietnamOpen hours: 3 pm \u2013 9 pm dailyPrices: 20,000 VND ($0.92)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Price: 20,000 VND ($0.92)",
+                    "vis_data": [
+                        {
+                            "label": "Price",
+                            "value": "20000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

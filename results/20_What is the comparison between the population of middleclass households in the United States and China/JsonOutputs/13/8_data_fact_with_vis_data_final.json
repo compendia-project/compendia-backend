@@ -1,0 +1,75 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "According to the World Bank,by 2030, over 70% of China\u2019s population could be middle class, consuming nearly $10 trillion in goods and services, but India could be the world\u2019s largest middle class consumer market, surpassing both China and the U.S. with its sheer size. In aggregate, China and India will represent roughly two-thirds of the global middle-class population and 59% of middle-class consumption that is expected to tally $64 trillion by 2030. Again, some context, middle-class spending in 2015 was roughly $35 trillion, and was concentrated in the U.S. and Europe. What the math tells us is that by 2030, the middle-class in India and China together will be spending more than the combined middle-class spending in Europe and the US in 2015.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Over 70% of China\u2019s population could be middle class by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "China Middle Class Population",
+                            "value": "70",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China's middle class could consume nearly $10 trillion in goods and services by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "China Middle Class Consumption",
+                            "value": "10",
+                            "unit": "trillion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "China and India will represent roughly two-thirds of the global middle-class population by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "China & India Global Middle Class Population",
+                            "value": "66.67",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "China and India will represent 59% of middle-class consumption by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "China & India Middle Class Consumption",
+                            "value": "59",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Middle-class consumption is expected to tally $64 trillion by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "Global Middle Class Consumption 2030",
+                            "value": "64",
+                            "unit": "trillion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Middle-class spending in 2015 was roughly $35 trillion.",
+                    "vis_data": [
+                        {
+                            "label": "Global Middle Class Spending 2015",
+                            "value": "35",
+                            "unit": "trillion USD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

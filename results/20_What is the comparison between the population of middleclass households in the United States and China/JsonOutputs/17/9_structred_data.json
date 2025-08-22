@@ -1,0 +1,139 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Some 664 million adults around the world are part of the middle class this year, nearly 15 percent of the world\u2019s total adult population. Nearly 110 million of those people were Chinese, and 92 million were Americans.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "664 million adults are part of the middle class this year.",
+                    "vis_data": [
+                        {
+                            "label": "Middle Class Adults",
+                            "value": "664",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "17_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "15 percent of the world\u2019s total adult population is part of the middle class.",
+                    "vis_data": [
+                        {
+                            "label": "Middle Class Proportion",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "17_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "110 million middle class adults are Chinese.",
+                    "vis_data": [
+                        {
+                            "label": "Chinese Middle Class Adults",
+                            "value": "110",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "17_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "92 million middle class adults are Americans.",
+                    "vis_data": [
+                        {
+                            "label": "American Middle Class Adults",
+                            "value": "92",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "17_0_3"
+                }
+            ],
+            "relatedness_score": 0.639625570253674,
+            "article_meta_data": {
+                "title": "Chinese Middle Class Grows Bigger Than US",
+                "date": "2015-10-25",
+                "url": "https://thecorner.eu/uncategorised/chinas-middle-class-grows-bigger-than-that-in-the-us/49009/",
+                "id": 17
+            },
+            "para_id": "17_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "17_0",
+            "paragraph": "Some 664 million adults around the world are part of the middle class this year, nearly 15 percent of the world\u2019s total adult population. Nearly 110 million of those people were Chinese, and 92 million were Americans."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "17_0_0",
+            "fact_content": "664 million adults are part of the middle class this year."
+        },
+        {
+            "fact_id": "17_0_1",
+            "fact_content": "15 percent of the world\u2019s total adult population is part of the middle class."
+        },
+        {
+            "fact_id": "17_0_2",
+            "fact_content": "110 million middle class adults are Chinese."
+        },
+        {
+            "fact_id": "17_0_3",
+            "fact_content": "92 million middle class adults are Americans."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "664 million adults are part of the middle class this year.",
+            "vis_data": [
+                {
+                    "label": "Middle Class Adults",
+                    "value": "664",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "17_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "15 percent of the world\u2019s total adult population is part of the middle class.",
+            "vis_data": [
+                {
+                    "label": "Middle Class Proportion",
+                    "value": "15",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "17_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "110 million middle class adults are Chinese.",
+            "vis_data": [
+                {
+                    "label": "Chinese Middle Class Adults",
+                    "value": "110",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "17_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "92 million middle class adults are Americans.",
+            "vis_data": [
+                {
+                    "label": "American Middle Class Adults",
+                    "value": "92",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "17_0_3"
+        }
+    ]
+}

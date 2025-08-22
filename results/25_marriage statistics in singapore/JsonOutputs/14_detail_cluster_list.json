@@ -1,0 +1,192 @@
+[
+    {
+        "cluster_id": 7,
+        "title": "Marriage Trends",
+        "description": "In 2023, Singapore saw 28,310 marriages, slightly down from the record 29,389 the previous year. The crude marriage rate was 6.4 per 1,000 residents, with over 2,000 more marriages than a decade ago. Inter-ethnic marriages made up 16.6% of the total in 2022.",
+        "representative_facts": [
+            {
+                "fact_content": "28,310 couples registered their marriages in 2023",
+                "fact_id": "7_2"
+            },
+            {
+                "fact_content": "Crude marriage rate in Singapore was 6.4 per 1,000 residents in 2023",
+                "fact_id": "7_0"
+            },
+            {
+                "fact_content": "Inter-ethnic marriages accounted for 16.6% of the total in 2022",
+                "fact_id": "7_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "title": "Marriage Trends",
+        "description": "Marriage trends in Singapore show a decline in the number of marriages in 2024 compared to 2023, with 26,328 couples registering their marriages. The median age for first marriages is 31 for men, indicating a trend towards later marriages. Historical data highlights a record low in first marriages in 1970, with only 13,889 recorded.",
+        "representative_facts": [
+            {
+                "fact_content": "26,328 couples registered their marriages in 2024",
+                "fact_id": "4_5"
+            },
+            {
+                "fact_content": "The median age at the time of first marriage in Singapore was 31 years old for men",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "The record low of Singapore Marriages: First Marriages was 13,889.000 Number in 1970",
+                "fact_id": "4_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "title": "Marriage Trends",
+        "description": "Marriage trends in Singapore show a rise in the median age for first marriages and childbirth, with a notable increase in singlehood rates among males. The number of first marriages has fluctuated over the years, with a significant increase in 2022. The median age for first marriages under different legal frameworks varies slightly, reflecting diverse cultural practices.",
+        "representative_facts": [
+            {
+                "fact_content": "29,389 couples married in 2022",
+                "fact_id": "6_13"
+            },
+            {
+                "fact_content": "3.7% increase in marriages from 2021 to 2022",
+                "fact_id": "6_14"
+            },
+            {
+                "fact_content": "Median age for first marriage in Singapore was 29.5 years for women",
+                "fact_id": "6_0"
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "title": "Marriage Trends",
+        "description": "Marriage trends in Singapore show a rise in the median age at first marriage for both grooms and brides over the years. The number of marriages registered annually has remained relatively stable, with slight fluctuations. Divorce rates have seen minor increases, and educational attainment appears to influence family size, with educated women having fewer children on average.",
+        "representative_facts": [
+            {
+                "fact_content": "Median age at first marriage for grooms increased from 30.2 years in 2013 to 31 years in 2023",
+                "fact_id": "3_1"
+            },
+            {
+                "fact_content": "29,389 marriages registered in 2022",
+                "fact_id": "3_7"
+            },
+            {
+                "fact_content": "Women with secondary or tertiary education were having an average of 1.65 children compared with uneducated women who were having three children on average",
+                "fact_id": "3_11"
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "title": "Marriage Trends",
+        "description": "Marriage trends in Singapore show a shift towards later marriages and a decrease in fertility rates. The median age at first marriage for brides increased from 28.1 years in 2013 to 29.5 years in 2023, indicating a trend towards marrying later. Additionally, the proportion of ever-married females aged 40 to 49 who were childless rose from 6.4% to 9.3%, reflecting changing family planning choices. The marriage rate for single men aged 15-49 was 47.0 per thousand in 2022, slightly below the peak rate of 47.5 in 2002.",
+        "representative_facts": [
+            {
+                "fact_content": "Median age at first marriage for brides increased from 28.1 years in 2013 to 29.5 years in 2023",
+                "fact_id": "9_1"
+            },
+            {
+                "fact_content": "Proportion of ever-married females aged 40 to 49 who were childless increased from 6.4% to 9.3%",
+                "fact_id": "9_6"
+            },
+            {
+                "fact_content": "Marriage rate for single men aged 15-49 years was 47.0 per thousand in 2022",
+                "fact_id": "9_4"
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "title": "Marriage Trends",
+        "description": "Marriage rates have seen a decline, with a 3.7% drop in the number of couples getting married last year compared to 2022. The median age for grooms in 2024 was 31.1 years. The average number of marital dissolutions per year from 2020 to 2024 was 7,291, slightly lower than the 2015-2019 average of 7,536.",
+        "representative_facts": [
+            {
+                "fact_content": "Marriage rates dipped 3.7% last year compared to 2022",
+                "fact_id": "1_0"
+            },
+            {
+                "fact_content": "Median groom age was 31.1 in 2024",
+                "fact_id": "1_2"
+            },
+            {
+                "fact_content": "Average marital dissolutions were 7,291 per year from 2020 to 2024",
+                "fact_id": "1_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "title": "Marriage Trends",
+        "description": "Marriage trends in Singapore show a slight decline in registered marriages from 2022 to 2023, with 28,310 marriages registered in 2023 compared to 29,389 in 2022. The marriage rate for single women aged 15-49 increased over the past decade, reaching 45.5 per thousand in 2022. Singlehood rates among females aged 30-34 rose significantly from 2000 to 2011, indicating changing social dynamics.",
+        "representative_facts": [
+            {
+                "fact_content": "28,310 marriages registered in 2023",
+                "fact_id": "5_0"
+            },
+            {
+                "fact_content": "Marriage rate for single women aged 15-49 was 45.5 per thousand in 2022",
+                "fact_id": "5_5"
+            },
+            {
+                "fact_content": "Singlehood rates increased from 22% to 31% for females aged 30-34 between 2000 and 2011",
+                "fact_id": "5_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "title": "Marriage Trends",
+        "description": "Marriage rates in Singapore have shown notable trends, with an increase in the marriage rate for single men aged 15-49 from 2012 to 2022. The number of marriages in 2022 reached a record high since 1961, while the median age for first-time brides was 28.8 years in 2017. Additionally, there was a decrease in marital dissolutions from 2021 to 2022, with a significant drop in Muslim divorces.",
+        "representative_facts": [
+            {
+                "fact_content": "Marriage rate for single men aged 15-49 years increased from 43.8 in 2012 to 47.0 in 2022",
+                "fact_id": "8_0"
+            },
+            {
+                "fact_content": "The 2022 figure of 29,389 is the highest since data on marriages was first published in 1961",
+                "fact_id": "8_2"
+            },
+            {
+                "fact_content": "9.9% decrease in marital dissolutions from 2021 to 2022",
+                "fact_id": "8_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "title": "Marriage Trends",
+        "description": "The data highlights trends in marriage and marital dissolutions among different ethnic and religious groups. Non-Muslim marital dissolutions decreased from 2021 to 2022. The percentage of first-time grooms and brides has increased over the past decade. Historical data shows significant variations in marriage numbers for Malays under the UMLA, with an all-time high in December 1988 and a record low in February 1963.",
+        "representative_facts": [
+            {
+                "fact_content": "Non-Muslim marital dissolutions decreased from 6,123 in 2021 to 5,602 in 2022",
+                "fact_id": "10_0"
+            },
+            {
+                "fact_content": "Increase from 74.9% a decade ago to 78.6% in 2022 for first-time grooms and brides",
+                "fact_id": "10_2"
+            },
+            {
+                "fact_content": "All-time high of 774 marriages for Malays under UMLA in Dec 1988",
+                "fact_id": "10_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "title": "Marriage Statistics",
+        "description": "In May 2018, a total of 1,752 marriages were registered under the Women's Charter, with 1,256 involving Chinese couples. The same month saw 352 inter-ethnic marriages and 281 marriages under the Muslim Law Act. A notable decrease in Malay marriages under the UMLA was observed, dropping from 232 in April to 133 in May.",
+        "representative_facts": [
+            {
+                "fact_content": "1,752 marriages under Women's Charter in May 2018",
+                "fact_id": "2_1"
+            },
+            {
+                "fact_content": "1,256 marriages for Chinese under UWC in May 2018",
+                "fact_id": "2_2"
+            },
+            {
+                "fact_content": "Decrease from 232 marriages in Apr 2018 to 133 in May 2018 for Malays under UMLA",
+                "fact_id": "2_7"
+            }
+        ]
+    }
+]

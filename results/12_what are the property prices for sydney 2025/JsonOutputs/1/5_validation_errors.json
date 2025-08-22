@@ -1,0 +1,46 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "In Sydney, the median house price is forecast to rise 7 per cent to $1.83 million, a jump of $112,000 \u2014 \u201cmore than the national average annual salary,\u201d according to the report.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median house price in Sydney is forecast to rise 7 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney House Price Increase",
+                            "value": "7",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median house price in Sydney is forecast to be $1.83 million.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Median House Price",
+                            "value": "1830000",
+                            "unit": "$"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The median house price in Sydney is forecast to jump by $112,000.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney House Price Increase",
+                            "value": "112000",
+                            "unit": "$"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,670 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Pho:One of Vietnam's culinary trademarks, pho can be found in countless eateries across the country. In Hanoi, a delicious bowl of pho with beef usually costs around 1.23 USD to 4.11 USD.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A bowl of pho with beef in Hanoi costs around 1.23 USD to 4.11 USD.",
+                    "vis_data": [
+                        {
+                            "label": "Pho Price Min",
+                            "value": "1.23",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Pho Price Max",
+                            "value": "4.11",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_0_0"
+                }
+            ],
+            "relatedness_score": 0.6722090318974014,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_0"
+        },
+        {
+            "paragraph": "Banh Mi:Banh mi stalls are scattered all over Vietnam, from national highways to tiny, lesser-known alleys. The price of a banh mi typically ranges from 0.82 USD to 1.23 USD.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The price of a banh mi typically ranges from 0.82 USD to 1.23 USD.",
+                    "vis_data": [
+                        {
+                            "label": "Banh Mi Price Min",
+                            "value": "0.82",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Banh Mi Price Max",
+                            "value": "1.23",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_1_1"
+                }
+            ],
+            "relatedness_score": 0.6448771569384429,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_1"
+        },
+        {
+            "paragraph": "KFC:KFC, a globally renowned fast-food chain, has a significant presence in Vietnam. The prices of combos at KFC typically range from 2 USD for the most affordable meals to around 20 USD for special combos.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "KFC combo prices range from 2 USD to 20 USD.",
+                    "vis_data": [
+                        {
+                            "label": "KFC Combo Price Min",
+                            "value": "2",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "KFC Combo Price Max",
+                            "value": "20",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_2_2"
+                }
+            ],
+            "relatedness_score": 0.63732891631776,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_2"
+        },
+        {
+            "paragraph": "Bun Rieu:Bun rieu has long been a culinary gem in Vietnamese culture. It's a simple and cherished dish among locals and visitors. A bowl of bun rieu in Vietnam generally costs between 1.23 USD to 2.06 USD.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A bowl of bun rieu generally costs between 1.23 USD to 2.06 USD.",
+                    "vis_data": [
+                        {
+                            "label": "Bun Rieu Price Min",
+                            "value": "1.23",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Bun Rieu Price Max",
+                            "value": "2.06",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_3_3"
+                }
+            ],
+            "relatedness_score": 0.6118645493912285,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_3"
+        },
+        {
+            "paragraph": "Bun Bo Hue:As one of the dishes that encapsulates the unique flavors of the ancient capital, bun bo Hue is widely adored by tourists exploring Vietnam. A hearty bowl of bun bo Hue, rich in distinctive broth, is priced between 1.65 USD to 2.88 USD.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A bowl of bun bo Hue is priced between 1.65 USD to 2.88 USD.",
+                    "vis_data": [
+                        {
+                            "label": "Bun Bo Hue Price Min",
+                            "value": "1.65",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Bun Bo Hue Price Max",
+                            "value": "2.88",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_4_4"
+                }
+            ],
+            "relatedness_score": 0.6086815742861019,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_4"
+        },
+        {
+            "paragraph": "Jollibee:Jollibee, a fast-food chain hailing from the Philippines, has captured the taste buds of many Vietnamese consumers with delicious products like burgers and noodles. With prices ranging from 5\u00c2 USD to 8\u00c2 USD, Jollibee is an ideal choice for families and tourists alike.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Jollibee prices range from 5 USD to 8 USD.",
+                    "vis_data": [
+                        {
+                            "label": "Jollibee Price Min",
+                            "value": "5",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Jollibee Price Max",
+                            "value": "8",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_5_5"
+                }
+            ],
+            "relatedness_score": 0.5994864407311535,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_5"
+        },
+        {
+            "paragraph": "Hu Tieu:Hu tieu Nam Vang, a dish influenced by Chinese cuisine, is typically priced between 1.65 USD to 3 USD, depending on the city and eatery.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Hu tieu Nam Vang is typically priced between 1.65 USD to 3 USD.",
+                    "vis_data": [
+                        {
+                            "label": "Hu Tieu Price Min",
+                            "value": "1.65",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Hu Tieu Price Max",
+                            "value": "3",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_6_6"
+                }
+            ],
+            "relatedness_score": 0.5896861949583954,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_6"
+        },
+        {
+            "paragraph": "Lotteria:Originating from Japan, Lotteria offers popular fast food items such as burgers and fried chicken in Vietnam. Prices at Lotteria are quite similar to KFC, with meals usually costing between 2 USD and 7 USD.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Lotteria meal prices usually cost between 2 USD and 7 USD.",
+                    "vis_data": [
+                        {
+                            "label": "Lotteria Meal Price Min",
+                            "value": "2",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Lotteria Meal Price Max",
+                            "value": "7",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_7_7"
+                }
+            ],
+            "relatedness_score": 0.577564904472842,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_7"
+        },
+        {
+            "paragraph": "Nem Nuong Nha Trang:At nem nuong stalls, you can relish fresh and tasty nem nuong at a reasonable price, usually around 1.23 USD to 2.06 USD per serving.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Nem nuong is usually priced around 1.23 USD to 2.06 USD per serving.",
+                    "vis_data": [
+                        {
+                            "label": "Nem Nuong Price Min",
+                            "value": "1.23",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Nem Nuong Price Max",
+                            "value": "2.06",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_8_8"
+                }
+            ],
+            "relatedness_score": 0.5722212925861082,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_8"
+        },
+        {
+            "paragraph": "Typically, street food prices fluctuate between 1 USD to 4 USD.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Street food prices fluctuate between 1 USD to 4 USD.",
+                    "vis_data": [
+                        {
+                            "label": "Street Food Price Min",
+                            "value": "1",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Street Food Price Max",
+                            "value": "4",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_9_9"
+                }
+            ],
+            "relatedness_score": 0.5296381032982855,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_9"
+        },
+        {
+            "paragraph": "Burger King:Burger King is not only famous for its unique burgers but also for its very reasonable prices. Medium-sized meals at Burger King usually range from 2.06\u00c2 USD to 6.17 USD.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Medium-sized meals at Burger King range from 2.06 USD to 6.17 USD.",
+                    "vis_data": [
+                        {
+                            "label": "Burger King Meal Price Min",
+                            "value": "2.06",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Burger King Meal Price Max",
+                            "value": "6.17",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_10_10"
+                }
+            ],
+            "relatedness_score": 0.39692779758933505,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_10"
+        },
+        {
+            "paragraph": "Pizza Hut:For pizza lovers, Pizza Hut is a suitable option. A medium-sized pizza for two people typically costs between 6.17 USD and 10 USD, depending on the type and quantity of toppings you choose.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A medium-sized pizza at Pizza Hut costs between 6.17 USD and 10 USD.",
+                    "vis_data": [
+                        {
+                            "label": "Pizza Hut Price Min",
+                            "value": "6.17",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Pizza Hut Price Max",
+                            "value": "10",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_11_11"
+                }
+            ],
+            "relatedness_score": 0.37936502836041175,
+            "article_meta_data": {
+                "title": "Prices of Food in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.vietnamtourism.org.vn/prices-of-food-in-vietnam.html",
+                "id": 6
+            },
+            "para_id": "6_11"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "6_0",
+            "paragraph": "Pho:One of Vietnam's culinary trademarks, pho can be found in countless eateries across the country. In Hanoi, a delicious bowl of pho with beef usually costs around 1.23 USD to 4.11 USD."
+        },
+        {
+            "para_id": "6_1",
+            "paragraph": "Banh Mi:Banh mi stalls are scattered all over Vietnam, from national highways to tiny, lesser-known alleys. The price of a banh mi typically ranges from 0.82 USD to 1.23 USD."
+        },
+        {
+            "para_id": "6_2",
+            "paragraph": "KFC:KFC, a globally renowned fast-food chain, has a significant presence in Vietnam. The prices of combos at KFC typically range from 2 USD for the most affordable meals to around 20 USD for special combos."
+        },
+        {
+            "para_id": "6_3",
+            "paragraph": "Bun Rieu:Bun rieu has long been a culinary gem in Vietnamese culture. It's a simple and cherished dish among locals and visitors. A bowl of bun rieu in Vietnam generally costs between 1.23 USD to 2.06 USD."
+        },
+        {
+            "para_id": "6_4",
+            "paragraph": "Bun Bo Hue:As one of the dishes that encapsulates the unique flavors of the ancient capital, bun bo Hue is widely adored by tourists exploring Vietnam. A hearty bowl of bun bo Hue, rich in distinctive broth, is priced between 1.65 USD to 2.88 USD."
+        },
+        {
+            "para_id": "6_5",
+            "paragraph": "Jollibee:Jollibee, a fast-food chain hailing from the Philippines, has captured the taste buds of many Vietnamese consumers with delicious products like burgers and noodles. With prices ranging from 5\u00c2 USD to 8\u00c2 USD, Jollibee is an ideal choice for families and tourists alike."
+        },
+        {
+            "para_id": "6_6",
+            "paragraph": "Hu Tieu:Hu tieu Nam Vang, a dish influenced by Chinese cuisine, is typically priced between 1.65 USD to 3 USD, depending on the city and eatery."
+        },
+        {
+            "para_id": "6_7",
+            "paragraph": "Lotteria:Originating from Japan, Lotteria offers popular fast food items such as burgers and fried chicken in Vietnam. Prices at Lotteria are quite similar to KFC, with meals usually costing between 2 USD and 7 USD."
+        },
+        {
+            "para_id": "6_8",
+            "paragraph": "Nem Nuong Nha Trang:At nem nuong stalls, you can relish fresh and tasty nem nuong at a reasonable price, usually around 1.23 USD to 2.06 USD per serving."
+        },
+        {
+            "para_id": "6_9",
+            "paragraph": "Typically, street food prices fluctuate between 1 USD to 4 USD."
+        },
+        {
+            "para_id": "6_10",
+            "paragraph": "Burger King:Burger King is not only famous for its unique burgers but also for its very reasonable prices. Medium-sized meals at Burger King usually range from 2.06\u00c2 USD to 6.17 USD."
+        },
+        {
+            "para_id": "6_11",
+            "paragraph": "Pizza Hut:For pizza lovers, Pizza Hut is a suitable option. A medium-sized pizza for two people typically costs between 6.17 USD and 10 USD, depending on the type and quantity of toppings you choose."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "A bowl of pho with beef in Hanoi costs around 1.23 USD to 4.11 USD."
+        },
+        {
+            "fact_id": "6_1_1",
+            "fact_content": "The price of a banh mi typically ranges from 0.82 USD to 1.23 USD."
+        },
+        {
+            "fact_id": "6_2_2",
+            "fact_content": "KFC combo prices range from 2 USD to 20 USD."
+        },
+        {
+            "fact_id": "6_3_3",
+            "fact_content": "A bowl of bun rieu generally costs between 1.23 USD to 2.06 USD."
+        },
+        {
+            "fact_id": "6_4_4",
+            "fact_content": "A bowl of bun bo Hue is priced between 1.65 USD to 2.88 USD."
+        },
+        {
+            "fact_id": "6_5_5",
+            "fact_content": "Jollibee prices range from 5 USD to 8 USD."
+        },
+        {
+            "fact_id": "6_6_6",
+            "fact_content": "Hu tieu Nam Vang is typically priced between 1.65 USD to 3 USD."
+        },
+        {
+            "fact_id": "6_7_7",
+            "fact_content": "Lotteria meal prices usually cost between 2 USD and 7 USD."
+        },
+        {
+            "fact_id": "6_8_8",
+            "fact_content": "Nem nuong is usually priced around 1.23 USD to 2.06 USD per serving."
+        },
+        {
+            "fact_id": "6_9_9",
+            "fact_content": "Street food prices fluctuate between 1 USD to 4 USD."
+        },
+        {
+            "fact_id": "6_10_10",
+            "fact_content": "Medium-sized meals at Burger King range from 2.06 USD to 6.17 USD."
+        },
+        {
+            "fact_id": "6_11_11",
+            "fact_content": "A medium-sized pizza at Pizza Hut costs between 6.17 USD and 10 USD."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "A bowl of pho with beef in Hanoi costs around 1.23 USD to 4.11 USD.",
+            "vis_data": [
+                {
+                    "label": "Pho Price Min",
+                    "value": "1.23",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Pho Price Max",
+                    "value": "4.11",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The price of a banh mi typically ranges from 0.82 USD to 1.23 USD.",
+            "vis_data": [
+                {
+                    "label": "Banh Mi Price Min",
+                    "value": "0.82",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Banh Mi Price Max",
+                    "value": "1.23",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "KFC combo prices range from 2 USD to 20 USD.",
+            "vis_data": [
+                {
+                    "label": "KFC Combo Price Min",
+                    "value": "2",
+                    "unit": "USD"
+                },
+                {
+                    "label": "KFC Combo Price Max",
+                    "value": "20",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_2_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "A bowl of bun rieu generally costs between 1.23 USD to 2.06 USD.",
+            "vis_data": [
+                {
+                    "label": "Bun Rieu Price Min",
+                    "value": "1.23",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Bun Rieu Price Max",
+                    "value": "2.06",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_3_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "A bowl of bun bo Hue is priced between 1.65 USD to 2.88 USD.",
+            "vis_data": [
+                {
+                    "label": "Bun Bo Hue Price Min",
+                    "value": "1.65",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Bun Bo Hue Price Max",
+                    "value": "2.88",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_4_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Jollibee prices range from 5 USD to 8 USD.",
+            "vis_data": [
+                {
+                    "label": "Jollibee Price Min",
+                    "value": "5",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Jollibee Price Max",
+                    "value": "8",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_5_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Hu tieu Nam Vang is typically priced between 1.65 USD to 3 USD.",
+            "vis_data": [
+                {
+                    "label": "Hu Tieu Price Min",
+                    "value": "1.65",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Hu Tieu Price Max",
+                    "value": "3",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_6_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Lotteria meal prices usually cost between 2 USD and 7 USD.",
+            "vis_data": [
+                {
+                    "label": "Lotteria Meal Price Min",
+                    "value": "2",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Lotteria Meal Price Max",
+                    "value": "7",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_7_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Nem nuong is usually priced around 1.23 USD to 2.06 USD per serving.",
+            "vis_data": [
+                {
+                    "label": "Nem Nuong Price Min",
+                    "value": "1.23",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Nem Nuong Price Max",
+                    "value": "2.06",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_8_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Street food prices fluctuate between 1 USD to 4 USD.",
+            "vis_data": [
+                {
+                    "label": "Street Food Price Min",
+                    "value": "1",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Street Food Price Max",
+                    "value": "4",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_9_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Medium-sized meals at Burger King range from 2.06 USD to 6.17 USD.",
+            "vis_data": [
+                {
+                    "label": "Burger King Meal Price Min",
+                    "value": "2.06",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Burger King Meal Price Max",
+                    "value": "6.17",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_10_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "A medium-sized pizza at Pizza Hut costs between 6.17 USD and 10 USD.",
+            "vis_data": [
+                {
+                    "label": "Pizza Hut Price Min",
+                    "value": "6.17",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Pizza Hut Price Max",
+                    "value": "10",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_11_11"
+        }
+    ]
+}

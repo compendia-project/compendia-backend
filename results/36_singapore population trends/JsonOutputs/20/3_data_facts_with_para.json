@@ -1,0 +1,87 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "The population of Singapore is expected to grow by 41,000 in 2025 and reach 6,129,000 in 2026. Migration (including immigration and emigration) increases population by 29,844 people yearly. On average there are 49,414 births and 38,367 deaths in Singapore per year. Rate of natural increase is approximately 0.18 percent per year. The population density of Singapore has changed from 3,602.9 in 1980 to 8,686.9 in 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population of Singapore is expected to grow by 41,000 in 2025."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population of Singapore is expected to reach 6,129,000 in 2026."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Migration increases population by 29,844 people yearly."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "There are 49,414 births in Singapore per year."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "There are 38,367 deaths in Singapore per year."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Rate of natural increase is approximately 0.18 percent per year."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The population density of Singapore has changed from 3,602.9 in 1980 to 8,686.9 in 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2024 the population of Singapore was 6,049,000 and the average age increased from 22.8 in 1960 to 43.0. Urban population has increased from 4,027,887 (100.0%) in 2000 to 6,090,000 (100.0%) in the current year. The population density of Singapore has changed from 3,602.9 in 1980 to 8,686.9 in 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 2024 the population of Singapore was 6,049,000."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The average age increased from 22.8 in 1960 to 43.0."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Urban population has increased from 4,027,887 in 2000 to 6,090,000 in the current year."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The population density of Singapore has changed from 3,602.9 in 1980 to 8,686.9 in 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "The demographics of Singapore constitutes of 3,080,000 women and 3,010,000 men, which means there are 977 men per 1000 women. As far as age distribution goes, 18.4% of population (1,122,387) is 19 or younger, 62.4% of population (3,798,942) is between age 20 and 64 and 19.2% of population (1,171,107) is over 65.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The demographics of Singapore constitutes of 3,080,000 women."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The demographics of Singapore constitutes of 3,010,000 men."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "There are 977 men per 1000 women."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "18.4% of population (1,122,387) is 19 or younger."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "62.4% of population (3,798,942) is between age 20 and 64."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "19.2% of population (1,171,107) is over 65."
+                }
+            ]
+        }
+    ]
+}

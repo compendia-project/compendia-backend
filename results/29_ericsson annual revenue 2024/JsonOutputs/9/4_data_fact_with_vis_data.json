@@ -1,0 +1,166 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Sales declined by -1%* YoY, with strong growth in market area North America of 55%* offset by declines in most other market areas. Reported sales were SEK 61.8 (64.5) b.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sales declined by -1% YoY.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Decline",
+                            "value": "-1",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Strong growth in market area North America of 55%.",
+                    "vis_data": [
+                        {
+                            "label": "North America Growth",
+                            "value": "55",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Reported sales were SEK 61.8 b.",
+                    "vis_data": [
+                        {
+                            "label": "Reported Sales",
+                            "value": "61.8",
+                            "unit": "SEK b"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Adjusted[1] gross income increased to SEK 28.6 (25.3) b. driven by a strong expansion in Networks adjusted[1] gross margin to 48.7% (39.9%). Reported gross income was SEK 28.2 (24.7) b.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted gross income increased to SEK 28.6 b.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted Gross Income",
+                            "value": "28.6",
+                            "unit": "SEK b"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Reported gross income was SEK 28.2 b.",
+                    "vis_data": [
+                        {
+                            "label": "Reported Gross Income",
+                            "value": "28.2",
+                            "unit": "SEK b"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Adjusted[1] gross margin was 46.3% (39.2%) mainly due to market mix, commercial discipline, and cost actions. A customer settlement and increased IPR revenues also contributed. Reported gross margin was 45.6% (38.4%).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted gross margin was 46.3%.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted Gross Margin",
+                            "value": "46.3",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Reported gross margin was 45.6%.",
+                    "vis_data": [
+                        {
+                            "label": "Reported Gross Margin",
+                            "value": "45.6",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Adjusted[1] EBITA was SEK 7.8 (4.7) b. with a 12.6% (7.3%) margin, benefiting from higher gross income and cost reduction actions, partly offset by targeted investments in R&D. EBITA was SEK 6.2 (3.8) b.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted EBITA was SEK 7.8 b.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted EBITA",
+                            "value": "7.8",
+                            "unit": "SEK b"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "EBITA was SEK 6.2 b.",
+                    "vis_data": [
+                        {
+                            "label": "EBITA",
+                            "value": "6.2",
+                            "unit": "SEK b"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Net income was SEK 3.9 (-30.5) b. EPS diluted was SEK 1.14 (-9.21).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Net income was SEK 3.9 b.",
+                    "vis_data": [
+                        {
+                            "label": "Net Income",
+                            "value": "3.9",
+                            "unit": "SEK b"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "EPS diluted was SEK 1.14.",
+                    "vis_data": [
+                        {
+                            "label": "EPS Diluted",
+                            "value": "1.14",
+                            "unit": "SEK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Free cash flow before M&A was SEK 12.9 (-0.5) b. benefiting from strong inventory management and market mix.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Free cash flow before M&A was SEK 12.9 b.",
+                    "vis_data": [
+                        {
+                            "label": "Free Cash Flow",
+                            "value": "12.9",
+                            "unit": "SEK b"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

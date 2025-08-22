@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day.",
+                    "vis_data": [
+                        {
+                            "label": "Australians reducing heart disease risk",
+                            "value": "90",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "12_0_0"
+                }
+            ],
+            "relatedness_score": 0.42212264606201266,
+            "article_meta_data": {
+                "title": "Physical activity and your heart health",
+                "date": "2025-02-03",
+                "url": "https://www.heartfoundation.org.au/healthy-living/physical-activity/physical-activity-and-exercise",
+                "id": 12
+            },
+            "para_id": "12_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "12_0",
+            "paragraph": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "12_0_0",
+            "fact_content": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day.",
+            "vis_data": [
+                {
+                    "label": "Australians reducing heart disease risk",
+                    "value": "90",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "12_0_0"
+        }
+    ]
+}

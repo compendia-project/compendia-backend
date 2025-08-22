@@ -1,0 +1,108 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "An important innovation in the 12th century was the introduction of the flying buttress. Before the buttresses, all of the weight of the roof pressed outward and down to the walls, and the abutments supporting them. With the flying buttress, the weight was carried by the ribs of the vault entirely outside the structure to a series of counter-supports, which were topped with stone pinnacles which gave them greater weight. The buttresses meant that the walls could be higher and thinner, and could have larger windows. The date of the first buttresses is not known with precision beyond an installation date in the 12th century. Art historian Andrew Tallon has argued, based on detailed laser scans of the entire structure, that the buttresses were part of the original design. According to Tallon, the scans indicate that \"the upper part of the building has not moved one smidgen in 800 years,\" whereas if they were added later some movement from prior to their addition would be expected. Tallon thus concluded that flying buttresses were present from the outset. The first buttresses were replaced by larger and stronger ones in the 14th century; these had a reach of fifteen metres (50 ft) between the walls and counter-supports.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The first buttresses had a reach of fifteen metres (50 ft) between the walls and counter-supports.",
+                    "vis_data": [
+                        {
+                            "label": "Buttress Reach",
+                            "value": "15",
+                            "unit": "metres"
+                        }
+                    ],
+                    "error": [
+                        "Inconsistent unit usage: 'metres' is used in vis_data, but '50 ft' is also mentioned in the paragraph. Consider standardizing units for clarity."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The two towers are 69 metres (226 ft) high. The towers were the last major element of the cathedral to be constructed. The south tower was built first, between 1220 and 1240, and the north tower between 1235 and 1250. The newer north tower is slightly larger, as can be seen when they are viewed from directly in front of the church. The contrefort or buttress of the north tower is also larger. The cathedral's main peal of bells is within these towers.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The two towers are 69 metres (226 ft) high.",
+                    "vis_data": [
+                        {
+                            "label": "Tower Height",
+                            "value": "69",
+                            "unit": "metres"
+                        }
+                    ],
+                    "error": [
+                        "Inconsistent units: 'metres' and 'ft' are both mentioned. Consider standardizing to one unit for visualization."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The cathedral's fl\u00e8che (or spirelet) was located over the transept. The original fl\u00e8che was constructed in the 13th century, probably between 1220 and 1230. It was battered, weakened and bent by the wind over five centuries, and was removed in 1786. During the 19th-century restoration, Viollet-le-Duc recreated it, making a new version of oak covered with lead. The entire fl\u00e8che weighed 750 tonnes.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The entire fl\u00e8che weighed 750 tonnes.",
+                    "vis_data": [
+                        {
+                            "label": "Fl\u00e8che Weight",
+                            "value": "750",
+                            "unit": "tonnes"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The stained glass windows of Notre-Dame, particularly the three rose windows, are among the most famous features of the cathedral. The west rose window, over the portals, was the first and smallest of the roses in Notre-Dame. It is 9.6 metres (31 ft) in diameter, and was made in about 1225, with the pieces of glass set in a thick circular stone frame. None of the original glass remains in this window; it was recreated in the 19th century.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The west rose window is 9.6 metres (31 ft) in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "West Rose Diameter",
+                            "value": "9.6",
+                            "unit": "metres"
+                        }
+                    ],
+                    "error": [
+                        "Inconsistent units: 'metres' and 'ft' are mentioned. Consider standardizing to one unit for visualization."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The two transept windows are larger and contain a greater proportion of glass than the rose on the west fa\u00e7ade, because the new system of buttresses made the nave walls thinner and stronger. The north rose was created in about 1250, and the south rose in about 1260. The south rose in the transept is 12.9 metres (42 ft) in diameter; with the claire-voie surrounding it, a total of 19 metres (62 ft). It was given to the cathedral by King Louis IX of France, known as Saint Louis.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The south rose in the transept is 12.9 metres (42 ft) in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "South Rose Diameter",
+                            "value": "12.9",
+                            "unit": "metres"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "With the claire-voie surrounding it, the south rose in the transept has a total diameter of 19 metres (62 ft).",
+                    "vis_data": [
+                        {
+                            "label": "South Rose Total Diameter",
+                            "value": "19",
+                            "unit": "metres"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

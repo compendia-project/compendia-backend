@@ -1,0 +1,75 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Singapore SG: UCB Projection: Population: Mid Year data was reported at 8,609,518.000 Person in 2050. This records an increase from the previous number of 8,562,229.000 Person for 2049. Singapore SG: UCB Projection: Population: Mid Year data is updated yearly, averaging 4,063,333.000 Person from Jun 1950 (Median) to 2050, with 101 observations. The data reached an all-time high of 8,609,518.000 Person in 2050 and a record low of 1,022,100.000 Person in 1950. Singapore SG: UCB Projection: Population: Mid Year data remains active status in CEIC and is reported by US Census Bureau. The data is categorized under Global Database\u2019s Singapore \u2013 Table SG.US Census Bureau: Demographic Projection.', \"View Singapore's Singapore SG: UCB Projection: Population: Mid Year from 1950 to 2050 in the chart:max1y5y10ybarlineareasplineareasplinecolumnApplyGet this dataThere is no data available for your selected dates.max1y5y10ybarlineareasplineareasplinecolumnApplyGet this dataThere is no data available for your selected dates.\", \"What was Singapore's Singapore SG: UCB Projection: Population: Mid Year in 2050?LastPreviousMinMaxUnitFrequencyRange8,609,518.0020508,562,229.0020491,022,100.0019508,609,518.002050Personyearly1950 - 2050\", 'Related Indicators for Singapore SG: UCB Projection: Population: Mid YearRelated indicatorsLastFrequencyRangeSingapore SG: UCB Projection: Population: Mid Year (Person)8,609,518.002050yearly1950 - 2050Singapore UCB Projection: Population: Mid Year (Person)8,609,518.0002050yearly1950 - 2050']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore's population is projected to be 8,609,518 in 2050.",
+                    "vis_data": [
+                        {
+                            "label": "Population 2050",
+                            "value": "8609518",
+                            "unit": "Person"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore's population was 8,562,229 in 2049.",
+                    "vis_data": [
+                        {
+                            "label": "Population 2049",
+                            "value": "8562229",
+                            "unit": "Person"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Singapore's population increased from 8,562,229 in 2049 to 8,609,518 in 2050.",
+                    "vis_data": [
+                        {
+                            "label": "Population Increase",
+                            "value": "47389",
+                            "unit": "Person"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The all-time high population for Singapore is projected to be 8,609,518 in 2050.",
+                    "vis_data": [
+                        {
+                            "label": "All-time High Population",
+                            "value": "8609518",
+                            "unit": "Person"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The record low population for Singapore was 1,022,100 in 1950.",
+                    "vis_data": [
+                        {
+                            "label": "Record Low Population",
+                            "value": "1022100",
+                            "unit": "Person"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average population of Singapore from 1950 to 2050 is 4,063,333.",
+                    "vis_data": [
+                        {
+                            "label": "Average Population 1950-2050",
+                            "value": "4063333",
+                            "unit": "Person"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

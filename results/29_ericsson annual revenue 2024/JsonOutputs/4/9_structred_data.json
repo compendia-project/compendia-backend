@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "We see further signs that the overall RAN market is now stabilizing, with strong growth in North America supporting a return to Networks sales growth in Q4. Progress on operational excellence continued, with commercial discipline and supply chain efficiency actions supporting a strong adjustedGroup gross margin of 46.3% in the quarter. We are not yet at our long-term EBITA goal, but we are progressing towards it, supported by our strategic actions.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted Group gross margin of 46.3% in the quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted Group Gross Margin",
+                            "value": "46.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_0_0"
+                }
+            ],
+            "relatedness_score": 0.41531575392794207,
+            "article_meta_data": {
+                "title": "Ericsson reports fourth quarter results and full-year results 2024",
+                "date": "2025-01-24",
+                "url": "https://www.inderes.se/en/releases/ericsson-reports-fourth-quarter-results-and-full-year-results-2024",
+                "id": 4
+            },
+            "para_id": "4_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "4_0",
+            "paragraph": "We see further signs that the overall RAN market is now stabilizing, with strong growth in North America supporting a return to Networks sales growth in Q4. Progress on operational excellence continued, with commercial discipline and supply chain efficiency actions supporting a strong adjustedGroup gross margin of 46.3% in the quarter. We are not yet at our long-term EBITA goal, but we are progressing towards it, supported by our strategic actions."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "4_0_0",
+            "fact_content": "Adjusted Group gross margin of 46.3% in the quarter."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Adjusted Group gross margin of 46.3% in the quarter.",
+            "vis_data": [
+                {
+                    "label": "Adjusted Group Gross Margin",
+                    "value": "46.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_0_0"
+        }
+    ]
+}

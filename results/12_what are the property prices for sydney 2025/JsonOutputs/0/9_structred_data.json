@@ -1,0 +1,436 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "['Domain is forecasting Australian property prices to jump to fresh record highs in 2025-26, creating more pain for first-home hopefuls.', \"According to Domain's latest Price Forecast Report, Sydney and Melbourne prices will lead the charge in the next 12 months.\", 'The median house price in Sydney is forecast to jump by another 7 per cent in 2025-26, to a staggering $1.83 million by June 2026.', 'It means the typical house price in Sydney will rise by $112,000, which is more than the average full-time worker earns before tax ($103,000).', 'The median unit price in Sydney is forecast to jump by 6 per cent in 2025-26 (up $53,000 in 12 months) to $889,000, which will be a record high.']",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Increase",
+                            "value": "7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1830000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_0_1"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The typical house price in Sydney will rise by $112,000.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Increase",
+                            "value": "112000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average full-time worker earns $103,000 before tax.",
+                    "vis_data": [
+                        {
+                            "label": "Average Full-time Earnings",
+                            "value": "103000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_0_3"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26.",
+                    "vis_data": [
+                        {
+                            "label": "Unit Price Increase",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_0_4"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months.",
+                    "vis_data": [
+                        {
+                            "label": "Unit Price Increase",
+                            "value": "53000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_0_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median unit price in Sydney is forecast to be $889,000.",
+                    "vis_data": [
+                        {
+                            "label": "Median Unit Price",
+                            "value": "889000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_0_6"
+                }
+            ],
+            "relatedness_score": 0.6542318280113657,
+            "article_meta_data": {
+                "title": "Property prices tipped to hit record highs in 2025-26",
+                "date": "2025-06-18",
+                "url": "https://www.abc.net.au/news/2025-06-19/property-prices-to-hit-record-highs-in-2026-profit-for-sellers/105432512",
+                "id": 0
+            },
+            "para_id": "0_0"
+        },
+        {
+            "paragraph": "['Domain is forecasting Australian property prices to jump to fresh record highs in 2025-26, creating more pain for first-home hopefuls.', \"According to Domain's latest Price Forecast Report, Sydney and Melbourne prices will lead the charge in the next 12 months.\", 'The median house price in Sydney is forecast to jump by another 7 per cent in 2025-26, to a staggering $1.83 million by June 2026.', 'It means the typical house price in Sydney will rise by $112,000, which is more than the average full-time worker earns before tax ($103,000).', 'The median unit price in Sydney is forecast to jump by 6 per cent in 2025-26 (up $53,000 in 12 months) to $889,000, which will be a record high.']",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Increase",
+                            "value": "7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_1_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1830000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_1_8"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The typical house price in Sydney will rise by $112,000.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Increase",
+                            "value": "112000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_1_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average full-time worker earns $103,000 before tax.",
+                    "vis_data": [
+                        {
+                            "label": "Average Full-time Earnings",
+                            "value": "103000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_1_10"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26.",
+                    "vis_data": [
+                        {
+                            "label": "Unit Price Increase",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_1_11"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months.",
+                    "vis_data": [
+                        {
+                            "label": "Unit Price Increase",
+                            "value": "53000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_1_12"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median unit price in Sydney is forecast to be $889,000.",
+                    "vis_data": [
+                        {
+                            "label": "Median Unit Price",
+                            "value": "889000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_1_13"
+                }
+            ],
+            "relatedness_score": 0.6541674727855119,
+            "article_meta_data": {
+                "title": "Property prices tipped to hit record highs in 2025-26",
+                "date": "2025-06-18",
+                "url": "https://www.abc.net.au/news/2025-06-19/property-prices-to-hit-record-highs-in-2026-profit-for-sellers/105432512",
+                "id": 0
+            },
+            "para_id": "0_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "0_0",
+            "paragraph": "['Domain is forecasting Australian property prices to jump to fresh record highs in 2025-26, creating more pain for first-home hopefuls.', \"According to Domain's latest Price Forecast Report, Sydney and Melbourne prices will lead the charge in the next 12 months.\", 'The median house price in Sydney is forecast to jump by another 7 per cent in 2025-26, to a staggering $1.83 million by June 2026.', 'It means the typical house price in Sydney will rise by $112,000, which is more than the average full-time worker earns before tax ($103,000).', 'The median unit price in Sydney is forecast to jump by 6 per cent in 2025-26 (up $53,000 in 12 months) to $889,000, which will be a record high.']"
+        },
+        {
+            "para_id": "0_1",
+            "paragraph": "['Domain is forecasting Australian property prices to jump to fresh record highs in 2025-26, creating more pain for first-home hopefuls.', \"According to Domain's latest Price Forecast Report, Sydney and Melbourne prices will lead the charge in the next 12 months.\", 'The median house price in Sydney is forecast to jump by another 7 per cent in 2025-26, to a staggering $1.83 million by June 2026.', 'It means the typical house price in Sydney will rise by $112,000, which is more than the average full-time worker earns before tax ($103,000).', 'The median unit price in Sydney is forecast to jump by 6 per cent in 2025-26 (up $53,000 in 12 months) to $889,000, which will be a record high.']"
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26."
+        },
+        {
+            "fact_id": "0_0_1",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026."
+        },
+        {
+            "fact_id": "0_0_2",
+            "fact_content": "The typical house price in Sydney will rise by $112,000."
+        },
+        {
+            "fact_id": "0_0_3",
+            "fact_content": "The average full-time worker earns $103,000 before tax."
+        },
+        {
+            "fact_id": "0_0_4",
+            "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26."
+        },
+        {
+            "fact_id": "0_0_5",
+            "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months."
+        },
+        {
+            "fact_id": "0_0_6",
+            "fact_content": "The median unit price in Sydney is forecast to be $889,000."
+        },
+        {
+            "fact_id": "0_1_7",
+            "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26."
+        },
+        {
+            "fact_id": "0_1_8",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026."
+        },
+        {
+            "fact_id": "0_1_9",
+            "fact_content": "The typical house price in Sydney will rise by $112,000."
+        },
+        {
+            "fact_id": "0_1_10",
+            "fact_content": "The average full-time worker earns $103,000 before tax."
+        },
+        {
+            "fact_id": "0_1_11",
+            "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26."
+        },
+        {
+            "fact_id": "0_1_12",
+            "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months."
+        },
+        {
+            "fact_id": "0_1_13",
+            "fact_content": "The median unit price in Sydney is forecast to be $889,000."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26.",
+            "vis_data": [
+                {
+                    "label": "House Price Increase",
+                    "value": "7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026.",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1830000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_0_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The typical house price in Sydney will rise by $112,000.",
+            "vis_data": [
+                {
+                    "label": "House Price Increase",
+                    "value": "112000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The average full-time worker earns $103,000 before tax.",
+            "vis_data": [
+                {
+                    "label": "Average Full-time Earnings",
+                    "value": "103000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_0_3"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26.",
+            "vis_data": [
+                {
+                    "label": "Unit Price Increase",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_0_4"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months.",
+            "vis_data": [
+                {
+                    "label": "Unit Price Increase",
+                    "value": "53000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_0_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median unit price in Sydney is forecast to be $889,000.",
+            "vis_data": [
+                {
+                    "label": "Median Unit Price",
+                    "value": "889000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_0_6"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26.",
+            "vis_data": [
+                {
+                    "label": "House Price Increase",
+                    "value": "7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_1_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026.",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1830000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_1_8"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The typical house price in Sydney will rise by $112,000.",
+            "vis_data": [
+                {
+                    "label": "House Price Increase",
+                    "value": "112000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_1_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The average full-time worker earns $103,000 before tax.",
+            "vis_data": [
+                {
+                    "label": "Average Full-time Earnings",
+                    "value": "103000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_1_10"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26.",
+            "vis_data": [
+                {
+                    "label": "Unit Price Increase",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_1_11"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months.",
+            "vis_data": [
+                {
+                    "label": "Unit Price Increase",
+                    "value": "53000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_1_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median unit price in Sydney is forecast to be $889,000.",
+            "vis_data": [
+                {
+                    "label": "Median Unit Price",
+                    "value": "889000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_1_13"
+        }
+    ]
+}

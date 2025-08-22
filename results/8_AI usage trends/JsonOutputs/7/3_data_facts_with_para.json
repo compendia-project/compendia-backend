@@ -1,0 +1,39 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Although many businesses have explored generative AI through proofs of concept, fewer have fully integrated it into their operations. In a September 2024 research report, Informa TechTarget's Enterprise Strategy Group found that, although over 90% of organizations had increased their generative AI use over the previous year, only 8% considered their initiatives mature.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Over 90% of organizations had increased their generative AI use over the previous year."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Only 8% of organizations considered their generative AI initiatives mature."
+                }
+            ]
+        },
+        {
+            "paragraph": "Amid the persistent generative AI hype, it can be easy to forget that the technology is still relatively new. Many people either haven't used it at all or don't use it regularly: A recent research paper found that, as of August 2024, less than half of Americans aged 18 to 64 use generative AI, and just over a quarter use it at work.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Less than half of Americans aged 18 to 64 use generative AI."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Just over a quarter of Americans aged 18 to 64 use generative AI at work."
+                }
+            ]
+        },
+        {
+            "paragraph": "Audio generators can enable hackers to impersonate a victim's trusted contacts, such as a spouse or colleague. Video generation has so far been less common, as it's more expensive and offers more opportunities for error. But, in a highly publicized incident earlier this year, scammers successfully impersonated a company's CFO and other staff members on a video call using deepfakes, leading a finance worker to send $25 million to fraudulent accounts.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Scammers successfully impersonated a company's CFO and other staff members on a video call using deepfakes, leading a finance worker to send $25 million to fraudulent accounts."
+                }
+            ]
+        }
+    ]
+}

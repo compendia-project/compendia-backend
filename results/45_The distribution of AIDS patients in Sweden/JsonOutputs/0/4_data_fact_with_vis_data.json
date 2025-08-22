@@ -1,0 +1,58 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "From the end of the 1980s to the early 2000s, infection rate in Sweden was about 300 new cases per year, then the rate increased.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Infection rate in Sweden was about 300 new cases per year from the end of the 1980s to the early 2000s.",
+                    "vis_data": [
+                        {
+                            "label": "Infection Rate",
+                            "value": "300",
+                            "unit": "cases/year"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Today, about 8,000 people with HIV live in Sweden. Approximately 400-500 new cases of HIV are reported each year. The median age for those who were diagnosed with HIV in 2019 in Sweden was 38 years, with a spread between 0\u201375 years. The majority of the new HIV diagnoses in Sweden consist of cases where the HIV infection has been transmitted before migration to Sweden.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "About 8,000 people with HIV live in Sweden.",
+                    "vis_data": [
+                        {
+                            "label": "People with HIV",
+                            "value": "8000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Approximately 400-500 new cases of HIV are reported each year.",
+                    "vis_data": [
+                        {
+                            "label": "New HIV Cases",
+                            "value": "450",
+                            "unit": "cases/year"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age for those who were diagnosed with HIV in 2019 in Sweden was 38 years.",
+                    "vis_data": [
+                        {
+                            "label": "Median Age of Diagnosis",
+                            "value": "38",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In 2024, a total of 7,382 marriages ended in a divorce or an annulment, a 3.7 per cent increase from 7,118 in 2023, according to data from the Department of Statistics Singapore (DOS) on July 7.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "7,382 marriages ended in a divorce or an annulment in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Divorces/Annulments in 2024",
+                            "value": "7382",
+                            "unit": "marriages"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "3.7% increase in divorces or annulments from 2023 to 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in divorces/annulments",
+                            "value": "3.7",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6490070241474023
+        },
+        {
+            "paragraph": "The median age at which people got married in 2024 remained similar to that in 2023. Grooms in Singapore got married at the median age of31.1, while brides wedded at the median age of29.6 in 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Grooms got married at the median age of 31.1 in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Median age grooms 2024",
+                            "value": "31.1",
+                            "unit": "years"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Brides got married at the median age of 29.6 in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Median age brides 2024",
+                            "value": "29.6",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6250870664071775
+        },
+        {
+            "paragraph": "A total of 26,328 couples registered their marriages in 2024, down from 28,310 in 2023 and 29,389 in 2022, during a post-pandemic surge when Covid-19 rules were relaxed. The 2022 figure is the highest since data on marriages was first published in 1961.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "26,328 couples registered their marriages in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2024",
+                            "value": "26328",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "28,310 couples registered their marriages in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2023",
+                            "value": "28310",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "29,389 couples registered their marriages in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Marriages in 2022",
+                            "value": "29389",
+                            "unit": "couples"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The 2022 figure of 29,389 is the highest since data on marriages was first published in 1961.",
+                    "vis_data": [
+                        {
+                            "label": "Highest marriages since 1961",
+                            "value": "29389",
+                            "unit": "couples"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4921042677088818
+        },
+        {
+            "paragraph": "The number of civil marriages involving brides aged 25 to 29fell by 988 in 2024, andby 506for those aged 30 to 34.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The number of civil marriages involving brides aged 25 to 29 fell by 988 in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Decline in brides 25-29",
+                            "value": "988",
+                            "unit": "marriages"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The number of civil marriages involving brides aged 30 to 34 fell by 506 in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Decline in brides 30-34",
+                            "value": "506",
+                            "unit": "marriages"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4678074698496997
+        },
+        {
+            "paragraph": "Similarly, civil marriages involving grooms aged 25 to 29fell by 758 in 2024, andby 583for those aged 30 to 34.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Civil marriages involving grooms aged 25 to 29 fell by 758 in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Decline in grooms 25-29",
+                            "value": "758",
+                            "unit": "marriages"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Civil marriages involving grooms aged 30 to 34 fell by 583 in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Decline in grooms 30-34",
+                            "value": "583",
+                            "unit": "marriages"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4671936897509672
+        },
+        {
+            "paragraph": "Marriages have been more stable in recent years. The average number of marital dissolutions per year between 2020 and 2024 was 7,291, lower than the yearly average of 7,536 between 2015 and 2019.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average number of marital dissolutions per year between 2020 and 2024 was 7,291.",
+                    "vis_data": [
+                        {
+                            "label": "Avg dissolutions 2020-2024",
+                            "value": "7291",
+                            "unit": "marriages"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The yearly average of marital dissolutions between 2015 and 2019 was 7,536.",
+                    "vis_data": [
+                        {
+                            "label": "Avg dissolutions 2015-2019",
+                            "value": "7536",
+                            "unit": "marriages"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.45585270308549797
+        }
+    ]
+}

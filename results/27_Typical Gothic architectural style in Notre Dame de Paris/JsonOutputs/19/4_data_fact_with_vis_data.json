@@ -1,0 +1,36 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Gothic cathedrals have large walls of windows displaying colors from streaming sunlight, are encircled by a spider network of flying buttresses, and topped with ornamental gargoyles. Gothic architecture became a familiar feature of many great churches and castles in this period and led to towns competing to build the most significant and grandest cathedrals. Building a cathedral consumed the labor of surrounding towns, and occasionally took over 100 years to complete. Gothic cathedrals began to rise from the ground, stone by stone, to higher and higher heights, throughout the Western European Catholic region.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Building a cathedral occasionally took over 100 years to complete.",
+                    "vis_data": [
+                        {
+                            "label": "Cathedral Construction Time",
+                            "value": "100",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The cathedral was built in parts; the choir area from 1163 to 1177 CE, the high altar finished in 1218 CE, the transepts and nave by 1208 CE, and the western fa\u00e7ade and finishing details all finally completed by 1240 CE. Over the years, many different architects worked on the design of the building resulting in distinctive styles and heights of different sections and towers. Each architect specialized in distinct aspects of the building; for example, the work of one architect was to oversee the assembly of the rose windows. Other architects focused on the great halls beneath the towers.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The choir area was built from 1163 to 1177 CE.",
+                    "vis_data": [
+                        {
+                            "label": "Choir Area Construction",
+                            "value": "14",
+                            "unit": "years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

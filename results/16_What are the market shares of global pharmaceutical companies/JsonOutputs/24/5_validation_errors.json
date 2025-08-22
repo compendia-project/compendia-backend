@@ -1,0 +1,126 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "1.Eli Lilly and Company (NYSE:LLY)Company ProfileMarket cap:US$772.11 billionFounded in 1876, Eli Lilly and Company employs approximately 10,000 individuals for research and development in seven countries and has products marketed in 110 countries, including therapies for diabetes, cancer, immune system diseases and a wide range of mental health conditions. The company also has drugs in development for various medical conditions, such as skin ailments, cancers, Crohn's disease, diabetes, obesity and Alzheimer's disease.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Eli Lilly and Company market cap is US$772.11 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Eli Lilly Market Cap",
+                            "value": "772.11",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Eli Lilly and Company employs approximately 10,000 individuals for research and development.",
+                    "vis_data": [
+                        {
+                            "label": "Eli Lilly R&D Employees",
+                            "value": "10000",
+                            "unit": "individuals"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Eli Lilly and Company has products marketed in 110 countries.",
+                    "vis_data": [
+                        {
+                            "label": "Eli Lilly Marketed Countries",
+                            "value": "110",
+                            "unit": "countries"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "2.Novo Nordisk (NYSE:NVO)Company ProfileMarket cap:US$484.11 billionDanish company Novo Nordisk has demonstrated a commitment to addressing various health conditions, such as type I and II diabetes, obesity, hemophilia and growth disorders, and markets its therapies in 170 countries. The company's main product is the diabetes drug Ozempic, which is also marketed for obesity under the name Wegovy",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Novo Nordisk market cap is US$484.11 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Novo Nordisk Market Cap",
+                            "value": "484.11",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Novo Nordisk markets its therapies in 170 countries.",
+                    "vis_data": [
+                        {
+                            "label": "Novo Nordisk Marketed Countries",
+                            "value": "170",
+                            "unit": "countries"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "3.Johnson & Johnson (NYSE:JNJ)Company ProfileMarket cap:US$366.83 billionJohnson & Johnson operates on a massive scale and encompasses various segments through its subsidiaries. Its primary pharmaceutical subsidiary is Janssen Pharmaceuticals, which focuses on cardiovascular disease and metabolism, infectious diseases and vaccines, neuroscience, oncology, immunology and pulmonary hypertension.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johnson & Johnson market cap is US$366.83 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Johnson & Johnson Market Cap",
+                            "value": "366.83",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "4.AbbVie (NYSE:ABBV)Company ProfileMarket cap:US$320.74 billionAbbVie is a global biopharmaceutical company that discovers and delivers innovative medicines and solutions to address complex health issues. The company has identified five areas of focus where it believes it can make a significant impact in improving treatments for patients: immunology, oncology, neuroscience, eye care and aesthetics.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AbbVie market cap is US$320.74 billion.",
+                    "vis_data": [
+                        {
+                            "label": "AbbVie Market Cap",
+                            "value": "320.74",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "5.Merck & Company (NYSE:MRK)Company ProfileMarket cap:US$257.64 billionMerck & Company has an extensive portfolio of products, including treatments for conditions such as diabetes and cancer, as well as vaccines for a variety of diseases.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Merck & Company market cap is US$257.64 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Merck & Company Market Cap",
+                            "value": "257.64",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

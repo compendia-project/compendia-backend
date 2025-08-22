@@ -1,0 +1,212 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Notre Dame is one of the oldest Gothic Cathedrals in France, the construction began in 1160 and was completed in 1345. Its huge flying buttresses hold up the massive structure 130 meters long and 35 meters high (under vault), with a transept 48 meters wide. Its towers are 69 meters high, reaching into the sky and offering that superb vantage point.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame is 130 meters long.",
+                    "vis_data": [
+                        {
+                            "label": "Length",
+                            "value": "130",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame is 35 meters high under the vault.",
+                    "vis_data": [
+                        {
+                            "label": "Height under vault",
+                            "value": "35",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame's transept is 48 meters wide.",
+                    "vis_data": [
+                        {
+                            "label": "Transept width",
+                            "value": "48",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame's towers are 69 meters high.",
+                    "vis_data": [
+                        {
+                            "label": "Tower height",
+                            "value": "69",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_0_3"
+                }
+            ],
+            "relatedness_score": 0.5542065488109493,
+            "article_meta_data": {
+                "title": "Gothic Cathedrals in France \u2013 Train Itinerary",
+                "date": "2025-05-31",
+                "url": "https://travelfrancebucketlist.com/gothic-cathedrals-in-france/",
+                "id": 15
+            },
+            "para_id": "15_0"
+        },
+        {
+            "paragraph": "The rose window on the front above the portal measures 9.6 meters in diameter while the two rose windows that adorn each of the arms of the transept are among the largest in Europe, with a diameter of 13 m.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The rose window on the front above the portal measures 9.6 meters in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "Front rose window diameter",
+                            "value": "9.6",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters.",
+                    "vis_data": [
+                        {
+                            "label": "Transept rose window diameter",
+                            "value": "13",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "15_1_5"
+                }
+            ],
+            "relatedness_score": 0.3607573005246263,
+            "article_meta_data": {
+                "title": "Gothic Cathedrals in France \u2013 Train Itinerary",
+                "date": "2025-05-31",
+                "url": "https://travelfrancebucketlist.com/gothic-cathedrals-in-france/",
+                "id": 15
+            },
+            "para_id": "15_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "15_0",
+            "paragraph": "Notre Dame is one of the oldest Gothic Cathedrals in France, the construction began in 1160 and was completed in 1345. Its huge flying buttresses hold up the massive structure 130 meters long and 35 meters high (under vault), with a transept 48 meters wide. Its towers are 69 meters high, reaching into the sky and offering that superb vantage point."
+        },
+        {
+            "para_id": "15_1",
+            "paragraph": "The rose window on the front above the portal measures 9.6 meters in diameter while the two rose windows that adorn each of the arms of the transept are among the largest in Europe, with a diameter of 13 m."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "Notre Dame is 130 meters long."
+        },
+        {
+            "fact_id": "15_0_1",
+            "fact_content": "Notre Dame is 35 meters high under the vault."
+        },
+        {
+            "fact_id": "15_0_2",
+            "fact_content": "Notre Dame's transept is 48 meters wide."
+        },
+        {
+            "fact_id": "15_0_3",
+            "fact_content": "Notre Dame's towers are 69 meters high."
+        },
+        {
+            "fact_id": "15_1_4",
+            "fact_content": "The rose window on the front above the portal measures 9.6 meters in diameter."
+        },
+        {
+            "fact_id": "15_1_5",
+            "fact_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Notre Dame is 130 meters long.",
+            "vis_data": [
+                {
+                    "label": "Length",
+                    "value": "130",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Notre Dame is 35 meters high under the vault.",
+            "vis_data": [
+                {
+                    "label": "Height under vault",
+                    "value": "35",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Notre Dame's transept is 48 meters wide.",
+            "vis_data": [
+                {
+                    "label": "Transept width",
+                    "value": "48",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Notre Dame's towers are 69 meters high.",
+            "vis_data": [
+                {
+                    "label": "Tower height",
+                    "value": "69",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The rose window on the front above the portal measures 9.6 meters in diameter.",
+            "vis_data": [
+                {
+                    "label": "Front rose window diameter",
+                    "value": "9.6",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters.",
+            "vis_data": [
+                {
+                    "label": "Transept rose window diameter",
+                    "value": "13",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "15_1_5"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "With theAI market expected to surpass $1.8 trillion by 2030, companies that delay adoption risk falling behind. This guide will provide a step-by-step approach to integrating AI into your business \u2014 covering key strategies, tools, and best practices to ensure a seamless and impactful implementation.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI market expected to surpass $1.8 trillion by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "AI Market Size",
+                            "value": "1.8",
+                            "unit": "trillion USD"
+                        }
+                    ],
+                    "fact_id": "8_0_0"
+                }
+            ],
+            "article_meta_data": {
+                "title": "AI Business Integration Tips & Solutions: A Guide for Success",
+                "date": "2025-03-24",
+                "url": "https://elfsight.com/blog/how-to-integrate-ai-into-your-business/",
+                "id": 8
+            },
+            "para_id": "8_0"
+        },
+        {
+            "paragraph": "AI is transforming industries at an unprecedented pace, driving both economic and operational benefits for businesses worldwide. Studies indicate that AI adoption could contribute over $15.7 trillion to the global economy by 2030, with companies already seeing significant cost savings and efficiency improvements. By automating workflows, AI enables organizations to reduce operational costs at the same time increasing productivity.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "AI Contribution to Economy",
+                            "value": "15700000000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "8_1_1"
+                }
+            ],
+            "article_meta_data": {
+                "title": "AI Business Integration Tips & Solutions: A Guide for Success",
+                "date": "2025-03-24",
+                "url": "https://elfsight.com/blog/how-to-integrate-ai-into-your-business/",
+                "id": 8
+            },
+            "para_id": "8_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "8_0",
+            "paragraph": "With theAI market expected to surpass $1.8 trillion by 2030, companies that delay adoption risk falling behind. This guide will provide a step-by-step approach to integrating AI into your business \u2014 covering key strategies, tools, and best practices to ensure a seamless and impactful implementation."
+        },
+        {
+            "para_id": "8_1",
+            "paragraph": "AI is transforming industries at an unprecedented pace, driving both economic and operational benefits for businesses worldwide. Studies indicate that AI adoption could contribute over $15.7 trillion to the global economy by 2030, with companies already seeing significant cost savings and efficiency improvements. By automating workflows, AI enables organizations to reduce operational costs at the same time increasing productivity."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "AI market expected to surpass $1.8 trillion by 2030."
+        },
+        {
+            "fact_id": "8_1_1",
+            "fact_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "AI market expected to surpass $1.8 trillion by 2030.",
+            "vis_data": [
+                {
+                    "label": "AI Market Size",
+                    "value": "1.8",
+                    "unit": "trillion USD"
+                }
+            ],
+            "fact_id": "8_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030.",
+            "vis_data": [
+                {
+                    "label": "AI Contribution to Economy",
+                    "value": "15700000000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "8_1_1"
+        }
+    ]
+}

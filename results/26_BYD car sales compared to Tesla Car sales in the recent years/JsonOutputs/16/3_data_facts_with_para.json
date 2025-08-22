@@ -1,0 +1,72 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "['Chinese electric vehicle (EV) maker BYD has reported annual revenue for 2024 that has leapfrogged rival Tesla.', \"The Shenzhen-based firm says revenue rose by 29% to come in at 777 billion yuan ($107bn; \u00a383bn), boosted by sales of its hybrid vehicles. This topped the $97.7bn reported by Elon Musk's Tesla.\", 'BYD sold around the same number of EVs as Tesla last year \u2013 1.76 million compared to 1.79 million, respectively.', \"But when sales of the Chinese company's hybrid cars are taken into account it is much bigger, selling a record 4.3 million vehicles globally in 2024.\"]",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Revenue rose by 29% for BYD."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD's revenue is 777 billion yuan ($107bn; \u00a383bn)."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's revenue is $97.7bn."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 1.76 million EVs."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla sold 1.79 million EVs."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 4.3 million vehicles globally in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "The Shenzhen-based firm says revenue rose by 29% to come in at 777 billion yuan ($107bn; \u00a383bn), boosted by sales of its hybrid vehicles. This topped the $97.7bn reported by Elon Musk's Tesla.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Revenue rose by 29% for BYD."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD's revenue is 777 billion yuan ($107bn; \u00a383bn)."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's revenue is $97.7bn."
+                }
+            ]
+        },
+        {
+            "paragraph": "BYD sold around the same number of EVs as Tesla last year \u2013 1.76 million compared to 1.79 million, respectively.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 1.76 million EVs."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla sold 1.79 million EVs."
+                }
+            ]
+        },
+        {
+            "paragraph": "But when sales of the Chinese company's hybrid cars are taken into account it is much bigger, selling a record 4.3 million vehicles globally in 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 4.3 million vehicles globally in 2024."
+                }
+            ]
+        }
+    ]
+}

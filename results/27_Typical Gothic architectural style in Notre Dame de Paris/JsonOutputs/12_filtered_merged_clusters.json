@@ -1,0 +1,137 @@
+[
+    {
+        "cluster_id": "3",
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "The facade and rose window dimensions of the cathedral."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "The dimensions of Notre Dame and its features."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "The features of the contemporary organ in the cathedral."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "The completion and construction time of cathedrals."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "The initial construction of the nave of Notre-Dame."
+            }
+        ]
+    },
+    {
+        "cluster_id": "5",
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "The facade measures 43.5 meters in width and the cathedral is roughly 128 meters in length."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "The contemporary organ features almost eight thousand pipes."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "Notre-Dame's vaults peaking at 32m high was the tallest building at that time."
+            }
+        ]
+    },
+    {
+        "cluster_id": "2",
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "Comparison of architectural measurements of various cathedrals."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "Design timeline comparison between Notre-Dame and Soissons cathedrals."
+            }
+        ]
+    },
+    {
+        "cluster_id": "1",
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "The cathedral originally rose on four levels and now rises on only three levels."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "Notre Dame is 35 meters high under the vault."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "The south rose in the transept is 12.9 metres (42 ft) in diameter."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "Iron staples in Notre-Dame were designed about 40 years before iron reinforcements in Chartres or Bourges cathedral."
+            }
+        ]
+    },
+    {
+        "cluster_id": "6",
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "The nave of Notre-Dame consists of ten bays."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Two rose windows span 43 ft in diameter."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "Notre Dame's transept is 48 meters wide and its towers are 69 meters high."
+            },
+            {
+                "merged_id": "6_3",
+                "merged_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters."
+            },
+            {
+                "merged_id": "6_4",
+                "merged_content": "The abbey church of Cluny was 29.50 m high."
+            },
+            {
+                "merged_id": "6_5",
+                "merged_content": "Cross-ribs of the outer ambulatory peaked at almost 11 m high in Notre-Dame de Paris."
+            }
+        ]
+    },
+    {
+        "cluster_id": "4",
+        "facts": [
+            {
+                "merged_id": "4_0",
+                "merged_content": "Dimensions of Notre-Dame's nave."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "Comparison of architectural features."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "Vault height of Laon, Senlis, and Sens cathedrals."
+            }
+        ]
+    },
+    {
+        "cluster_id": "7",
+        "facts": [
+            {
+                "merged_id": "7_0",
+                "merged_content": "The rose window on the front above the portal measures 9.6 meters in diameter. The twin towers are 69 meters in height. With the claire-voie surrounding it, the south rose in the transept has a total diameter of 19 meters (62 ft). It was given to the cathedral by King Louis IX of France, known as Saint Louis."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "The choir area was built from 1163 to 1177 CE."
+            }
+        ]
+    }
+]

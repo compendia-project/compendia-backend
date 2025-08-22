@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "In addition, the NIH said it would be cutting billions in overhead payments by capping so-called indirect costs for researchers at 15%, which has been described as \u201ca sure-fire way to cripple lifesaving research and innovation\u201d1. Overheads typically cover essential research costs, including equipment, administration and researcher salaries. At the same time, negative media coverage of campus controversies has further affected institutions. Additionally, accusations have emerged that the Trump administration\u2019s funding cuts are partly motivated by perceptions that conservative values are underrepresented in academia.2",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "NIH capping indirect costs for researchers at 15%.",
+                    "vis_data": [
+                        {
+                            "label": "Indirect Cost Cap",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_0_0"
+                }
+            ],
+            "relatedness_score": 0.5177773331899499,
+            "article_meta_data": {
+                "title": "Budget cuts put research integrity under stress",
+                "date": "Unknown",
+                "url": "https://www.labonline.com.au/content/lab-business/article/budget-cuts-put-research-integrity-under-stress-1549986815",
+                "id": 6
+            },
+            "para_id": "6_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "6_0",
+            "paragraph": "In addition, the NIH said it would be cutting billions in overhead payments by capping so-called indirect costs for researchers at 15%, which has been described as \u201ca sure-fire way to cripple lifesaving research and innovation\u201d1. Overheads typically cover essential research costs, including equipment, administration and researcher salaries. At the same time, negative media coverage of campus controversies has further affected institutions. Additionally, accusations have emerged that the Trump administration\u2019s funding cuts are partly motivated by perceptions that conservative values are underrepresented in academia.2"
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "NIH capping indirect costs for researchers at 15%."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "NIH capping indirect costs for researchers at 15%.",
+            "vis_data": [
+                {
+                    "label": "Indirect Cost Cap",
+                    "value": "15",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_0_0"
+        }
+    ]
+}

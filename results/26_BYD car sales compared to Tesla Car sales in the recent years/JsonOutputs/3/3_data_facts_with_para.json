@@ -1,0 +1,72 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "BYD, the Shenzhen-based Chinese EV champion,eclipsedTesla in annual sales last year. Last week, it unveiled a revolutionary battery charging technology that it says adds 250 miles of range in five minutes, outpacing Tesla\u2019s Superchargers, which take 15 minutes to add 200 miles. And last month, BYD launched \u201cGod\u2019s Eye,\u201d an advanced driver-assistance system rivaling Tesla\u2019s Full Self-Driving feature, at no extra cost for most of its cars.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD's battery charging technology adds 250 miles of range in five minutes."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla\u2019s Superchargers take 15 minutes to add 200 miles."
+                }
+            ]
+        },
+        {
+            "paragraph": "In China, BYD accounted for 32% of last year\u2019s total sales of new energy vehicles, which include hybrids, far outpacing Tesla\u2019s 6.1% market share, according to the China Passenger Car Association. (BYD makes both battery-powered cars as well as hybrids, while Tesla makes only fully electric vehicles powered by batteries.)",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "BYD accounted for 32% of last year\u2019s total sales of new energy vehicles in China."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Tesla\u2019s market share was 6.1% in China for new energy vehicles."
+                }
+            ]
+        },
+        {
+            "paragraph": "BYD reported $107 billionin salesfor 2024, a 29% jump from the previous year, on deliveries of 4.27 million cars, including hybrids. By comparison, Tesla\u2019s 2024 revenue was $97.7 billion, and it delivered 1.79 million battery-powered vehicles. Its annual deliveries declined for the first time last year by 1.1%.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD reported $107 billion in sales for 2024."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD's sales increased by 29% from the previous year."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD delivered 4.27 million cars in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla\u2019s 2024 revenue was $97.7 billion."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla delivered 1.79 million battery-powered vehicles in 2024."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's annual deliveries declined by 1.1% last year."
+                }
+            ]
+        },
+        {
+            "paragraph": "While BYD\u2019s battery-powered EV shipments of 1.76 million vehicles were marginally short of Tesla\u2019s, investors and analysts are bullish on BYD\u2019s potential as it expands overseas. Most of BYD\u2019s shipments were delivered to domestic customers with just 10% exported to overseas markets.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD\u2019s battery-powered EV shipments were 1.76 million vehicles."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "10% of BYD\u2019s shipments were exported to overseas markets."
+                }
+            ]
+        }
+    ]
+}

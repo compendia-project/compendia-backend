@@ -1,0 +1,154 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "For most of the schools, around 10% to 13% of their revenue came from federal contracts or research funding, according to the analysis. For some prestigious research universities, however, federal money represented up to half of their revenue.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "For most schools, around 10% to 13% of their revenue came from federal contracts or research funding.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue from Federal Contracts",
+                            "value": "10",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Revenue from Federal Contracts",
+                            "value": "13",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "For some prestigious research universities, federal money represented up to half of their revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue from Federal Money",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5452102386352378
+        },
+        {
+            "paragraph": "Perhaps no school is more vulnerable than Johns Hopkins University, which received $4 billion in federal funds, close to 40% of its revenue, according to the analysis. Much of that went to defense research, paying for projects like missile design, submarine technology and precision tracking systems in outer space. Billions of dollars also went to medical research for topics such as immunology and transplants, aging, neuroscience and mental health.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins University received $4 billion in federal funds.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Funds for Johns Hopkins",
+                            "value": "4",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Federal funds accounted for close to 40% of Johns Hopkins University's revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Revenue from Federal Funds",
+                            "value": "40",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5077107809077167
+        },
+        {
+            "paragraph": "The AP analysis looked at federal funding for nearly 100 colleges currently under investigation for programs the administration has deemed as illegally pushing diversity, equity and inclusion, or for not doing enough to combat antisemitism. Those schools took in over $33 billion in federal revenue in the 2022-2023 academic year. That\u2019s before taking into account federal student aid, which represents billions more in tuition and room-and-board payments.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Nearly 100 colleges took in over $33 billion in federal revenue in the 2022-2023 academic year.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Revenue for Colleges",
+                            "value": "over 33",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5065042301523122
+        },
+        {
+            "paragraph": "In the 2022-2023 academic year, Columbia got close to a fifth of its revenue from federal sources, around $1.2 billion. An audit shows that much of Columbia\u2019s federal money went to research and development, including $166 million for global AIDS programs, $99 million to study aging, $28 million for cancer biology and $24 million for drug abuse and addiction research.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Columbia got close to a fifth of its revenue from federal sources in the 2022-2023 academic year.",
+                    "vis_data": [
+                        {
+                            "label": "Columbia Revenue from Federal Sources",
+                            "value": "20",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received around $1.2 billion from federal sources in the 2022-2023 academic year.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Funds for Columbia",
+                            "value": "1.2",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $166 million for global AIDS programs.",
+                    "vis_data": [
+                        {
+                            "label": "Funds for Global AIDS Programs",
+                            "value": "166",
+                            "unit": "million USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $99 million to study aging.",
+                    "vis_data": [
+                        {
+                            "label": "Funds for Aging Study",
+                            "value": "99",
+                            "unit": "million USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $28 million for cancer biology.",
+                    "vis_data": [
+                        {
+                            "label": "Funds for Cancer Biology",
+                            "value": "28",
+                            "unit": "million USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $24 million for drug abuse and addiction research.",
+                    "vis_data": [
+                        {
+                            "label": "Funds for Drug Abuse Research",
+                            "value": "24",
+                            "unit": "million USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5022048916010218
+        }
+    ]
+}

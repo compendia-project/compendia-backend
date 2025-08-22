@@ -1,0 +1,54 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The vendor reported fourth-quarter 2024 sales of 72.9bn Swedish krona (SEK) ($6.7bn), representing a like-for-like growth rate of 2%. And thanks to cost cutting, broader efficiency measures and a greater proportion of software product sales, Ericsson\u2019s fourth-quarter margins improved, with the adjusted EBIT (earnings before interest and tax) margin hitting 13.1%, up from 10.3% a year earlier. The company\u2019s board has also proposed an improved dividend payment to shareholders.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Fourth-quarter 2024 sales of 72.9bn Swedish krona (SEK) ($6.7bn).",
+                    "vis_data": [
+                        {
+                            "label": "Q4 2024 Sales",
+                            "value": "72.9",
+                            "unit": "bn SEK"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Like-for-like growth rate of 2%.",
+                    "vis_data": [
+                        {
+                            "label": "Growth Rate",
+                            "value": "2",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Adjusted EBIT margin hitting 13.1%, up from 10.3% a year earlier.",
+                    "vis_data": [
+                        {
+                            "label": "EBIT Margin Increase",
+                            "value": "2.8",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Share price took a near 9% hit to SEK88.84 on the Stockholm exchange.",
+                    "vis_data": [
+                        {
+                            "label": "Share Price Decrease",
+                            "value": "9",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6465814846691792
+        }
+    ]
+}

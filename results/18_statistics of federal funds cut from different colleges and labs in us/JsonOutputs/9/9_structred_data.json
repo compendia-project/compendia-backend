@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Federal student aid faces major cuts, however, under President Trump. His new budget proposal slashes $980 million from theFederal Work-Study program, which provides part-time jobs for college students who have demonstrated they need more financial assistance.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "$980 million slashed from the Federal Work-Study program.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Work-Study Cut",
+                            "value": "980",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "9_0_0"
+                }
+            ],
+            "relatedness_score": 0.5175757446068158,
+            "article_meta_data": {
+                "title": "Higher education funding in the US: A broad overview",
+                "date": "2025-05-08",
+                "url": "https://journalistsresource.org/home/higher-education-funding-college-tuition-overview/",
+                "id": 9
+            },
+            "para_id": "9_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "9_0",
+            "paragraph": "Federal student aid faces major cuts, however, under President Trump. His new budget proposal slashes $980 million from theFederal Work-Study program, which provides part-time jobs for college students who have demonstrated they need more financial assistance."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "$980 million slashed from the Federal Work-Study program."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "$980 million slashed from the Federal Work-Study program.",
+            "vis_data": [
+                {
+                    "label": "Federal Work-Study Cut",
+                    "value": "980",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "9_0_0"
+        }
+    ]
+}

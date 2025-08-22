@@ -1,0 +1,25 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Some 664 million adults around the world are part of the middle class this year, nearly 15 percent of the world\u2019s total adult population. Nearly 110 million of those people were Chinese, and 92 million were Americans.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "664 million adults are part of the middle class this year."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "15 percent of the world\u2019s total adult population is part of the middle class."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "110 million middle class adults are Chinese."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "92 million middle class adults are Americans."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Gold prices maintain a consolidative theme around the $3,300 mark per troy ounce, en route to clock decent weekly gains after two consecutive retracements. In the meantime, the precious metal is expected to remain under scrutiny on the back of trade concerns and the likelihood that the Fed might cut rates later in the year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gold prices around the $3,300 mark per troy ounce.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price",
+                            "value": "3300",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "10_0_0"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold Forecast, News and Analysis (XAU/USD)",
+                "date": "Unknown",
+                "url": "https://www.fxstreet.com/markets/commodities/metals/gold",
+                "id": 10
+            },
+            "para_id": "10_0"
+        },
+        {
+            "paragraph": "From a technical perspective, this week's repeated failures to build on the momentum beyond the 100-period Simple Moving Average (SMA) on the 4-hour chart warrant some caution for the XAU/USD bulls. The said barrier is currently pegged near the $3,352-3,355 area and should act as a key pivotal point. This is closely followed by the overnight swing high, around the $3,365-3,366 region, above which the Gold price could aim to reclaim the $3,400 round figure.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "100-period Simple Moving Average (SMA) pegged near the $3,352-3,355 area.",
+                    "vis_data": [
+                        {
+                            "label": "SMA Barrier",
+                            "value": "3352",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "SMA Barrier",
+                            "value": "3355",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "10_1_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Overnight swing high around the $3,365-3,366 region.",
+                    "vis_data": [
+                        {
+                            "label": "Swing High",
+                            "value": "3365",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Swing High",
+                            "value": "3366",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "10_1_2"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold Forecast, News and Analysis (XAU/USD)",
+                "date": "Unknown",
+                "url": "https://www.fxstreet.com/markets/commodities/metals/gold",
+                "id": 10
+            },
+            "para_id": "10_1"
+        },
+        {
+            "paragraph": "On the flip side, the $3,326-3,325 area now seems to protect the immediate downside ahead of the $3,311-3,310 region and the $3,300 round figure. A convincing break below the latter might shift the near-term bias in favor of bearish traders and make the Gold price vulnerable to accelerate the slide to the next relevant support near the $3,270 horizontal zone. The downward trajectory could extend further towards retesting the monthly swing low, around the $3,248-3,248 region.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Immediate downside protected by the $3,326-3,325 area.",
+                    "vis_data": [
+                        {
+                            "label": "Downside Protection",
+                            "value": "3326",
+                            "unit": "USD/troy ounce"
+                        },
+                        {
+                            "label": "Downside Protection",
+                            "value": "3325",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "10_2_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Next relevant support near the $3,270 horizontal zone.",
+                    "vis_data": [
+                        {
+                            "label": "Support Zone",
+                            "value": "3270",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "10_2_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Monthly swing low around the $3,248 region.",
+                    "vis_data": [
+                        {
+                            "label": "Monthly Swing Low",
+                            "value": "3248",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "10_2_5"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold Forecast, News and Analysis (XAU/USD)",
+                "date": "Unknown",
+                "url": "https://www.fxstreet.com/markets/commodities/metals/gold",
+                "id": 10
+            },
+            "para_id": "10_2"
+        },
+        {
+            "paragraph": "The US Dollar touched a one-week high on Thursday after the US Bureau of Labor Statistics reported that Nonfarm Payrolls increased by 147,000 in June, beating forecasts of 111,000. Adding to this, the Unemployment Rate edged down to 4.1%, from 4.2% in May, and dashed hopes of an early interest rate cut by the Federal Reserve.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Nonfarm Payrolls increased by 147,000 in June.",
+                    "vis_data": [
+                        {
+                            "label": "Nonfarm Payrolls",
+                            "value": "147000",
+                            "unit": "jobs"
+                        }
+                    ],
+                    "fact_id": "10_3_6"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Nonfarm Payrolls beat forecasts by 36,000 (147,000 actual vs 111,000 forecast).",
+                    "vis_data": [
+                        {
+                            "label": "Payrolls Forecast Beat",
+                            "value": "36000",
+                            "unit": "jobs"
+                        }
+                    ],
+                    "fact_id": "10_3_7"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Unemployment Rate edged down by 0.1% (from 4.2% to 4.1%).",
+                    "vis_data": [
+                        {
+                            "label": "Unemployment Rate Change",
+                            "value": "0.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "10_3_8"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold Forecast, News and Analysis (XAU/USD)",
+                "date": "Unknown",
+                "url": "https://www.fxstreet.com/markets/commodities/metals/gold",
+                "id": 10
+            },
+            "para_id": "10_3"
+        },
+        {
+            "paragraph": "Other details of the report showed that wage growth, as measured by the change in the Average Hourly Earnings, slowed to 0.2% in June from 0.4% previously and retreated to 3.7% from 3.8% in May. This helps to ease inflation concerns and keeps the door open for at least two 25 basis points rate reductions by the end of this year.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Wage growth slowed by 0.2% (from 0.4% to 0.2%).",
+                    "vis_data": [
+                        {
+                            "label": "Wage Growth Slowdown",
+                            "value": "0.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "10_4_9"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Average Hourly Earnings retreated by 0.1% (from 3.8% to 3.7%).",
+                    "vis_data": [
+                        {
+                            "label": "Earnings Retreat",
+                            "value": "0.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "10_4_10"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold Forecast, News and Analysis (XAU/USD)",
+                "date": "Unknown",
+                "url": "https://www.fxstreet.com/markets/commodities/metals/gold",
+                "id": 10
+            },
+            "para_id": "10_4"
+        },
+        {
+            "paragraph": "US President Donald Trump\u2019s tax-cut and spending bill cleared its final hurdle in Congress on Thursday. According to the nonpartisan Congressional Budget Office, the legislation will add $3.4 trillion to the nation\u2019s debt. This could further worsen America\u2019s long-term debt problems, which caps the USD and supports the Gold price.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Legislation will add $3.4 trillion to the nation\u2019s debt.",
+                    "vis_data": [
+                        {
+                            "label": "Debt Increase",
+                            "value": "3400000000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "10_5_11"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Gold Forecast, News and Analysis (XAU/USD)",
+                "date": "Unknown",
+                "url": "https://www.fxstreet.com/markets/commodities/metals/gold",
+                "id": 10
+            },
+            "para_id": "10_5"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "10_0",
+            "paragraph": "Gold prices maintain a consolidative theme around the $3,300 mark per troy ounce, en route to clock decent weekly gains after two consecutive retracements. In the meantime, the precious metal is expected to remain under scrutiny on the back of trade concerns and the likelihood that the Fed might cut rates later in the year."
+        },
+        {
+            "para_id": "10_1",
+            "paragraph": "From a technical perspective, this week's repeated failures to build on the momentum beyond the 100-period Simple Moving Average (SMA) on the 4-hour chart warrant some caution for the XAU/USD bulls. The said barrier is currently pegged near the $3,352-3,355 area and should act as a key pivotal point. This is closely followed by the overnight swing high, around the $3,365-3,366 region, above which the Gold price could aim to reclaim the $3,400 round figure."
+        },
+        {
+            "para_id": "10_2",
+            "paragraph": "On the flip side, the $3,326-3,325 area now seems to protect the immediate downside ahead of the $3,311-3,310 region and the $3,300 round figure. A convincing break below the latter might shift the near-term bias in favor of bearish traders and make the Gold price vulnerable to accelerate the slide to the next relevant support near the $3,270 horizontal zone. The downward trajectory could extend further towards retesting the monthly swing low, around the $3,248-3,248 region."
+        },
+        {
+            "para_id": "10_3",
+            "paragraph": "The US Dollar touched a one-week high on Thursday after the US Bureau of Labor Statistics reported that Nonfarm Payrolls increased by 147,000 in June, beating forecasts of 111,000. Adding to this, the Unemployment Rate edged down to 4.1%, from 4.2% in May, and dashed hopes of an early interest rate cut by the Federal Reserve."
+        },
+        {
+            "para_id": "10_4",
+            "paragraph": "Other details of the report showed that wage growth, as measured by the change in the Average Hourly Earnings, slowed to 0.2% in June from 0.4% previously and retreated to 3.7% from 3.8% in May. This helps to ease inflation concerns and keeps the door open for at least two 25 basis points rate reductions by the end of this year."
+        },
+        {
+            "para_id": "10_5",
+            "paragraph": "US President Donald Trump\u2019s tax-cut and spending bill cleared its final hurdle in Congress on Thursday. According to the nonpartisan Congressional Budget Office, the legislation will add $3.4 trillion to the nation\u2019s debt. This could further worsen America\u2019s long-term debt problems, which caps the USD and supports the Gold price."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "10_0_0",
+            "fact_content": "Gold prices around the $3,300 mark per troy ounce."
+        },
+        {
+            "fact_id": "10_1_1",
+            "fact_content": "100-period Simple Moving Average (SMA) pegged near the $3,352-3,355 area."
+        },
+        {
+            "fact_id": "10_1_2",
+            "fact_content": "Overnight swing high around the $3,365-3,366 region."
+        },
+        {
+            "fact_id": "10_2_3",
+            "fact_content": "Immediate downside protected by the $3,326-3,325 area."
+        },
+        {
+            "fact_id": "10_2_4",
+            "fact_content": "Next relevant support near the $3,270 horizontal zone."
+        },
+        {
+            "fact_id": "10_2_5",
+            "fact_content": "Monthly swing low around the $3,248 region."
+        },
+        {
+            "fact_id": "10_3_6",
+            "fact_content": "Nonfarm Payrolls increased by 147,000 in June."
+        },
+        {
+            "fact_id": "10_3_7",
+            "fact_content": "Nonfarm Payrolls beat forecasts by 36,000 (147,000 actual vs 111,000 forecast)."
+        },
+        {
+            "fact_id": "10_3_8",
+            "fact_content": "Unemployment Rate edged down by 0.1% (from 4.2% to 4.1%)."
+        },
+        {
+            "fact_id": "10_4_9",
+            "fact_content": "Wage growth slowed by 0.2% (from 0.4% to 0.2%)."
+        },
+        {
+            "fact_id": "10_4_10",
+            "fact_content": "Average Hourly Earnings retreated by 0.1% (from 3.8% to 3.7%)."
+        },
+        {
+            "fact_id": "10_5_11",
+            "fact_content": "Legislation will add $3.4 trillion to the nation\u2019s debt."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Gold prices around the $3,300 mark per troy ounce.",
+            "vis_data": [
+                {
+                    "label": "Gold Price",
+                    "value": "3300",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "10_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "100-period Simple Moving Average (SMA) pegged near the $3,352-3,355 area.",
+            "vis_data": [
+                {
+                    "label": "SMA Barrier",
+                    "value": "3352",
+                    "unit": "USD"
+                },
+                {
+                    "label": "SMA Barrier",
+                    "value": "3355",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "10_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Overnight swing high around the $3,365-3,366 region.",
+            "vis_data": [
+                {
+                    "label": "Swing High",
+                    "value": "3365",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Swing High",
+                    "value": "3366",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "10_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Immediate downside protected by the $3,326-3,325 area.",
+            "vis_data": [
+                {
+                    "label": "Downside Protection",
+                    "value": "3326",
+                    "unit": "USD/troy ounce"
+                },
+                {
+                    "label": "Downside Protection",
+                    "value": "3325",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "10_2_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Next relevant support near the $3,270 horizontal zone.",
+            "vis_data": [
+                {
+                    "label": "Support Zone",
+                    "value": "3270",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "10_2_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Monthly swing low around the $3,248 region.",
+            "vis_data": [
+                {
+                    "label": "Monthly Swing Low",
+                    "value": "3248",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "10_2_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Nonfarm Payrolls increased by 147,000 in June.",
+            "vis_data": [
+                {
+                    "label": "Nonfarm Payrolls",
+                    "value": "147000",
+                    "unit": "jobs"
+                }
+            ],
+            "fact_id": "10_3_6"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Nonfarm Payrolls beat forecasts by 36,000 (147,000 actual vs 111,000 forecast).",
+            "vis_data": [
+                {
+                    "label": "Payrolls Forecast Beat",
+                    "value": "36000",
+                    "unit": "jobs"
+                }
+            ],
+            "fact_id": "10_3_7"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Unemployment Rate edged down by 0.1% (from 4.2% to 4.1%).",
+            "vis_data": [
+                {
+                    "label": "Unemployment Rate Change",
+                    "value": "0.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "10_3_8"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Wage growth slowed by 0.2% (from 0.4% to 0.2%).",
+            "vis_data": [
+                {
+                    "label": "Wage Growth Slowdown",
+                    "value": "0.2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "10_4_9"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Average Hourly Earnings retreated by 0.1% (from 3.8% to 3.7%).",
+            "vis_data": [
+                {
+                    "label": "Earnings Retreat",
+                    "value": "0.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "10_4_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Legislation will add $3.4 trillion to the nation\u2019s debt.",
+            "vis_data": [
+                {
+                    "label": "Debt Increase",
+                    "value": "3400000000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "10_5_11"
+        }
+    ]
+}

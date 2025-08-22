@@ -1,0 +1,21 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "The current population of Singapore is 5,871,864 as of July 13, 2025, based on interpolation of the latest United Nations data. The population of Singapore is projected at 5,870,750, or 5.87 million, as of July 1, 2025. The total population in Singapore is projected at 5,832,387, or 5.83 million people, for the year 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The current population of Singapore is 5,871,864 as of July 13, 2025."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population of Singapore is projected at 5,870,750 as of July 1, 2025."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The total population in Singapore is projected at 5,832,387 for the year 2024."
+                }
+            ]
+        }
+    ]
+}

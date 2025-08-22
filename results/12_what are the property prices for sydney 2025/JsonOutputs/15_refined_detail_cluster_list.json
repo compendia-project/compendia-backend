@@ -1,0 +1,202 @@
+[
+    {
+        "cluster_id": 10,
+        "title": "City Trends",
+        "description": "Property prices in major Australian cities are experiencing varied trends. Sydney and Melbourne are expected to see a decline in property prices by up to 5% next year, while Canberra and Melbourne are projected to rise by 3.5%. Sydney's median house price is anticipated to reach $2 million by 2026, indicating a long-term upward trend despite short-term fluctuations.",
+        "representative_facts": [
+            {
+                "fact_content": "Sydney and Melbourne property prices may drop 5% next year",
+                "fact_id": "10_0"
+            },
+            {
+                "fact_content": "Canberra and Melbourne expected to rise by 3.5%",
+                "fact_id": "10_1"
+            },
+            {
+                "fact_content": "Sydney\u2019s median house price on track to hit $2 million by 2026",
+                "fact_id": "10_2"
+            }
+        ],
+        "cluster_order_id": 1
+    },
+    {
+        "cluster_id": 2,
+        "title": "Regional Growth",
+        "description": "Property values in Sydney and surrounding areas are experiencing notable growth. Sydney's property prices are expected to rise by 3.3%, while Brisbane's are projected to increase by 3.1%. Rozelle has seen a 4.10% increase in property values over the past year. The median house price in Greater Sydney rose by 5.2% in 2024, and the forecast for the next six months suggests growth over 5%.",
+        "representative_facts": [
+            {
+                "fact_content": "Sydney is expected to rise by 3.3%",
+                "fact_id": "2_0"
+            },
+            {
+                "fact_content": "Rozelle have risen by 4.10% over the past year",
+                "fact_id": "2_2"
+            },
+            {
+                "fact_content": "The median house price in Greater Sydney rose 5.2 per cent in 2024",
+                "fact_id": "2_10"
+            }
+        ],
+        "cluster_order_id": 2
+    },
+    {
+        "cluster_id": 1,
+        "title": "Suburb Surge",
+        "description": "Sydney's property market is experiencing notable growth, with house prices seeing a 1% increase in May 2025 and a forecasted 6% rise in median unit prices for 2025-26. St Marys, a suburb, reported an 8.4% price growth over the past year, while property values in another suburb have surged by 40.20% over five years.",
+        "representative_facts": [
+            {
+                "fact_content": "1% lift in house prices in Sydney in May 2025",
+                "fact_id": "1_1"
+            },
+            {
+                "fact_content": "Median unit price in Sydney is forecast to jump by 6% in 2025-26",
+                "fact_id": "1_2"
+            },
+            {
+                "fact_content": "St Marys experienced an 8.4% price growth in the past 12 months",
+                "fact_id": "1_0"
+            }
+        ],
+        "cluster_order_id": 3
+    },
+    {
+        "cluster_id": 6,
+        "title": "Suburban Values",
+        "description": "Sydney's property market is experiencing significant growth, with forecasts predicting a 7% increase in median house prices for 2025-26. Specific areas like Five Dock and Marrickville have seen substantial value increases over the past decade, with Five Dock's values soaring by 125%. Current median prices vary across suburbs, with Annandale's median house price at $2.2 million and Abbotsford's at $3.2 million.",
+        "representative_facts": [
+            {
+                "fact_content": "Sydney's median house price forecast to jump 7% in 2025-26",
+                "fact_id": "6_0"
+            },
+            {
+                "fact_content": "Values in Five Dock soared 125% over the past decade",
+                "fact_id": "6_3"
+            },
+            {
+                "fact_content": "Median House Price in Annandale is $2,200,000",
+                "fact_id": "6_11"
+            }
+        ],
+        "cluster_order_id": 4
+    },
+    {
+        "cluster_id": 4,
+        "title": "Price Forecast",
+        "description": "Sydney's housing market is experiencing significant growth, with house prices expected to rise by 4-6% in the near future. The median house price in Sydney is currently $1.627 million, with forecasts predicting it will reach $1.83 million by June 2026. Unit prices are also on the rise, expected to surpass the $1 million mark within 18 months.",
+        "representative_facts": [
+            {
+                "fact_content": "Sydney housing prices are expected to increase 4-6 per cent",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "Median house price in the Harbour City is $1.627 million",
+                "fact_id": "4_9"
+            },
+            {
+                "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026",
+                "fact_id": "4_11"
+            }
+        ],
+        "cluster_order_id": 5
+    },
+    {
+        "cluster_id": 5,
+        "title": "Market Growth",
+        "description": "Sydney's property market is experiencing significant growth, with house prices expected to rise substantially. The median house price is forecast to increase by $112,000, reaching $1.83 million by June 2026. Unit prices are also on the rise, with a projected 6% increase in 2025-26, potentially crossing the $1 million mark within 18 months.",
+        "representative_facts": [
+            {
+                "fact_content": "The median house price in Sydney is forecast to jump by $112,000",
+                "fact_id": "5_0"
+            },
+            {
+                "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026",
+                "fact_id": "5_11"
+            },
+            {
+                "fact_content": "Unit prices crossing the $1 million mark in Sydney within the next 18 months",
+                "fact_id": "5_7"
+            }
+        ],
+        "cluster_order_id": 6
+    },
+    {
+        "cluster_id": 9,
+        "title": "Price Surge",
+        "description": "Property prices in Sydney and other Australian cities are projected to rise significantly in the coming years. Sydney's median house price is expected to reach $1.83 million by June 2026, with a forecasted increase of 7% in the near term. Brisbane has already seen a 9.57% increase in house prices over the past year, indicating a broader trend of rising property values across Australia.",
+        "representative_facts": [
+            {
+                "fact_content": "Sydney's median house price forecasted to be $1.83 million by June 2026",
+                "fact_id": "9_10"
+            },
+            {
+                "fact_content": "Sydney house prices expected to rise 7%",
+                "fact_id": "9_0"
+            },
+            {
+                "fact_content": "Brisbane house prices increased 9.57% in the past year",
+                "fact_id": "9_1"
+            }
+        ],
+        "cluster_order_id": 7
+    },
+    {
+        "cluster_id": 8,
+        "title": "Diverse Trends",
+        "description": "Sydney's property market shows a diverse range of trends, with the median house price forecasted to reach $1.83 million. While some areas like Croydon have seen significant growth, others like Hobart experienced slight declines. The overall market is expected to continue growing, with forecasts indicating over 5% growth in top locations over the next six months.",
+        "representative_facts": [
+            {
+                "fact_content": "Sydney's median house price forecasted at $1.83 million",
+                "fact_id": "8_0"
+            },
+            {
+                "fact_content": "Croydon property values rose 20.3% in past year",
+                "fact_id": "8_3"
+            },
+            {
+                "fact_content": "Top locations forecast over 5% growth in six months",
+                "fact_id": "8_14"
+            }
+        ],
+        "cluster_order_id": 8
+    },
+    {
+        "cluster_id": 3,
+        "title": "Suburb Growth",
+        "description": "Property prices in various Sydney suburbs have shown significant growth, with notable increases in both unit and house prices. Brisbane has experienced a 13.79% rise in unit prices over the past year. Croydon property values have surged by 163% over the past decade, while Strathfield has seen a 14.2% increase in the past year. The median house price in Strathfield is notably high at $3,900,000. Sydney's median house price growth is forecasted to be around 3% in 2025, with several suburbs expected to offer investors a capital gain of over 5% in the next six months.",
+        "representative_facts": [
+            {
+                "fact_content": "Unit prices have lifted 13.79% in Brisbane in the past year",
+                "fact_id": "3_0"
+            },
+            {
+                "fact_content": "Property values in Croydon have increased by 163% over the past decade",
+                "fact_id": "3_1"
+            },
+            {
+                "fact_content": "Median House Price in Strathfield is $3,900,000",
+                "fact_id": "3_13"
+            }
+        ],
+        "cluster_order_id": 9
+    },
+    {
+        "cluster_id": 7,
+        "title": "Market Fluctuations",
+        "description": "Sydney's property market has seen significant fluctuations, with a notable 25.3% increase in median values during the 2021 boom. The median dwelling price currently stands at $1,210,222. Looking ahead, the median unit price is expected to rise by $53,000 over the next year, despite a recent annual decrease of 0.2%.",
+        "representative_facts": [
+            {
+                "fact_content": "Median dwelling price is $1,210,222",
+                "fact_id": "7_0"
+            },
+            {
+                "fact_content": "Median values shot up +25.3 per cent in just 12 months during the 2021 property boom",
+                "fact_id": "7_2"
+            },
+            {
+                "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months",
+                "fact_id": "7_1"
+            }
+        ],
+        "cluster_order_id": 10
+    }
+]

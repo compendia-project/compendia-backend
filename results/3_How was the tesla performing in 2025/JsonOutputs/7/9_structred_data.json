@@ -1,0 +1,120 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "While the Tesla Model Y and Model 3 have been the two best-selling models in the United States since 2020, the 110 new models that have entered the market since then have driven the market share of Tesla down from 60% in 2020 to 38% in 2024. Furthermore, 2024 was the first year in which Tesla saw a drop in sales in the United States, while other OEMs saw sales increase by 20% on aggregate.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Tesla's market share decreased from 60% in 2020 to 38% in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Market Share 2020",
+                            "value": "60",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Tesla Market Share 2024",
+                            "value": "38",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "110 new models entered the market since 2020.",
+                    "vis_data": [
+                        {
+                            "label": "New Models Entered",
+                            "value": "110",
+                            "unit": "models"
+                        }
+                    ],
+                    "fact_id": "7_0_1"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Other OEMs saw sales increase by 20% on aggregate in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "OEM Sales Increase 2024",
+                            "value": "20",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_0_2"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Global EV Outlook 2025",
+                "date": "Unknown",
+                "url": "https://www.iea.org/reports/global-ev-outlook-2025/trends-in-electric-car-markets-2",
+                "id": 7
+            },
+            "para_id": "7_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "7_0",
+            "paragraph": "While the Tesla Model Y and Model 3 have been the two best-selling models in the United States since 2020, the 110 new models that have entered the market since then have driven the market share of Tesla down from 60% in 2020 to 38% in 2024. Furthermore, 2024 was the first year in which Tesla saw a drop in sales in the United States, while other OEMs saw sales increase by 20% on aggregate."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "Tesla's market share decreased from 60% in 2020 to 38% in 2024."
+        },
+        {
+            "fact_id": "7_0_1",
+            "fact_content": "110 new models entered the market since 2020."
+        },
+        {
+            "fact_id": "7_0_2",
+            "fact_content": "Other OEMs saw sales increase by 20% on aggregate in 2024."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "difference",
+            "fact_content": "Tesla's market share decreased from 60% in 2020 to 38% in 2024.",
+            "vis_data": [
+                {
+                    "label": "Tesla Market Share 2020",
+                    "value": "60",
+                    "unit": "%"
+                },
+                {
+                    "label": "Tesla Market Share 2024",
+                    "value": "38",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "110 new models entered the market since 2020.",
+            "vis_data": [
+                {
+                    "label": "New Models Entered",
+                    "value": "110",
+                    "unit": "models"
+                }
+            ],
+            "fact_id": "7_0_1"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Other OEMs saw sales increase by 20% on aggregate in 2024.",
+            "vis_data": [
+                {
+                    "label": "OEM Sales Increase 2024",
+                    "value": "20",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_0_2"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "I am wondering about daily budget for 2 people for food and drink - we like our food and have reviewed TA and other forums for tips on restaurants. We are thinking about $100 per day for foos and drink - is this high/low reasonable? The food budget of $100 is probably high, as food is really cheap. The only way to spend that much per day is to eat at the really high end touristy restaurants or have a lot of drinks. $100 a day on food & drink for a casual lunch & dinner is way too much IMO. Even if you eat at the priciest tourist places youd be struggling to spend anywhere near that amount. We found it hard to spend $50 a day for 2 adults and 2 children and we do like to drink! $100 per day will be plenty. Secret garden was great in town but there are so many great restaurants in hoi an. Check some of my reviews. Also check what restaurants are close to your hotel because you will probably visit these most. We found it hard to spend $50 a day for 2 adults and 2 children and we do like to drink! $100 per day will be plenty. Music to my ears. We also like to drink and were spending roughly $25 us a day on lunch , dinner and alcohol.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "$100 per day for food and drink for 2 people."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "$50 a day for 2 adults and 2 children."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "$25 a day on lunch, dinner, and alcohol."
+                }
+            ]
+        }
+    ]
+}

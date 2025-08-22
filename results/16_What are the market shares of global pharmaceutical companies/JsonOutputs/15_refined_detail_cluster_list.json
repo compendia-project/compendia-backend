@@ -1,0 +1,202 @@
+[
+    {
+        "cluster_id": 7,
+        "title": "Development Costs",
+        "description": "The pharmaceutical industry is characterized by high development costs, with new drugs averaging over USD 2.6 billion in development expenses. Major companies like Eli Lilly and Johnson & Johnson hold significant market capitalizations, with the latter leading in revenue. The US dominates global pharmaceutical sales, contributing to about half of the total revenue. Prescription drugs and branded segments are key revenue drivers, with the US and China being major markets.",
+        "representative_facts": [
+            {
+                "fact_content": "The average cost of developing a new drug can exceed USD 2.6 billion",
+                "fact_id": "7_0"
+            },
+            {
+                "fact_content": "Eli Lilly and Co has a market cap of $327,055 million",
+                "fact_id": "7_1"
+            },
+            {
+                "fact_content": "The US pharmaceutical industry accounts for roughly 50% of the global pharmaceutical sales revenue",
+                "fact_id": "7_12"
+            }
+        ],
+        "cluster_order_id": 1
+    },
+    {
+        "cluster_id": 5,
+        "title": "Market Growth",
+        "description": "The global pharmaceutical market is experiencing significant growth, with projections indicating an increase from USD 1,763.90 billion in 2024 to USD 3,148.31 billion by 2032, driven by a CAGR of 7.5%. North America plays a crucial role, accounting for nearly half of the global market size, with the United States contributing significantly to global medicine spending. The pharmaceutical companies segment holds a dominant 52.0% market share, while the oncology segment captures 32.8%.",
+        "representative_facts": [
+            {
+                "fact_content": "Pharmaceutical companies hold 52.0% market share",
+                "fact_id": "5_0"
+            },
+            {
+                "fact_content": "Market to grow from USD 1,763.90 billion in 2024 to USD 3,148.31 billion by 2032",
+                "fact_id": "5_4"
+            },
+            {
+                "fact_content": "North America accounts for nearly half of global market size",
+                "fact_id": "5_13"
+            }
+        ],
+        "cluster_order_id": 2
+    },
+    {
+        "cluster_id": 3,
+        "title": "North America",
+        "description": "The North American pharmaceutical market is a dominant force, accounting for a significant portion of the global market. Pfizer leads in sales revenue, while other companies like Merck & Co and Roche also hold substantial market shares. The industry is marked by significant growth in sales and market capitalization, with notable increases in oncology and specific drug sales.",
+        "representative_facts": [
+            {
+                "fact_content": "North America pharmaceutical market accounted for 38% in 2024",
+                "fact_id": "3_0"
+            },
+            {
+                "fact_content": "Pfizer ranked 1st with US$58.5bn in sales revenue",
+                "fact_id": "3_3"
+            },
+            {
+                "fact_content": "Merck & Co ranked 4th with US$53.6bn in sales revenue",
+                "fact_id": "3_4"
+            }
+        ],
+        "cluster_order_id": 3
+    },
+    {
+        "cluster_id": 6,
+        "title": "Top Companies",
+        "description": "The global pharmaceutical market is a significant economic sector, with the top 10 companies holding a market cap of over $2.5 trillion in 2022. The market is projected to grow from $1.6 trillion in 2024 to $2.35 trillion by 2030. Key players like Pfizer and Johnson & Johnson are among the top-ranked companies, with substantial sales revenues.",
+        "representative_facts": [
+            {
+                "fact_content": "Top 10 pharma companies had a market cap of $2.59 trillion in 2022",
+                "fact_id": "6_0"
+            },
+            {
+                "fact_content": "Global pharmaceutical market projected to reach $2.35 trillion by 2030",
+                "fact_id": "6_6"
+            },
+            {
+                "fact_content": "Pfizer ranked 4th with $58.5bn",
+                "fact_id": "6_1"
+            }
+        ],
+        "cluster_order_id": 4
+    },
+    {
+        "cluster_id": 2,
+        "title": "Market Leaders",
+        "description": "The global pharmaceutical market is characterized by significant market capitalizations and varying market shares among leading companies. Johnson & Johnson Ltd leads with the highest market cap, while Eli Lilly and Company experienced the largest growth in market capitalization. North America plays a crucial role, contributing nearly half of the global market size.",
+        "representative_facts": [
+            {
+                "fact_content": "Johnson & Johnson Ltd has the highest market cap of $402,750 million",
+                "fact_id": "2_0"
+            },
+            {
+                "fact_content": "Eli Lilly achieved the largest market capitalisation growth of 32.4% to $733bn in 2024",
+                "fact_id": "2_15"
+            },
+            {
+                "fact_content": "North America is responsible for nearly half of the global market size",
+                "fact_id": "2_2"
+            }
+        ],
+        "cluster_order_id": 5
+    },
+    {
+        "cluster_id": 1,
+        "title": "Branded Dominance",
+        "description": "The global pharmaceuticals market was valued at USD 1,661.26 billion in 2023, with North America contributing significantly to the revenue. The branded drug segment dominated the market, capturing a substantial share of the revenue. The U.S. plays a crucial role, generating nearly half of the world's pharmaceutical revenues.",
+        "representative_facts": [
+            {
+                "fact_content": "Global pharmaceuticals market valued at USD 1,661.26 billion in 2023",
+                "fact_id": "1_0"
+            },
+            {
+                "fact_content": "North America accounted for 38.60% of total revenue in 2023",
+                "fact_id": "1_5"
+            },
+            {
+                "fact_content": "The U.S. generates almost half of the world's pharmaceutical revenues",
+                "fact_id": "1_11"
+            }
+        ],
+        "cluster_order_id": 6
+    },
+    {
+        "cluster_id": 9,
+        "title": "Revenue Growth",
+        "description": "North America leads the pharmaceutical market, holding a significant share in both 2023 and 2024. The global pharmaceutical market is projected to grow steadily at a CAGR of 6.12% from 2025 to 2030. Major companies like Sanofi and AbbVie contribute significantly to the industry's revenue, with the US pharmaceutical industry generating substantial income.",
+        "representative_facts": [
+            {
+                "fact_content": "North America dominated the pharmaceuticals market with a market share of 45.10% in 2023",
+                "fact_id": "9_0"
+            },
+            {
+                "fact_content": "The global pharmaceutical market is growing at a CAGR of 6.12% from 2025 to 2030",
+                "fact_id": "9_2"
+            },
+            {
+                "fact_content": "The US pharmaceutical industry generated $550 billion in revenue in 2021",
+                "fact_id": "9_5"
+            }
+        ],
+        "cluster_order_id": 7
+    },
+    {
+        "cluster_id": 8,
+        "title": "Financial Standings",
+        "description": "The cluster provides insights into the financial standings of major pharmaceutical companies, highlighting their revenues and market capitalizations. Roche, Pfizer, and Novartis are notable for their substantial pharmaceutical sales and revenues, while Novo Nordisk and Merck & Company are distinguished by their significant market capitalizations. The data reflects the competitive landscape and financial health of these global pharmaceutical giants.",
+        "representative_facts": [
+            {
+                "fact_content": "Pfizer pharmaceutical revenues of $79,557 million",
+                "fact_id": "8_3"
+            },
+            {
+                "fact_content": "Roche is ranked 5th with US$49.9bn in pharmaceutical sales revenue",
+                "fact_id": "8_0"
+            },
+            {
+                "fact_content": "Novartis global revenues of $52,601 in 2021",
+                "fact_id": "8_4"
+            }
+        ],
+        "cluster_order_id": 8
+    },
+    {
+        "cluster_id": 10,
+        "title": "Revenue Dynamics",
+        "description": "The global pharmaceutical industry is marked by significant revenues and market dynamics. Johnson & Johnson leads with a market cap of US$366.83 billion and reported revenues of US$85.16 billion in 2023. Other major players include AbbVie with revenues of $56,601 million and Roche with $49,279 million in 2021. The industry faces challenges such as Pfizer's anticipated $17 billion revenue loss due to exclusivity expiries between 2025 and 2030.",
+        "representative_facts": [
+            {
+                "fact_content": "Johnson & Johnson market cap is US$366.83 billion",
+                "fact_id": "10_0"
+            },
+            {
+                "fact_content": "Johnson & Johnson 2023 revenue: US$85.16 billion",
+                "fact_id": "10_14"
+            },
+            {
+                "fact_content": "Pfizer faces a loss of about $17bn in revenues from exclusivity expiries in 2025\u20132030",
+                "fact_id": "10_10"
+            }
+        ],
+        "cluster_order_id": 9
+    },
+    {
+        "cluster_id": 4,
+        "title": "Market Movements",
+        "description": "The pharmaceutical industry has seen significant financial movements, with notable revenue growth and market share changes among major companies. Novo Nordisk ended 2024 with a dominant 63% share of the GLP-1 market, despite a 16.8% decline in market capitalization. Global sales of Wegovy and Ozempic reached $6.8 billion in Q3, highlighting their market impact. Meanwhile, Pfizer's recent acquisitions are projected to bring in about $20 billion in risk-adjusted revenues by 2030.",
+        "representative_facts": [
+            {
+                "fact_content": "Novo Nordisk ended 2024 with 63% share of the GLP-1 market",
+                "fact_id": "4_4"
+            },
+            {
+                "fact_content": "Global sales of Wegovy and Ozempic reached $6.8bn in Q3",
+                "fact_id": "4_2"
+            },
+            {
+                "fact_content": "Recent acquisitions brought in about $20bn in 2030 risk-adjusted revenues for Pfizer",
+                "fact_id": "4_5"
+            }
+        ],
+        "cluster_order_id": 10
+    }
+]

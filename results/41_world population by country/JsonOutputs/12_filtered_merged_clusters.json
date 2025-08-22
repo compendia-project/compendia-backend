@@ -1,0 +1,340 @@
+[
+    {
+        "cluster_id": "6",
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "World population estimates for 2023 and 2025."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Population estimates for China and India."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "Population estimates for the United States in 2025 and 2060."
+            },
+            {
+                "merged_id": "6_3",
+                "merged_content": "Population estimates for Africa in 2024."
+            },
+            {
+                "merged_id": "6_4",
+                "merged_content": "Proportion of global population living in Asia in 2023."
+            },
+            {
+                "merged_id": "6_5",
+                "merged_content": "Population estimates for China and India in 2030."
+            },
+            {
+                "merged_id": "6_6",
+                "merged_content": "Population gain in Nigeria by 2100."
+            },
+            {
+                "merged_id": "6_7",
+                "merged_content": "China's fertility rate in the 1960s."
+            },
+            {
+                "merged_id": "6_8",
+                "merged_content": "Website visitors since 2020."
+            },
+            {
+                "merged_id": "6_9",
+                "merged_content": "Countries with population estimates and sample surveys."
+            },
+            {
+                "merged_id": "6_10",
+                "merged_content": "World population as of July 13, 2025."
+            }
+        ]
+    },
+    {
+        "cluster_id": "4",
+        "facts": [
+            {
+                "merged_id": "4_0",
+                "merged_content": "Population growth trends by 2100 for various countries."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "Projected populations for various countries in 2025 and 2060."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "Population statistics for various countries."
+            },
+            {
+                "merged_id": "4_3",
+                "merged_content": "Population growth rate of Bangladesh."
+            },
+            {
+                "merged_id": "4_4",
+                "merged_content": "Population density comparison between Mexico and the USA."
+            },
+            {
+                "merged_id": "4_5",
+                "merged_content": "Comparison of Asian countries in top 10 rankings."
+            },
+            {
+                "merged_id": "4_6",
+                "merged_content": "Population ratio between Asia and Africa."
+            }
+        ]
+    },
+    {
+        "cluster_id": "10",
+        "facts": [
+            {
+                "merged_id": "10_0",
+                "merged_content": "Population changes by 2100 for Brazil, Bangladesh, DR Congo, and Niger."
+            },
+            {
+                "merged_id": "10_1",
+                "merged_content": "Africa's population growth by 2050."
+            },
+            {
+                "merged_id": "10_2",
+                "merged_content": "Birth rate in Africa today."
+            },
+            {
+                "merged_id": "10_3",
+                "merged_content": "Colombia's population density."
+            },
+            {
+                "merged_id": "10_4",
+                "merged_content": "Nigeria's urban population."
+            },
+            {
+                "merged_id": "10_5",
+                "merged_content": "Vatican City's population."
+            },
+            {
+                "merged_id": "10_6",
+                "merged_content": "Nigeria's population density."
+            }
+        ]
+    },
+    {
+        "cluster_id": "9",
+        "facts": [
+            {
+                "merged_id": "9_0",
+                "merged_content": "The number of Europeans will decline by approximately 6% by 2050."
+            },
+            {
+                "merged_id": "9_1",
+                "merged_content": "India has almost 1.46 billion people in 2022. China's population reached 1.45 billion in 2022. China is expected to have approximately 1.42 billion people in 2025."
+            },
+            {
+                "merged_id": "9_2",
+                "merged_content": "The world's population is expected to reach around 10.3 billion people in the 2080s. The global population is estimated to pass 10 billion by 2060."
+            },
+            {
+                "merged_id": "9_3",
+                "merged_content": "The United States will have 421 million inhabitants in 2100. Nigeria's population is expected to reach 400 million by 2060."
+            },
+            {
+                "merged_id": "9_4",
+                "merged_content": "Africa's population is forecast to grow to 3.9 billion by 2100. Egypt's population is expected to increase by 120% by 2100. Bosnia-Herzegovina is expected to have a 50% decrease in population by 2100."
+            },
+            {
+                "merged_id": "9_5",
+                "merged_content": "India is expected to reach 1.7 billion by 2050. Pakistan has around 243 million inhabitants in 2025."
+            },
+            {
+                "merged_id": "9_6",
+                "merged_content": "The Population Weighted Density for the USA is 2.2k pp/km2 for 2020."
+            },
+            {
+                "merged_id": "9_7",
+                "merged_content": "China's population has decreased by 0.23%. India's annual growth rate is 0.89%."
+            },
+            {
+                "merged_id": "9_8",
+                "merged_content": "91.4% of Brazil's population live in urban areas."
+            },
+            {
+                "merged_id": "9_9",
+                "merged_content": "By 2100, there will be almost four people age 65 and older for every person age 14 and younger."
+            }
+        ]
+    },
+    {
+        "cluster_id": "8",
+        "facts": [
+            {
+                "merged_id": "8_0",
+                "merged_content": "Population growth rates of India, Brazil, Indonesia, and the U.S. in 2025."
+            },
+            {
+                "merged_id": "8_1",
+                "merged_content": "Population densities of Russia and Ethiopia."
+            },
+            {
+                "merged_id": "8_2",
+                "merged_content": "Population of China, Asia, and Vietnam."
+            },
+            {
+                "merged_id": "8_3",
+                "merged_content": "National population censuses conducted between 1950 and 2023."
+            },
+            {
+                "merged_id": "8_4",
+                "merged_content": "Projected population changes in Ethiopia and the U.S. by 2100."
+            },
+            {
+                "merged_id": "8_5",
+                "merged_content": "Pakistan's expected population in 2025."
+            },
+            {
+                "merged_id": "8_6",
+                "merged_content": "Urban population in the U.S."
+            }
+        ]
+    },
+    {
+        "cluster_id": "5",
+        "facts": [
+            {
+                "merged_id": "5_0",
+                "merged_content": "India's population data for 2022."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "India's rural population data for 2020."
+            },
+            {
+                "merged_id": "5_2",
+                "merged_content": "Population projections for Indonesia and Bangladesh in 2025."
+            },
+            {
+                "merged_id": "5_3",
+                "merged_content": "China's population trends and projections."
+            },
+            {
+                "merged_id": "5_4",
+                "merged_content": "Annual growth rates of China and Pakistan."
+            },
+            {
+                "merged_id": "5_5",
+                "merged_content": "C\u00f4te d\u2019Ivoire's population growth from 1998 to 2024."
+            },
+            {
+                "merged_id": "5_6",
+                "merged_content": "Comparison of age groups today."
+            },
+            {
+                "merged_id": "5_7",
+                "merged_content": "India's current population estimate."
+            }
+        ]
+    },
+    {
+        "cluster_id": "1",
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "Comparison of growth rates in Nigeria and the US."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "Urban population distribution in China, India, and Indonesia."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "Angola's projected population increase by 2100."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "India's projected population by 2070."
+            }
+        ]
+    },
+    {
+        "cluster_id": "7",
+        "facts": [
+            {
+                "merged_id": "7_0",
+                "merged_content": "Moldova is expected to have a 50% decrease in population by 2100."
+            },
+            {
+                "merged_id": "7_1",
+                "merged_content": "Half the world's babies will be born in Africa by 2100."
+            },
+            {
+                "merged_id": "7_2",
+                "merged_content": "US growth rate is 0.54%. Ethiopia's population grows at a high rate of 2.58%."
+            },
+            {
+                "merged_id": "7_3",
+                "merged_content": "More than 37% of India's population live in urban areas. 75% of Russia's population live in cities."
+            },
+            {
+                "merged_id": "7_4",
+                "merged_content": "Russia is expected to have approximately 144 million people in 2025. The U.S. is expected to have around 347 million residents in 2025."
+            },
+            {
+                "merged_id": "7_5",
+                "merged_content": "South Korea's 2024 population is 19% larger than in 1990."
+            }
+        ]
+    },
+    {
+        "cluster_id": "3",
+        "facts": [
+            {
+                "merged_id": "3_0",
+                "merged_content": "Vatican City is the smallest country in the world in terms of population with around 500 people."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "Population density comparison of China, Pakistan, and Bangladesh."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "Projected populations of India, Brazil, and Nigeria in 2025."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "Urban population percentages in Pakistan and Ethiopia."
+            },
+            {
+                "merged_id": "3_4",
+                "merged_content": "Russia's population decline percentage."
+            }
+        ]
+    },
+    {
+        "cluster_id": "2",
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "Over 42% of Bangladesh's population live in urban areas."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "Nigeria's population grows at approximately 2.08% annually."
+            },
+            {
+                "merged_id": "2_2",
+                "merged_content": "In 2024, Canada's rate of net migration is 6.1 per thousand."
+            },
+            {
+                "merged_id": "2_3",
+                "merged_content": "South Korea's population age 65 or older in 1990 and 2024."
+            },
+            {
+                "merged_id": "2_4",
+                "merged_content": "Canada's population age 65 and older more than doubled from 3.2 million in 1991 to 8.2 million in 2024."
+            },
+            {
+                "merged_id": "2_5",
+                "merged_content": "People age 65 and over will make up 50% of South Korea's population by 2062."
+            },
+            {
+                "merged_id": "2_6",
+                "merged_content": "In the 1980s, people ages 0-14 outnumbered people age 65 and older by more than 3 to 1."
+            }
+        ]
+    }
+]

@@ -1,0 +1,257 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Unit prices are forecast to rise by 5 per cent in Sydney and Perth in 2025.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Unit prices are forecast to rise by 5% in Sydney in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Unit Price Rise 2025",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Unit prices are forecast to rise by 5% in Perth in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Perth Unit Price Rise 2025",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_0_1"
+                }
+            ],
+            "relatedness_score": 0.7093389135246446,
+            "article_meta_data": {
+                "title": "House and unit prices forecast to grow in 2025",
+                "date": "2025-01-30",
+                "url": "https://www.realestatebusiness.com.au/industry/29365-house-and-unit-prices-forecast-to-grow-in-2025",
+                "id": 9
+            },
+            "para_id": "9_0"
+        },
+        {
+            "paragraph": "According to KPMG\u2019s latestResidential Property Market Outlook, house prices across Australia are expected to rise 3.3 per cent over the year, followed by a stronger 6 per cent in 2026.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "House prices across Australia are expected to rise 3.3% over the year.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Rise 2025",
+                            "value": "3.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_1_2"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "House prices across Australia are expected to rise 6% in 2026.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Rise 2026",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_1_3"
+                }
+            ],
+            "relatedness_score": 0.5908033260052318,
+            "article_meta_data": {
+                "title": "House and unit prices forecast to grow in 2025",
+                "date": "2025-01-30",
+                "url": "https://www.realestatebusiness.com.au/industry/29365-house-and-unit-prices-forecast-to-grow-in-2025",
+                "id": 9
+            },
+            "para_id": "9_1"
+        },
+        {
+            "paragraph": "Canberra and Melbourne are expected to rise by 3.5 per cent, Sydney by 3.3 per cent, and Brisbane by 3.1 per cent.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Canberra and Melbourne are expected to rise by 3.5%.",
+                    "vis_data": [
+                        {
+                            "label": "Canberra & Melbourne Rise",
+                            "value": "3.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_2_4"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney is expected to rise by 3.3%.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Rise",
+                            "value": "3.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_2_5"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Brisbane is expected to rise by 3.1%.",
+                    "vis_data": [
+                        {
+                            "label": "Brisbane Rise",
+                            "value": "3.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_2_6"
+                }
+            ],
+            "relatedness_score": 0.48091572523706183,
+            "article_meta_data": {
+                "title": "House and unit prices forecast to grow in 2025",
+                "date": "2025-01-30",
+                "url": "https://www.realestatebusiness.com.au/industry/29365-house-and-unit-prices-forecast-to-grow-in-2025",
+                "id": 9
+            },
+            "para_id": "9_2"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "9_0",
+            "paragraph": "Unit prices are forecast to rise by 5 per cent in Sydney and Perth in 2025."
+        },
+        {
+            "para_id": "9_1",
+            "paragraph": "According to KPMG\u2019s latestResidential Property Market Outlook, house prices across Australia are expected to rise 3.3 per cent over the year, followed by a stronger 6 per cent in 2026."
+        },
+        {
+            "para_id": "9_2",
+            "paragraph": "Canberra and Melbourne are expected to rise by 3.5 per cent, Sydney by 3.3 per cent, and Brisbane by 3.1 per cent."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "Unit prices are forecast to rise by 5% in Sydney in 2025."
+        },
+        {
+            "fact_id": "9_0_1",
+            "fact_content": "Unit prices are forecast to rise by 5% in Perth in 2025."
+        },
+        {
+            "fact_id": "9_1_2",
+            "fact_content": "House prices across Australia are expected to rise 3.3% over the year."
+        },
+        {
+            "fact_id": "9_1_3",
+            "fact_content": "House prices across Australia are expected to rise 6% in 2026."
+        },
+        {
+            "fact_id": "9_2_4",
+            "fact_content": "Canberra and Melbourne are expected to rise by 3.5%."
+        },
+        {
+            "fact_id": "9_2_5",
+            "fact_content": "Sydney is expected to rise by 3.3%."
+        },
+        {
+            "fact_id": "9_2_6",
+            "fact_content": "Brisbane is expected to rise by 3.1%."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "Unit prices are forecast to rise by 5% in Sydney in 2025.",
+            "vis_data": [
+                {
+                    "label": "Sydney Unit Price Rise 2025",
+                    "value": "5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Unit prices are forecast to rise by 5% in Perth in 2025.",
+            "vis_data": [
+                {
+                    "label": "Perth Unit Price Rise 2025",
+                    "value": "5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_0_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "House prices across Australia are expected to rise 3.3% over the year.",
+            "vis_data": [
+                {
+                    "label": "House Price Rise 2025",
+                    "value": "3.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_1_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "House prices across Australia are expected to rise 6% in 2026.",
+            "vis_data": [
+                {
+                    "label": "House Price Rise 2026",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_1_3"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Canberra and Melbourne are expected to rise by 3.5%.",
+            "vis_data": [
+                {
+                    "label": "Canberra & Melbourne Rise",
+                    "value": "3.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_2_4"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Sydney is expected to rise by 3.3%.",
+            "vis_data": [
+                {
+                    "label": "Sydney Rise",
+                    "value": "3.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_2_5"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Brisbane is expected to rise by 3.1%.",
+            "vis_data": [
+                {
+                    "label": "Brisbane Rise",
+                    "value": "3.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_2_6"
+        }
+    ]
+}

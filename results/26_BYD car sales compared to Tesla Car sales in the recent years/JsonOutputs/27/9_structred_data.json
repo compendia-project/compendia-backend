@@ -1,0 +1,284 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "In a filing on Monday, BYD reported a 29% jump in sales from the previous year on deliveries of 4.27 million cars, including fully electric vehicles and hybrids.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD delivered 4.27 million cars.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Deliveries",
+                            "value": "4.27",
+                            "unit": "million cars"
+                        }
+                    ],
+                    "fact_id": "27_0_0"
+                }
+            ],
+            "relatedness_score": 0.680734002176298,
+            "article_meta_data": {
+                "title": "BYD annual report: Chinese EV titan eclipsed Tesla in annual sales",
+                "date": "2025-03-25",
+                "url": "https://edition.cnn.com/2025/03/25/cars/china-byd-annual-sales-pass-tesla-intl-hnk",
+                "id": 27
+            },
+            "para_id": "27_0"
+        },
+        {
+            "paragraph": "In 2024, BYD had a 32% share of China\u2019s total market for new energy vehicle sales, which includes hybrids. Tesla claimed only 6.1% of the market, despite reaching a record high in terms of shipments, according to the China Passenger Car Association.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "BYD had a 32% share of China\u2019s total market for new energy vehicle sales.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Market Share",
+                            "value": "32",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "27_1_1"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Tesla claimed 6.1% of the market.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Market Share",
+                            "value": "6.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "27_1_2"
+                }
+            ],
+            "relatedness_score": 0.6760954117478365,
+            "article_meta_data": {
+                "title": "BYD annual report: Chinese EV titan eclipsed Tesla in annual sales",
+                "date": "2025-03-25",
+                "url": "https://edition.cnn.com/2025/03/25/cars/china-byd-annual-sales-pass-tesla-intl-hnk",
+                "id": 27
+            },
+            "para_id": "27_1"
+        },
+        {
+            "paragraph": "China\u2019s EV giant BYD recorded revenues of 777 billion yuan ($107 billion) for 2024, surging ahead Elon Musk\u2019s Tesla in annual sales amid intensifying competition in the global market for clean-energy cars.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD recorded revenues of 777 billion yuan ($107 billion) for 2024.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Revenue",
+                            "value": "107",
+                            "unit": "billion USD"
+                        },
+                        {
+                            "label": "BYD Revenue",
+                            "value": "777",
+                            "unit": "billion yuan"
+                        }
+                    ],
+                    "fact_id": "27_2_3"
+                }
+            ],
+            "relatedness_score": 0.6723188212407716,
+            "article_meta_data": {
+                "title": "BYD annual report: Chinese EV titan eclipsed Tesla in annual sales",
+                "date": "2025-03-25",
+                "url": "https://edition.cnn.com/2025/03/25/cars/china-byd-annual-sales-pass-tesla-intl-hnk",
+                "id": 27
+            },
+            "para_id": "27_2"
+        },
+        {
+            "paragraph": "By comparison, Tesla\u2019s 2024 revenue was $97.7 billion, and it delivered 1.79 million battery-powered vehicles. Its annual deliveries declined for the first time last year by 1.1%.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla\u2019s 2024 revenue was $97.7 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Revenue",
+                            "value": "97.7",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "27_3_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla delivered 1.79 million battery-powered vehicles.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Deliveries",
+                            "value": "1.79",
+                            "unit": "million cars"
+                        }
+                    ],
+                    "fact_id": "27_3_5"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's annual deliveries declined by 1.1%.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Delivery Decline",
+                            "value": "1.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "27_3_6"
+                }
+            ],
+            "relatedness_score": 0.5800157797928878,
+            "article_meta_data": {
+                "title": "BYD annual report: Chinese EV titan eclipsed Tesla in annual sales",
+                "date": "2025-03-25",
+                "url": "https://edition.cnn.com/2025/03/25/cars/china-byd-annual-sales-pass-tesla-intl-hnk",
+                "id": 27
+            },
+            "para_id": "27_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "27_0",
+            "paragraph": "In a filing on Monday, BYD reported a 29% jump in sales from the previous year on deliveries of 4.27 million cars, including fully electric vehicles and hybrids."
+        },
+        {
+            "para_id": "27_1",
+            "paragraph": "In 2024, BYD had a 32% share of China\u2019s total market for new energy vehicle sales, which includes hybrids. Tesla claimed only 6.1% of the market, despite reaching a record high in terms of shipments, according to the China Passenger Car Association."
+        },
+        {
+            "para_id": "27_2",
+            "paragraph": "China\u2019s EV giant BYD recorded revenues of 777 billion yuan ($107 billion) for 2024, surging ahead Elon Musk\u2019s Tesla in annual sales amid intensifying competition in the global market for clean-energy cars."
+        },
+        {
+            "para_id": "27_3",
+            "paragraph": "By comparison, Tesla\u2019s 2024 revenue was $97.7 billion, and it delivered 1.79 million battery-powered vehicles. Its annual deliveries declined for the first time last year by 1.1%."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "27_0_0",
+            "fact_content": "BYD delivered 4.27 million cars."
+        },
+        {
+            "fact_id": "27_1_1",
+            "fact_content": "BYD had a 32% share of China\u2019s total market for new energy vehicle sales."
+        },
+        {
+            "fact_id": "27_1_2",
+            "fact_content": "Tesla claimed 6.1% of the market."
+        },
+        {
+            "fact_id": "27_2_3",
+            "fact_content": "BYD recorded revenues of 777 billion yuan ($107 billion) for 2024."
+        },
+        {
+            "fact_id": "27_3_4",
+            "fact_content": "Tesla\u2019s 2024 revenue was $97.7 billion."
+        },
+        {
+            "fact_id": "27_3_5",
+            "fact_content": "Tesla delivered 1.79 million battery-powered vehicles."
+        },
+        {
+            "fact_id": "27_3_6",
+            "fact_content": "Tesla's annual deliveries declined by 1.1%."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "BYD delivered 4.27 million cars.",
+            "vis_data": [
+                {
+                    "label": "BYD Deliveries",
+                    "value": "4.27",
+                    "unit": "million cars"
+                }
+            ],
+            "fact_id": "27_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "BYD had a 32% share of China\u2019s total market for new energy vehicle sales.",
+            "vis_data": [
+                {
+                    "label": "BYD Market Share",
+                    "value": "32",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "27_1_1"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Tesla claimed 6.1% of the market.",
+            "vis_data": [
+                {
+                    "label": "Tesla Market Share",
+                    "value": "6.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "27_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "BYD recorded revenues of 777 billion yuan ($107 billion) for 2024.",
+            "vis_data": [
+                {
+                    "label": "BYD Revenue",
+                    "value": "107",
+                    "unit": "billion USD"
+                },
+                {
+                    "label": "BYD Revenue",
+                    "value": "777",
+                    "unit": "billion yuan"
+                }
+            ],
+            "fact_id": "27_2_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla\u2019s 2024 revenue was $97.7 billion.",
+            "vis_data": [
+                {
+                    "label": "Tesla Revenue",
+                    "value": "97.7",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "27_3_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Tesla delivered 1.79 million battery-powered vehicles.",
+            "vis_data": [
+                {
+                    "label": "Tesla Deliveries",
+                    "value": "1.79",
+                    "unit": "million cars"
+                }
+            ],
+            "fact_id": "27_3_5"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Tesla's annual deliveries declined by 1.1%.",
+            "vis_data": [
+                {
+                    "label": "Tesla Delivery Decline",
+                    "value": "1.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "27_3_6"
+        }
+    ]
+}

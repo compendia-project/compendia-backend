@@ -1,0 +1,711 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Ericsson generated SEK 61.8 billion ($5.93 billion) in revenues, down 4% year over year. Demand softness in the Mobile Networks vertical impeded the top line. However, the top line surpassed the Zacks Consensus Estimate of $5.73 billion.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson generated SEK 61.8 billion ($5.93 billion) in revenues.",
+                    "vis_data": [
+                        {
+                            "label": "Revenues",
+                            "value": "5.93",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "8_0_0"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Revenues down 4% year over year.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue Change",
+                            "value": "-4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_0_1"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Top line surpassed the Zacks Consensus Estimate of $5.73 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Surpass Estimate",
+                            "value": "0.2",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "8_0_2"
+                }
+            ],
+            "relatedness_score": 0.6794387814486573,
+            "article_meta_data": {
+                "title": "Ericsson Q3 Earnings Surpass Estimates, Revenues Down Year Over Year",
+                "date": "2024-10-15",
+                "url": "https://www.nasdaq.com/articles/ericsson-q3-earnings-surpass-estimates-revenues-decline-y-y",
+                "id": 8
+            },
+            "para_id": "8_0"
+        },
+        {
+            "paragraph": "Enterprise sales remained flat at SEK 6.3 billion ($605 million), down 5% year over year. Net sales missed our revenue estimate of SEK 6.45 billion. Growth in Enterprise Wireless Solutions supported the top line. However, declining sales in the Global Communication Platform reversed the positive trend. Adjusted gross margin was 52.4%, up from 48.8% in the year-ago quarter. Other revenues were SEK 0.5 billion ($48 million) compared with the prior-year quarter\u2019s figure of SEK 0.7 billion.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Enterprise sales remained flat at SEK 6.3 billion ($605 million).",
+                    "vis_data": [
+                        {
+                            "label": "Enterprise Sales",
+                            "value": "605",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "8_1_3"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Down 5% year over year.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Change",
+                            "value": "-5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_1_4"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Adjusted gross margin was 52.4%, up from 48.8% in the year-ago quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Margin Change",
+                            "value": "3.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_1_5"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Other revenues were SEK 0.5 billion ($48 million) compared with the prior-year quarter\u2019s figure of SEK 0.7 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Other Revenues Change",
+                            "value": "-0.2",
+                            "unit": "billion SEK"
+                        }
+                    ],
+                    "fact_id": "8_1_6"
+                }
+            ],
+            "relatedness_score": 0.5890540923442931,
+            "article_meta_data": {
+                "title": "Ericsson Q3 Earnings Surpass Estimates, Revenues Down Year Over Year",
+                "date": "2024-10-15",
+                "url": "https://www.nasdaq.com/articles/ericsson-q3-earnings-surpass-estimates-revenues-decline-y-y",
+                "id": 8
+            },
+            "para_id": "8_1"
+        },
+        {
+            "paragraph": "The Networks segment generated SEK 40 billion ($3.84 billion), down 4% from the year-ago quarter\u2019s tally of SEK 41.5 billion. The top line beat our revenue estimate of SEK 38.09 billion. The segment\u2019s adjusted gross margin improved to 48.7% from 39.9% in the year-ago quarter. The unit registered a 49% sales decline in South East Asia, Oceania and India. Following a record level of investments in 2023, operator capex significantly declined in India. However, sales in the Networks segment from North America improved a staggering 80% year over year, owing to greater network investments from large customers. Healthy growth in IPR licensing revenues backed by new 5G licensing agreements also supported the top line.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Networks segment generated SEK 40 billion ($3.84 billion).",
+                    "vis_data": [
+                        {
+                            "label": "Networks Revenue",
+                            "value": "3.84",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "8_2_7"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Down 4% from the year-ago quarter\u2019s tally of SEK 41.5 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue Change",
+                            "value": "-4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_2_8"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Adjusted gross margin improved to 48.7% from 39.9% in the year-ago quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Margin Change",
+                            "value": "8.8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_2_9"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "49% sales decline in South East Asia, Oceania and India.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Decline SEA, Oceania, India",
+                            "value": "-49",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_2_10"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Sales in the Networks segment from North America improved 80% year over year.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Growth North America",
+                            "value": "80",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_2_11"
+                }
+            ],
+            "relatedness_score": 0.5785210329881911,
+            "article_meta_data": {
+                "title": "Ericsson Q3 Earnings Surpass Estimates, Revenues Down Year Over Year",
+                "date": "2024-10-15",
+                "url": "https://www.nasdaq.com/articles/ericsson-q3-earnings-surpass-estimates-revenues-decline-y-y",
+                "id": 8
+            },
+            "para_id": "8_2"
+        },
+        {
+            "paragraph": "Region-wise, South-East Asia, Oceania and India registered revenues of SEK 7.7 billion ($739 million), down from SEK 13.8 billion in the prior-year quarter. Revenues from North East Asia fell 31% year over year to SEK 3.7 billion ($355 million). Net sales from North America increased 51% year over year to SEK 20.4 billion ($1.96 billion) backed by contract wins and growing network investments. Europe and Latin American markets witnessed a 2% year-over-year decline to SEK 15.2 billion ($1.46 billion). Revenues in the Middle East and Africa fell 24% to SEK 4.9 billion ($470 million) due to a slowdown in capex investments and macroeconomic headwinds. Revenues from other regions rose to SEK 10 billion ($960 million) from SEK 9.9 billion in the prior-year quarter.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "South-East Asia, Oceania and India registered revenues of SEK 7.7 billion ($739 million).",
+                    "vis_data": [
+                        {
+                            "label": "SEA, Oceania, India Revenue",
+                            "value": "739",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "8_3_12"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Down from SEK 13.8 billion in the prior-year quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue Change",
+                            "value": "-6.1",
+                            "unit": "billion SEK"
+                        }
+                    ],
+                    "fact_id": "8_3_13"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Revenues from North East Asia fell 31% year over year to SEK 3.7 billion ($355 million).",
+                    "vis_data": [
+                        {
+                            "label": "NE Asia Revenue Change",
+                            "value": "-31",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_3_14"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Net sales from North America increased 51% year over year to SEK 20.4 billion ($1.96 billion).",
+                    "vis_data": [
+                        {
+                            "label": "NA Sales Growth",
+                            "value": "51",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_3_15"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Europe and Latin American markets witnessed a 2% year-over-year decline to SEK 15.2 billion ($1.46 billion).",
+                    "vis_data": [
+                        {
+                            "label": "Europe, LATAM Revenue Change",
+                            "value": "-2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_3_16"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Revenues in the Middle East and Africa fell 24% to SEK 4.9 billion ($470 million).",
+                    "vis_data": [
+                        {
+                            "label": "MEA Revenue Change",
+                            "value": "-24",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_3_17"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Revenues from other regions rose to SEK 10 billion ($960 million) from SEK 9.9 billion in the prior-year quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Other Regions Revenue Change",
+                            "value": "100",
+                            "unit": "million SEK"
+                        }
+                    ],
+                    "fact_id": "8_3_18"
+                }
+            ],
+            "relatedness_score": 0.5593756151162798,
+            "article_meta_data": {
+                "title": "Ericsson Q3 Earnings Surpass Estimates, Revenues Down Year Over Year",
+                "date": "2024-10-15",
+                "url": "https://www.nasdaq.com/articles/ericsson-q3-earnings-surpass-estimates-revenues-decline-y-y",
+                "id": 8
+            },
+            "para_id": "8_3"
+        },
+        {
+            "paragraph": "Cloud Software and Services contributed SEK 15 billion ($1.44 billion) in revenues, down from SEK 15.6 billion in the year-ago quarter. The segment witnessed healthy demand in North America, the Middle East and Africa. However, it was offset by weakness in other regions. The top line missed our revenue estimate of SEK 15.8 billion. Adjusted gross margin improved to 38.7% from 36.2% in the prior-year quarter. Increased IPR licensing revenues, commercial discipline, and improvement in delivery performance propelled the gross margin.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cloud Software and Services contributed SEK 15 billion ($1.44 billion) in revenues.",
+                    "vis_data": [
+                        {
+                            "label": "Cloud Software Revenue",
+                            "value": "1.44",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "8_4_19"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Down from SEK 15.6 billion in the year-ago quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue Change",
+                            "value": "-0.6",
+                            "unit": "billion SEK"
+                        }
+                    ],
+                    "fact_id": "8_4_20"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Adjusted gross margin improved to 38.7% from 36.2% in the prior-year quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Margin Change",
+                            "value": "2.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_4_21"
+                }
+            ],
+            "relatedness_score": 0.5008796744737501,
+            "article_meta_data": {
+                "title": "Ericsson Q3 Earnings Surpass Estimates, Revenues Down Year Over Year",
+                "date": "2024-10-15",
+                "url": "https://www.nasdaq.com/articles/ericsson-q3-earnings-surpass-estimates-revenues-decline-y-y",
+                "id": 8
+            },
+            "para_id": "8_4"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "8_0",
+            "paragraph": "Ericsson generated SEK 61.8 billion ($5.93 billion) in revenues, down 4% year over year. Demand softness in the Mobile Networks vertical impeded the top line. However, the top line surpassed the Zacks Consensus Estimate of $5.73 billion."
+        },
+        {
+            "para_id": "8_1",
+            "paragraph": "Enterprise sales remained flat at SEK 6.3 billion ($605 million), down 5% year over year. Net sales missed our revenue estimate of SEK 6.45 billion. Growth in Enterprise Wireless Solutions supported the top line. However, declining sales in the Global Communication Platform reversed the positive trend. Adjusted gross margin was 52.4%, up from 48.8% in the year-ago quarter. Other revenues were SEK 0.5 billion ($48 million) compared with the prior-year quarter\u2019s figure of SEK 0.7 billion."
+        },
+        {
+            "para_id": "8_2",
+            "paragraph": "The Networks segment generated SEK 40 billion ($3.84 billion), down 4% from the year-ago quarter\u2019s tally of SEK 41.5 billion. The top line beat our revenue estimate of SEK 38.09 billion. The segment\u2019s adjusted gross margin improved to 48.7% from 39.9% in the year-ago quarter. The unit registered a 49% sales decline in South East Asia, Oceania and India. Following a record level of investments in 2023, operator capex significantly declined in India. However, sales in the Networks segment from North America improved a staggering 80% year over year, owing to greater network investments from large customers. Healthy growth in IPR licensing revenues backed by new 5G licensing agreements also supported the top line."
+        },
+        {
+            "para_id": "8_3",
+            "paragraph": "Region-wise, South-East Asia, Oceania and India registered revenues of SEK 7.7 billion ($739 million), down from SEK 13.8 billion in the prior-year quarter. Revenues from North East Asia fell 31% year over year to SEK 3.7 billion ($355 million). Net sales from North America increased 51% year over year to SEK 20.4 billion ($1.96 billion) backed by contract wins and growing network investments. Europe and Latin American markets witnessed a 2% year-over-year decline to SEK 15.2 billion ($1.46 billion). Revenues in the Middle East and Africa fell 24% to SEK 4.9 billion ($470 million) due to a slowdown in capex investments and macroeconomic headwinds. Revenues from other regions rose to SEK 10 billion ($960 million) from SEK 9.9 billion in the prior-year quarter."
+        },
+        {
+            "para_id": "8_4",
+            "paragraph": "Cloud Software and Services contributed SEK 15 billion ($1.44 billion) in revenues, down from SEK 15.6 billion in the year-ago quarter. The segment witnessed healthy demand in North America, the Middle East and Africa. However, it was offset by weakness in other regions. The top line missed our revenue estimate of SEK 15.8 billion. Adjusted gross margin improved to 38.7% from 36.2% in the prior-year quarter. Increased IPR licensing revenues, commercial discipline, and improvement in delivery performance propelled the gross margin."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "Ericsson generated SEK 61.8 billion ($5.93 billion) in revenues."
+        },
+        {
+            "fact_id": "8_0_1",
+            "fact_content": "Revenues down 4% year over year."
+        },
+        {
+            "fact_id": "8_0_2",
+            "fact_content": "Top line surpassed the Zacks Consensus Estimate of $5.73 billion."
+        },
+        {
+            "fact_id": "8_1_3",
+            "fact_content": "Enterprise sales remained flat at SEK 6.3 billion ($605 million)."
+        },
+        {
+            "fact_id": "8_1_4",
+            "fact_content": "Down 5% year over year."
+        },
+        {
+            "fact_id": "8_1_5",
+            "fact_content": "Adjusted gross margin was 52.4%, up from 48.8% in the year-ago quarter."
+        },
+        {
+            "fact_id": "8_1_6",
+            "fact_content": "Other revenues were SEK 0.5 billion ($48 million) compared with the prior-year quarter\u2019s figure of SEK 0.7 billion."
+        },
+        {
+            "fact_id": "8_2_7",
+            "fact_content": "The Networks segment generated SEK 40 billion ($3.84 billion)."
+        },
+        {
+            "fact_id": "8_2_8",
+            "fact_content": "Down 4% from the year-ago quarter\u2019s tally of SEK 41.5 billion."
+        },
+        {
+            "fact_id": "8_2_9",
+            "fact_content": "Adjusted gross margin improved to 48.7% from 39.9% in the year-ago quarter."
+        },
+        {
+            "fact_id": "8_2_10",
+            "fact_content": "49% sales decline in South East Asia, Oceania and India."
+        },
+        {
+            "fact_id": "8_2_11",
+            "fact_content": "Sales in the Networks segment from North America improved 80% year over year."
+        },
+        {
+            "fact_id": "8_3_12",
+            "fact_content": "South-East Asia, Oceania and India registered revenues of SEK 7.7 billion ($739 million)."
+        },
+        {
+            "fact_id": "8_3_13",
+            "fact_content": "Down from SEK 13.8 billion in the prior-year quarter."
+        },
+        {
+            "fact_id": "8_3_14",
+            "fact_content": "Revenues from North East Asia fell 31% year over year to SEK 3.7 billion ($355 million)."
+        },
+        {
+            "fact_id": "8_3_15",
+            "fact_content": "Net sales from North America increased 51% year over year to SEK 20.4 billion ($1.96 billion)."
+        },
+        {
+            "fact_id": "8_3_16",
+            "fact_content": "Europe and Latin American markets witnessed a 2% year-over-year decline to SEK 15.2 billion ($1.46 billion)."
+        },
+        {
+            "fact_id": "8_3_17",
+            "fact_content": "Revenues in the Middle East and Africa fell 24% to SEK 4.9 billion ($470 million)."
+        },
+        {
+            "fact_id": "8_3_18",
+            "fact_content": "Revenues from other regions rose to SEK 10 billion ($960 million) from SEK 9.9 billion in the prior-year quarter."
+        },
+        {
+            "fact_id": "8_4_19",
+            "fact_content": "Cloud Software and Services contributed SEK 15 billion ($1.44 billion) in revenues."
+        },
+        {
+            "fact_id": "8_4_20",
+            "fact_content": "Down from SEK 15.6 billion in the year-ago quarter."
+        },
+        {
+            "fact_id": "8_4_21",
+            "fact_content": "Adjusted gross margin improved to 38.7% from 36.2% in the prior-year quarter."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Ericsson generated SEK 61.8 billion ($5.93 billion) in revenues.",
+            "vis_data": [
+                {
+                    "label": "Revenues",
+                    "value": "5.93",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "8_0_0"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Revenues down 4% year over year.",
+            "vis_data": [
+                {
+                    "label": "Revenue Change",
+                    "value": "-4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_0_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Top line surpassed the Zacks Consensus Estimate of $5.73 billion.",
+            "vis_data": [
+                {
+                    "label": "Surpass Estimate",
+                    "value": "0.2",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "8_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Enterprise sales remained flat at SEK 6.3 billion ($605 million).",
+            "vis_data": [
+                {
+                    "label": "Enterprise Sales",
+                    "value": "605",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "8_1_3"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Down 5% year over year.",
+            "vis_data": [
+                {
+                    "label": "Sales Change",
+                    "value": "-5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_1_4"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Adjusted gross margin was 52.4%, up from 48.8% in the year-ago quarter.",
+            "vis_data": [
+                {
+                    "label": "Gross Margin Change",
+                    "value": "3.6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_1_5"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Other revenues were SEK 0.5 billion ($48 million) compared with the prior-year quarter\u2019s figure of SEK 0.7 billion.",
+            "vis_data": [
+                {
+                    "label": "Other Revenues Change",
+                    "value": "-0.2",
+                    "unit": "billion SEK"
+                }
+            ],
+            "fact_id": "8_1_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Networks segment generated SEK 40 billion ($3.84 billion).",
+            "vis_data": [
+                {
+                    "label": "Networks Revenue",
+                    "value": "3.84",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "8_2_7"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Down 4% from the year-ago quarter\u2019s tally of SEK 41.5 billion.",
+            "vis_data": [
+                {
+                    "label": "Revenue Change",
+                    "value": "-4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_2_8"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Adjusted gross margin improved to 48.7% from 39.9% in the year-ago quarter.",
+            "vis_data": [
+                {
+                    "label": "Gross Margin Change",
+                    "value": "8.8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_2_9"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "49% sales decline in South East Asia, Oceania and India.",
+            "vis_data": [
+                {
+                    "label": "Sales Decline SEA, Oceania, India",
+                    "value": "-49",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_2_10"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Sales in the Networks segment from North America improved 80% year over year.",
+            "vis_data": [
+                {
+                    "label": "Sales Growth North America",
+                    "value": "80",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_2_11"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "South-East Asia, Oceania and India registered revenues of SEK 7.7 billion ($739 million).",
+            "vis_data": [
+                {
+                    "label": "SEA, Oceania, India Revenue",
+                    "value": "739",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "8_3_12"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Down from SEK 13.8 billion in the prior-year quarter.",
+            "vis_data": [
+                {
+                    "label": "Revenue Change",
+                    "value": "-6.1",
+                    "unit": "billion SEK"
+                }
+            ],
+            "fact_id": "8_3_13"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Revenues from North East Asia fell 31% year over year to SEK 3.7 billion ($355 million).",
+            "vis_data": [
+                {
+                    "label": "NE Asia Revenue Change",
+                    "value": "-31",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_3_14"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Net sales from North America increased 51% year over year to SEK 20.4 billion ($1.96 billion).",
+            "vis_data": [
+                {
+                    "label": "NA Sales Growth",
+                    "value": "51",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_3_15"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Europe and Latin American markets witnessed a 2% year-over-year decline to SEK 15.2 billion ($1.46 billion).",
+            "vis_data": [
+                {
+                    "label": "Europe, LATAM Revenue Change",
+                    "value": "-2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_3_16"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Revenues in the Middle East and Africa fell 24% to SEK 4.9 billion ($470 million).",
+            "vis_data": [
+                {
+                    "label": "MEA Revenue Change",
+                    "value": "-24",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_3_17"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Revenues from other regions rose to SEK 10 billion ($960 million) from SEK 9.9 billion in the prior-year quarter.",
+            "vis_data": [
+                {
+                    "label": "Other Regions Revenue Change",
+                    "value": "100",
+                    "unit": "million SEK"
+                }
+            ],
+            "fact_id": "8_3_18"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cloud Software and Services contributed SEK 15 billion ($1.44 billion) in revenues.",
+            "vis_data": [
+                {
+                    "label": "Cloud Software Revenue",
+                    "value": "1.44",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "8_4_19"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Down from SEK 15.6 billion in the year-ago quarter.",
+            "vis_data": [
+                {
+                    "label": "Revenue Change",
+                    "value": "-0.6",
+                    "unit": "billion SEK"
+                }
+            ],
+            "fact_id": "8_4_20"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Adjusted gross margin improved to 38.7% from 36.2% in the prior-year quarter.",
+            "vis_data": [
+                {
+                    "label": "Gross Margin Change",
+                    "value": "2.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_4_21"
+        }
+    ]
+}

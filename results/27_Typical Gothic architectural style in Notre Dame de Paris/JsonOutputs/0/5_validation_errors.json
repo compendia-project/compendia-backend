@@ -1,0 +1,56 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "Reserved for the faithful during services, the nave requires a vast space to accommodate a large number of worshippers. It determines the dimensions of the building. Raised from the ground to the vaults, it forms the central vessel of the building. The construction of the nave of Notre-Dame began in 1182 with four bays. After a pause to build the west facade in 1208, construction resumed in 1218. It consists of ten bays. A bay corresponds to the space between each pillar. The first two bays support the building up to the towers and also serve as a transition after passing through the portal. Pillars, arcades, pilasters, and columns accentuate the effect of verticality. These verticals are broken horizontally by arcades and capitals. This regular rhythm between verticals and horizontals gives the nave great harmony.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The construction of the nave of Notre-Dame began in 1182 with four bays.",
+                    "vis_data": [
+                        {
+                            "label": "Initial Bays",
+                            "value": "4",
+                            "unit": "bays"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The nave of Notre-Dame consists of ten bays.",
+                    "vis_data": [
+                        {
+                            "label": "Total Bays",
+                            "value": "10",
+                            "unit": "bays"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The addition of 13th-century chapels around the nave darkened the interior of the building. However, Gothic architecture is designed to bathe the interior in light. In its first version in the 12th century, the cathedral rose on four levels: large arcades, galleries, roses, and high windows. These roses are still visible on the first bay and at the junction between the transept and the choir. To enhance the entry of light into the building, the high windows were enlarged in the 13th century. Since then, the cathedral has risen on only three levels.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The cathedral originally rose on four levels and now rises on only three levels.",
+                    "vis_data": [
+                        {
+                            "label": "Original Levels",
+                            "value": "4",
+                            "unit": "levels"
+                        },
+                        {
+                            "label": "Current Levels",
+                            "value": "3",
+                            "unit": "levels"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

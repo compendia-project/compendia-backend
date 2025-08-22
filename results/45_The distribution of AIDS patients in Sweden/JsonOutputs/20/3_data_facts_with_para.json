@@ -1,0 +1,58 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Annually, Sweden reports around 400 to 500 new HIV cases, predominantly encompassing instances where the infection was contracted prior to the individual\u2019s migration to the country. Nevertheless, Sweden holds the distinction of being the inaugural country to fulfil the Joint UNAIDS/WHO 90-90-90 continuum of HIV care objectives. By the conclusion of 2015, Sweden had achieved the following: 90 percent of HIV cases were diagnosed, 99.8 percent of individuals were connected to care, and 95 percent of those who had undergone a minimum of six months of antiretroviral treatment maintained a viral load below 50 copies/ml. As a comparison, it is estimated that around 8,000 people live with HIV in Sweden\u2014which corresponds to approximately 69 cases per 100,000 inhabitants, or 0.07 per cent of the population\u2014whereas UNAIDS have estimated that over seven million people live with HIV in South Africa (the epicentre of the HIV/AIDS pandemic). Moreover, in this geographical region, 63 percent of new infections are women\u2014with young women (aged 15 to 24 years) twice as likely as men of the same age to be living with HIV. However, information about HIV/AIDS and its occurrence in Sweden has led to stigma and social stratification, especially when it comes to the public image and civil rights of gay men (and other Men who have Sex with Men).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Annually, Sweden reports around 400 to 500 new HIV cases."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "By the conclusion of 2015, 90 percent of HIV cases in Sweden were diagnosed."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "By the conclusion of 2015, 99.8 percent of individuals with HIV in Sweden were connected to care."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "By the conclusion of 2015, 95 percent of individuals who had undergone a minimum of six months of antiretroviral treatment in Sweden maintained a viral load below 50 copies/ml."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "It is estimated that around 8,000 people live with HIV in Sweden."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Approximately 69 cases per 100,000 inhabitants in Sweden have HIV."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "0.07 percent of the population in Sweden is estimated to live with HIV."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Over seven million people live with HIV in South Africa."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "63 percent of new HIV infections in South Africa are women."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Young women (aged 15 to 24 years) in South Africa are twice as likely as men of the same age to be living with HIV."
+                }
+            ]
+        },
+        {
+            "paragraph": "This was reinforced by the fact that the number of documented HIV infections in Sweden almost tripled\u2014from 324 to 968\u2014partially due to newfound ways of diagnosing whether someone was affected by HIV or not.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The number of documented HIV infections in Sweden almost tripled from 324 to 968."
+                }
+            ]
+        }
+    ]
+}

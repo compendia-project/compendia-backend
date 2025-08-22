@@ -1,0 +1,139 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "['The cost of eating & drinking in VietnamTo help you decide on the amount of spending money to budget for, we have outlined below the approximate cost of meals & drinks in Vietnam.', '\u2022 Cost of lunch in a local restaurant: \u00a33 excluding drinks\u2022 Cost of dinner in a 4 star hotel: \u00a320 excluding drinks\u2022 Cost of a local beer: Beer Hanoi, Saigon Beer, 330ml \u00a31- \u00a32\u2022 Cost of a bottle of wine: Standard Australian \u00a315']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost of lunch in a local restaurant: \u00a33 excluding drinks.",
+                    "vis_data": [
+                        {
+                            "label": "Lunch in local restaurant",
+                            "value": "3",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "fact_id": "20_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost of dinner in a 4 star hotel: \u00a320 excluding drinks.",
+                    "vis_data": [
+                        {
+                            "label": "Dinner in 4 star hotel",
+                            "value": "20",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "fact_id": "20_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost of a local beer: Beer Hanoi, Saigon Beer, 330ml \u00a31- \u00a32.",
+                    "vis_data": [
+                        {
+                            "label": "Local beer (330ml)",
+                            "value": "1.5",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "fact_id": "20_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cost of a bottle of wine: Standard Australian \u00a315.",
+                    "vis_data": [
+                        {
+                            "label": "Bottle of wine",
+                            "value": "15",
+                            "unit": "\u00a3"
+                        }
+                    ],
+                    "fact_id": "20_0_3"
+                }
+            ],
+            "relatedness_score": 0.6431989908774562,
+            "article_meta_data": {
+                "title": "Eating & Drinking in Vietnam",
+                "date": "Unknown",
+                "url": "https://www.bambootravel.co.uk/holidays-to-vietnam/travel-tips/eating-and-drinking-in-vietnam",
+                "id": 20
+            },
+            "para_id": "20_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "20_0",
+            "paragraph": "['The cost of eating & drinking in VietnamTo help you decide on the amount of spending money to budget for, we have outlined below the approximate cost of meals & drinks in Vietnam.', '\u2022 Cost of lunch in a local restaurant: \u00a33 excluding drinks\u2022 Cost of dinner in a 4 star hotel: \u00a320 excluding drinks\u2022 Cost of a local beer: Beer Hanoi, Saigon Beer, 330ml \u00a31- \u00a32\u2022 Cost of a bottle of wine: Standard Australian \u00a315']"
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "20_0_0",
+            "fact_content": "Cost of lunch in a local restaurant: \u00a33 excluding drinks."
+        },
+        {
+            "fact_id": "20_0_1",
+            "fact_content": "Cost of dinner in a 4 star hotel: \u00a320 excluding drinks."
+        },
+        {
+            "fact_id": "20_0_2",
+            "fact_content": "Cost of a local beer: Beer Hanoi, Saigon Beer, 330ml \u00a31- \u00a32."
+        },
+        {
+            "fact_id": "20_0_3",
+            "fact_content": "Cost of a bottle of wine: Standard Australian \u00a315."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Cost of lunch in a local restaurant: \u00a33 excluding drinks.",
+            "vis_data": [
+                {
+                    "label": "Lunch in local restaurant",
+                    "value": "3",
+                    "unit": "\u00a3"
+                }
+            ],
+            "fact_id": "20_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost of dinner in a 4 star hotel: \u00a320 excluding drinks.",
+            "vis_data": [
+                {
+                    "label": "Dinner in 4 star hotel",
+                    "value": "20",
+                    "unit": "\u00a3"
+                }
+            ],
+            "fact_id": "20_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost of a local beer: Beer Hanoi, Saigon Beer, 330ml \u00a31- \u00a32.",
+            "vis_data": [
+                {
+                    "label": "Local beer (330ml)",
+                    "value": "1.5",
+                    "unit": "\u00a3"
+                }
+            ],
+            "fact_id": "20_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cost of a bottle of wine: Standard Australian \u00a315.",
+            "vis_data": [
+                {
+                    "label": "Bottle of wine",
+                    "value": "15",
+                    "unit": "\u00a3"
+                }
+            ],
+            "fact_id": "20_0_3"
+        }
+    ]
+}

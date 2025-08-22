@@ -1,0 +1,4341 @@
+[
+    {
+        "cluster_id": "7",
+        "merged_facts": [
+            {
+                "merged_content": "Marriage statistics in Singapore for 2023.",
+                "merged_data": [
+                    {
+                        "label": "Crude Marriage Rate",
+                        "value": "6.4",
+                        "unit": "marriages per 1,000 residents"
+                    },
+                    {
+                        "label": "Marriages in 2023",
+                        "value": "28310",
+                        "unit": "couples"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriage Statistics in Singapore 2023",
+                    "x_axis": "Category",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_0",
+                        "fact_group_content": "The crude marriage rate in Singapore was 6.4 marriages per 1,000 residents in 2023.",
+                        "fact_ids": [
+                            "3_0_0"
+                        ],
+                        "article_ids": [
+                            "3"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The crude marriage rate in Singapore was 6.4 marriages per 1,000 residents in 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Crude Marriage Rate",
+                                        "value": "6.4",
+                                        "unit": "marriages per 1,000 residents"
+                                    }
+                                ],
+                                "fact_id": "3_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_2",
+                        "fact_group_content": "28,310 couples registered their marriages in 2023 in Singapore.",
+                        "fact_ids": [
+                            "4_0_0",
+                            "4_3_7"
+                        ],
+                        "article_ids": [
+                            "4"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "28,310 couples registered their marriages in 2023 in Singapore.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2023",
+                                        "value": "28310",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "4_0_0"
+                            },
+                            {
+                                "fact_type": "value",
+                                "fact_content": "28,310 couples registered their marriages in 2023 in Singapore.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2023",
+                                        "value": "28310",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "4_3_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_0"
+            },
+            {
+                "merged_content": "Record high marriages and annual averages in Singapore.",
+                "merged_data": [
+                    {
+                        "label": "Record High Marriages",
+                        "value": "29389",
+                        "unit": "count"
+                    },
+                    {
+                        "label": "Annual Avg Marriages (Prior 5 Years)",
+                        "value": "26562",
+                        "unit": "count"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriage Records and Averages",
+                    "x_axis": "Category",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_1",
+                        "fact_group_content": "29,389 marriages were the record high in 2022.",
+                        "fact_ids": [
+                            "10_1_2"
+                        ],
+                        "article_ids": [
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "extreme",
+                                "fact_content": "29,389 marriages were the record high in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Record High Marriages",
+                                        "value": "29389",
+                                        "unit": "count"
+                                    }
+                                ],
+                                "fact_id": "10_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_5",
+                        "fact_group_content": "Annual average of 26,562 marriages in the prior five-year period.",
+                        "fact_ids": [
+                            "5_2_6"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Annual average of 26,562 marriages in the prior five-year period.",
+                                "vis_data": [
+                                    {
+                                        "label": "Annual Avg Marriages (Prior 5 Years)",
+                                        "value": "26562",
+                                        "unit": "count"
+                                    }
+                                ],
+                                "fact_id": "5_2_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_1"
+            },
+            {
+                "merged_content": "Inter-ethnic marriages in Singapore for 2022.",
+                "merged_data": [
+                    {
+                        "label": "Inter-ethnic Marriages 2022",
+                        "value": "16.6",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Inter-ethnic Marriages 2022",
+                    "x_axis": "Year",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_6",
+                        "fact_group_content": "Inter-ethnic marriages accounted for 16.6% of the total in 2022.",
+                        "fact_ids": [
+                            "5_3_8"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Inter-ethnic marriages accounted for 16.6% of the total in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Inter-ethnic Marriages 2022",
+                                        "value": "16.6",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_3_8"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_2"
+            },
+            {
+                "merged_content": "Marriages and divorces in Singapore for 2024.",
+                "merged_data": [
+                    {
+                        "label": "Divorces/Annulments in 2024",
+                        "value": "7382",
+                        "unit": "marriages"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Marriages and Divorces 2024",
+                    "x_axis": "Year",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_7",
+                        "fact_group_content": "7,382 marriages ended in a divorce or an annulment in 2024.",
+                        "fact_ids": [
+                            "11_0_0"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "7,382 marriages ended in a divorce or an annulment in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Divorces/Annulments in 2024",
+                                        "value": "7382",
+                                        "unit": "marriages"
+                                    }
+                                ],
+                                "fact_id": "11_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_3"
+            },
+            {
+                "merged_content": "Decline in civil marriages by age group in 2024.",
+                "merged_data": [
+                    {
+                        "label": "Decline in brides 25-29",
+                        "value": "988",
+                        "unit": "marriages"
+                    },
+                    {
+                        "label": "Decline in grooms 30-34",
+                        "value": "583",
+                        "unit": "marriages"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Decline in Civil Marriages by Age 2024",
+                    "x_axis": "Age Group",
+                    "y_axis": "Decline in Marriages"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_8",
+                        "fact_group_content": "The number of civil marriages involving brides aged 25 to 29 fell by 988 in 2024.",
+                        "fact_ids": [
+                            "11_3_8"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "The number of civil marriages involving brides aged 25 to 29 fell by 988 in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Decline in brides 25-29",
+                                        "value": "988",
+                                        "unit": "marriages"
+                                    }
+                                ],
+                                "fact_id": "11_3_8"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "7_9",
+                        "fact_group_content": "Civil marriages involving grooms aged 30 to 34 fell by 583 in 2024.",
+                        "fact_ids": [
+                            "11_4_11"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Civil marriages involving grooms aged 30 to 34 fell by 583 in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Decline in grooms 30-34",
+                                        "value": "583",
+                                        "unit": "marriages"
+                                    }
+                                ],
+                                "fact_id": "11_4_11"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_4"
+            },
+            {
+                "merged_content": "Average marriages for Malays under UMLA from 1961 to 2018.",
+                "merged_data": [
+                    {
+                        "label": "Average Marriages",
+                        "value": "217",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Average Marriages for Malays under UMLA",
+                    "x_axis": "Period",
+                    "y_axis": "Average Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_10",
+                        "fact_group_content": "Average of 217 marriages for Malays under UMLA from Jan 1961 to Oct 2018.",
+                        "fact_ids": [
+                            "9_1_3"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Average of 217 marriages for Malays under UMLA from Jan 1961 to Oct 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Average Marriages",
+                                        "value": "217",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_1_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_5"
+            }
+        ]
+    },
+    {
+        "cluster_id": "4",
+        "merged_facts": [
+            {
+                "merged_content": "Comparison of median age at first marriage for men and women in Singapore.",
+                "merged_data": [
+                    {
+                        "label": "Men",
+                        "value": "31",
+                        "unit": "years"
+                    },
+                    {
+                        "label": "Women",
+                        "value": "28.40",
+                        "unit": "years"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Median Age at First Marriage",
+                    "x_axis": "Gender",
+                    "y_axis": "Age (years)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_0",
+                        "fact_group_content": "The median age at the time of first marriage in Singapore was 31 years old for men as of 2023.",
+                        "fact_ids": [
+                            "7_0_0"
+                        ],
+                        "article_ids": [
+                            "7"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The median age at the time of first marriage in Singapore was 31 years old for men as of 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age at First Marriage (Men)",
+                                        "value": "31",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "7_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "4_7",
+                        "fact_group_content": "Singapore Median Age of Brides: First Marriages was 28.40 years old in 2017.",
+                        "fact_ids": [
+                            "8_5_10"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Singapore Median Age of Brides: First Marriages was 28.40 years old in 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age of Brides 2017",
+                                        "value": "28.40",
+                                        "unit": "Years"
+                                    }
+                                ],
+                                "fact_id": "8_5_10"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_0"
+            },
+            {
+                "merged_content": "Trends in marriage numbers in Singapore from 2022 to 2024.",
+                "merged_data": [
+                    {
+                        "label": "2022",
+                        "value": "29389",
+                        "unit": "couples"
+                    },
+                    {
+                        "label": "2024",
+                        "value": "26328",
+                        "unit": "couples"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Marriage Numbers in Singapore",
+                    "x_axis": "Year",
+                    "y_axis": "Marriages (couples)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_2",
+                        "fact_group_content": "29,389 marriages in 2022.",
+                        "fact_ids": [
+                            "4_0_2"
+                        ],
+                        "article_ids": [
+                            "4"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "29,389 marriages in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2022",
+                                        "value": "29389",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "4_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "4_5",
+                        "fact_group_content": "26,328 couples registered their marriages in 2024.",
+                        "fact_ids": [
+                            "11_2_4"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "26,328 couples registered their marriages in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2024",
+                                        "value": "26328",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "11_2_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_1"
+            },
+            {
+                "merged_content": "Percentage changes in marriages and divorces in Singapore.",
+                "merged_data": [
+                    {
+                        "label": "Marriages 2021-2022",
+                        "value": "3.7",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Marriages 2023-2024",
+                        "value": "7.0",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Divorces 2023-2024",
+                        "value": "3.7",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Changes in Marriages and Divorces",
+                    "x_axis": "Event",
+                    "y_axis": "Change (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_1",
+                        "fact_group_content": "There were 7.0% fewer marriages in 2024 compared to 2023.",
+                        "fact_ids": [
+                            "2_0_0"
+                        ],
+                        "article_ids": [
+                            "2"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "There were 7.0% fewer marriages in 2024 compared to 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Decrease in Marriages",
+                                        "value": "7.0",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "2_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "4_3",
+                        "fact_group_content": "3.7% increase in marriages from 2021 to 2022.",
+                        "fact_ids": [
+                            "5_0_1"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "3.7% increase in marriages from 2021 to 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increase in Marriages",
+                                        "value": "3.7",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "5_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "4_4",
+                        "fact_group_content": "3.7% increase in divorces or annulments from 2023 to 2024.",
+                        "fact_ids": [
+                            "11_0_1"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "3.7% increase in divorces or annulments from 2023 to 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increase in divorces/annulments",
+                                        "value": "3.7",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "11_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_2"
+            },
+            {
+                "merged_content": "Record low of first marriages in Singapore in 1970.",
+                "merged_data": [
+                    {
+                        "label": "1970",
+                        "value": "13889",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Record Low First Marriages",
+                    "x_axis": "Year",
+                    "y_axis": "Number"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_6",
+                        "fact_group_content": "The record low of Singapore Marriages: First Marriages was 13,889.000 Number in 1970.",
+                        "fact_ids": [
+                            "8_0_4"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "extreme",
+                                "fact_content": "The record low of Singapore Marriages: First Marriages was 13,889.000 Number in 1970.",
+                                "vis_data": [
+                                    {
+                                        "label": "Record Low First Marriages 1970",
+                                        "value": "13889",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "8_0_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": "6",
+        "merged_facts": [
+            {
+                "merged_content": "The median age at the time of first marriage in Singapore was 29.5 years old for women. The median age at which citizen ever-married women had their first child rose to 29.8 years in 2011.",
+                "merged_data": [
+                    {
+                        "label": "Median Age at First Marriage (Women)",
+                        "value": "29.5",
+                        "unit": "years"
+                    },
+                    {
+                        "label": "Median Age at First Childbirth",
+                        "value": "29.8",
+                        "unit": "years"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Median Age: Marriage vs Childbirth",
+                    "x_axis": "Event",
+                    "y_axis": "Age (years)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_0",
+                        "fact_group_content": "The median age at the time of first marriage in Singapore was 29.5 years old for women.",
+                        "fact_ids": [
+                            "7_0_1"
+                        ],
+                        "article_ids": [
+                            "7"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The median age at the time of first marriage in Singapore was 29.5 years old for women.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age at First Marriage (Women)",
+                                        "value": "29.5",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "7_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_2",
+                        "fact_group_content": "The median age at which citizen ever-married women had their first child rose to 29.8 years in 2011 in Singapore.",
+                        "fact_ids": [
+                            "16_1_6"
+                        ],
+                        "article_ids": [
+                            "16"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "The median age at which citizen ever-married women had their first child rose to 29.8 years in 2011 in Singapore.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age at First Childbirth",
+                                        "value": "29.8",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "16_1_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_0"
+            },
+            {
+                "merged_content": "Singlehood rates increased from 33% to 44% for males aged 30 - 34 years between 2000 and 2011.",
+                "merged_data": [
+                    {
+                        "label": "Singlehood Rate Males 30-34",
+                        "value": "33",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Singlehood Rate Males 30-34",
+                        "value": "44",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Singlehood Rates for Males 30-34",
+                    "x_axis": "Year",
+                    "y_axis": "Rate (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_1",
+                        "fact_group_content": "Singlehood rates increased from 33% to 44% for males aged 30 - 34 years between 2000 and 2011.",
+                        "fact_ids": [
+                            "16_0_0"
+                        ],
+                        "article_ids": [
+                            "16"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "Singlehood rates increased from 33% to 44% for males aged 30 - 34 years between 2000 and 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Singlehood Rate Males 30-34",
+                                        "value": "33",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "Singlehood Rate Males 30-34",
+                                        "value": "44",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "16_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_1"
+            },
+            {
+                "merged_content": "Divorces and annulments increased by 170 cases from 2008 to 2009.",
+                "merged_data": [
+                    {
+                        "label": "Divorces 2008",
+                        "value": "7216",
+                        "unit": "cases"
+                    },
+                    {
+                        "label": "Divorces 2009",
+                        "value": "7386",
+                        "unit": "cases"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Divorces and Annulments 2008-2009",
+                    "x_axis": "Year",
+                    "y_axis": "Cases"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_3",
+                        "fact_group_content": "Divorces and annulments increased by 170 cases from 2008 to 2009.",
+                        "fact_ids": [
+                            "1_1_2"
+                        ],
+                        "article_ids": [
+                            "1"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Divorces and annulments increased by 170 cases from 2008 to 2009.",
+                                "vis_data": [
+                                    {
+                                        "label": "Divorces 2008",
+                                        "value": "7216",
+                                        "unit": "cases"
+                                    },
+                                    {
+                                        "label": "Divorces 2009",
+                                        "value": "7386",
+                                        "unit": "cases"
+                                    }
+                                ],
+                                "fact_id": "1_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_2"
+            },
+            {
+                "merged_content": "Singapore Marriages: First Marriages data was reported at 21,806.000 Number in 2017. Singapore Marriages: First Marriages data was 21,364.000 Number in 2016. Singapore Marriages: First Marriages data increased from 21,364.000 in 2016 to 21,806.000 in 2017.",
+                "merged_data": [
+                    {
+                        "label": "First Marriages 2016",
+                        "value": "21364",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "First Marriages 2017",
+                        "value": "21806",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "First Marriages in Singapore",
+                    "x_axis": "Year",
+                    "y_axis": "Number"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_4",
+                        "fact_group_content": "Singapore Marriages: First Marriages data was reported at 21,806.000 Number in 2017.",
+                        "fact_ids": [
+                            "8_0_0"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Singapore Marriages: First Marriages data was reported at 21,806.000 Number in 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "First Marriages 2017",
+                                        "value": "21806",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "8_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_5",
+                        "fact_group_content": "Singapore Marriages: First Marriages data was 21,364.000 Number in 2016.",
+                        "fact_ids": [
+                            "8_0_1"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Singapore Marriages: First Marriages data was 21,364.000 Number in 2016.",
+                                "vis_data": [
+                                    {
+                                        "label": "First Marriages 2016",
+                                        "value": "21364",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "8_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_6",
+                        "fact_group_content": "Singapore Marriages: First Marriages data increased from 21,364.000 in 2016 to 21,806.000 in 2017.",
+                        "fact_ids": [
+                            "8_0_2"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "Singapore Marriages: First Marriages data increased from 21,364.000 in 2016 to 21,806.000 in 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increase in First Marriages",
+                                        "value": "442",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "8_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_3"
+            },
+            {
+                "merged_content": "The all-time high of Singapore Marriages: First Marriages was 24,840.000 Number in 1974. Singapore Marriages: First Marriages data averaged 20,482.000 Number from Dec 1970 to 2017.",
+                "merged_data": [
+                    {
+                        "label": "All-time High First Marriages 1974",
+                        "value": "24840",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Average First Marriages 1970-2017",
+                        "value": "20482",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "First Marriages: High vs Average",
+                    "x_axis": "Metric",
+                    "y_axis": "Number"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_7",
+                        "fact_group_content": "The all-time high of Singapore Marriages: First Marriages was 24,840.000 Number in 1974.",
+                        "fact_ids": [
+                            "8_0_3"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "extreme",
+                                "fact_content": "The all-time high of Singapore Marriages: First Marriages was 24,840.000 Number in 1974.",
+                                "vis_data": [
+                                    {
+                                        "label": "All-time High First Marriages 1974",
+                                        "value": "24840",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "8_0_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_8",
+                        "fact_group_content": "Singapore Marriages: First Marriages data averaged 20,482.000 Number from Dec 1970 to 2017.",
+                        "fact_ids": [
+                            "8_0_5"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Singapore Marriages: First Marriages data averaged 20,482.000 Number from Dec 1970 to 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Average First Marriages 1970-2017",
+                                        "value": "20482",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "8_0_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_4"
+            },
+            {
+                "merged_content": "Singapore Proportion of First Marriages: Grooms was 84.10% in 2017.",
+                "merged_data": [
+                    {
+                        "label": "Proportion of Grooms 2017",
+                        "value": "84.10",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Proportion of Grooms in 2017",
+                    "x_axis": "Year",
+                    "y_axis": "Proportion (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_9",
+                        "fact_group_content": "Singapore Proportion of First Marriages: Grooms was 84.10% in 2017.",
+                        "fact_ids": [
+                            "8_1_6"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Singapore Proportion of First Marriages: Grooms was 84.10% in 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Proportion of Grooms 2017",
+                                        "value": "84.10",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "8_1_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_5"
+            },
+            {
+                "merged_content": "Singapore Median Age of Grooms: First Marriages: Under Women's Charter was 30.50 years old in 2017. Singapore Median Age of Brides: First Marriages: Un Admin of Muslim Law Act was 26.50 years old in 2017. Singapore Median Age of Grooms: First Marriages: Un Admin of Muslim Law Act was 28.20 years old in 2017.",
+                "merged_data": [
+                    {
+                        "label": "Grooms Women's Charter 2017",
+                        "value": "30.50",
+                        "unit": "years"
+                    },
+                    {
+                        "label": "Brides Muslim Law 2017",
+                        "value": "26.50",
+                        "unit": "years"
+                    },
+                    {
+                        "label": "Grooms Muslim Law 2017",
+                        "value": "28.20",
+                        "unit": "years"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Median Age: Grooms and Brides 2017",
+                    "x_axis": "Category",
+                    "y_axis": "Age (years)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_10",
+                        "fact_group_content": "Singapore Median Age of Grooms: First Marriages: Under Women's Charter was 30.50 years old in 2017.",
+                        "fact_ids": [
+                            "8_4_9"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Singapore Median Age of Grooms: First Marriages: Under Women's Charter was 30.50 years old in 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age of Grooms Women's Charter 2017",
+                                        "value": "30.50",
+                                        "unit": "Years"
+                                    }
+                                ],
+                                "fact_id": "8_4_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_11",
+                        "fact_group_content": "Singapore Median Age of Brides: First Marriages: Un Admin of Muslim Law Act was 26.50 years old in 2017.",
+                        "fact_ids": [
+                            "8_7_12"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Singapore Median Age of Brides: First Marriages: Un Admin of Muslim Law Act was 26.50 years old in 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age of Brides Muslim Law 2017",
+                                        "value": "26.50",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "8_7_12"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_12",
+                        "fact_group_content": "Singapore Median Age of Grooms: First Marriages: Un Admin of Muslim Law Act was 28.20 years old in 2017.",
+                        "fact_ids": [
+                            "8_8_13"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Singapore Median Age of Grooms: First Marriages: Un Admin of Muslim Law Act was 28.20 years old in 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age of Grooms Muslim Law 2017",
+                                        "value": "28.20",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "8_8_13"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_6"
+            },
+            {
+                "merged_content": "29,389 couples married in 2022. 3.7% increase in marriages from 2021 to 2022. Previous record high was 28,407 marriages in 2014.",
+                "merged_data": [
+                    {
+                        "label": "Marriages in 2022",
+                        "value": "29389",
+                        "unit": "couples"
+                    },
+                    {
+                        "label": "Record High in 2014",
+                        "value": "28407",
+                        "unit": "couples"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriages in 2022 vs Record High",
+                    "x_axis": "Year",
+                    "y_axis": "Marriages (couples)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_13",
+                        "fact_group_content": "29,389 couples married in 2022.",
+                        "fact_ids": [
+                            "15_0_0"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "29,389 couples married in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2022",
+                                        "value": "29389",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_15",
+                        "fact_group_content": "Previous record high was 28,407 marriages in 2014.",
+                        "fact_ids": [
+                            "15_0_3"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "extreme",
+                                "fact_content": "Previous record high was 28,407 marriages in 2014.",
+                                "vis_data": [
+                                    {
+                                        "label": "Record High in 2014",
+                                        "value": "28407",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_7"
+            },
+            {
+                "merged_content": "2,033 total marriages in May 2018.",
+                "merged_data": [
+                    {
+                        "label": "Total Marriages May 2018",
+                        "value": "2033",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Total Marriages in May 2018",
+                    "x_axis": "Month",
+                    "y_axis": "Marriages"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_16",
+                        "fact_group_content": "2,033 total marriages in May 2018.",
+                        "fact_ids": [
+                            "9_0_0"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "2,033 total marriages in May 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Total Marriages May 2018",
+                                        "value": "2033",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_8"
+            }
+        ]
+    },
+    {
+        "cluster_id": "3",
+        "merged_facts": [
+            {
+                "merged_content": "Proportion of single residents aged 25-49 in 2013.",
+                "merged_data": [
+                    {
+                        "label": "Single Females 2013",
+                        "value": "25.1",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Single Males 2013",
+                        "value": "31.2",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Single Residents in 2013",
+                    "x_axis": "Gender",
+                    "y_axis": "Proportion (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_2",
+                        "fact_group_content": "25.1 per cent of female residents aged 25-49 were single in 2013.",
+                        "fact_ids": [
+                            "4_2_5"
+                        ],
+                        "article_ids": [
+                            "4"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "25.1 per cent of female residents aged 25-49 were single in 2013.",
+                                "vis_data": [
+                                    {
+                                        "label": "Single Females 2013",
+                                        "value": "25.1",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "4_2_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_3",
+                        "fact_group_content": "31.2 per cent of male residents aged 25-49 were single in 2013.",
+                        "fact_ids": [
+                            "4_4_9"
+                        ],
+                        "article_ids": [
+                            "4"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "31.2 per cent of male residents aged 25-49 were single in 2013.",
+                                "vis_data": [
+                                    {
+                                        "label": "Single Males 2013",
+                                        "value": "31.2",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "4_4_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_0"
+            },
+            {
+                "merged_content": "Median age at first marriage for grooms from 2000 to 2023.",
+                "merged_data": [
+                    {
+                        "label": "2000-2011",
+                        "value": "28.5",
+                        "unit": "years"
+                    },
+                    {
+                        "label": "2000-2011",
+                        "value": "30.1",
+                        "unit": "years"
+                    },
+                    {
+                        "label": "2013-2023",
+                        "value": "30.2",
+                        "unit": "years"
+                    },
+                    {
+                        "label": "2013-2023",
+                        "value": "31",
+                        "unit": "years"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Grooms' Median Marriage Age",
+                    "x_axis": "Period",
+                    "y_axis": "Age (years)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_1",
+                        "fact_group_content": "The median age at first marriage for grooms increased from 30.2 years in 2013 to 31 years in 2023.",
+                        "fact_ids": [
+                            "10_2_3"
+                        ],
+                        "article_ids": [
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "The median age at first marriage for grooms increased from 30.2 years in 2013 to 31 years in 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Grooms' Median Age Increase",
+                                        "value": "0.8",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "10_2_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_4",
+                        "fact_group_content": "The median age at first marriage for grooms rose from 28.5 to 30.1 years between 2000 and 2011.",
+                        "fact_ids": [
+                            "16_0_2"
+                        ],
+                        "article_ids": [
+                            "16"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "The median age at first marriage for grooms rose from 28.5 to 30.1 years between 2000 and 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age at First Marriage Grooms",
+                                        "value": "28.5",
+                                        "unit": "years"
+                                    },
+                                    {
+                                        "label": "Median Age at First Marriage Grooms",
+                                        "value": "30.1",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "16_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_1"
+            },
+            {
+                "merged_content": "Marriages registered in 2022 and 2023.",
+                "merged_data": [
+                    {
+                        "label": "Marriages in 2022",
+                        "value": "29389",
+                        "unit": "count"
+                    },
+                    {
+                        "label": "Marriages in 2023",
+                        "value": "28310",
+                        "unit": "count"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriages Registered",
+                    "x_axis": "Year",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_7",
+                        "fact_group_content": "29,389 marriages registered in 2022.",
+                        "fact_ids": [
+                            "5_0_0"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "29,389 marriages registered in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2022",
+                                        "value": "29389",
+                                        "unit": "count"
+                                    }
+                                ],
+                                "fact_id": "5_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_9",
+                        "fact_group_content": "28,310 couples registered their marriages in 2023.",
+                        "fact_ids": [
+                            "11_2_5"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "28,310 couples registered their marriages in 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2023",
+                                        "value": "28310",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "11_2_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_2"
+            },
+            {
+                "merged_content": "Proportion of ever-married females aged 40 to 49 with one child in 2000 and 2010.",
+                "merged_data": [
+                    {
+                        "label": "One child 2000",
+                        "value": "15",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "One child 2010",
+                        "value": "19",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Proportion of Ever-Married Females with One Child",
+                    "x_axis": "Year",
+                    "y_axis": "Proportion (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_12",
+                        "fact_group_content": "Proportion of ever-married females aged 40 to 49 with one child increased from 15% in 2000 to 19% in 2010.",
+                        "fact_ids": [
+                            "1_3_4"
+                        ],
+                        "article_ids": [
+                            "1"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Proportion of ever-married females aged 40 to 49 with one child increased from 15% in 2000 to 19% in 2010.",
+                                "vis_data": [
+                                    {
+                                        "label": "One child 2000",
+                                        "value": "15",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "One child 2010",
+                                        "value": "19",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "1_3_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_3"
+            },
+            {
+                "merged_content": "Comparison of children by education level of women.",
+                "merged_data": [
+                    {
+                        "label": "Educated women",
+                        "value": "1.65",
+                        "unit": "children"
+                    },
+                    {
+                        "label": "Uneducated women",
+                        "value": "3",
+                        "unit": "children"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Children by Education Level",
+                    "x_axis": "Education Level",
+                    "y_axis": "Average Children"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_11",
+                        "fact_group_content": "Women with secondary or tertiary education were having an average of 1.65 children compared with uneducated women who were having three children on average.",
+                        "fact_ids": [
+                            "1_2_3"
+                        ],
+                        "article_ids": [
+                            "1"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Women with secondary or tertiary education were having an average of 1.65 children compared with uneducated women who were having three children on average.",
+                                "vis_data": [
+                                    {
+                                        "label": "Educated women",
+                                        "value": "1.65",
+                                        "unit": "children"
+                                    },
+                                    {
+                                        "label": "Uneducated women",
+                                        "value": "3",
+                                        "unit": "children"
+                                    }
+                                ],
+                                "fact_id": "1_2_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_4"
+            },
+            {
+                "merged_content": "Divorces and annulments in 2009 and 2010.",
+                "merged_data": [
+                    {
+                        "label": "Divorces 2009",
+                        "value": "7386",
+                        "unit": "cases"
+                    },
+                    {
+                        "label": "Divorces 2010",
+                        "value": "7405",
+                        "unit": "cases"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Divorces and Annulments",
+                    "x_axis": "Year",
+                    "y_axis": "Cases"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_10",
+                        "fact_group_content": "Divorces and annulments increased by 19 cases from 7,386 in 2009 to 7,405 in 2010.",
+                        "fact_ids": [
+                            "1_1_1"
+                        ],
+                        "article_ids": [
+                            "1"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Divorces and annulments increased by 19 cases from 7,386 in 2009 to 7,405 in 2010.",
+                                "vis_data": [
+                                    {
+                                        "label": "Divorces 2009",
+                                        "value": "7386",
+                                        "unit": "cases"
+                                    },
+                                    {
+                                        "label": "Divorces 2010",
+                                        "value": "7405",
+                                        "unit": "cases"
+                                    }
+                                ],
+                                "fact_id": "1_1_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_5"
+            },
+            {
+                "merged_content": "Annual average marriages between 2013 and 2017.",
+                "merged_data": [
+                    {
+                        "label": "Annual Avg Marriages (2013-2017)",
+                        "value": "27833",
+                        "unit": "count"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Annual Average Marriages",
+                    "x_axis": "Year",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_8",
+                        "fact_group_content": "Annual average of 27,833 marriages between 2013 and 2017.",
+                        "fact_ids": [
+                            "5_2_7"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Annual average of 27,833 marriages between 2013 and 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Annual Avg Marriages (2013-2017)",
+                                        "value": "27833",
+                                        "unit": "count"
+                                    }
+                                ],
+                                "fact_id": "5_2_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_6"
+            },
+            {
+                "merged_content": "Women who married at age 28 had an average of 1.67 children by age 40.",
+                "merged_data": [
+                    {
+                        "label": "Children by Age 40 (Married at 28)",
+                        "value": "1.67",
+                        "unit": "children"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Children by Age 40",
+                    "x_axis": "Marriage Age",
+                    "y_axis": "Average Children"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_6",
+                        "fact_group_content": "Women who married at age 28 had an average of 1.67 children by age 40.",
+                        "fact_ids": [
+                            "16_1_4"
+                        ],
+                        "article_ids": [
+                            "16"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Women who married at age 28 had an average of 1.67 children by age 40.",
+                                "vis_data": [
+                                    {
+                                        "label": "Children by Age 40 (Married at 28)",
+                                        "value": "1.67",
+                                        "unit": "children"
+                                    }
+                                ],
+                                "fact_id": "16_1_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_7"
+            },
+            {
+                "merged_content": "17.0% of marriages from the 2005 cohort dissolved before the 10th anniversary.",
+                "merged_data": [
+                    {
+                        "label": "2005 Cohort Dissolution",
+                        "value": "17.0",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "2005 Cohort Marriage Dissolution",
+                    "x_axis": "Cohort",
+                    "y_axis": "Dissolution (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_0",
+                        "fact_group_content": "17.0% of marriages from the 2005 cohort dissolved before the 10th anniversary.",
+                        "fact_ids": [
+                            "2_0_1"
+                        ],
+                        "article_ids": [
+                            "2"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "17.0% of marriages from the 2005 cohort dissolved before the 10th anniversary.",
+                                "vis_data": [
+                                    {
+                                        "label": "2005 Cohort Dissolution",
+                                        "value": "17.0",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "2_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_8"
+            },
+            {
+                "merged_content": "Median age at first marriage for brides from 2000 to 2011.",
+                "merged_data": [
+                    {
+                        "label": "Median Age at First Marriage Brides",
+                        "value": "26.1",
+                        "unit": "years"
+                    },
+                    {
+                        "label": "Median Age at First Marriage Brides",
+                        "value": "27.8",
+                        "unit": "years"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Brides' Median Marriage Age",
+                    "x_axis": "Year",
+                    "y_axis": "Age (years)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_5",
+                        "fact_group_content": "The median age at first marriage for brides rose from 26.1 to 27.8 years between 2000 and 2011.",
+                        "fact_ids": [
+                            "16_0_3"
+                        ],
+                        "article_ids": [
+                            "16"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "The median age at first marriage for brides rose from 26.1 to 27.8 years between 2000 and 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age at First Marriage Brides",
+                                        "value": "26.1",
+                                        "unit": "years"
+                                    },
+                                    {
+                                        "label": "Median Age at First Marriage Brides",
+                                        "value": "27.8",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "16_0_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_9"
+            }
+        ]
+    },
+    {
+        "cluster_id": "9",
+        "merged_facts": [
+            {
+                "merged_content": "14.4% of marriages from the 2013 cohort dissolved before the 10th anniversary. 35.4% of male residents aged 25-49 were single in 2023.",
+                "merged_data": [
+                    {
+                        "label": "2013 Cohort Dissolution",
+                        "value": "14.4",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Single Males 2023",
+                        "value": "35.4",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriage and Singlehood Rates",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_0",
+                        "fact_group_content": "14.4% of marriages from the 2013 cohort dissolved before the 10th anniversary.",
+                        "fact_ids": [
+                            "2_0_2"
+                        ],
+                        "article_ids": [
+                            "2"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "14.4% of marriages from the 2013 cohort dissolved before the 10th anniversary.",
+                                "vis_data": [
+                                    {
+                                        "label": "2013 Cohort Dissolution",
+                                        "value": "14.4",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "2_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "9_2",
+                        "fact_group_content": "35.4 per cent of male residents aged 25-49 were single in 2023.",
+                        "fact_ids": [
+                            "4_4_10"
+                        ],
+                        "article_ids": [
+                            "4"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "35.4 per cent of male residents aged 25-49 were single in 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Single Males 2023",
+                                        "value": "35.4",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "4_4_10"
+                            }
+                        ],
+                        "missing_entities": [
+                            "ORDINAL"
+                        ]
+                    }
+                ],
+                "merged_id": "9_0"
+            },
+            {
+                "merged_content": "The median age at first marriage for brides increased from 28.1 years in 2013 to 29.5 years in 2023.",
+                "merged_data": [
+                    {
+                        "label": "Brides' Median Age Increase",
+                        "value": "1.4",
+                        "unit": "years"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Increase in Brides' Median Age",
+                    "x_axis": "Year",
+                    "y_axis": "Age Increase (years)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_1",
+                        "fact_group_content": "The median age at first marriage for brides increased from 28.1 years in 2013 to 29.5 years in 2023.",
+                        "fact_ids": [
+                            "10_2_4"
+                        ],
+                        "article_ids": [
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "The median age at first marriage for brides increased from 28.1 years in 2013 to 29.5 years in 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Brides' Median Age Increase",
+                                        "value": "1.4",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "10_2_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_1"
+            },
+            {
+                "merged_content": "The average number of children born to citizen ever-married females aged 40 - 49 fell from 2.22 in 2000 to 2.06 in 2011.",
+                "merged_data": [
+                    {
+                        "label": "Avg Children Born (Age 40-49)",
+                        "value": "2.22",
+                        "unit": "children"
+                    },
+                    {
+                        "label": "Avg Children Born (Age 40-49)",
+                        "value": "2.06",
+                        "unit": "children"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Average Children Born to Females Aged 40-49",
+                    "x_axis": "Year",
+                    "y_axis": "Average Children"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_3",
+                        "fact_group_content": "The average number of children born to citizen ever-married females aged 40 - 49 fell from 2.22 in 2000 to 2.06 in 2011.",
+                        "fact_ids": [
+                            "16_1_7"
+                        ],
+                        "article_ids": [
+                            "16"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "The average number of children born to citizen ever-married females aged 40 - 49 fell from 2.22 in 2000 to 2.06 in 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Avg Children Born (Age 40-49)",
+                                        "value": "2.22",
+                                        "unit": "children"
+                                    },
+                                    {
+                                        "label": "Avg Children Born (Age 40-49)",
+                                        "value": "2.06",
+                                        "unit": "children"
+                                    }
+                                ],
+                                "fact_id": "16_1_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_2"
+            },
+            {
+                "merged_content": "Marriage rate for single men aged 15-49 years was 47.0 per thousand in 2022. Peak marriage rate for men was 47.5 in 2002.",
+                "merged_data": [
+                    {
+                        "label": "Marriage Rate Men 2022",
+                        "value": "47.0",
+                        "unit": "per thousand"
+                    },
+                    {
+                        "label": "Peak Marriage Rate Men 2002",
+                        "value": "47.5",
+                        "unit": "per thousand"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriage Rates for Men",
+                    "x_axis": "Year",
+                    "y_axis": "Rate (per thousand)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_4",
+                        "fact_group_content": "Marriage rate for single men aged 15-49 years was 47.0 per thousand in 2022.",
+                        "fact_ids": [
+                            "5_1_2"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Marriage rate for single men aged 15-49 years was 47.0 per thousand in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriage Rate Men 2022",
+                                        "value": "47.0",
+                                        "unit": "per thousand"
+                                    }
+                                ],
+                                "fact_id": "5_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "9_5",
+                        "fact_group_content": "Peak marriage rate for men was 47.5 in 2002.",
+                        "fact_ids": [
+                            "5_4_9"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "extreme",
+                                "fact_content": "Peak marriage rate for men was 47.5 in 2002.",
+                                "vis_data": [
+                                    {
+                                        "label": "Peak Marriage Rate Men 2002",
+                                        "value": "47.5",
+                                        "unit": "per thousand"
+                                    }
+                                ],
+                                "fact_id": "5_4_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_3"
+            },
+            {
+                "merged_content": "Proportion of ever-married females aged 40 to 49 who were childless increased from 6.4% to 9.3%.",
+                "merged_data": [
+                    {
+                        "label": "Childless 2000",
+                        "value": "6.4",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Childless 2010",
+                        "value": "9.3",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Childlessness in Ever-Married Females",
+                    "x_axis": "Year",
+                    "y_axis": "Proportion (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_6",
+                        "fact_group_content": "Proportion of ever-married females aged 40 to 49 who were childless increased from 6.4% in 2000 to 9.3% in 2010.",
+                        "fact_ids": [
+                            "1_3_5"
+                        ],
+                        "article_ids": [
+                            "1"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Proportion of ever-married females aged 40 to 49 who were childless increased from 6.4% in 2000 to 9.3% in 2010.",
+                                "vis_data": [
+                                    {
+                                        "label": "Childless 2000",
+                                        "value": "6.4",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "Childless 2010",
+                                        "value": "9.3",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "1_3_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_4"
+            },
+            {
+                "merged_content": "Singapore Median Age of Grooms: First Marriages was 30.00 years old in 2017.",
+                "merged_data": [
+                    {
+                        "label": "Median Age of Grooms 2017",
+                        "value": "30.00",
+                        "unit": "Years"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Median Age of Grooms in 2017",
+                    "x_axis": "Year",
+                    "y_axis": "Age (Years)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_7",
+                        "fact_group_content": "Singapore Median Age of Grooms: First Marriages was 30.00 years old in 2017.",
+                        "fact_ids": [
+                            "8_6_11"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Singapore Median Age of Grooms: First Marriages was 30.00 years old in 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age of Grooms 2017",
+                                        "value": "30.00",
+                                        "unit": "Years"
+                                    }
+                                ],
+                                "fact_id": "8_6_11"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_5"
+            },
+            {
+                "merged_content": "28,329 marriages in 2021.",
+                "merged_data": [
+                    {
+                        "label": "Marriages in 2021",
+                        "value": "28329",
+                        "unit": "couples"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Total Marriages in 2021",
+                    "x_axis": "Year",
+                    "y_axis": "Number of Marriages"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_8",
+                        "fact_group_content": "28,329 marriages in 2021.",
+                        "fact_ids": [
+                            "15_0_2"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "28,329 marriages in 2021.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2021",
+                                        "value": "28329",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": "1",
+        "merged_facts": [
+            {
+                "merged_content": "The number of couples that got married last year dipped by 3.7 per cent compared to 2022.",
+                "merged_data": [
+                    {
+                        "label": "Marriage Dip",
+                        "value": "3.7",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Fall in Marriages",
+                        "value": "3.7",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Marriage Decline 2023",
+                    "x_axis": "Year",
+                    "y_axis": "Decline (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_0",
+                        "fact_group_content": "The number of couples that got married in 2023 dipped by 3.7 per cent compared to 2022.",
+                        "fact_ids": [
+                            "10_0_0",
+                            "4_0_1"
+                        ],
+                        "article_ids": [
+                            "4",
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "The number of couples that got married in 2023 dipped by 3.7 per cent compared to 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriage Dip",
+                                        "value": "3.7",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "10_0_0"
+                            },
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "3.7 per cent fall in marriages from 2022 to 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Fall in Marriages",
+                                        "value": "3.7",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "4_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_0"
+            },
+            {
+                "merged_content": "Peak marriage rate for women was 45.8 in 2002.",
+                "merged_data": [
+                    {
+                        "label": "Peak Marriage Rate Women 2002",
+                        "value": "45.8",
+                        "unit": "per thousand"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Peak Marriage Rate 2002",
+                    "x_axis": "Year",
+                    "y_axis": "Rate (per thousand)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_1",
+                        "fact_group_content": "Peak marriage rate for women was 45.8 in 2002.",
+                        "fact_ids": [
+                            "5_4_10"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "extreme",
+                                "fact_content": "Peak marriage rate for women was 45.8 in 2002.",
+                                "vis_data": [
+                                    {
+                                        "label": "Peak Marriage Rate Women 2002",
+                                        "value": "45.8",
+                                        "unit": "per thousand"
+                                    }
+                                ],
+                                "fact_id": "5_4_10"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_1"
+            },
+            {
+                "merged_content": "Grooms got married at the median age of 31.1 in 2024.",
+                "merged_data": [
+                    {
+                        "label": "Median age grooms 2024",
+                        "value": "31.1",
+                        "unit": "years"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Median Age of Grooms 2024",
+                    "x_axis": "Year",
+                    "y_axis": "Age (years)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_2",
+                        "fact_group_content": "Grooms got married at the median age of 31.1 in 2024.",
+                        "fact_ids": [
+                            "11_1_2"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Grooms got married at the median age of 31.1 in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median age grooms 2024",
+                                        "value": "31.1",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "11_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_2"
+            },
+            {
+                "merged_content": "The average number of marital dissolutions per year between 2020 and 2024 was 7,291. The yearly average of marital dissolutions between 2015 and 2019 was 7,536.",
+                "merged_data": [
+                    {
+                        "label": "Avg dissolutions 2020-2024",
+                        "value": "7291",
+                        "unit": "marriages"
+                    },
+                    {
+                        "label": "Avg dissolutions 2015-2019",
+                        "value": "7536",
+                        "unit": "marriages"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Average Marital Dissolutions",
+                    "x_axis": "Period",
+                    "y_axis": "Dissolutions (marriages)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_3",
+                        "fact_group_content": "The average number of marital dissolutions per year between 2020 and 2024 was 7,291.",
+                        "fact_ids": [
+                            "11_5_12"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The average number of marital dissolutions per year between 2020 and 2024 was 7,291.",
+                                "vis_data": [
+                                    {
+                                        "label": "Avg dissolutions 2020-2024",
+                                        "value": "7291",
+                                        "unit": "marriages"
+                                    }
+                                ],
+                                "fact_id": "11_5_12"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "1_4",
+                        "fact_group_content": "The yearly average of marital dissolutions between 2015 and 2019 was 7,536.",
+                        "fact_ids": [
+                            "11_5_13"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The yearly average of marital dissolutions between 2015 and 2019 was 7,536.",
+                                "vis_data": [
+                                    {
+                                        "label": "Avg dissolutions 2015-2019",
+                                        "value": "7536",
+                                        "unit": "marriages"
+                                    }
+                                ],
+                                "fact_id": "11_5_13"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_3"
+            },
+            {
+                "merged_content": "The absolute number of marriages declined by 1,718 from 26,081 in 2009 to 24,363 in 2010.",
+                "merged_data": [
+                    {
+                        "label": "Marriages 2009",
+                        "value": "26081",
+                        "unit": "marriages"
+                    },
+                    {
+                        "label": "Marriages 2010",
+                        "value": "24363",
+                        "unit": "marriages"
+                    },
+                    {
+                        "label": "Decline",
+                        "value": "1718",
+                        "unit": "marriages"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Marriage Decline 2009-2010",
+                    "x_axis": "Year",
+                    "y_axis": "Number of Marriages"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_5",
+                        "fact_group_content": "The absolute number of marriages declined by 1,718 from 26,081 in 2009 to 24,363 in 2010.",
+                        "fact_ids": [
+                            "1_0_0"
+                        ],
+                        "article_ids": [
+                            "1"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "The absolute number of marriages declined by 1,718 from 26,081 in 2009 to 24,363 in 2010.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages 2009",
+                                        "value": "26081",
+                                        "unit": "marriages"
+                                    },
+                                    {
+                                        "label": "Marriages 2010",
+                                        "value": "24363",
+                                        "unit": "marriages"
+                                    },
+                                    {
+                                        "label": "Decline",
+                                        "value": "1718",
+                                        "unit": "marriages"
+                                    }
+                                ],
+                                "fact_id": "1_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_4"
+            },
+            {
+                "merged_content": "1,767 Muslim divorces in 2021.",
+                "merged_data": [
+                    {
+                        "label": "Muslim Divorces in 2021",
+                        "value": "1767",
+                        "unit": "couples"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Muslim Divorces 2021",
+                    "x_axis": "Year",
+                    "y_axis": "Divorces (couples)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_6",
+                        "fact_group_content": "1,767 Muslim divorces in 2021.",
+                        "fact_ids": [
+                            "15_0_9"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "1,767 Muslim divorces in 2021.",
+                                "vis_data": [
+                                    {
+                                        "label": "Muslim Divorces in 2021",
+                                        "value": "1767",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_5"
+            },
+            {
+                "merged_content": "16.6% of marriages in 2022 were inter-ethnic.",
+                "merged_data": [
+                    {
+                        "label": "Inter-ethnic Marriages 2022",
+                        "value": "16.6",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Inter-ethnic Marriages 2022",
+                    "x_axis": "Year",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_7",
+                        "fact_group_content": "16.6% of marriages in 2022 were inter-ethnic.",
+                        "fact_ids": [
+                            "15_0_15"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "16.6% of marriages in 2022 were inter-ethnic.",
+                                "vis_data": [
+                                    {
+                                        "label": "Inter-ethnic Marriages 2022",
+                                        "value": "16.6",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "15_0_15"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_6"
+            },
+            {
+                "merged_content": "Decrease from 261 marriages in Sep 2018 to 221 in Oct 2018 for Malays under UMLA.",
+                "merged_data": [
+                    {
+                        "label": "Sep 2018",
+                        "value": "261",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Oct 2018",
+                        "value": "221",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Marriage Decrease for Malays 2018",
+                    "x_axis": "Month",
+                    "y_axis": "Number of Marriages"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_8",
+                        "fact_group_content": "Decrease from 261 marriages in Sep 2018 to 221 in Oct 2018 for Malays under UMLA.",
+                        "fact_ids": [
+                            "9_1_2"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "Decrease from 261 marriages in Sep 2018 to 221 in Oct 2018 for Malays under UMLA.",
+                                "vis_data": [
+                                    {
+                                        "label": "Sep 2018",
+                                        "value": "261",
+                                        "unit": "Number"
+                                    },
+                                    {
+                                        "label": "Oct 2018",
+                                        "value": "221",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": "5",
+        "merged_facts": [
+            {
+                "merged_content": "Comparison of marriages registered in 2022 and 2023.",
+                "merged_data": [
+                    {
+                        "label": "Marriages in 2022",
+                        "value": "29389",
+                        "unit": "count"
+                    },
+                    {
+                        "label": "Marriages in 2023",
+                        "value": "28310",
+                        "unit": "count"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriages Registered in 2022 vs 2023",
+                    "x_axis": "Year",
+                    "y_axis": "Marriages (count)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_0",
+                        "fact_group_content": "28,310 marriages were registered in 2023.",
+                        "fact_ids": [
+                            "10_1_1"
+                        ],
+                        "article_ids": [
+                            "10"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "28,310 marriages were registered in 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2023",
+                                        "value": "28310",
+                                        "unit": "count"
+                                    }
+                                ],
+                                "fact_id": "10_1_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "5_2",
+                        "fact_group_content": "29,389 couples registered their marriages in 2022.",
+                        "fact_ids": [
+                            "4_3_8",
+                            "11_2_6"
+                        ],
+                        "article_ids": [
+                            "11",
+                            "4"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "29,389 couples registered their marriages in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2022",
+                                        "value": "29389",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "4_3_8"
+                            },
+                            {
+                                "fact_type": "value",
+                                "fact_content": "29,389 couples registered their marriages in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2022",
+                                        "value": "29389",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "11_2_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_0"
+            },
+            {
+                "merged_content": "Singlehood rates for females aged 30-34 from 2000 to 2011.",
+                "merged_data": [
+                    {
+                        "label": "Singlehood Rate Females 30-34",
+                        "value": "22",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Singlehood Rate Females 30-34",
+                        "value": "31",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Singlehood Rates 2000-2011",
+                    "x_axis": "Year",
+                    "y_axis": "Rate (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_3",
+                        "fact_group_content": "Singlehood rates increased from 22% to 31% for females aged 30 - 34 years between 2000 and 2011.",
+                        "fact_ids": [
+                            "16_0_1"
+                        ],
+                        "article_ids": [
+                            "16"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "Singlehood rates increased from 22% to 31% for females aged 30 - 34 years between 2000 and 2011.",
+                                "vis_data": [
+                                    {
+                                        "label": "Singlehood Rate Females 30-34",
+                                        "value": "22",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "Singlehood Rate Females 30-34",
+                                        "value": "31",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "16_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_1"
+            },
+            {
+                "merged_content": "Proportion of ever-married females aged 40 to 49 who were childless increased from 6.4% to 9.3%.",
+                "merged_data": [
+                    {
+                        "label": "Childless 2000",
+                        "value": "6.4",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Childless 2010",
+                        "value": "9.3",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Childlessness in Ever-Married Females",
+                    "x_axis": "Year",
+                    "y_axis": "Proportion (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_8",
+                        "fact_group_content": "Proportion of ever-married females aged 40 to 49 who were childless increased from 6.4% in 2000 to 9.3% in 2010.",
+                        "fact_ids": [
+                            "1_3_5"
+                        ],
+                        "article_ids": [
+                            "1"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Proportion of ever-married females aged 40 to 49 who were childless increased from 6.4% in 2000 to 9.3% in 2010.",
+                                "vis_data": [
+                                    {
+                                        "label": "Childless 2000",
+                                        "value": "6.4",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "Childless 2010",
+                                        "value": "9.3",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "1_3_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_2"
+            },
+            {
+                "merged_content": "Marriage rate for single women aged 15-49 years increased from 39.4 ten years earlier to 45.5 in 2022.",
+                "merged_data": [
+                    {
+                        "label": "Increase in Marriage Rate Women",
+                        "value": "6.1",
+                        "unit": "per thousand"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Increase in Marriage Rate for Women",
+                    "x_axis": "Year",
+                    "y_axis": "Rate Increase"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_6",
+                        "fact_group_content": "Marriage rate for single women aged 15-49 years increased from 39.4 ten years earlier to 45.5 in 2022.",
+                        "fact_ids": [
+                            "5_1_5"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Marriage rate for single women aged 15-49 years increased from 39.4 ten years earlier to 45.5 in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increase in Marriage Rate Women",
+                                        "value": "6.1",
+                                        "unit": "per thousand"
+                                    }
+                                ],
+                                "fact_id": "5_1_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_3"
+            },
+            {
+                "merged_content": "Decrease in marriages from Sep 2018 to Oct 2018 for Malays under UMLA.",
+                "merged_data": [
+                    {
+                        "label": "Sep 2018",
+                        "value": "261",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Oct 2018",
+                        "value": "221",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Marriages Decrease for Malays under UMLA",
+                    "x_axis": "Month",
+                    "y_axis": "Marriages (Number)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_10",
+                        "fact_group_content": "Decrease from 261 marriages in Sep 2018 to 221 in Oct 2018 for Malays under UMLA.",
+                        "fact_ids": [
+                            "9_1_2"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "Decrease from 261 marriages in Sep 2018 to 221 in Oct 2018 for Malays under UMLA.",
+                                "vis_data": [
+                                    {
+                                        "label": "Sep 2018",
+                                        "value": "261",
+                                        "unit": "Number"
+                                    },
+                                    {
+                                        "label": "Oct 2018",
+                                        "value": "221",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_4"
+            },
+            {
+                "merged_content": "Proportion of single females aged 25-49 in 2023.",
+                "merged_data": [
+                    {
+                        "label": "Single Females 2023",
+                        "value": "28.7",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Single Females Aged 25-49 in 2023",
+                    "x_axis": "Year",
+                    "y_axis": "Proportion (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_1",
+                        "fact_group_content": "28.7 per cent of female residents aged 25-49 were single in 2023.",
+                        "fact_ids": [
+                            "4_2_6"
+                        ],
+                        "article_ids": [
+                            "4"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "28.7 per cent of female residents aged 25-49 were single in 2023.",
+                                "vis_data": [
+                                    {
+                                        "label": "Single Females 2023",
+                                        "value": "28.7",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "4_2_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_5"
+            },
+            {
+                "merged_content": "Women who married at age 35 had an average of 0.83 children by age 40.",
+                "merged_data": [
+                    {
+                        "label": "Children by Age 40 (Married at 35)",
+                        "value": "0.83",
+                        "unit": "children"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Average Children by Age 40",
+                    "x_axis": "Age",
+                    "y_axis": "Children"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_4",
+                        "fact_group_content": "Women who married at age 35 had an average of 0.83 children by age 40.",
+                        "fact_ids": [
+                            "16_1_5"
+                        ],
+                        "article_ids": [
+                            "16"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Women who married at age 35 had an average of 0.83 children by age 40.",
+                                "vis_data": [
+                                    {
+                                        "label": "Children by Age 40 (Married at 35)",
+                                        "value": "0.83",
+                                        "unit": "children"
+                                    }
+                                ],
+                                "fact_id": "16_1_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_6"
+            },
+            {
+                "merged_content": "Marriage rate for single women aged 15-49 years was 45.5 per thousand in 2022.",
+                "merged_data": [
+                    {
+                        "label": "Marriage Rate Women 2022",
+                        "value": "45.5",
+                        "unit": "per thousand"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Marriage Rate for Women in 2022",
+                    "x_axis": "Year",
+                    "y_axis": "Rate (per thousand)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_5",
+                        "fact_group_content": "Marriage rate for single women aged 15-49 years was 45.5 per thousand in 2022.",
+                        "fact_ids": [
+                            "5_1_4"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Marriage rate for single women aged 15-49 years was 45.5 per thousand in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriage Rate Women 2022",
+                                        "value": "45.5",
+                                        "unit": "per thousand"
+                                    }
+                                ],
+                                "fact_id": "5_1_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_7"
+            },
+            {
+                "merged_content": "Median age of brides in 2024.",
+                "merged_data": [
+                    {
+                        "label": "Median age brides 2024",
+                        "value": "29.6",
+                        "unit": "years"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Median Age of Brides in 2024",
+                    "x_axis": "Year",
+                    "y_axis": "Age (years)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_7",
+                        "fact_group_content": "Brides got married at the median age of 29.6 in 2024.",
+                        "fact_ids": [
+                            "11_1_3"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Brides got married at the median age of 29.6 in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median age brides 2024",
+                                        "value": "29.6",
+                                        "unit": "years"
+                                    }
+                                ],
+                                "fact_id": "11_1_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_8"
+            },
+            {
+                "merged_content": "Proportion of first marriages for brides in 2017.",
+                "merged_data": [
+                    {
+                        "label": "Proportion of Brides 2017",
+                        "value": "85.50",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "First Marriages for Brides in 2017",
+                    "x_axis": "Year",
+                    "y_axis": "Proportion (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_9",
+                        "fact_group_content": "Singapore Proportion of First Marriages: Brides was 85.50% in 2017.",
+                        "fact_ids": [
+                            "8_2_7"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Singapore Proportion of First Marriages: Brides was 85.50% in 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Proportion of Brides 2017",
+                                        "value": "85.50",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "8_2_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_9"
+            }
+        ]
+    },
+    {
+        "cluster_id": "8",
+        "merged_facts": [
+            {
+                "merged_content": "Marriage rate for single men aged 15-49 years increased from 43.8 in 2012 to 47.0 in 2022.",
+                "merged_data": [
+                    {
+                        "label": "Increase in Marriage Rate Men",
+                        "value": "3.2",
+                        "unit": "per thousand"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Marriage Rate Increase for Men",
+                    "x_axis": "Year",
+                    "y_axis": "Rate Increase (per thousand)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_0",
+                        "fact_group_content": "Marriage rate for single men aged 15-49 years increased from 43.8 in 2012 to 47.0 in 2022.",
+                        "fact_ids": [
+                            "5_1_3"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Marriage rate for single men aged 15-49 years increased from 43.8 in 2012 to 47.0 in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increase in Marriage Rate Men",
+                                        "value": "3.2",
+                                        "unit": "per thousand"
+                                    }
+                                ],
+                                "fact_id": "5_1_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_0"
+            },
+            {
+                "merged_content": "Comparison of marriages and divorces in 2022.",
+                "merged_data": [
+                    {
+                        "label": "Marriages in 2022",
+                        "value": "29389",
+                        "unit": "couples"
+                    },
+                    {
+                        "label": "Divorces in 2022",
+                        "value": "7107",
+                        "unit": "couples"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriages vs Divorces in 2022",
+                    "x_axis": "Event",
+                    "y_axis": "Count (couples)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_2",
+                        "fact_group_content": "The 2022 figure of 29,389 is the highest since data on marriages was first published in 1961.",
+                        "fact_ids": [
+                            "11_2_7"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "extreme",
+                                "fact_content": "The 2022 figure of 29,389 is the highest since data on marriages was first published in 1961.",
+                                "vis_data": [
+                                    {
+                                        "label": "Highest marriages since 1961",
+                                        "value": "29389",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "11_2_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "8_6",
+                        "fact_group_content": "7,107 marriages ended in divorce or annulment in 2022.",
+                        "fact_ids": [
+                            "15_0_4"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "7,107 marriages ended in divorce or annulment in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Divorces in 2022",
+                                        "value": "7107",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_1"
+            },
+            {
+                "merged_content": "Marital dissolutions in 2021 and 2022.",
+                "merged_data": [
+                    {
+                        "label": "Divorces in 2021",
+                        "value": "7890",
+                        "unit": "couples"
+                    },
+                    {
+                        "label": "Divorces in 2022",
+                        "value": "7107",
+                        "unit": "couples"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Marital Dissolutions 2021-2022",
+                    "x_axis": "Year",
+                    "y_axis": "Dissolutions (couples)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_8",
+                        "fact_group_content": "7,890 marital dissolutions in 2021.",
+                        "fact_ids": [
+                            "15_0_6"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "7,890 marital dissolutions in 2021.",
+                                "vis_data": [
+                                    {
+                                        "label": "Divorces in 2021",
+                                        "value": "7890",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "8_6",
+                        "fact_group_content": "7,107 marriages ended in divorce or annulment in 2022.",
+                        "fact_ids": [
+                            "15_0_4"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "7,107 marriages ended in divorce or annulment in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Divorces in 2022",
+                                        "value": "7107",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_2"
+            },
+            {
+                "merged_content": "Muslim divorces in 2021 and 2022.",
+                "merged_data": [
+                    {
+                        "label": "Muslim Divorces 2021",
+                        "value": "1767",
+                        "unit": "couples"
+                    },
+                    {
+                        "label": "Muslim Divorces 2022",
+                        "value": "1505",
+                        "unit": "couples"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Muslim Divorces 2021-2022",
+                    "x_axis": "Year",
+                    "y_axis": "Divorces (couples)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_10",
+                        "fact_group_content": "Muslim divorces decreased from 1,767 in 2021 to 1,505 in 2022.",
+                        "fact_ids": [
+                            "15_0_8"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Muslim divorces decreased from 1,767 in 2021 to 1,505 in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Decrease in Muslim Divorces",
+                                        "value": "262",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_8"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "8_9",
+                        "fact_group_content": "1,505 Muslim couples divorced in 2022.",
+                        "fact_ids": [
+                            "15_0_7"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "1,505 Muslim couples divorced in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Muslim Divorces in 2022",
+                                        "value": "1505",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_3"
+            },
+            {
+                "merged_content": "Marriages and civil marriage declines in 2024.",
+                "merged_data": [
+                    {
+                        "label": "Marriages in 2024",
+                        "value": "26328",
+                        "unit": "couples"
+                    },
+                    {
+                        "label": "Decline in brides 30-34",
+                        "value": "506",
+                        "unit": "marriages"
+                    },
+                    {
+                        "label": "Decline in grooms 25-29",
+                        "value": "758",
+                        "unit": "marriages"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriages and Declines in 2024",
+                    "x_axis": "Event",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_1",
+                        "fact_group_content": "26,328 couples registered their marriages in 2024.",
+                        "fact_ids": [
+                            "11_2_4"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "26,328 couples registered their marriages in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in 2024",
+                                        "value": "26328",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "11_2_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "8_3",
+                        "fact_group_content": "The number of civil marriages involving brides aged 30 to 34 fell by 506 in 2024.",
+                        "fact_ids": [
+                            "11_3_9"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "The number of civil marriages involving brides aged 30 to 34 fell by 506 in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Decline in brides 30-34",
+                                        "value": "506",
+                                        "unit": "marriages"
+                                    }
+                                ],
+                                "fact_id": "11_3_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "8_4",
+                        "fact_group_content": "Civil marriages involving grooms aged 25 to 29 fell by 758 in 2024.",
+                        "fact_ids": [
+                            "11_4_10"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Civil marriages involving grooms aged 25 to 29 fell by 758 in 2024.",
+                                "vis_data": [
+                                    {
+                                        "label": "Decline in grooms 25-29",
+                                        "value": "758",
+                                        "unit": "marriages"
+                                    }
+                                ],
+                                "fact_id": "11_4_10"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_4"
+            },
+            {
+                "merged_content": "Proportion of first-time marriages in 2022.",
+                "merged_data": [
+                    {
+                        "label": "First-time Marriages 2022",
+                        "value": "78.6",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "First-time Marriages in 2022",
+                    "x_axis": "Year",
+                    "y_axis": "Proportion (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_12",
+                        "fact_group_content": "78.6% of marriages in 2022 involved first-time grooms and brides.",
+                        "fact_ids": [
+                            "15_0_13"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "78.6% of marriages in 2022 involved first-time grooms and brides.",
+                                "vis_data": [
+                                    {
+                                        "label": "First-time Marriages 2022",
+                                        "value": "78.6",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "15_0_13"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_5"
+            },
+            {
+                "merged_content": "Median age of brides in 2017.",
+                "merged_data": [
+                    {
+                        "label": "Median Age of Brides 2017",
+                        "value": "28.80",
+                        "unit": "Year Old"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Median Age of Brides 2017",
+                    "x_axis": "Year",
+                    "y_axis": "Age (Years)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_5",
+                        "fact_group_content": "Singapore Median Age of Brides: First Marriages: Under Women's Charter was 28.80 years old in 2017.",
+                        "fact_ids": [
+                            "8_3_8"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Singapore Median Age of Brides: First Marriages: Under Women's Charter was 28.80 years old in 2017.",
+                                "vis_data": [
+                                    {
+                                        "label": "Median Age of Brides 2017",
+                                        "value": "28.80",
+                                        "unit": "Year Old"
+                                    }
+                                ],
+                                "fact_id": "8_3_8"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": "10",
+        "merged_facts": [
+            {
+                "merged_content": "Non-Muslim marital dissolutions from 2021 to 2022.",
+                "merged_data": [
+                    {
+                        "label": "2021",
+                        "value": "6123",
+                        "unit": "couples"
+                    },
+                    {
+                        "label": "2022",
+                        "value": "5602",
+                        "unit": "couples"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Non-Muslim Marital Dissolutions",
+                    "x_axis": "Year",
+                    "y_axis": "Dissolutions (couples)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "10_0",
+                        "fact_group_content": "Non-Muslim marital dissolutions decreased from 6,123 in 2021 to 5,602 in 2022.",
+                        "fact_ids": [
+                            "15_0_11"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Non-Muslim marital dissolutions decreased from 6,123 in 2021 to 5,602 in 2022.",
+                                "vis_data": [
+                                    {
+                                        "label": "Decrease in Non-Muslim Divorces",
+                                        "value": "521",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_11"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "10_1",
+                        "fact_group_content": "6,123 non-Muslim marital dissolutions in 2021.",
+                        "fact_ids": [
+                            "15_0_12"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "6,123 non-Muslim marital dissolutions in 2021.",
+                                "vis_data": [
+                                    {
+                                        "label": "Non-Muslim Divorces in 2021",
+                                        "value": "6123",
+                                        "unit": "couples"
+                                    }
+                                ],
+                                "fact_id": "15_0_12"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "10_0"
+            },
+            {
+                "merged_content": "Increase in first-time marriages from a decade ago to 2022.",
+                "merged_data": [
+                    {
+                        "label": "A Decade Ago",
+                        "value": "74.9",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "2022",
+                        "value": "78.6",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "First-time Marriages Increase",
+                    "x_axis": "Year",
+                    "y_axis": "Percentage (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "10_2",
+                        "fact_group_content": "Increase from 74.9% a decade ago to 78.6% in 2022 for first-time grooms and brides.",
+                        "fact_ids": [
+                            "15_0_14"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Increase from 74.9% a decade ago to 78.6% in 2022 for first-time grooms and brides.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increase in First-time Marriages",
+                                        "value": "3.7",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "15_0_14"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "10_1"
+            },
+            {
+                "merged_content": "Marriages under UMLA in May 2018.",
+                "merged_data": [
+                    {
+                        "label": "Inter-ethnic",
+                        "value": "108",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Indian",
+                        "value": "14",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "UMLA Marriages May 2018",
+                    "x_axis": "Type",
+                    "y_axis": "Marriages (Number)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "10_5",
+                        "fact_group_content": "108 inter-ethnic marriages under UMLA: Malays in May 2018.",
+                        "fact_ids": [
+                            "9_5_9"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "108 inter-ethnic marriages under UMLA: Malays in May 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Inter-ethnic UMLA Marriages May 2018",
+                                        "value": "108",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_5_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "10_6",
+                        "fact_group_content": "14 marriages for Indians under UMLA in May 2018.",
+                        "fact_ids": [
+                            "9_9_14"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "14 marriages for Indians under UMLA in May 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Indian UMLA Marriages May 2018",
+                                        "value": "14",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_9_14"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "10_2"
+            },
+            {
+                "merged_content": "Extreme marriage records for Malays under UMLA.",
+                "merged_data": [
+                    {
+                        "label": "All-time High",
+                        "value": "774",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Record Low",
+                        "value": "19",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Extreme Marriage Records for Malays",
+                    "x_axis": "Record Type",
+                    "y_axis": "Marriages (Number)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "10_3",
+                        "fact_group_content": "All-time high of 774 marriages for Malays under UMLA in Dec 1988.",
+                        "fact_ids": [
+                            "9_1_4"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "extreme",
+                                "fact_content": "All-time high of 774 marriages for Malays under UMLA in Dec 1988.",
+                                "vis_data": [
+                                    {
+                                        "label": "All-time High",
+                                        "value": "774",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_1_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "10_4",
+                        "fact_group_content": "Record low of 19 marriages for Malays under UMLA in Feb 1963.",
+                        "fact_ids": [
+                            "9_1_5"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "extreme",
+                                "fact_content": "Record low of 19 marriages for Malays under UMLA in Feb 1963.",
+                                "vis_data": [
+                                    {
+                                        "label": "Record Low",
+                                        "value": "19",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_1_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "10_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": "2",
+        "merged_facts": [
+            {
+                "merged_content": "Marriages under Women's Charter in May 2018.",
+                "merged_data": [
+                    {
+                        "label": "UWC Marriages May 2018",
+                        "value": "1752",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Chinese UWC Marriages May 2018",
+                        "value": "1256",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Indian UWC Marriages May 2018",
+                        "value": "74",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Inter-ethnic UWC Marriages May 2018",
+                        "value": "352",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Other Ethnic UWC Marriages May 2018",
+                        "value": "70",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriages under Women's Charter May 2018",
+                    "x_axis": "Category",
+                    "y_axis": "Number of Marriages"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_1",
+                        "fact_group_content": "1,752 marriages under Women's Charter in May 2018, primarily among Chinese, Indians, and other ethnic groups.",
+                        "fact_ids": [
+                            "9_2_6"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "1,752 marriages under Women's Charter in May 2018, primarily among Chinese, Indians, and other ethnic groups.",
+                                "vis_data": [
+                                    {
+                                        "label": "UWC Marriages May 2018",
+                                        "value": "1752",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_2_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_2",
+                        "fact_group_content": "1,256 marriages for Chinese under UWC in May 2018.",
+                        "fact_ids": [
+                            "9_3_7"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "1,256 marriages for Chinese under UWC in May 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Chinese UWC Marriages May 2018",
+                                        "value": "1256",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_3_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_3",
+                        "fact_group_content": "74 marriages for Indians under UWC in May 2018.",
+                        "fact_ids": [
+                            "9_4_8"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "74 marriages for Indians under UWC in May 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Indian UWC Marriages May 2018",
+                                        "value": "74",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_4_8"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_4",
+                        "fact_group_content": "352 inter-ethnic marriages under UWC in May 2018, primarily involving Chinese, Indians, and other ethnic groups.",
+                        "fact_ids": [
+                            "9_6_10"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "352 inter-ethnic marriages under UWC in May 2018, primarily involving Chinese, Indians, and other ethnic groups.",
+                                "vis_data": [
+                                    {
+                                        "label": "Inter-ethnic UWC Marriages May 2018",
+                                        "value": "352",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_6_10"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_5",
+                        "fact_group_content": "70 marriages for Other Ethnic Groups under UWC in May 2018.",
+                        "fact_ids": [
+                            "9_7_11"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "70 marriages for Other Ethnic Groups under UWC in May 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Other Ethnic UWC Marriages May 2018",
+                                        "value": "70",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_7_11"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "2_0"
+            },
+            {
+                "merged_content": "Marriages under Muslim Law Act in May 2018.",
+                "merged_data": [
+                    {
+                        "label": "Malays UMLA Marriages May 2018",
+                        "value": "133",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Other Ethnic UMLA Marriages May 2018",
+                        "value": "26",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "UMLA Marriages May 2018",
+                        "value": "281",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Marriages under Muslim Law Act May 2018",
+                    "x_axis": "Category",
+                    "y_axis": "Number of Marriages"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_6",
+                        "fact_group_content": "133 marriages for Malays under the Administration of Muslim Law Act (UMLA) in May 2018.",
+                        "fact_ids": [
+                            "9_8_12"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "133 marriages for Malays under the Administration of Muslim Law Act (UMLA) in May 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Malays UMLA Marriages May 2018",
+                                        "value": "133",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_8_12"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_8",
+                        "fact_group_content": "26 marriages for Other Ethnic Groups under the Administration of Muslim Law Act (UMLA) in May 2018.",
+                        "fact_ids": [
+                            "9_10_15"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "26 marriages for Other Ethnic Groups under the Administration of Muslim Law Act (UMLA) in May 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Other Ethnic UMLA Marriages May 2018",
+                                        "value": "26",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_10_15"
+                            }
+                        ],
+                        "missing_entities": [
+                            "NORP"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "2_9",
+                        "fact_group_content": "281 marriages under Muslim Law Act in May 2018, reported by the Department of Statistics, Singapore.",
+                        "fact_ids": [
+                            "9_11_16"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "281 marriages under Muslim Law Act in May 2018, reported by the Department of Statistics, Singapore.",
+                                "vis_data": [
+                                    {
+                                        "label": "UMLA Marriages May 2018",
+                                        "value": "281",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_11_16"
+                            }
+                        ],
+                        "missing_entities": [
+                            "NORP"
+                        ]
+                    }
+                ],
+                "merged_id": "2_1"
+            },
+            {
+                "merged_content": "Marriages for Malays under UMLA in 2018.",
+                "merged_data": [
+                    {
+                        "label": "Marriages in Oct 2018",
+                        "value": "221",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "Apr 2018",
+                        "value": "232",
+                        "unit": "Number"
+                    },
+                    {
+                        "label": "May 2018",
+                        "value": "133",
+                        "unit": "Number"
+                    }
+                ],
+                "merged_recommendation": "line",
+                "titles": {
+                    "chart_title": "Marriages for Malays under UMLA 2018",
+                    "x_axis": "Month",
+                    "y_axis": "Number of Marriages"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_0",
+                        "fact_group_content": "221 marriages for Malays under UMLA in Oct 2018.",
+                        "fact_ids": [
+                            "9_1_1"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "221 marriages for Malays under UMLA in Oct 2018.",
+                                "vis_data": [
+                                    {
+                                        "label": "Marriages in Oct 2018",
+                                        "value": "221",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_1_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_7",
+                        "fact_group_content": "Decrease from 232 marriages in Apr 2018 to 133 in May 2018 for Malays under UMLA.",
+                        "fact_ids": [
+                            "9_8_13"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "trend",
+                                "fact_content": "Decrease from 232 marriages in Apr 2018 to 133 in May 2018 for Malays under UMLA.",
+                                "vis_data": [
+                                    {
+                                        "label": "Apr 2018",
+                                        "value": "232",
+                                        "unit": "Number"
+                                    },
+                                    {
+                                        "label": "May 2018",
+                                        "value": "133",
+                                        "unit": "Number"
+                                    }
+                                ],
+                                "fact_id": "9_8_13"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "2_2"
+            }
+        ]
+    }
+]

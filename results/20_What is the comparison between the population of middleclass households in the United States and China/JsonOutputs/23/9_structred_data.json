@@ -1,0 +1,610 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "As China added to its middle-income population, its share in the global middle class nearly quadrupled from 2001 to 2011. In 2001, the 32 million middle-income people in China accounted for 8% of the global middle-income population. In 2011, China\u2019s middle-income population of 235 million accounted for 30% of the global middle-income population.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "In 2001, China's middle-income population accounted for 8% of the global middle-income population.",
+                    "vis_data": [
+                        {
+                            "label": "Global Middle-Income Share 2001",
+                            "value": "8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "In 2011, China's middle-income population accounted for 30% of the global middle-income population.",
+                    "vis_data": [
+                        {
+                            "label": "Global Middle-Income Share 2011",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_0_1"
+                }
+            ],
+            "relatedness_score": 0.6340487640402936,
+            "article_meta_data": {
+                "title": "Mapping the Global Population: How Many Live on How Much, and Where",
+                "date": "2015-07-08",
+                "url": "https://www.pewresearch.org/global-migration-and-demography/2015/07/08/mapping-the-global-population-how-many-live-on-how-much-and-where/",
+                "id": 23
+            },
+            "para_id": "23_0"
+        },
+        {
+            "paragraph": "China had even more success increasing the size of its middle-income population, which jumped from 32 million in 2001 to 235 million in 2011, an increase of 203 million. The share of the middle-income population rose from 3% to 18%, a sixfold increase in the span of a single decade.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "China's middle-income population was 32 million in 2001.",
+                    "vis_data": [
+                        {
+                            "label": "Middle-Income Population 2001",
+                            "value": "32",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "23_1_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China's middle-income population was 235 million in 2011.",
+                    "vis_data": [
+                        {
+                            "label": "Middle-Income Population 2011",
+                            "value": "235",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "23_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China's middle-income population increased by 203 million from 2001 to 2011.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in Middle-Income Population",
+                            "value": "203",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "23_1_4"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The share of China's middle-income population was 3% in 2001.",
+                    "vis_data": [
+                        {
+                            "label": "Middle-Income Share 2001",
+                            "value": "3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_1_5"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The share of China's middle-income population was 18% in 2011.",
+                    "vis_data": [
+                        {
+                            "label": "Middle-Income Share 2011",
+                            "value": "18",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_1_6"
+                }
+            ],
+            "relatedness_score": 0.6025155334530096,
+            "article_meta_data": {
+                "title": "Mapping the Global Population: How Many Live on How Much, and Where",
+                "date": "2015-07-08",
+                "url": "https://www.pewresearch.org/global-migration-and-demography/2015/07/08/mapping-the-global-population-how-many-live-on-how-much-and-where/",
+                "id": 23
+            },
+            "para_id": "23_1"
+        },
+        {
+            "paragraph": "From 2001 to 2011, the poverty rate in China fell from 41% to 12%, resulting in the movement of 356 million people out of poverty. Some of this led to an increase in China\u2019s low-income population. The size of this group, one step out of poverty but not yet middle income, increased by 163 million, and its share rose from 57% to 66%.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The poverty rate in China was 41% in 2001.",
+                    "vis_data": [
+                        {
+                            "label": "Poverty Rate 2001",
+                            "value": "41",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_2_7"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The poverty rate in China was 12% in 2011.",
+                    "vis_data": [
+                        {
+                            "label": "Poverty Rate 2011",
+                            "value": "12",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_2_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "356 million people moved out of poverty in China from 2001 to 2011.",
+                    "vis_data": [
+                        {
+                            "label": "People Moved Out of Poverty",
+                            "value": "356",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "23_2_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The size of China's low-income population increased by 163 million from 2001 to 2011.",
+                    "vis_data": [
+                        {
+                            "label": "Increase in Low-Income Population",
+                            "value": "163",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "23_2_10"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The share of China's low-income population was 57% in 2001.",
+                    "vis_data": [
+                        {
+                            "label": "Low-Income Share 2001",
+                            "value": "57",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_2_11"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The share of China's low-income population was 66% in 2011.",
+                    "vis_data": [
+                        {
+                            "label": "Low-Income Share 2011",
+                            "value": "66",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_2_12"
+                }
+            ],
+            "relatedness_score": 0.5059424204355294,
+            "article_meta_data": {
+                "title": "Mapping the Global Population: How Many Live on How Much, and Where",
+                "date": "2015-07-08",
+                "url": "https://www.pewresearch.org/global-migration-and-demography/2015/07/08/mapping-the-global-population-how-many-live-on-how-much-and-where/",
+                "id": 23
+            },
+            "para_id": "23_2"
+        },
+        {
+            "paragraph": "Due to the lackluster performance of the U.S. economy, there was no substantial change in the income distribution in North America from 2001 to 2011. The share of the middle-income population in the region moved up from 10% in 2001 to 12% in 2011, the share of the low-income population inched up from 17% to 18%, and the share of the high-income population eased down from 43% to 42%.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The share of the middle-income population in North America was 10% in 2001.",
+                    "vis_data": [
+                        {
+                            "label": "Middle-Income Share 2001",
+                            "value": "10",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_3_13"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The share of the middle-income population in North America was 12% in 2011.",
+                    "vis_data": [
+                        {
+                            "label": "Middle-Income Share 2011",
+                            "value": "12",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_3_14"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The share of the low-income population in North America was 17% in 2001.",
+                    "vis_data": [
+                        {
+                            "label": "Low-Income Share 2001",
+                            "value": "17",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_3_15"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The share of the low-income population in North America was 18% in 2011.",
+                    "vis_data": [
+                        {
+                            "label": "Low-Income Share 2011",
+                            "value": "18",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_3_16"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The share of the high-income population in North America was 43% in 2001.",
+                    "vis_data": [
+                        {
+                            "label": "High-Income Share 2001",
+                            "value": "43",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_3_17"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The share of the high-income population in North America was 42% in 2011.",
+                    "vis_data": [
+                        {
+                            "label": "High-Income Share 2011",
+                            "value": "42",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "23_3_18"
+                }
+            ],
+            "relatedness_score": 0.4701974860381337,
+            "article_meta_data": {
+                "title": "Mapping the Global Population: How Many Live on How Much, and Where",
+                "date": "2015-07-08",
+                "url": "https://www.pewresearch.org/global-migration-and-demography/2015/07/08/mapping-the-global-population-how-many-live-on-how-much-and-where/",
+                "id": 23
+            },
+            "para_id": "23_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "23_0",
+            "paragraph": "As China added to its middle-income population, its share in the global middle class nearly quadrupled from 2001 to 2011. In 2001, the 32 million middle-income people in China accounted for 8% of the global middle-income population. In 2011, China\u2019s middle-income population of 235 million accounted for 30% of the global middle-income population."
+        },
+        {
+            "para_id": "23_1",
+            "paragraph": "China had even more success increasing the size of its middle-income population, which jumped from 32 million in 2001 to 235 million in 2011, an increase of 203 million. The share of the middle-income population rose from 3% to 18%, a sixfold increase in the span of a single decade."
+        },
+        {
+            "para_id": "23_2",
+            "paragraph": "From 2001 to 2011, the poverty rate in China fell from 41% to 12%, resulting in the movement of 356 million people out of poverty. Some of this led to an increase in China\u2019s low-income population. The size of this group, one step out of poverty but not yet middle income, increased by 163 million, and its share rose from 57% to 66%."
+        },
+        {
+            "para_id": "23_3",
+            "paragraph": "Due to the lackluster performance of the U.S. economy, there was no substantial change in the income distribution in North America from 2001 to 2011. The share of the middle-income population in the region moved up from 10% in 2001 to 12% in 2011, the share of the low-income population inched up from 17% to 18%, and the share of the high-income population eased down from 43% to 42%."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "23_0_0",
+            "fact_content": "In 2001, China's middle-income population accounted for 8% of the global middle-income population."
+        },
+        {
+            "fact_id": "23_0_1",
+            "fact_content": "In 2011, China's middle-income population accounted for 30% of the global middle-income population."
+        },
+        {
+            "fact_id": "23_1_2",
+            "fact_content": "China's middle-income population was 32 million in 2001."
+        },
+        {
+            "fact_id": "23_1_3",
+            "fact_content": "China's middle-income population was 235 million in 2011."
+        },
+        {
+            "fact_id": "23_1_4",
+            "fact_content": "China's middle-income population increased by 203 million from 2001 to 2011."
+        },
+        {
+            "fact_id": "23_1_5",
+            "fact_content": "The share of China's middle-income population was 3% in 2001."
+        },
+        {
+            "fact_id": "23_1_6",
+            "fact_content": "The share of China's middle-income population was 18% in 2011."
+        },
+        {
+            "fact_id": "23_2_7",
+            "fact_content": "The poverty rate in China was 41% in 2001."
+        },
+        {
+            "fact_id": "23_2_8",
+            "fact_content": "The poverty rate in China was 12% in 2011."
+        },
+        {
+            "fact_id": "23_2_9",
+            "fact_content": "356 million people moved out of poverty in China from 2001 to 2011."
+        },
+        {
+            "fact_id": "23_2_10",
+            "fact_content": "The size of China's low-income population increased by 163 million from 2001 to 2011."
+        },
+        {
+            "fact_id": "23_2_11",
+            "fact_content": "The share of China's low-income population was 57% in 2001."
+        },
+        {
+            "fact_id": "23_2_12",
+            "fact_content": "The share of China's low-income population was 66% in 2011."
+        },
+        {
+            "fact_id": "23_3_13",
+            "fact_content": "The share of the middle-income population in North America was 10% in 2001."
+        },
+        {
+            "fact_id": "23_3_14",
+            "fact_content": "The share of the middle-income population in North America was 12% in 2011."
+        },
+        {
+            "fact_id": "23_3_15",
+            "fact_content": "The share of the low-income population in North America was 17% in 2001."
+        },
+        {
+            "fact_id": "23_3_16",
+            "fact_content": "The share of the low-income population in North America was 18% in 2011."
+        },
+        {
+            "fact_id": "23_3_17",
+            "fact_content": "The share of the high-income population in North America was 43% in 2001."
+        },
+        {
+            "fact_id": "23_3_18",
+            "fact_content": "The share of the high-income population in North America was 42% in 2011."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "In 2001, China's middle-income population accounted for 8% of the global middle-income population.",
+            "vis_data": [
+                {
+                    "label": "Global Middle-Income Share 2001",
+                    "value": "8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "In 2011, China's middle-income population accounted for 30% of the global middle-income population.",
+            "vis_data": [
+                {
+                    "label": "Global Middle-Income Share 2011",
+                    "value": "30",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "China's middle-income population was 32 million in 2001.",
+            "vis_data": [
+                {
+                    "label": "Middle-Income Population 2001",
+                    "value": "32",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "23_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "China's middle-income population was 235 million in 2011.",
+            "vis_data": [
+                {
+                    "label": "Middle-Income Population 2011",
+                    "value": "235",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "23_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "China's middle-income population increased by 203 million from 2001 to 2011.",
+            "vis_data": [
+                {
+                    "label": "Increase in Middle-Income Population",
+                    "value": "203",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "23_1_4"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The share of China's middle-income population was 3% in 2001.",
+            "vis_data": [
+                {
+                    "label": "Middle-Income Share 2001",
+                    "value": "3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_1_5"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The share of China's middle-income population was 18% in 2011.",
+            "vis_data": [
+                {
+                    "label": "Middle-Income Share 2011",
+                    "value": "18",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_1_6"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The poverty rate in China was 41% in 2001.",
+            "vis_data": [
+                {
+                    "label": "Poverty Rate 2001",
+                    "value": "41",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_2_7"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The poverty rate in China was 12% in 2011.",
+            "vis_data": [
+                {
+                    "label": "Poverty Rate 2011",
+                    "value": "12",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_2_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "356 million people moved out of poverty in China from 2001 to 2011.",
+            "vis_data": [
+                {
+                    "label": "People Moved Out of Poverty",
+                    "value": "356",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "23_2_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The size of China's low-income population increased by 163 million from 2001 to 2011.",
+            "vis_data": [
+                {
+                    "label": "Increase in Low-Income Population",
+                    "value": "163",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "23_2_10"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The share of China's low-income population was 57% in 2001.",
+            "vis_data": [
+                {
+                    "label": "Low-Income Share 2001",
+                    "value": "57",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_2_11"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The share of China's low-income population was 66% in 2011.",
+            "vis_data": [
+                {
+                    "label": "Low-Income Share 2011",
+                    "value": "66",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_2_12"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The share of the middle-income population in North America was 10% in 2001.",
+            "vis_data": [
+                {
+                    "label": "Middle-Income Share 2001",
+                    "value": "10",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_3_13"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The share of the middle-income population in North America was 12% in 2011.",
+            "vis_data": [
+                {
+                    "label": "Middle-Income Share 2011",
+                    "value": "12",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_3_14"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The share of the low-income population in North America was 17% in 2001.",
+            "vis_data": [
+                {
+                    "label": "Low-Income Share 2001",
+                    "value": "17",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_3_15"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The share of the low-income population in North America was 18% in 2011.",
+            "vis_data": [
+                {
+                    "label": "Low-Income Share 2011",
+                    "value": "18",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_3_16"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The share of the high-income population in North America was 43% in 2001.",
+            "vis_data": [
+                {
+                    "label": "High-Income Share 2001",
+                    "value": "43",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_3_17"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "The share of the high-income population in North America was 42% in 2011.",
+            "vis_data": [
+                {
+                    "label": "High-Income Share 2011",
+                    "value": "42",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "23_3_18"
+        }
+    ]
+}

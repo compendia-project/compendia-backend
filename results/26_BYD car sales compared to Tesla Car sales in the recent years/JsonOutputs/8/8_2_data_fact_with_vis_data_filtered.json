@@ -1,0 +1,49 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The Warren Buffett-backed electric vehicle giant sold 4.27 million vehicles in 2024, compared with Tesla's 1.78 million.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 4.27 million vehicles in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Vehicle Sales",
+                            "value": "4.27",
+                            "unit": "million vehicles"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla sold 1.78 million vehicles in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Vehicle Sales",
+                            "value": "1.78",
+                            "unit": "million vehicles"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5894837239708439
+        },
+        {
+            "paragraph": "The Chinese firm sold 1.76 million battery-electric vehicles in 2024, meaning it fell just short of Tesla's EV-sales crown.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 1.76 million battery-electric vehicles in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Battery-Electric Vehicle Sales",
+                            "value": "1.76",
+                            "unit": "million vehicles"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5535931513276087
+        }
+    ]
+}

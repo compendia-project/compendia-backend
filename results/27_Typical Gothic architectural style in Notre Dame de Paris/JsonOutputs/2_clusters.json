@@ -1,0 +1,685 @@
+{
+    "cluster_wise_facts": [
+        {
+            "cluster_id": 3,
+            "cluster_size": 11,
+            "facts": [
+                {
+                    "fact_id": "16_0_0",
+                    "fact_content": "The cathedral was completed in 1250."
+                },
+                {
+                    "fact_id": "10_0_1",
+                    "fact_content": "The facade measures 45 meters in height."
+                },
+                {
+                    "fact_id": "10_0_3",
+                    "fact_content": "The rose window has a diameter of 9.6 meters."
+                },
+                {
+                    "fact_id": "11_0_0",
+                    "fact_content": "The contemporary organ features five keyboards."
+                },
+                {
+                    "fact_id": "11_0_1",
+                    "fact_content": "The contemporary organ features one hundred nine stops."
+                },
+                {
+                    "fact_id": "0_1_1",
+                    "fact_content": "The construction of the nave of Notre-Dame began in 1182 with four bays."
+                },
+                {
+                    "fact_id": "15_0_0",
+                    "fact_content": "Notre Dame is 130 meters long."
+                },
+                {
+                    "fact_id": "13_0_1",
+                    "fact_content": "The cathedral is 12 metres (39 ft) wide in the nave."
+                },
+                {
+                    "fact_id": "19_0_0",
+                    "fact_content": "Building a cathedral occasionally took over 100 years to complete."
+                },
+                {
+                    "fact_id": "12_2_2",
+                    "fact_content": "The first buttresses had a reach of fifteen metres (50 ft) between the walls and counter-supports."
+                },
+                {
+                    "fact_id": "12_3_3",
+                    "fact_content": "The two towers are 69 metres (226 ft) high."
+                }
+            ]
+        },
+        {
+            "cluster_id": 5,
+            "cluster_size": 4,
+            "facts": [
+                {
+                    "fact_id": "10_0_0",
+                    "fact_content": "The facade measures 43.5 meters in width."
+                },
+                {
+                    "fact_id": "11_0_2",
+                    "fact_content": "The contemporary organ features almost eight thousand pipes."
+                },
+                {
+                    "fact_id": "13_0_0",
+                    "fact_content": "The cathedral is roughly 128 metres (420 ft) in length."
+                },
+                {
+                    "fact_id": "5_0_0",
+                    "fact_content": "Notre-Dame's vaults peaking at 32m high was the tallest building at that time."
+                }
+            ]
+        },
+        {
+            "cluster_id": 2,
+            "cluster_size": 4,
+            "facts": [
+                {
+                    "fact_id": "10_0_2",
+                    "fact_content": "The facade measures 69 meters in height with the towers."
+                },
+                {
+                    "fact_id": "12_1_1",
+                    "fact_content": "The west rose window is 9.6 metres (31 ft) in diameter."
+                },
+                {
+                    "fact_id": "5_0_5",
+                    "fact_content": "Noyon cathedral reached 22 m under the vault."
+                },
+                {
+                    "fact_id": "5_1_6",
+                    "fact_content": "Iron staples in Notre-Dame were designed 15 to 20 years earlier than tie-rods in Soissons cathedral."
+                }
+            ]
+        },
+        {
+            "cluster_id": 1,
+            "cluster_size": 4,
+            "facts": [
+                {
+                    "fact_id": "0_0_0",
+                    "fact_content": "The cathedral originally rose on four levels and now rises on only three levels."
+                },
+                {
+                    "fact_id": "15_0_1",
+                    "fact_content": "Notre Dame is 35 meters high under the vault."
+                },
+                {
+                    "fact_id": "12_4_4",
+                    "fact_content": "The south rose in the transept is 12.9 metres (42 ft) in diameter."
+                },
+                {
+                    "fact_id": "5_1_7",
+                    "fact_content": "Iron staples in Notre-Dame were designed about 40 years before iron reinforcements in Chartres or Bourges cathedral."
+                }
+            ]
+        },
+        {
+            "cluster_id": 6,
+            "cluster_size": 7,
+            "facts": [
+                {
+                    "fact_id": "0_1_2",
+                    "fact_content": "The nave of Notre-Dame consists of ten bays."
+                },
+                {
+                    "fact_id": "18_0_0",
+                    "fact_content": "Two rose windows span 43 ft in diameter."
+                },
+                {
+                    "fact_id": "15_0_2",
+                    "fact_content": "Notre Dame's transept is 48 meters wide."
+                },
+                {
+                    "fact_id": "15_0_3",
+                    "fact_content": "Notre Dame's towers are 69 meters high."
+                },
+                {
+                    "fact_id": "15_1_5",
+                    "fact_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters."
+                },
+                {
+                    "fact_id": "5_0_1",
+                    "fact_content": "The abbey church of Cluny was 29.50 m high."
+                },
+                {
+                    "fact_id": "5_1_8",
+                    "fact_content": "Cross-ribs of the outer ambulatory peaked at almost 11 m high."
+                }
+            ]
+        },
+        {
+            "cluster_id": 4,
+            "cluster_size": 5,
+            "facts": [
+                {
+                    "fact_id": "18_0_1",
+                    "fact_content": "One rose window spans 39 feet in diameter."
+                },
+                {
+                    "fact_id": "12_0_0",
+                    "fact_content": "The entire fl\u00e8che weighed 750 tonnes."
+                },
+                {
+                    "fact_id": "5_0_2",
+                    "fact_content": "Notre-Dame's nave is nearly 37 m wide."
+                },
+                {
+                    "fact_id": "5_0_3",
+                    "fact_content": "Notre-Dame's nave is 125 m long."
+                },
+                {
+                    "fact_id": "5_0_4",
+                    "fact_content": "Cathedrals of Laon, Senlis, and Sens reached 24 m under the vault."
+                }
+            ]
+        },
+        {
+            "cluster_id": 7,
+            "cluster_size": 4,
+            "facts": [
+                {
+                    "fact_id": "15_1_4",
+                    "fact_content": "The rose window on the front above the portal measures 9.6 meters in diameter."
+                },
+                {
+                    "fact_id": "13_1_2",
+                    "fact_content": "The twin towers are 69 metres in height."
+                },
+                {
+                    "fact_id": "19_1_1",
+                    "fact_content": "The choir area was built from 1163 to 1177 CE."
+                },
+                {
+                    "fact_id": "12_4_5",
+                    "fact_content": "With the claire-voie surrounding it, the south rose in the transept has a total diameter of 19 metres (62 ft)."
+                }
+            ]
+        }
+    ],
+    "fact_wise_clusters": [
+        {
+            "fact_id": "16_0_0",
+            "fact_content": "The cathedral was completed in 1250.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999488436314264
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_0",
+            "fact_content": "The facade measures 43.5 meters in width.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9993528969305868
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_1",
+            "fact_content": "The facade measures 45 meters in height.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9951608063568651
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_2",
+            "fact_content": "The facade measures 69 meters in height with the towers.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999955408711859
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_3",
+            "fact_content": "The rose window has a diameter of 9.6 meters.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9972608569649498
+                }
+            ]
+        },
+        {
+            "fact_id": "11_0_0",
+            "fact_content": "The contemporary organ features five keyboards.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999999999999991
+                }
+            ]
+        },
+        {
+            "fact_id": "11_0_1",
+            "fact_content": "The contemporary organ features one hundred nine stops.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999983662879357
+                }
+            ]
+        },
+        {
+            "fact_id": "11_0_2",
+            "fact_content": "The contemporary organ features almost eight thousand pipes.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9700351292287164
+                }
+            ]
+        },
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "The cathedral originally rose on four levels and now rises on only three levels.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9994548845623796
+                }
+            ]
+        },
+        {
+            "fact_id": "0_1_1",
+            "fact_content": "The construction of the nave of Notre-Dame began in 1182 with four bays.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9998909993340181
+                }
+            ]
+        },
+        {
+            "fact_id": "0_1_2",
+            "fact_content": "The nave of Notre-Dame consists of ten bays.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9844791219457963
+                }
+            ]
+        },
+        {
+            "fact_id": "18_0_0",
+            "fact_content": "Two rose windows span 43 ft in diameter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.998331799629702
+                }
+            ]
+        },
+        {
+            "fact_id": "18_0_1",
+            "fact_content": "One rose window spans 39 feet in diameter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9995987790444051
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "Notre Dame is 130 meters long.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_1",
+            "fact_content": "Notre Dame is 35 meters high under the vault.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9999955715342084
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_2",
+            "fact_content": "Notre Dame's transept is 48 meters wide.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9998822824539686
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_3",
+            "fact_content": "Notre Dame's towers are 69 meters high.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999927020031945
+                }
+            ]
+        },
+        {
+            "fact_id": "15_1_4",
+            "fact_content": "The rose window on the front above the portal measures 9.6 meters in diameter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.993572225084926
+                }
+            ]
+        },
+        {
+            "fact_id": "15_1_5",
+            "fact_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.999933191846222
+                }
+            ]
+        },
+        {
+            "fact_id": "13_0_0",
+            "fact_content": "The cathedral is roughly 128 metres (420 ft) in length.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9966883377442073
+                }
+            ]
+        },
+        {
+            "fact_id": "13_0_1",
+            "fact_content": "The cathedral is 12 metres (39 ft) wide in the nave.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999952948610222
+                }
+            ]
+        },
+        {
+            "fact_id": "13_1_2",
+            "fact_content": "The twin towers are 69 metres in height.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9996661316071571
+                }
+            ]
+        },
+        {
+            "fact_id": "19_0_0",
+            "fact_content": "Building a cathedral occasionally took over 100 years to complete.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9975889357322774
+                }
+            ]
+        },
+        {
+            "fact_id": "19_1_1",
+            "fact_content": "The choir area was built from 1163 to 1177 CE.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9951258800783424
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_0",
+            "fact_content": "The entire fl\u00e8che weighed 750 tonnes.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9995668526771095
+                }
+            ]
+        },
+        {
+            "fact_id": "12_1_1",
+            "fact_content": "The west rose window is 9.6 metres (31 ft) in diameter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999819966653
+                }
+            ]
+        },
+        {
+            "fact_id": "12_2_2",
+            "fact_content": "The first buttresses had a reach of fifteen metres (50 ft) between the walls and counter-supports.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "fact_id": "12_3_3",
+            "fact_content": "The two towers are 69 metres (226 ft) high.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999427054813287
+                }
+            ]
+        },
+        {
+            "fact_id": "12_4_4",
+            "fact_content": "The south rose in the transept is 12.9 metres (42 ft) in diameter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9999999699946742
+                }
+            ]
+        },
+        {
+            "fact_id": "12_4_5",
+            "fact_content": "With the claire-voie surrounding it, the south rose in the transept has a total diameter of 19 metres (62 ft).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9813210200274635
+                }
+            ]
+        },
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "Notre-Dame's vaults peaking at 32m high was the tallest building at that time.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9959340287626872
+                }
+            ]
+        },
+        {
+            "fact_id": "5_0_1",
+            "fact_content": "The abbey church of Cluny was 29.50 m high.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999323606880259
+                }
+            ]
+        },
+        {
+            "fact_id": "5_0_2",
+            "fact_content": "Notre-Dame's nave is nearly 37 m wide.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.999859230237685
+                }
+            ]
+        },
+        {
+            "fact_id": "5_0_3",
+            "fact_content": "Notre-Dame's nave is 125 m long.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999997612688835
+                }
+            ]
+        },
+        {
+            "fact_id": "5_0_4",
+            "fact_content": "Cathedrals of Laon, Senlis, and Sens reached 24 m under the vault.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9998456257775722
+                }
+            ]
+        },
+        {
+            "fact_id": "5_0_5",
+            "fact_content": "Noyon cathedral reached 22 m under the vault.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9984872398919373
+                }
+            ]
+        },
+        {
+            "fact_id": "5_1_6",
+            "fact_content": "Iron staples in Notre-Dame were designed 15 to 20 years earlier than tie-rods in Soissons cathedral.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999997596102042
+                }
+            ]
+        },
+        {
+            "fact_id": "5_1_7",
+            "fact_content": "Iron staples in Notre-Dame were designed about 40 years before iron reinforcements in Chartres or Bourges cathedral.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9998315013089215
+                }
+            ]
+        },
+        {
+            "fact_id": "5_1_8",
+            "fact_content": "Cross-ribs of the outer ambulatory peaked at almost 11 m high.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.99914388322738
+                }
+            ]
+        }
+    ],
+    "evaluation_metrics": {
+        "silhouette_score": 0.38144633173942566,
+        "davies_bouldin_score": 0.7863176616410431,
+        "cluster_entropy": 0.014772026965155708
+    },
+    "cluster_summary": {
+        "4": {
+            "representative_fact": "The entire fl\u00e8che weighed 750 tonnes.",
+            "top_keywords": [
+                "notre",
+                "dame",
+                "nave",
+                "one",
+                "rose"
+            ],
+            "mean_similarity": 0.4288829403949267,
+            "mean_similarity_normalized": 0.790324301770402
+        },
+        "1": {
+            "representative_fact": "The south rose in the transept is 12.9 metres (42 ft) in diameter.",
+            "top_keywords": [
+                "cathedral",
+                "rose",
+                "levels",
+                "notre",
+                "dame"
+            ],
+            "mean_similarity": 0.27683975517129644,
+            "mean_similarity_normalized": 0.0
+        },
+        "3": {
+            "representative_fact": "The cathedral was completed in 1250.",
+            "top_keywords": [
+                "cathedral",
+                "meters",
+                "metres",
+                "ft",
+                "contemporary"
+            ],
+            "mean_similarity": 0.29452883539290403,
+            "mean_similarity_normalized": 0.09194828399931394
+        },
+        "6": {
+            "representative_fact": "The abbey church of Cluny was 29.50 m high.",
+            "top_keywords": [
+                "notre",
+                "dame",
+                "meters",
+                "high",
+                "two"
+            ],
+            "mean_similarity": 0.38913843595358555,
+            "mean_similarity_normalized": 0.583731367824608
+        },
+        "7": {
+            "representative_fact": "The twin towers are 69 metres in height.",
+            "top_keywords": [
+                "rose",
+                "diameter",
+                "metres",
+                "window",
+                "front"
+            ],
+            "mean_similarity": 0.29492443259237516,
+            "mean_similarity_normalized": 0.09400460819427534
+        },
+        "5": {
+            "representative_fact": "Notre-Dame's vaults peaking at 32m high was the tallest building at that time.",
+            "top_keywords": [
+                "facade",
+                "measures",
+                "43",
+                "5",
+                "meters"
+            ],
+            "mean_similarity": 0.36939693948715613,
+            "mean_similarity_normalized": 0.48111457255170265
+        },
+        "2": {
+            "representative_fact": "Iron staples in Notre-Dame were designed 15 to 20 years earlier than tie-rods in Soissons cathedral.",
+            "top_keywords": [
+                "cathedral",
+                "facade",
+                "measures",
+                "69",
+                "meters"
+            ],
+            "mean_similarity": 0.469220509354154,
+            "mean_similarity_normalized": 1.0
+        }
+    }
+}

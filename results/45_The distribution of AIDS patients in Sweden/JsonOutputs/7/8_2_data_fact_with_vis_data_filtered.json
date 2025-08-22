@@ -1,0 +1,192 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In recent decades, the morbidity and mortality related to human immunodeficiency virus (HIV) infection and/or acquired immunodeficiency syndrome (AIDS) have drastically declined globally due to improved and increased access to effective antiretroviral (ARV) therapy, which has resulted in an increase in the number of people living with HIV and AIDS. Recent statistics in Sweden have also shown a decreasing trend in the number of newly diagnosed cases. Nowadays, more than 8,100 people are living with HIV (PLWH) diagnosis in Sweden, of whom just over 95% are under ARV treatment and over 95% of these have well-managed treatment regimes. However, available statistics show disparities in reported HIV infection cases, access to HIV care, treatment and support, AIDS-related deaths between and within countries and continents. Some groups of the population are more vulnerable than others. For instance, migrants have been identified as a particularly vulnerable group in both the United Nation\u2019s Declaration on AIDS 2021 and the Swedish National Strategy against HIV and AIDS and certain other communicable diseases.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "More than 8,100 people are living with HIV diagnosis in Sweden.",
+                    "vis_data": [
+                        {
+                            "label": "People living with HIV in Sweden",
+                            "value": "8100+",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Just over 95% of people living with HIV in Sweden are under ARV treatment.",
+                    "vis_data": [
+                        {
+                            "label": "Under ARV treatment",
+                            "value": "95+",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Over 95% of those under ARV treatment have well-managed treatment regimes.",
+                    "vis_data": [
+                        {
+                            "label": "Well-managed treatment regimes",
+                            "value": "95+",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6710692453258449
+        },
+        {
+            "paragraph": "According to the European Centre for Disease Prevention and Control (ECDC) report, migrants made up approximately 12% of the population of the European Union (EU) countries but accounted for 44% of newly reported HIV cases in 2019. This is considered to be the result of the higher prevalence of HIV in their countries and an increased vulnerability of migrants due to the conditions surrounding the migration process. Similar patterns have been seen in Sweden where migrants make up about 20% of the Swedish population but approximately 70% of new HIV infection cases being reported each year and about 65% of PLWH in Sweden are foreign-born. By the end of 2021, around 8,289 people living with HIV were being treated in Sweden, of which 61% were men and 39% were women. The majority were born abroad (64%), one third of them were born in sub-Saharan Africa (36%), 11 percent were born in Southeast Asia, mainly in Thailand. An equal proportion of five percent were born in Western Europe (5%) and Latina America and Caribbean (5%) followed by North America (4%). The remaining six percent were born in Eastern Europe and Central Asia (3%) and Southeast Asia (3%). Migrants are thus overrepresented among PLWH in Sweden and are one of the groups identified as vulnerable to HIV and other sexually transmitted infections (STIs) according to the Swedish National strategy against HIV and certain other communicable diseases.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Migrants made up approximately 12% of the population of the EU countries but accounted for 44% of newly reported HIV cases in 2019.",
+                    "vis_data": [
+                        {
+                            "label": "EU migrants HIV cases",
+                            "value": "44",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Migrants make up about 20% of the Swedish population but approximately 70% of new HIV infection cases being reported each year.",
+                    "vis_data": [
+                        {
+                            "label": "Swedish migrants HIV cases",
+                            "value": "70",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "About 65% of people living with HIV in Sweden are foreign-born.",
+                    "vis_data": [
+                        {
+                            "label": "Foreign-born PLWH in Sweden",
+                            "value": "65",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "By the end of 2021, around 8,289 people living with HIV were being treated in Sweden.",
+                    "vis_data": [
+                        {
+                            "label": "PLWH treated in Sweden 2021",
+                            "value": "8289",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "61% of people living with HIV in Sweden were men.",
+                    "vis_data": [
+                        {
+                            "label": "Men PLWH in Sweden",
+                            "value": "61",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "39% of people living with HIV in Sweden were women.",
+                    "vis_data": [
+                        {
+                            "label": "Women PLWH in Sweden",
+                            "value": "39",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "64% of people living with HIV in Sweden were born abroad.",
+                    "vis_data": [
+                        {
+                            "label": "Born abroad PLWH in Sweden",
+                            "value": "64",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "36% of people living with HIV in Sweden were born in sub-Saharan Africa.",
+                    "vis_data": [
+                        {
+                            "label": "Born in sub-Saharan Africa",
+                            "value": "36",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "11% of people living with HIV in Sweden were born in Southeast Asia.",
+                    "vis_data": [
+                        {
+                            "label": "Born in Southeast Asia",
+                            "value": "11",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "5% of people living with HIV in Sweden were born in Western Europe.",
+                    "vis_data": [
+                        {
+                            "label": "Born in Western Europe",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "5% of people living with HIV in Sweden were born in Latin America and Caribbean.",
+                    "vis_data": [
+                        {
+                            "label": "Born in Latin America and Caribbean",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "4% of people living with HIV in Sweden were born in North America.",
+                    "vis_data": [
+                        {
+                            "label": "Born in North America",
+                            "value": "4",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "3% of people living with HIV in Sweden were born in Eastern Europe and Central Asia.",
+                    "vis_data": [
+                        {
+                            "label": "Born in Eastern Europe and Central Asia",
+                            "value": "3",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6655083606908037
+        }
+    ]
+}

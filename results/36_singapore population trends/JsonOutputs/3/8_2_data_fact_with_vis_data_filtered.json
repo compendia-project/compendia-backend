@@ -1,0 +1,116 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "SINGAPORE: For the first time, Singapore\u2019s total population has exceeded six million, mainly due to the growth in the non-resident population.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore\u2019s total population has exceeded six million.",
+                    "vis_data": [
+                        {
+                            "label": "Total Population",
+                            "value": "6000000",
+                            "unit": "people"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6262958665772911
+        },
+        {
+            "paragraph": "According to the report, the non-resident population jumped by about 5 per cent from last year. The increase was seen across most pass types, with work permit holders contributing most to the increase (44 per cent of non-resident population), followed by migrant domestic workers (15 per cent of non-resident population).",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The non-resident population jumped by about 5 per cent from last year.",
+                    "vis_data": [
+                        {
+                            "label": "Non-Resident Increase",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Work permit holders contribute 44 per cent of non-resident population.",
+                    "vis_data": [
+                        {
+                            "label": "Work Permit Holders",
+                            "value": "44",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Migrant domestic workers contribute 15 per cent of non-resident population.",
+                    "vis_data": [
+                        {
+                            "label": "Migrant Domestic Workers",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5245152926574846
+        },
+        {
+            "paragraph": "Of the 6.04 million, there were 4.18 million residents and about 1.86 million non-residents, which comprise the foreign workforce, migrant domestic workers, dependants and international students.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "There were 4.18 million residents.",
+                    "vis_data": [
+                        {
+                            "label": "Residents",
+                            "value": "4180000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "There were about 1.86 million non-residents.",
+                    "vis_data": [
+                        {
+                            "label": "Non-Residents",
+                            "value": "1860000",
+                            "unit": "people"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.43600254753007817
+        },
+        {
+            "paragraph": "As of June this year, the country\u2019s population stood at 6.04 million, a 2 per cent increase from last year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The country\u2019s population stood at 6.04 million.",
+                    "vis_data": [
+                        {
+                            "label": "Population June 2024",
+                            "value": "6040000",
+                            "unit": "people"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 2 per cent increase in population from last year.",
+                    "vis_data": [
+                        {
+                            "label": "Population Increase",
+                            "value": "2",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.41006535963797397
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "While organic sales[1] declined by -14%, we reached a gross margin[2] of 42.7%, generated EBITA[3] of SEK 5.1 billion and a 9.6% EBITA margin[3].",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Organic sales declined by -14%."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gross margin of 42.7%."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "EBITA of SEK 5.1 billion."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "EBITA margin of 9.6%."
+                }
+            ]
+        },
+        {
+            "paragraph": "Networks sales[1] decreased organically by -19% YoY as our customers continued to be cautious with their investments. Despite this, we generated a strong gross margin[2] of 44.3% - a testament to our technology leadership, our competitive product portfolio, and the strategic actions we are taking, including on costs.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Networks sales decreased organically by -19% YoY."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gross margin of 44.3%."
+                }
+            ]
+        },
+        {
+            "paragraph": "We delivered SEK 3.7 billion of free cash flow[4] in Q1, benefiting from our operational improvements, and lower working capital as we concluded an intense 5G roll-out phase in India.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "SEK 3.7 billion of free cash flow in Q1."
+                }
+            ]
+        }
+    ]
+}

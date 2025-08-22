@@ -1,0 +1,173 @@
+[
+    {
+        "cluster_id": 7,
+        "title": "AI Adoption",
+        "description": "AI is increasingly being integrated into business operations, with a significant portion of companies either using or exploring its use. The global AI market is projected to grow substantially, with expectations to reach $1.8 trillion by 2030. AI adoption is contributing significantly to economic growth, with potential contributions of over $15.7 trillion to the global economy by 2030. Despite concerns about technology dependence and job displacement, AI is seen as a tool for improving productivity and generating actionable insights.",
+        "representative_facts": [
+            {
+                "fact_content": "77% of companies are either using or exploring AI",
+                "fact_id": "7_0"
+            },
+            {
+                "fact_content": "AI market expected to surpass $1.8 trillion by 2030",
+                "fact_id": "7_5"
+            },
+            {
+                "fact_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030",
+                "fact_id": "7_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "title": "AI Growth",
+        "description": "The adoption and growth of AI in business are accelerating, with significant economic impacts projected. A large percentage of companies are either using or exploring AI, and the market is expected to grow substantially, reaching trillions by 2030. AI is also anticipated to contribute significantly to the global economy and job market, creating millions of new jobs while displacing others.",
+        "representative_facts": [
+            {
+                "fact_content": "77% of companies are either using or exploring AI",
+                "fact_id": "9_0"
+            },
+            {
+                "fact_content": "AI market expected to surpass $1.8 trillion by 2030",
+                "fact_id": "9_5"
+            },
+            {
+                "fact_content": "AI could create 97 million new jobs",
+                "fact_id": "9_27"
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "title": "AI Growth",
+        "description": "AI is increasingly prioritized by companies, with 83% considering it a top business priority. The global AI market is projected to grow significantly, reaching $309.6 billion by 2026, driven by a compound annual growth rate of 40.1%. AI's impact is broad, with expectations to contribute a 21% net increase to the U.S. GDP by 2030 and save the financial industry up to $1 trillion annually.",
+        "representative_facts": [
+            {
+                "fact_content": "83% of companies claim AI is a top priority",
+                "fact_id": "2_0"
+            },
+            {
+                "fact_content": "Global AI market to reach USD 309.6 billion by 2026",
+                "fact_id": "2_4"
+            },
+            {
+                "fact_content": "AI to contribute 21% net increase to U.S. GDP by 2030",
+                "fact_id": "2_11"
+            }
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "title": "AI Adoption",
+        "description": "AI adoption is on the rise, with significant interest from companies and industries. While 42% of companies are exploring AI for future implementation, 64% believe it will boost productivity. However, concerns about job losses persist, with 77% of people apprehensive about AI's impact on employment. The healthcare sector leads in long-term AI adoption at 40%, and AI-related advancements could affect 15% of the global workforce by 2030. Generative AI adoption has reached 65%, and AI startups secured $131.5 billion in venture capital funding in 2024.",
+        "representative_facts": [
+            {
+                "fact_content": "42% of companies are exploring AI for future implementation",
+                "fact_id": "3_0"
+            },
+            {
+                "fact_content": "64% of businesses believe AI will boost productivity",
+                "fact_id": "3_3"
+            },
+            {
+                "fact_content": "77% of people are apprehensive about AI causing job losses",
+                "fact_id": "3_4"
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "title": "AI Growth",
+        "description": "The global AI market is experiencing significant growth, with projections indicating an increase from $9.5 billion in 2018 to $118.6 billion by 2025. AI is becoming integral across various sectors, with 97% of manufacturing companies incorporating it into their operations and 77% of financial institutions using it for portfolio management. Additionally, AI is expected to drive productivity gains of 20% to 30% by 2025, highlighting its transformative impact on industries worldwide.",
+        "representative_facts": [
+            {
+                "fact_content": "AI market to grow from $9.5 billion in 2018 to $118.6 billion by 2025",
+                "fact_id": "8_0"
+            },
+            {
+                "fact_content": "97% of manufacturing companies have integrated AI into operations",
+                "fact_id": "8_9"
+            },
+            {
+                "fact_content": "AI to drive productivity gains of 20% to 30% by 2025",
+                "fact_id": "8_10"
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "title": "AI Adoption",
+        "description": "AI and analytics are increasingly seen as vital for organizational success, with a significant majority of corporate strategists and business owners recognizing their potential to boost productivity and streamline processes. Despite this optimism, there are concerns about the technical skills required to effectively implement AI. The use of AI is on the rise, with over half of organizations reporting its use in 2023, and legislative interest in AI has also increased significantly across the globe.",
+        "representative_facts": [
+            {
+                "fact_content": "79% of strategists see AI as critical for success",
+                "fact_id": "5_0"
+            },
+            {
+                "fact_content": "55% of organizations used AI in 2023",
+                "fact_id": "5_4"
+            },
+            {
+                "fact_content": "AI legislative mentions rose 21.3% globally",
+                "fact_id": "5_8"
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "title": "AI Adoption",
+        "description": "AI technology is increasingly being integrated into business operations, with a significant percentage of U.S. companies adopting it. Executives find AI valuable for deriving actionable insights, and business owners are optimistic about its benefits, particularly in improving customer relationships. Investment in AI is substantial, and the technology is expected to significantly enhance productivity in various sectors.",
+        "representative_facts": [
+            {
+                "fact_content": "73% of U.S. companies have adopted AI",
+                "fact_id": "1_0"
+            },
+            {
+                "fact_content": "AI business usage increased from 55% in 2023 to 78% in 2024",
+                "fact_id": "1_6"
+            },
+            {
+                "fact_content": "97% of business owners believe ChatGPT will benefit their businesses",
+                "fact_id": "1_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "title": "AI Investments",
+        "description": "In 2024, the global AI industry reached a valuation of approximately $638.23 billion, reflecting significant investments and adoption across various regions. The U.K. invested $4.5 billion in private AI, while India committed $1.25 billion. Additionally, 78% of organizations reported using AI, highlighting its widespread integration into business operations.",
+        "representative_facts": [
+            {
+                "fact_content": "Global AI industry valued at $638.23 billion in 2024",
+                "fact_id": "4_10"
+            },
+            {
+                "fact_content": "U.K.'s private AI investment was $4.5 billion in 2024",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "India pledged $1.25 billion for AI investment",
+                "fact_id": "4_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "title": "AI Perception",
+        "description": "Public perception of AI varies significantly across different countries. In Indonesia, a large majority view AI as beneficial, while in the United States and the Netherlands, less than half share this sentiment. Meanwhile, optimism about AI has increased in Germany and France since 2022.",
+        "representative_facts": [
+            {
+                "fact_content": "80% in Indonesia see AI as beneficial",
+                "fact_id": "6_0"
+            },
+            {
+                "fact_content": "39% in the US see AI as beneficial",
+                "fact_id": "6_1"
+            },
+            {
+                "fact_content": "Optimism in Germany grew by 10% since 2022",
+                "fact_id": "6_3"
+            }
+        ]
+    }
+]

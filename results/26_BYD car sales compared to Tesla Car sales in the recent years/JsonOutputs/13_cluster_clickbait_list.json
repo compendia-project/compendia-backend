@@ -1,0 +1,1101 @@
+[
+    {
+        "cluster_id": 1,
+        "clickbait_list": [
+            {
+                "clickbait": "BYD's Revenue Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_0",
+                        "fact_group_content": "BYD reported annual revenue of 777 billion yuan ($107 billion) for 2024."
+                    },
+                    {
+                        "fact_group_id": "1_5",
+                        "fact_group_content": "2024 revenue rose by 29% for BYD."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Tesla's Sales Decline",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_3",
+                        "fact_group_content": "Tesla's net income fell by 55.07% to $1.13B."
+                    },
+                    {
+                        "fact_group_id": "1_4",
+                        "fact_group_content": "Tesla's EBITDA declined by 34.85% to $2.42B."
+                    },
+                    {
+                        "fact_group_id": "1_12",
+                        "fact_group_content": "Tesla\u2019s passenger car sales tumbled 14% in the first two months of this year in China."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "BYD's EV Milestone",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_7",
+                        "fact_group_content": "BYD\u2019s 10 millionth plug-in vehicle rolled off the line."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "BYD vs Tesla Deliveries",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_6",
+                        "fact_group_content": "BYD nearly caught up to Tesla in 2024 pure EV deliveries (1.76 million vs. 1.79 million)."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "BYD's Global Sales",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_9",
+                        "fact_group_content": "BYD sold 4.3 million vehicles globally in 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "BYD's Strong Start 2025",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_11",
+                        "fact_group_content": "BYD sold just over one million new-energy vehicles in the first three months of 2025."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "revenue",
+            "billion",
+            "vehicles",
+            "net",
+            "income",
+            "declined",
+            "deliveries",
+            "plug-in",
+            "global",
+            "analyst",
+            "estimates",
+            "new-energy",
+            "passenger",
+            "sales",
+            "tumbled",
+            "China"
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "clickbait_list": [
+            {
+                "clickbait": "BYD's Revenue Triumph",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_0",
+                        "fact_group_content": "BYD's revenue exceeded Tesla's $97.7 billion annual revenue."
+                    },
+                    {
+                        "fact_group_id": "9_10",
+                        "fact_group_content": "BYD surged past Tesla in Q3 revenue, bringing in $28.2 billion to Tesla\u2019s $25.18 billion."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "BYD's Sales Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_1",
+                        "fact_group_content": "Overall annual sales increased 41% year-on-year."
+                    },
+                    {
+                        "fact_group_id": "9_2",
+                        "fact_group_content": "BYD's Europe volumes rose 359% in April from last year."
+                    },
+                    {
+                        "fact_group_id": "9_3",
+                        "fact_group_content": "BYD delivered 4.27 million cars."
+                    },
+                    {
+                        "fact_group_id": "9_9",
+                        "fact_group_content": "BYD sold 4.3 million vehicles globally in 2024."
+                    },
+                    {
+                        "fact_group_id": "9_14",
+                        "fact_group_content": "BYD reported a 60% surge in sales in the first quarter of the year."
+                    }
+                ],
+                "number_of_facts": 5
+            },
+            {
+                "clickbait": "Tesla's Market Share",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_4",
+                        "fact_group_content": "Tesla claimed 6.1% of the market."
+                    },
+                    {
+                        "fact_group_id": "9_6",
+                        "fact_group_content": "Tesla's annual deliveries declined by 1.1%."
+                    },
+                    {
+                        "fact_group_id": "9_11",
+                        "fact_group_content": "Tesla sold 1.79 million EVs."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Chinese EV Tariffs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_8",
+                        "fact_group_content": "South Korea imposed an 8% tariff on Chinese EVs."
+                    },
+                    {
+                        "fact_group_id": "9_12",
+                        "fact_group_content": "Chinese electric car imports increased 18-fold to 34,000 by the end of 2024."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "BYD's Net Income Rise",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_7",
+                        "fact_group_content": "BYD's net income rose by 10.62% to 4.57B CNY."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "BYD vs Tesla EV Sales",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_13",
+                        "fact_group_content": "BYD sold 1.76 million EVs in 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "revenue",
+            "annual",
+            "sales",
+            "volumes",
+            "delivered",
+            "market",
+            "declined",
+            "income",
+            "tariff",
+            "imports",
+            "surged",
+            "global",
+            "vehicles",
+            "million",
+            "net"
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "clickbait_list": [
+            {
+                "clickbait": "BYD's Revenue Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_0",
+                        "fact_group_content": "BYD posted a 29% increase in revenue from the previous year."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Tesla's Sales Decline",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_1",
+                        "fact_group_content": "Tesla's total volumes down 49% year on year in April."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "BYD's EV Sales Boom",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_3",
+                        "fact_group_content": "BYD sold 207,734 EVs in December."
+                    },
+                    {
+                        "fact_group_id": "6_4",
+                        "fact_group_content": "BYD reported selling more than 526,000 EVs in the fourth quarter of 2023."
+                    },
+                    {
+                        "fact_group_id": "6_9",
+                        "fact_group_content": "BYD delivered 4.27 million cars in 2024."
+                    },
+                    {
+                        "fact_group_id": "6_11",
+                        "fact_group_content": "BYD sold 300,114 BEVs in the first quarter of 2024."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Tesla's Global Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_7",
+                        "fact_group_content": "Tesla\u2019s global vehicle delivery increased by 38% year-on-year."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Electric Car Sales Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_13",
+                        "fact_group_content": "Electric car sales throughout 2024 rose 161 percent compared to 2023."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "revenue",
+            "increase",
+            "volumes",
+            "sales",
+            "passenger",
+            "cars",
+            "sold",
+            "EVs",
+            "quarter",
+            "global",
+            "vehicle",
+            "delivery",
+            "market",
+            "share",
+            "percentage",
+            "electric",
+            "car",
+            "surge"
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "clickbait_list": [
+            {
+                "clickbait": "BYD's Market Dominance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_0",
+                        "fact_group_content": "BYD sold 4.27 million vehicles in 2024."
+                    },
+                    {
+                        "fact_group_id": "4_1",
+                        "fact_group_content": "BYD had a 32% share of China\u2019s total market for new energy vehicle sales."
+                    },
+                    {
+                        "fact_group_id": "4_8",
+                        "fact_group_content": "BYD sold 1.76 million EVs in 2024."
+                    },
+                    {
+                        "fact_group_id": "4_10",
+                        "fact_group_content": "BYD\u2019s production surged from approximately 500,000 units to over 4 million in almost seven years."
+                    },
+                    {
+                        "fact_group_id": "4_11",
+                        "fact_group_content": "This represents an over 700% increase in BYD's production."
+                    },
+                    {
+                        "fact_group_id": "4_14",
+                        "fact_group_content": "The Chinese company sold 4.3 million vehicles globally in 2024."
+                    },
+                    {
+                        "fact_group_id": "4_20",
+                        "fact_group_content": "BYD sold about 3 million electric cars, including hybrids, in 2023 globally."
+                    },
+                    {
+                        "fact_group_id": "4_21",
+                        "fact_group_content": "BYD sold 525,409 BEVs in the last quarter of 2023."
+                    }
+                ],
+                "number_of_facts": 8
+            },
+            {
+                "clickbait": "Tesla's Revenue Decline",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_5",
+                        "fact_group_content": "Tesla's revenue decreased by 8.69% year-over-year to $21.30B in March 2024."
+                    },
+                    {
+                        "fact_group_id": "4_12",
+                        "fact_group_content": "Tesla's revenue is $97.7bn."
+                    },
+                    {
+                        "fact_group_id": "4_24",
+                        "fact_group_content": "Tesla's market share decreased from 60% in 2020 to 38% in 2024."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "BYD's Financial Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_2",
+                        "fact_group_content": "BYD's revenue increased by 3.97% year-over-year to 124.94B CNY in March 2024."
+                    },
+                    {
+                        "fact_group_id": "4_3",
+                        "fact_group_content": "BYD's EPS improved by 5.14% to 1.29 CNY."
+                    },
+                    {
+                        "fact_group_id": "4_4",
+                        "fact_group_content": "BYD's EBITDA surged by 45.78% to 15.09B CNY."
+                    },
+                    {
+                        "fact_group_id": "4_7",
+                        "fact_group_content": "BYD's 2024 revenue is 777 billion yuan ($107 billion)."
+                    },
+                    {
+                        "fact_group_id": "4_13",
+                        "fact_group_content": "Revenue rose by 29% for BYD."
+                    },
+                    {
+                        "fact_group_id": "4_26",
+                        "fact_group_content": "BYD's net income rose to 40.3 billion yuan."
+                    },
+                    {
+                        "fact_group_id": "4_27",
+                        "fact_group_content": "BYD reported a record annual revenue of $107 billion last year."
+                    }
+                ],
+                "number_of_facts": 7
+            },
+            {
+                "clickbait": "Tesla vs BYD Pricing",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_6",
+                        "fact_group_content": "Tesla\u2019s Model 3 is nearly $12,000 more expensive than BYD\u2019s Dolphin in Japan."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Charging Technology Race",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_15",
+                        "fact_group_content": "BYD's battery charging technology adds 250 miles of range in five minutes."
+                    },
+                    {
+                        "fact_group_id": "4_16",
+                        "fact_group_content": "Tesla\u2019s Superchargers take 15 minutes to add 200 miles."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Tesla's Sales Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_9",
+                        "fact_group_content": "Tesla saw 27% growth."
+                    },
+                    {
+                        "fact_group_id": "4_17",
+                        "fact_group_content": "Tesla sold around 230,000 more cars than BYD in 2023."
+                    },
+                    {
+                        "fact_group_id": "4_18",
+                        "fact_group_content": "The gap between Tesla and BYD sales was 400,000 in 2022."
+                    },
+                    {
+                        "fact_group_id": "4_19",
+                        "fact_group_content": "The gap between Tesla and BYD sales was 600,000 in 2021."
+                    },
+                    {
+                        "fact_group_id": "4_22",
+                        "fact_group_content": "Tesla sold 386,810 BEVs."
+                    },
+                    {
+                        "fact_group_id": "4_30",
+                        "fact_group_content": "Tesla sold 1.78 million units."
+                    }
+                ],
+                "number_of_facts": 6
+            },
+            {
+                "clickbait": "China's EV Market Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_23",
+                        "fact_group_content": "The Chinese market grew by around 30% in 2023 with 7.9 million units sold."
+                    },
+                    {
+                        "fact_group_id": "4_25",
+                        "fact_group_content": "Over 85% of new electric cars in Brazil came from China in 2024."
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "BYD",
+            "Tesla",
+            "revenue",
+            "growth",
+            "market",
+            "sales",
+            "production",
+            "vehicles",
+            "units",
+            "electric",
+            "China",
+            "global",
+            "share",
+            "increase",
+            "technology",
+            "charging",
+            "gap",
+            "income",
+            "record",
+            "annual"
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "clickbait_list": [
+            {
+                "clickbait": "BYD's Sales Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_0",
+                        "fact_group_content": "BYD saw an increase of 359% over the same period."
+                    },
+                    {
+                        "fact_group_id": "5_1",
+                        "fact_group_content": "BYD sold 509,440 plug-in hybrid and pure-electric passenger vehicles in December."
+                    },
+                    {
+                        "fact_group_id": "5_6",
+                        "fact_group_content": "BYD reported $107 billion in sales for 2024."
+                    },
+                    {
+                        "fact_group_id": "5_7",
+                        "fact_group_content": "10% of BYD\u2019s shipments were exported to overseas markets."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Tesla's Declining Deliveries",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_2",
+                        "fact_group_content": "Tesla's total volumes down 49% over the same period."
+                    },
+                    {
+                        "fact_group_id": "5_3",
+                        "fact_group_content": "Tesla delivered 1.79 million battery-powered vehicles."
+                    },
+                    {
+                        "fact_group_id": "5_5",
+                        "fact_group_content": "Tesla sold 1.79 million EVs in 2024."
+                    },
+                    {
+                        "fact_group_id": "5_9",
+                        "fact_group_content": "Tesla\u2019s annual deliveries declined by 1.1% last year."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Tariffs on Chinese EVs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_4",
+                        "fact_group_content": "The UAE imposed a 5% tariff on Chinese EVs."
+                    },
+                    {
+                        "fact_group_id": "5_8",
+                        "fact_group_content": "Electric cars were exempt from import duties of 35%."
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "increase",
+            "plug-in",
+            "hybrid",
+            "pure-electric",
+            "passenger",
+            "vehicles",
+            "delivered",
+            "battery-powered",
+            "tariff",
+            "Chinese",
+            "EVs",
+            "sales",
+            "shipments",
+            "exported",
+            "overseas",
+            "markets",
+            "exempt",
+            "import",
+            "duties",
+            "deliveries",
+            "declined"
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "clickbait_list": [
+            {
+                "clickbait": "Tesla's Global Market",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_4",
+                        "fact_group_content": "Tesla maintained 17% of the global market YoY."
+                    },
+                    {
+                        "fact_group_id": "3_9",
+                        "fact_group_content": "Tesla's sales accounted for about 19% of the global market for BEVs last year."
+                    },
+                    {
+                        "fact_group_id": "3_13",
+                        "fact_group_content": "Tesla controls 10.3 percent of the global market share for electric vehicle sales."
+                    },
+                    {
+                        "fact_group_id": "3_14",
+                        "fact_group_content": "Tesla's global market share fell 1.2 percent year-on-year."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "BYD's Market Dominance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_12",
+                        "fact_group_content": "BYD controls 22.2 percent of the global market share for electric vehicle sales."
+                    },
+                    {
+                        "fact_group_id": "3_11",
+                        "fact_group_content": "BYD\u2019s new-energy passenger car sales surged by 25% in the first two months of this year in China."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Tesla's Revenue Insights",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_3",
+                        "fact_group_content": "Tesla's 2024 revenue is $97.7 billion."
+                    },
+                    {
+                        "fact_group_id": "3_7",
+                        "fact_group_content": "Tesla's revenue is $97.7bn."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Tesla's Production Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_5",
+                        "fact_group_content": "Tesla\u2019s production increased by 35% year-on-year to 1.85M vehicles."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "EV Market Tariffs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_2",
+                        "fact_group_content": "Chile imposed a 6% tariff on Chinese EVs."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Tesla's China Market",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_8",
+                        "fact_group_content": "Tesla\u2019s market share was 6.1% in China for new energy vehicles."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "New EV Models",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_10",
+                        "fact_group_content": "110 new models have entered the market since 2020."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Tesla's January Sales",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_0",
+                        "fact_group_content": "Tesla sold 101,101 vehicles in January 2025."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Tesla vs BYD Pricing",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_1",
+                        "fact_group_content": "In Thailand, Tesla\u2019s Model 3 costs over $30,000 more than BYD\u2019s Dolphin."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "BYD's Revenue Figures",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_6",
+                        "fact_group_content": "BYD's revenue is 777 billion yuan ($107bn; \u00a383bn)."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "global",
+            "market",
+            "share",
+            "revenue",
+            "production",
+            "tariff",
+            "China",
+            "models",
+            "sales",
+            "pricing"
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "clickbait_list": [
+            {
+                "clickbait": "Tesla's Market Decline",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_2",
+                        "fact_group_content": "Tesla's EPS dropped by 47.06% to $0.45."
+                    },
+                    {
+                        "fact_group_id": "10_6",
+                        "fact_group_content": "Tesla\u2019s sales in Europe plunged around 40% in February from the same month in 2024."
+                    },
+                    {
+                        "fact_group_id": "10_8",
+                        "fact_group_content": "Tesla's sales in France, Germany, the UK and Belgium fell 63 percent."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "BYD's Sales Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_4",
+                        "fact_group_content": "BYD's sales in the first two months of 2025 were up 93% year-on-year to 623,300 units."
+                    },
+                    {
+                        "fact_group_id": "10_5",
+                        "fact_group_content": "BYD's sales of pure EVs soared 39% to more than 416,000 units."
+                    },
+                    {
+                        "fact_group_id": "10_7",
+                        "fact_group_content": "In the first two months of 2025, BYD sold about 130,000 electric vehicles."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Tesla's Registration Milestone",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_0",
+                        "fact_group_content": "Tesla reached 113,978 vehicle registrations in January 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "New Market Entrants",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_3",
+                        "fact_group_content": "110 new models have entered the market since 2020."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Tesla's Market Share",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_9",
+                        "fact_group_content": "In 2023, Tesla's market share reached 13.2 percent."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "BYD's Revenue Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_1",
+                        "fact_group_content": "BYD recorded revenues of 777 billion yuan ($107 billion) for 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "registrations",
+            "revenues",
+            "EPS",
+            "models",
+            "sales",
+            "units",
+            "plunged",
+            "market",
+            "share",
+            "percent"
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "clickbait_list": [
+            {
+                "clickbait": "BYD's Market Dominance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_16",
+                        "fact_group_content": "BYD commands a share of almost 15% in China for passenger cars."
+                    },
+                    {
+                        "fact_group_id": "7_18",
+                        "fact_group_content": "BYD has 27% of the market share in China."
+                    },
+                    {
+                        "fact_group_id": "7_24",
+                        "fact_group_content": "BYD controls 22.2 percent of all electric vehicle sales in the global market."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Tesla's Sales Decline",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_21",
+                        "fact_group_content": "Tesla's January sales were down 47 percent in Europe."
+                    },
+                    {
+                        "fact_group_id": "7_22",
+                        "fact_group_content": "Tesla's January sales were down 15 percent in China."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "BYD's Revenue Surpasses Tesla",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_3",
+                        "fact_group_content": "BYD's revenue is 777 billion yuan ($107bn; \u00a383bn)."
+                    },
+                    {
+                        "fact_group_id": "7_14",
+                        "fact_group_content": "BYD's revenue was $107 billion, surpassing Tesla's 2024 revenue of $97.7 billion."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "China's EV Market Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_9",
+                        "fact_group_content": "The Chinese market grew by around 30% in 2023 with 7.9 million units sold."
+                    },
+                    {
+                        "fact_group_id": "7_10",
+                        "fact_group_content": "Sales in China are expected to reach 10 million in 2024."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Indonesia's EV Sales Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_12",
+                        "fact_group_content": "Electric sales share in Indonesia was over 7% in 2024."
+                    },
+                    {
+                        "fact_group_id": "7_13",
+                        "fact_group_content": "VAT rate on electric cars in Indonesia was reduced from 11% to 1% since 2023."
+                    },
+                    {
+                        "fact_group_id": "7_28",
+                        "fact_group_content": "BYD recorded the highest sales in Indonesia at 2,513 units."
+                    }
+                ],
+                "number_of_facts": 3
+            }
+        ],
+        "important_words": [
+            "battery-powered",
+            "sales",
+            "Thailand",
+            "costs",
+            "tariff",
+            "revenue",
+            "delivered",
+            "market",
+            "share",
+            "China",
+            "units",
+            "Indonesia",
+            "electric",
+            "VAT",
+            "surpassing",
+            "deliveries",
+            "passenger",
+            "surged",
+            "registrations",
+            "decreased",
+            "January",
+            "Europe",
+            "global",
+            "recorded"
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "clickbait_list": [
+            {
+                "clickbait": "Global EV Sales Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_0",
+                        "fact_group_content": "13.6 million EVs were sold worldwide in 2023."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Tesla's Registration Boom",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_2",
+                        "fact_group_content": "TESLA 816 new BEVs registered."
+                    },
+                    {
+                        "fact_group_id": "2_3",
+                        "fact_group_content": "TESLA registrations increased by 30%."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "BYD's Export Strategy",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_1",
+                        "fact_group_content": "10% of BYD\u2019s shipments last year were exported to overseas markets."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "BMW's Impressive Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_6",
+                        "fact_group_content": "BMW 237 new BEVs registered."
+                    },
+                    {
+                        "fact_group_id": "2_7",
+                        "fact_group_content": "BMW registrations increased by 58%."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "MINI's Astonishing Increase",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_8",
+                        "fact_group_content": "MINI 158 new BEVs registered."
+                    },
+                    {
+                        "fact_group_id": "2_9",
+                        "fact_group_content": "MINI registrations increased by 1336%."
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "EVs",
+            "worldwide",
+            "shipments",
+            "exported",
+            "registrations",
+            "increased",
+            "registered",
+            "BEVs",
+            "overseas",
+            "markets"
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "clickbait_list": [
+            {
+                "clickbait": "BYD's Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_0",
+                        "fact_group_content": "BYD registrations increased by 138%."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "POLESTAR's Massive Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_1",
+                        "fact_group_content": "POLESTAR 403 new BEVs registered."
+                    },
+                    {
+                        "fact_group_id": "8_2",
+                        "fact_group_content": "POLESTAR registrations increased by 757%."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "KIA's Impressive Increase",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_3",
+                        "fact_group_content": "KIA registrations increased by 214%."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "MERCEDES-BENZ's New BEVs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_4",
+                        "fact_group_content": "MERCEDES-BENZ 181 new BEVs registered."
+                    },
+                    {
+                        "fact_group_id": "8_5",
+                        "fact_group_content": "MERCEDES-BENZ registrations increased by 85%."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "TOYOTA's Electric Expansion",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_7",
+                        "fact_group_content": "TOYOTA 93 new BEVs registered."
+                    },
+                    {
+                        "fact_group_id": "8_8",
+                        "fact_group_content": "TOYOTA registrations increased by 66%."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "LEXUS's Significant Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_9",
+                        "fact_group_content": "LEXUS 78 new BEVs registered."
+                    },
+                    {
+                        "fact_group_id": "8_10",
+                        "fact_group_content": "LEXUS registrations increased by 609%."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "AUDI's New BEVs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_11",
+                        "fact_group_content": "AUDI 73 new BEVs registered."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "LDV's Modest Rise",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_6",
+                        "fact_group_content": "LDV registrations increased by 38%."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "registrations",
+            "increased",
+            "new",
+            "BEVs",
+            "POLESTAR",
+            "KIA",
+            "MERCEDES-BENZ",
+            "TOYOTA",
+            "LEXUS",
+            "AUDI",
+            "LDV"
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "The housing market has seen a substantial increase in 2024, with house values in Sydney rising by 4.5%. According to ANZ\u2019s bank forecast, there\u2019s a potential 5% increase in Sydney house prices by 2025. Buyers can expect a consistent rise in house price in Australia Sydney, driven by increased buyer demand and supply shortages.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "House values in Sydney rose by 4.5% in 2024."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Potential 5% increase in Sydney house prices by 2025 according to ANZ\u2019s bank forecast."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "Tesla stock is down 38% in 2025. The stock price slide began after a disappointing fourth-quarter earnings report in January. Several negative headlines have since aggravated the decline, including:",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla stock is down 38% in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Stock Decline",
+                            "value": "38",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Tesla reported global first-quarter vehicle production and deliveries on April 2. The company produced 362,615 vehicles and delivered 336,681 in the first three months of 2025. Relative to the prior-year period, production was down 16%, and deliveries were down 13%. The numbers, which were below analyst expectations, describe Tesla's worst quarter in three years.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla produced 362,615 vehicles in the first quarter of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Vehicles Produced Q1 2025",
+                            "value": "362615",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla delivered 336,681 vehicles in the first quarter of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Vehicles Delivered Q1 2025",
+                            "value": "336681",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Production was down 16% relative to the prior-year period.",
+                    "vis_data": [
+                        {
+                            "label": "Production Decline",
+                            "value": "16",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Deliveries were down 13% relative to the prior-year period.",
+                    "vis_data": [
+                        {
+                            "label": "Deliveries Decline",
+                            "value": "13",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Tesla has been working to reduce its average cost of goods sold per vehicle. Between the first quarter of 2023 and the fourth quarter of 2024, Tesla lowered its average per-vehicle COGS from above $38,000 to below $35,000.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla lowered its average per-vehicle COGS from above $38,000 to below $35,000 between the first quarter of 2023 and the fourth quarter of 2024.",
+                    "vis_data": [
+                        {
+                            "label": "COGS Reduction",
+                            "value": "3000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": [
+                        "Incorrect data value: The reduction should be calculated as the difference between $38,000 and $35,000, which is $3,000, but the description 'from above $38,000 to below $35,000' suggests a range, not an exact value."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Energy is Tesla's smallest but fastest-growing revenue center. The energy business produced 10% of the company's total revenue in 2024, totaling $10 billion. This was up 67% from 2023. The gain almost offset the dollar-value decline in Tesla's automotive sales in the same period.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The energy business produced 10% of Tesla's total revenue in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Energy Revenue Share 2024",
+                            "value": "10",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The energy business totaled $10 billion in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Energy Revenue 2024",
+                            "value": "10000000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The energy business revenue was up 67% from 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Energy Revenue Growth",
+                            "value": "67",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "The Cybertruck launch has been disappointing relative to Musk's early predictions. He had projected to sell 250,000 to 500,000 electric trucks annually. According to Kelley Blue Book, quoted by Benzinga, Tesla sold fewer than 40,000 Cybertrucks in 2024. Worse, third-party data from Cox Automotive indicates that Cybertruck sales have declined in 2025 relative to last year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla sold fewer than 40,000 Cybertrucks in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Cybertrucks Sold 2024",
+                            "value": "40000",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": [
+                        "The value should be less than 40000 as the fact states 'fewer than 40,000'."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "China is Tesla\u2019s second-largest market after the U.S., accounting for an estimated 36% of sales. Tesla often does not break out sales figures by country, but the China Passenger Car Association tracks and reports vehicle unit sales by manufacturer. According to the China Internet Information Center, Tesla sold 137,200 units in the first quarter, up about 3% from the prior year.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "China accounts for an estimated 36% of Tesla's sales.",
+                    "vis_data": [
+                        {
+                            "label": "China Sales Share",
+                            "value": "36",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla sold 137,200 units in China in the first quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Units Sold in China Q1",
+                            "value": "137200",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla's sales in China were up about 3% from the prior year.",
+                    "vis_data": [
+                        {
+                            "label": "China Sales Growth",
+                            "value": "3",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "According to Yahoo Finance, analysts expect Tesla to report first-quarter revenue of $21.81 billion and EPS of $0.43 per share. These numbers compare to revenue of $21.3 billion and EPS of $0.45 in last year\u2019s first quarter.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Analysts expect Tesla to report first-quarter revenue of $21.81 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Expected Revenue Q1 2025",
+                            "value": "21810000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Analysts expect Tesla to report EPS of $0.43 per share for the first quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Expected EPS Q1 2025",
+                            "value": "0.43",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": [
+                        "Inconsistent unit: EPS should not have a unit of 'USD'. Consider using 'per share' or no unit."
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's revenue was $21.3 billion in last year\u2019s first quarter.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue Q1 2024",
+                            "value": "21300000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's EPS was $0.45 in last year\u2019s first quarter.",
+                    "vis_data": [
+                        {
+                            "label": "EPS Q1 2024",
+                            "value": "0.45",
+                            "unit": "USD"
+                        }
+                    ],
+                    "error": [
+                        "Inconsistent unit: EPS should not have a unit of 'USD'. Consider using 'per share' or no unit."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "In 2024, the total population of Singapore is estimated to be approximately 6.04 million peopl.Population growthin the country is slow and numbers have still not recovered to pre-pandemic levels, where the pandemic's economic impact on migration saw the population fall by a quarter of a million people between 2019 and 2021.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The total population of Singapore is estimated to be approximately 6.04 million in 2024."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The population fell by a quarter of a million people between 2019 and 2021."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore\u2019s population is getting older, with the age bracket of those aged 65 and older increasing with every year. Themedian ageof Singaporeans is increasing rapidly, from 34.1 years in the year 2000 to an estimated 42.4 by 2020, and it is estimated to peak at around 55 years in the middle of the century.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median age of Singaporeans increased from 34.1 years in 2000 to an estimated 42.4 by 2020."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median age of Singaporeans is estimated to peak at around 55 years in the middle of the century."
+                }
+            ]
+        }
+    ]
+}

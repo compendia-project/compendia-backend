@@ -1,0 +1,80 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Notre Dame is one of the oldest Gothic Cathedrals in France, the construction began in 1160 and was completed in 1345. Its huge flying buttresses hold up the massive structure 130 meters long and 35 meters high (under vault), with a transept 48 meters wide. Its towers are 69 meters high, reaching into the sky and offering that superb vantage point.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame is 130 meters long.",
+                    "vis_data": [
+                        {
+                            "label": "Length",
+                            "value": "130",
+                            "unit": "meters"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame is 35 meters high under the vault.",
+                    "vis_data": [
+                        {
+                            "label": "Height under vault",
+                            "value": "35",
+                            "unit": "meters"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame's transept is 48 meters wide.",
+                    "vis_data": [
+                        {
+                            "label": "Transept width",
+                            "value": "48",
+                            "unit": "meters"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Notre Dame's towers are 69 meters high.",
+                    "vis_data": [
+                        {
+                            "label": "Tower height",
+                            "value": "69",
+                            "unit": "meters"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The rose window on the front above the portal measures 9.6 meters in diameter while the two rose windows that adorn each of the arms of the transept are among the largest in Europe, with a diameter of 13 m.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The rose window on the front above the portal measures 9.6 meters in diameter.",
+                    "vis_data": [
+                        {
+                            "label": "Front rose window diameter",
+                            "value": "9.6",
+                            "unit": "meters"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters.",
+                    "vis_data": [
+                        {
+                            "label": "Transept rose window diameter",
+                            "value": "13",
+                            "unit": "meters"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

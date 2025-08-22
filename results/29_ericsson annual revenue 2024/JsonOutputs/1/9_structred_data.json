@@ -1,0 +1,437 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Meanwhile, Ericsson also reported a rise in free cash flow for the period, increasing from SEK 12.5 billion in 2023 to SEK 15.8 billion.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Free cash flow increased from SEK 12.5 billion to SEK 15.8 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Free Cash Flow Increase",
+                            "value": "3.3",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "1_0_0"
+                }
+            ],
+            "relatedness_score": 0.5906442852033637,
+            "article_meta_data": {
+                "title": "Ericsson CEO: 'Q4 marks a strong end to 2024'",
+                "date": "2025-01-24",
+                "url": "https://www.capacitymedia.com/article/2ebsx2un3pn3totvb3dvl/news/ericsson-ceo-q4",
+                "id": 1
+            },
+            "para_id": "1_0"
+        },
+        {
+            "paragraph": "However, the company saw strong profit growth, with adjusted EBITA increasing to SEK 27.2 billion, up from SEK 21.4 billion in 2023.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Adjusted EBITA increased from SEK 21.4 billion to SEK 27.2 billion.",
+                    "vis_data": [
+                        {
+                            "label": "EBITA Increase",
+                            "value": "5.8",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "1_1_1"
+                }
+            ],
+            "relatedness_score": 0.5531887968292494,
+            "article_meta_data": {
+                "title": "Ericsson CEO: 'Q4 marks a strong end to 2024'",
+                "date": "2025-01-24",
+                "url": "https://www.capacitymedia.com/article/2ebsx2un3pn3totvb3dvl/news/ericsson-ceo-q4",
+                "id": 1
+            },
+            "para_id": "1_1"
+        },
+        {
+            "paragraph": "According to the company, despite some regional challenges, in Q4, Ericsson\u2019s sales increased by 2%, compared to last year, withNorth Americaseeing a 54% increase.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Ericsson\u2019s sales increased by 2% in Q4 compared to last year.",
+                    "vis_data": [
+                        {
+                            "label": "Ericsson Sales Increase",
+                            "value": "2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "1_2_2"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "North America saw a 54% increase in sales in Q4.",
+                    "vis_data": [
+                        {
+                            "label": "North America Sales Increase",
+                            "value": "54",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "1_2_3"
+                }
+            ],
+            "relatedness_score": 0.5389705386308009,
+            "article_meta_data": {
+                "title": "Ericsson CEO: 'Q4 marks a strong end to 2024'",
+                "date": "2025-01-24",
+                "url": "https://www.capacitymedia.com/article/2ebsx2un3pn3totvb3dvl/news/ericsson-ceo-q4",
+                "id": 1
+            },
+            "para_id": "1_2"
+        },
+        {
+            "paragraph": "The telecoms giant also reported its adjusted gross margin increased from 41.1% last year, to 46.3%, respectively, attributing better supply chain management. Cost control adjusted gross income also increased, hitting SEK 33.7 billion, up from SEK 29.6 billion last year, it stated.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Adjusted gross margin increased from 41.1% to 46.3%.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Margin Increase",
+                            "value": "5.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "1_3_4"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Adjusted gross income increased from SEK 29.6 billion to SEK 33.7 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Income Increase",
+                            "value": "4.1",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "1_3_5"
+                }
+            ],
+            "relatedness_score": 0.536594733905866,
+            "article_meta_data": {
+                "title": "Ericsson CEO: 'Q4 marks a strong end to 2024'",
+                "date": "2025-01-24",
+                "url": "https://www.capacitymedia.com/article/2ebsx2un3pn3totvb3dvl/news/ericsson-ceo-q4",
+                "id": 1
+            },
+            "para_id": "1_3"
+        },
+        {
+            "paragraph": "Additionally, for the full year, Ericsson's sales dropped by 5%, mainly due to a 6% decline in Networks sales.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Ericsson's sales dropped by 5% for the full year.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Drop",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "1_4_6"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Networks sales declined by 6% for the full year.",
+                    "vis_data": [
+                        {
+                            "label": "Networks Sales Decline",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "1_4_7"
+                }
+            ],
+            "relatedness_score": 0.49946338495458675,
+            "article_meta_data": {
+                "title": "Ericsson CEO: 'Q4 marks a strong end to 2024'",
+                "date": "2025-01-24",
+                "url": "https://www.capacitymedia.com/article/2ebsx2un3pn3totvb3dvl/news/ericsson-ceo-q4",
+                "id": 1
+            },
+            "para_id": "1_4"
+        },
+        {
+            "paragraph": "Meanwhile, overall sales for Q4 sat at SEK 72.9 billion, a slight increase from SEK 71.9 billion in Q4 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Overall sales for Q4 were SEK 72.9 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Overall Sales Q4",
+                            "value": "72.9",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "1_5_8"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Overall sales increased from SEK 71.9 billion in Q4 2023 to SEK 72.9 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Increase",
+                            "value": "1",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "1_5_9"
+                }
+            ],
+            "relatedness_score": 0.48475243279541025,
+            "article_meta_data": {
+                "title": "Ericsson CEO: 'Q4 marks a strong end to 2024'",
+                "date": "2025-01-24",
+                "url": "https://www.capacitymedia.com/article/2ebsx2un3pn3totvb3dvl/news/ericsson-ceo-q4",
+                "id": 1
+            },
+            "para_id": "1_5"
+        },
+        {
+            "paragraph": "Net income also rose to SEK 4.9 billion, up from SEK 3.4 billion last year, the company revealed.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Net income rose from SEK 3.4 billion to SEK 4.9 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Net Income Increase",
+                            "value": "1.5",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "fact_id": "1_6_10"
+                }
+            ],
+            "relatedness_score": 0.44005433798747273,
+            "article_meta_data": {
+                "title": "Ericsson CEO: 'Q4 marks a strong end to 2024'",
+                "date": "2025-01-24",
+                "url": "https://www.capacitymedia.com/article/2ebsx2un3pn3totvb3dvl/news/ericsson-ceo-q4",
+                "id": 1
+            },
+            "para_id": "1_6"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "1_0",
+            "paragraph": "Meanwhile, Ericsson also reported a rise in free cash flow for the period, increasing from SEK 12.5 billion in 2023 to SEK 15.8 billion."
+        },
+        {
+            "para_id": "1_1",
+            "paragraph": "However, the company saw strong profit growth, with adjusted EBITA increasing to SEK 27.2 billion, up from SEK 21.4 billion in 2023."
+        },
+        {
+            "para_id": "1_2",
+            "paragraph": "According to the company, despite some regional challenges, in Q4, Ericsson\u2019s sales increased by 2%, compared to last year, withNorth Americaseeing a 54% increase."
+        },
+        {
+            "para_id": "1_3",
+            "paragraph": "The telecoms giant also reported its adjusted gross margin increased from 41.1% last year, to 46.3%, respectively, attributing better supply chain management. Cost control adjusted gross income also increased, hitting SEK 33.7 billion, up from SEK 29.6 billion last year, it stated."
+        },
+        {
+            "para_id": "1_4",
+            "paragraph": "Additionally, for the full year, Ericsson's sales dropped by 5%, mainly due to a 6% decline in Networks sales."
+        },
+        {
+            "para_id": "1_5",
+            "paragraph": "Meanwhile, overall sales for Q4 sat at SEK 72.9 billion, a slight increase from SEK 71.9 billion in Q4 2023."
+        },
+        {
+            "para_id": "1_6",
+            "paragraph": "Net income also rose to SEK 4.9 billion, up from SEK 3.4 billion last year, the company revealed."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "1_0_0",
+            "fact_content": "Free cash flow increased from SEK 12.5 billion to SEK 15.8 billion."
+        },
+        {
+            "fact_id": "1_1_1",
+            "fact_content": "Adjusted EBITA increased from SEK 21.4 billion to SEK 27.2 billion."
+        },
+        {
+            "fact_id": "1_2_2",
+            "fact_content": "Ericsson\u2019s sales increased by 2% in Q4 compared to last year."
+        },
+        {
+            "fact_id": "1_2_3",
+            "fact_content": "North America saw a 54% increase in sales in Q4."
+        },
+        {
+            "fact_id": "1_3_4",
+            "fact_content": "Adjusted gross margin increased from 41.1% to 46.3%."
+        },
+        {
+            "fact_id": "1_3_5",
+            "fact_content": "Adjusted gross income increased from SEK 29.6 billion to SEK 33.7 billion."
+        },
+        {
+            "fact_id": "1_4_6",
+            "fact_content": "Ericsson's sales dropped by 5% for the full year."
+        },
+        {
+            "fact_id": "1_4_7",
+            "fact_content": "Networks sales declined by 6% for the full year."
+        },
+        {
+            "fact_id": "1_5_8",
+            "fact_content": "Overall sales for Q4 were SEK 72.9 billion."
+        },
+        {
+            "fact_id": "1_5_9",
+            "fact_content": "Overall sales increased from SEK 71.9 billion in Q4 2023 to SEK 72.9 billion."
+        },
+        {
+            "fact_id": "1_6_10",
+            "fact_content": "Net income rose from SEK 3.4 billion to SEK 4.9 billion."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "difference",
+            "fact_content": "Free cash flow increased from SEK 12.5 billion to SEK 15.8 billion.",
+            "vis_data": [
+                {
+                    "label": "Free Cash Flow Increase",
+                    "value": "3.3",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "1_0_0"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Adjusted EBITA increased from SEK 21.4 billion to SEK 27.2 billion.",
+            "vis_data": [
+                {
+                    "label": "EBITA Increase",
+                    "value": "5.8",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "1_1_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Ericsson\u2019s sales increased by 2% in Q4 compared to last year.",
+            "vis_data": [
+                {
+                    "label": "Ericsson Sales Increase",
+                    "value": "2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "1_2_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "North America saw a 54% increase in sales in Q4.",
+            "vis_data": [
+                {
+                    "label": "North America Sales Increase",
+                    "value": "54",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "1_2_3"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Adjusted gross margin increased from 41.1% to 46.3%.",
+            "vis_data": [
+                {
+                    "label": "Gross Margin Increase",
+                    "value": "5.2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "1_3_4"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Adjusted gross income increased from SEK 29.6 billion to SEK 33.7 billion.",
+            "vis_data": [
+                {
+                    "label": "Gross Income Increase",
+                    "value": "4.1",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "1_3_5"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Ericsson's sales dropped by 5% for the full year.",
+            "vis_data": [
+                {
+                    "label": "Sales Drop",
+                    "value": "5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "1_4_6"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Networks sales declined by 6% for the full year.",
+            "vis_data": [
+                {
+                    "label": "Networks Sales Decline",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "1_4_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Overall sales for Q4 were SEK 72.9 billion.",
+            "vis_data": [
+                {
+                    "label": "Overall Sales Q4",
+                    "value": "72.9",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "1_5_8"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Overall sales increased from SEK 71.9 billion in Q4 2023 to SEK 72.9 billion.",
+            "vis_data": [
+                {
+                    "label": "Sales Increase",
+                    "value": "1",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "1_5_9"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Net income rose from SEK 3.4 billion to SEK 4.9 billion.",
+            "vis_data": [
+                {
+                    "label": "Net Income Increase",
+                    "value": "1.5",
+                    "unit": "SEK billion"
+                }
+            ],
+            "fact_id": "1_6_10"
+        }
+    ]
+}

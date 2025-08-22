@@ -1,0 +1,61 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "['Tesla revenue 2008-2024', \"Tesla's vehicle sales by quarter YTD Q1 2025\", \"Tesla's operating margin by quarter 2019-2025\", \"Tesla's vehicle production by quarter Q1 2025\", 'Number of Tesla vehicles produced worldwide from 1st quarter 2016 to 1st quarter 2025 (in units)', \"Tesla's vehicle sales by quarter YTD Q1 2025\", 'Number of Tesla vehicles delivered worldwide from 1st quarter 2016 to 1st quarter 2025 (in 1,000 units)', 'Tesla revenue 2008-2024', 'Revenue of Tesla from 2008 to 2024 (in million U.S. dollars)', 'Tesla net income 2014-2024', 'Net income of Tesla from 2014 to 2024 (in million U.S. dollars)', \"Tesla's R&D spending 2010-2024\", \"Tesla's research and development expenses from FY 2010 to FY 2024 (in million U.S. dollars)\", \"Tesla's SG&A expenditures 2008-2024\", \"Tesla's selling, general and administrative expenses from FY 2008 to FY 2024 (in million U.S. dollars)\", \"Tesla's free cash flow by quarter 2019-2025\", \"Tesla's free cash flow from 1st quarter 2019 to 1st quarter 2025 (in million U.S. dollars)\", \"Tesla's operating margin by quarter 2019-2025\", \"Tesla's operating margin from 1st quarter 2019 to 1st quarter 2025\", \"Tesla's market capitalization 2024\", \"Tesla's market capitalization between March 31, 2020 and 2025 (in billion U.S. dollars)\", \"Tesla's revenue by segment 2024\", \"Tesla's revenue between FY 2022 and FY 2024, by segment (in millions U.S. dollars)\", \"Tesla's gross margin by segment 2021-2024\", \"Tesla's gross margin from FY 2021 to FY 2024, by key segment\", \"Tesla's domestic and international revenue 2018-2024\", \"Tesla's revenue in the United States, China, and other markets from FY 2018 to FY 2024 (in millions U.S. dollars)\", \"Tesla's vehicle deliveries by main model and quarter 2020-2025\", \"Tesla's vehicles delivered between 1st quarter 2020 and 1st quarter 2025, by main model (in 1,000 units)\", 'BYD Group revenue 2010-2024', 'Revenue of BYD Group from 2010 to 2024 (in billion yuan)', \"BYD Group's total vehicle sales 2019-2024, by type\", 'Total vehicle sales volume of BYD Group from 2019 to 2024, by type']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Number of Tesla vehicles produced worldwide from 1st quarter 2016 to 1st quarter 2025 (in units)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Number of Tesla vehicles delivered worldwide from 1st quarter 2016 to 1st quarter 2025 (in 1,000 units)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Revenue of Tesla from 2008 to 2024 (in million U.S. dollars)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Net income of Tesla from 2014 to 2024 (in million U.S. dollars)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's research and development expenses from FY 2010 to FY 2024 (in million U.S. dollars)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's selling, general and administrative expenses from FY 2008 to FY 2024 (in million U.S. dollars)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's free cash flow from 1st quarter 2019 to 1st quarter 2025 (in million U.S. dollars)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's market capitalization between March 31, 2020 and 2025 (in billion U.S. dollars)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's revenue between FY 2022 and FY 2024, by segment (in millions U.S. dollars)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's revenue in the United States, China, and other markets from FY 2018 to FY 2024 (in millions U.S. dollars)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla's vehicles delivered between 1st quarter 2020 and 1st quarter 2025, by main model (in 1,000 units)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Revenue of BYD Group from 2010 to 2024 (in billion yuan)"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total vehicle sales volume of BYD Group from 2019 to 2024, by type"
+                }
+            ]
+        }
+    ]
+}

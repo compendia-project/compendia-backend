@@ -1,0 +1,87 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Ericsson's adjusted core earnings, excluding impairments, stood at 7.33 billion crowns compared with 3.9 billion crowns reported a year earlier and beat a 5.75 billion crown mean forecast in an LSEG poll of analysts.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson's adjusted core earnings were 7.33 billion crowns.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted Core Earnings",
+                            "value": "7.33",
+                            "unit": "billion crowns"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson's adjusted core earnings were 3.9 billion crowns a year earlier.",
+                    "vis_data": [
+                        {
+                            "label": "Core Earnings Last Year",
+                            "value": "3.9",
+                            "unit": "billion crowns"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson's adjusted core earnings beat a 5.75 billion crown mean forecast.",
+                    "vis_data": [
+                        {
+                            "label": "Earnings Forecast",
+                            "value": "5.75",
+                            "unit": "billion crowns"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5728482995058222
+        },
+        {
+            "paragraph": "Net sales declined by 4% to 61.8 billion Swedish crowns ($5.92 billion) but beat estimates of 61.6 billion. Sales in North America increased more than 50% to 20.4 billion crowns.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Net sales declined by 4%.",
+                    "vis_data": [
+                        {
+                            "label": "Net Sales Decline",
+                            "value": "4",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Net sales were 61.8 billion Swedish crowns ($5.92 billion).",
+                    "vis_data": [
+                        {
+                            "label": "Net Sales",
+                            "value": "61.8",
+                            "unit": "billion crowns"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sales in North America increased to 20.4 billion crowns.",
+                    "vis_data": [
+                        {
+                            "label": "North America Sales",
+                            "value": "20.4",
+                            "unit": "billion crowns"
+                        },
+                        {
+                            "label": "North America Sales Increase",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.4878038560864896
+        }
+    ]
+}

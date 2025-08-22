@@ -1,0 +1,83 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "So, you want to come to Ho Chi Minh City for an internship. You may be wondering, \u2018How much money should I budget for daily life in Ho Chi Minh City?\u2019 Well, good news! If spent wisely, your money can get you far. Daily costs are generally inexpensive and you can dine out cheaply compared to other destinations. Food comes at a standard price, with an average restaurant charging around 50,000\u20ab (\u20ab = Vietnamese dong) for a meal. Drinks can also vary with prices, with a local beer costing 20,000\u20ab. However, you may want to save up some money when wanting to visit tourist locations and splash out on Western food. (For food, all apartments will have kitchens, so you will have the option to cook your own meals.) Food at supermarkets are affordable, but you may find that some discount shops such as AEON and Lotte Mart will make your money last.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "An average restaurant charges around 50,000\u20ab for a meal.",
+                    "vis_data": [
+                        {
+                            "label": "Average Meal Cost",
+                            "value": "50000",
+                            "unit": "\u20ab"
+                        }
+                    ],
+                    "fact_id": "10_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "A local beer costs 20,000\u20ab.",
+                    "vis_data": [
+                        {
+                            "label": "Local Beer Cost",
+                            "value": "20000",
+                            "unit": "\u20ab"
+                        }
+                    ],
+                    "fact_id": "10_0_1"
+                }
+            ],
+            "relatedness_score": 0.6016655590842211,
+            "article_meta_data": {
+                "title": "How Much to Budget for Living in Ho Chi Minh City",
+                "date": "2023-07-11",
+                "url": "https://pagodaprojects.com/how-much-to-budget-for-living-in-ho-chi-minh-city/",
+                "id": 10
+            },
+            "para_id": "10_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "10_0",
+            "paragraph": "So, you want to come to Ho Chi Minh City for an internship. You may be wondering, \u2018How much money should I budget for daily life in Ho Chi Minh City?\u2019 Well, good news! If spent wisely, your money can get you far. Daily costs are generally inexpensive and you can dine out cheaply compared to other destinations. Food comes at a standard price, with an average restaurant charging around 50,000\u20ab (\u20ab = Vietnamese dong) for a meal. Drinks can also vary with prices, with a local beer costing 20,000\u20ab. However, you may want to save up some money when wanting to visit tourist locations and splash out on Western food. (For food, all apartments will have kitchens, so you will have the option to cook your own meals.) Food at supermarkets are affordable, but you may find that some discount shops such as AEON and Lotte Mart will make your money last."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "10_0_0",
+            "fact_content": "An average restaurant charges around 50,000\u20ab for a meal."
+        },
+        {
+            "fact_id": "10_0_1",
+            "fact_content": "A local beer costs 20,000\u20ab."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "An average restaurant charges around 50,000\u20ab for a meal.",
+            "vis_data": [
+                {
+                    "label": "Average Meal Cost",
+                    "value": "50000",
+                    "unit": "\u20ab"
+                }
+            ],
+            "fact_id": "10_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "A local beer costs 20,000\u20ab.",
+            "vis_data": [
+                {
+                    "label": "Local Beer Cost",
+                    "value": "20000",
+                    "unit": "\u20ab"
+                }
+            ],
+            "fact_id": "10_0_1"
+        }
+    ]
+}

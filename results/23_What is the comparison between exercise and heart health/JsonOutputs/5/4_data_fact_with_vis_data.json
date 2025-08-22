@@ -1,0 +1,20 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "At 10+ hours of daily sedentary behavior, research shows increased risk for cardiovascular disease and other health issues. That\u2019s true even if you work out at some point during the day and meet recommended physical activity guidelines.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease and other health issues.",
+                    "vis_data": [
+                        {
+                            "label": "Sedentary Behavior",
+                            "value": "10",
+                            "unit": "hours"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

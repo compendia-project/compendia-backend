@@ -1,0 +1,106 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "While organic sales[1] declined by -14%, we reached a gross margin[2] of 42.7%, generated EBITA[3] of SEK 5.1 billion and a 9.6% EBITA margin[3].",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Organic sales declined by -14%.",
+                    "vis_data": [
+                        {
+                            "label": "Organic Sales Decline",
+                            "value": "-14",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gross margin of 42.7%.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Margin",
+                            "value": "42.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "EBITA of SEK 5.1 billion.",
+                    "vis_data": [
+                        {
+                            "label": "EBITA",
+                            "value": "5.1",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "error": [
+                        "Inconsistent unit: 'SEK billion' should be consistent with other units if used together in a visualization. Consider converting to a common unit if needed."
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "EBITA margin of 9.6%.",
+                    "vis_data": [
+                        {
+                            "label": "EBITA Margin",
+                            "value": "9.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "Networks sales[1] decreased organically by -19% YoY as our customers continued to be cautious with their investments. Despite this, we generated a strong gross margin[2] of 44.3% - a testament to our technology leadership, our competitive product portfolio, and the strategic actions we are taking, including on costs.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Networks sales decreased organically by -19% YoY.",
+                    "vis_data": [
+                        {
+                            "label": "Networks Sales Decline",
+                            "value": "-19",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gross margin of 44.3%.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Margin",
+                            "value": "44.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "We delivered SEK 3.7 billion of free cash flow[4] in Q1, benefiting from our operational improvements, and lower working capital as we concluded an intense 5G roll-out phase in India.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "SEK 3.7 billion of free cash flow in Q1.",
+                    "vis_data": [
+                        {
+                            "label": "Free Cash Flow Q1",
+                            "value": "3.7",
+                            "unit": "SEK billion"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

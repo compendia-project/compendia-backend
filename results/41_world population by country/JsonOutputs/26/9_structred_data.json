@@ -1,0 +1,184 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "In 2022, India overtook China as the world's most populous country and now has almost 1.46 billion people. China now has the second-largest population in the world, still with just over 1.4 billion inhabitants, however, its population went into decline in 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "India has almost 1.46 billion people.",
+                    "vis_data": [
+                        {
+                            "label": "India Population",
+                            "value": "1.46",
+                            "unit": "billion"
+                        }
+                    ],
+                    "fact_id": "26_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China has just over 1.4 billion inhabitants.",
+                    "vis_data": [
+                        {
+                            "label": "China Population",
+                            "value": "1.4",
+                            "unit": "billion"
+                        }
+                    ],
+                    "fact_id": "26_0_1"
+                }
+            ],
+            "relatedness_score": 0.5395810525540289,
+            "article_meta_data": {
+                "title": "Countries with the Largest Population 2025",
+                "date": "2025-02-21",
+                "url": "https://www.statista.com/statistics/262879/countries-with-the-largest-population/",
+                "id": 26
+            },
+            "para_id": "26_0"
+        },
+        {
+            "paragraph": "As of 2025, the world's population stands at almost 8.2 billion people and is expected to reach around 10.3 billion people in the 2080s, when it will then go into decline. Due to improved healthcare, sanitation, and general living conditions, the global population continues to increase; mortality rates (particularly among infants and children) are decreasing and the median age of the world population has steadily increased for decades. As for the average life expectancy in industrial and developing countries, the gap has narrowed significantly since the mid-20th century. Asia is the most populous continent on Earth; 11 of the 20 largest countries are located there. It leads the ranking of the global population by continent by far, reporting four times as many inhabitants as Africa.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "As of 2025, the world's population stands at almost 8.2 billion people.",
+                    "vis_data": [
+                        {
+                            "label": "World Population 2025",
+                            "value": "8.2",
+                            "unit": "billion"
+                        }
+                    ],
+                    "fact_id": "26_1_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The world's population is expected to reach around 10.3 billion people in the 2080s.",
+                    "vis_data": [
+                        {
+                            "label": "World Population 2080s",
+                            "value": "10.3",
+                            "unit": "billion"
+                        }
+                    ],
+                    "fact_id": "26_1_3"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Asia has four times as many inhabitants as Africa.",
+                    "vis_data": [
+                        {
+                            "label": "Asia to Africa Population Ratio",
+                            "value": "4",
+                            "unit": "times"
+                        }
+                    ],
+                    "fact_id": "26_1_4"
+                }
+            ],
+            "relatedness_score": 0.5121216545899462,
+            "article_meta_data": {
+                "title": "Countries with the Largest Population 2025",
+                "date": "2025-02-21",
+                "url": "https://www.statista.com/statistics/262879/countries-with-the-largest-population/",
+                "id": 26
+            },
+            "para_id": "26_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "26_0",
+            "paragraph": "In 2022, India overtook China as the world's most populous country and now has almost 1.46 billion people. China now has the second-largest population in the world, still with just over 1.4 billion inhabitants, however, its population went into decline in 2023."
+        },
+        {
+            "para_id": "26_1",
+            "paragraph": "As of 2025, the world's population stands at almost 8.2 billion people and is expected to reach around 10.3 billion people in the 2080s, when it will then go into decline. Due to improved healthcare, sanitation, and general living conditions, the global population continues to increase; mortality rates (particularly among infants and children) are decreasing and the median age of the world population has steadily increased for decades. As for the average life expectancy in industrial and developing countries, the gap has narrowed significantly since the mid-20th century. Asia is the most populous continent on Earth; 11 of the 20 largest countries are located there. It leads the ranking of the global population by continent by far, reporting four times as many inhabitants as Africa."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "26_0_0",
+            "fact_content": "India has almost 1.46 billion people."
+        },
+        {
+            "fact_id": "26_0_1",
+            "fact_content": "China has just over 1.4 billion inhabitants."
+        },
+        {
+            "fact_id": "26_1_2",
+            "fact_content": "As of 2025, the world's population stands at almost 8.2 billion people."
+        },
+        {
+            "fact_id": "26_1_3",
+            "fact_content": "The world's population is expected to reach around 10.3 billion people in the 2080s."
+        },
+        {
+            "fact_id": "26_1_4",
+            "fact_content": "Asia has four times as many inhabitants as Africa."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "India has almost 1.46 billion people.",
+            "vis_data": [
+                {
+                    "label": "India Population",
+                    "value": "1.46",
+                    "unit": "billion"
+                }
+            ],
+            "fact_id": "26_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "China has just over 1.4 billion inhabitants.",
+            "vis_data": [
+                {
+                    "label": "China Population",
+                    "value": "1.4",
+                    "unit": "billion"
+                }
+            ],
+            "fact_id": "26_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "As of 2025, the world's population stands at almost 8.2 billion people.",
+            "vis_data": [
+                {
+                    "label": "World Population 2025",
+                    "value": "8.2",
+                    "unit": "billion"
+                }
+            ],
+            "fact_id": "26_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The world's population is expected to reach around 10.3 billion people in the 2080s.",
+            "vis_data": [
+                {
+                    "label": "World Population 2080s",
+                    "value": "10.3",
+                    "unit": "billion"
+                }
+            ],
+            "fact_id": "26_1_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Asia has four times as many inhabitants as Africa.",
+            "vis_data": [
+                {
+                    "label": "Asia to Africa Population Ratio",
+                    "value": "4",
+                    "unit": "times"
+                }
+            ],
+            "fact_id": "26_1_4"
+        }
+    ]
+}

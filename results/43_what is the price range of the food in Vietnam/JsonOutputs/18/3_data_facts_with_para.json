@@ -1,0 +1,46 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "This highly depends on whether you\u2019re going for typical food or restaurant food. For example, when I ate international cuisines at Italian or Kbbq restaurants, it would be around $10-15/pax. But if it\u2019s street stalls, it would be<$5! I usually eat international cuisine for my dinner while keeping it budget for my bfast and lunch, typically spending $2-3 for both those meals. That rounds up to ~$20 for one day of meals in HCM and that\u2019s definitely on the less budget side. However, if I stick to local food at local shops for all meals, that\u2019s easily $7-10 for one day of food",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "International cuisines at Italian or Kbbq restaurants cost around $10-15 per person."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Street stalls cost less than $5."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Spending $2-3 for breakfast and lunch."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "$20 for one day of meals in HCM on the less budget side."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "$7-10 for one day of food if sticking to local food at local shops."
+                }
+            ]
+        },
+        {
+            "paragraph": "Food is another area where budget varies widely. Street food stalls offer delicious options for less than $5, while dining in restaurants could cost around $10-$15 per meal. Many travelers enjoy a mix of both; for a day, you may spend around $20 for meals if you favor local eateries.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Street food stalls offer options for less than $5."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Dining in restaurants could cost around $10-$15 per meal."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "$20 for meals in a day if favoring local eateries."
+                }
+            ]
+        }
+    ]
+}

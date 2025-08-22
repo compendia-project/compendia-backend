@@ -1,0 +1,1030 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "While Sydney\u2019s 2025 median house price growth is forecast at around 3 per cent, these 10 suburbs are set to give investors a capital gain of over 5 per cent in the next six months.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sydney\u2019s 2025 median house price growth is forecast at around 3 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney 2025 House Price Growth",
+                            "value": "3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "10 suburbs are set to give investors a capital gain of over 5 per cent in the next six months.",
+                    "vis_data": [
+                        {
+                            "label": "Suburbs Capital Gain",
+                            "value": "5.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_0_1"
+                }
+            ],
+            "relatedness_score": 0.6775955599724469,
+            "article_meta_data": {
+                "title": "The 10 fastest-growing suburbs in Sydney for 2025",
+                "date": "2025-03-11",
+                "url": "https://www.smartpropertyinvestment.com.au/hotspots/26465-the-10-fastest-growing-suburbs-in-sydney-for-2025",
+                "id": 4
+            },
+            "para_id": "4_0"
+        },
+        {
+            "paragraph": "Here are the top 10 performing suburbs in Sydney (from Quintile 1 to 5): Median house price: $1,155,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $905,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,200,000 Median price growth over past 12 months: 12 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,301,000 Median price growth over past 12 months: 12 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,700,000 Median price growth over past 12 months: 10 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,420,000 Median price growth over past 12 months: 8 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,700,000 Median price growth over past 12 months: 6 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,970,000 Median price growth over past 12 months: 4 per cent Forecast growth over next six months: 3\u20134 per cent Median house price: $2,700,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $2,230,000 Median price growth over past 12 months: 6 per cent Forecast growth over next six months: Over 5 per cent",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,155,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1155000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 9 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "9",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $905,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "905000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 9 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "9",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,200,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1200000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 12 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "12",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_10"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,301,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1301000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_11"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 12 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "12",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_12"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_13"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,700,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1700000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_14"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 10 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "10",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_15"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_16"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,420,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1420000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_17"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 8 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_18"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_19"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,700,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1700000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_20"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 6 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_21"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_22"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,970,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1970000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_23"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 4 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_24"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: 3\u20134 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "3-4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_25"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $2,700,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "2700000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_26"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 9 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "9",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_27"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_28"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $2,230,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "2230000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_29"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 6 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_30"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_31"
+                }
+            ],
+            "relatedness_score": 0.5789307122311659,
+            "article_meta_data": {
+                "title": "The 10 fastest-growing suburbs in Sydney for 2025",
+                "date": "2025-03-11",
+                "url": "https://www.smartpropertyinvestment.com.au/hotspots/26465-the-10-fastest-growing-suburbs-in-sydney-for-2025",
+                "id": 4
+            },
+            "para_id": "4_1"
+        },
+        {
+            "paragraph": "Shore Financial CEO, Theo Chambers, said the housing market in Greater Sydney has remained stable over the past year, with the median house price rising 5.2 per cent in 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median house price in Greater Sydney rose 5.2 per cent in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney 2024 House Price Rise",
+                            "value": "5.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_2_32"
+                }
+            ],
+            "relatedness_score": 0.5242564292015736,
+            "article_meta_data": {
+                "title": "The 10 fastest-growing suburbs in Sydney for 2025",
+                "date": "2025-03-11",
+                "url": "https://www.smartpropertyinvestment.com.au/hotspots/26465-the-10-fastest-growing-suburbs-in-sydney-for-2025",
+                "id": 4
+            },
+            "para_id": "4_2"
+        },
+        {
+            "paragraph": "Chambers said that house prices in the top five locations are forecast to grow over 5 per cent in the six months to August.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "House prices in the top five locations are forecast to grow over 5 per cent in the six months to August.",
+                    "vis_data": [
+                        {
+                            "label": "Top 5 Locations Growth",
+                            "value": "over 5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_3_33"
+                }
+            ],
+            "relatedness_score": 0.435340219223847,
+            "article_meta_data": {
+                "title": "The 10 fastest-growing suburbs in Sydney for 2025",
+                "date": "2025-03-11",
+                "url": "https://www.smartpropertyinvestment.com.au/hotspots/26465-the-10-fastest-growing-suburbs-in-sydney-for-2025",
+                "id": 4
+            },
+            "para_id": "4_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "4_0",
+            "paragraph": "While Sydney\u2019s 2025 median house price growth is forecast at around 3 per cent, these 10 suburbs are set to give investors a capital gain of over 5 per cent in the next six months."
+        },
+        {
+            "para_id": "4_1",
+            "paragraph": "Here are the top 10 performing suburbs in Sydney (from Quintile 1 to 5): Median house price: $1,155,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $905,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,200,000 Median price growth over past 12 months: 12 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,301,000 Median price growth over past 12 months: 12 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,700,000 Median price growth over past 12 months: 10 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,420,000 Median price growth over past 12 months: 8 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,700,000 Median price growth over past 12 months: 6 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,970,000 Median price growth over past 12 months: 4 per cent Forecast growth over next six months: 3\u20134 per cent Median house price: $2,700,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $2,230,000 Median price growth over past 12 months: 6 per cent Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "para_id": "4_2",
+            "paragraph": "Shore Financial CEO, Theo Chambers, said the housing market in Greater Sydney has remained stable over the past year, with the median house price rising 5.2 per cent in 2024."
+        },
+        {
+            "para_id": "4_3",
+            "paragraph": "Chambers said that house prices in the top five locations are forecast to grow over 5 per cent in the six months to August."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "4_0_0",
+            "fact_content": "Sydney\u2019s 2025 median house price growth is forecast at around 3 per cent."
+        },
+        {
+            "fact_id": "4_0_1",
+            "fact_content": "10 suburbs are set to give investors a capital gain of over 5 per cent in the next six months."
+        },
+        {
+            "fact_id": "4_1_2",
+            "fact_content": "Median house price: $1,155,000"
+        },
+        {
+            "fact_id": "4_1_3",
+            "fact_content": "Median price growth over past 12 months: 9 per cent"
+        },
+        {
+            "fact_id": "4_1_4",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_5",
+            "fact_content": "Median house price: $905,000"
+        },
+        {
+            "fact_id": "4_1_6",
+            "fact_content": "Median price growth over past 12 months: 9 per cent"
+        },
+        {
+            "fact_id": "4_1_7",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_8",
+            "fact_content": "Median house price: $1,200,000"
+        },
+        {
+            "fact_id": "4_1_9",
+            "fact_content": "Median price growth over past 12 months: 12 per cent"
+        },
+        {
+            "fact_id": "4_1_10",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_11",
+            "fact_content": "Median house price: $1,301,000"
+        },
+        {
+            "fact_id": "4_1_12",
+            "fact_content": "Median price growth over past 12 months: 12 per cent"
+        },
+        {
+            "fact_id": "4_1_13",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_14",
+            "fact_content": "Median house price: $1,700,000"
+        },
+        {
+            "fact_id": "4_1_15",
+            "fact_content": "Median price growth over past 12 months: 10 per cent"
+        },
+        {
+            "fact_id": "4_1_16",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_17",
+            "fact_content": "Median house price: $1,420,000"
+        },
+        {
+            "fact_id": "4_1_18",
+            "fact_content": "Median price growth over past 12 months: 8 per cent"
+        },
+        {
+            "fact_id": "4_1_19",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_20",
+            "fact_content": "Median house price: $1,700,000"
+        },
+        {
+            "fact_id": "4_1_21",
+            "fact_content": "Median price growth over past 12 months: 6 per cent"
+        },
+        {
+            "fact_id": "4_1_22",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_23",
+            "fact_content": "Median house price: $1,970,000"
+        },
+        {
+            "fact_id": "4_1_24",
+            "fact_content": "Median price growth over past 12 months: 4 per cent"
+        },
+        {
+            "fact_id": "4_1_25",
+            "fact_content": "Forecast growth over next six months: 3\u20134 per cent"
+        },
+        {
+            "fact_id": "4_1_26",
+            "fact_content": "Median house price: $2,700,000"
+        },
+        {
+            "fact_id": "4_1_27",
+            "fact_content": "Median price growth over past 12 months: 9 per cent"
+        },
+        {
+            "fact_id": "4_1_28",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_29",
+            "fact_content": "Median house price: $2,230,000"
+        },
+        {
+            "fact_id": "4_1_30",
+            "fact_content": "Median price growth over past 12 months: 6 per cent"
+        },
+        {
+            "fact_id": "4_1_31",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_2_32",
+            "fact_content": "The median house price in Greater Sydney rose 5.2 per cent in 2024."
+        },
+        {
+            "fact_id": "4_3_33",
+            "fact_content": "House prices in the top five locations are forecast to grow over 5 per cent in the six months to August."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Sydney\u2019s 2025 median house price growth is forecast at around 3 per cent.",
+            "vis_data": [
+                {
+                    "label": "Sydney 2025 House Price Growth",
+                    "value": "3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "10 suburbs are set to give investors a capital gain of over 5 per cent in the next six months.",
+            "vis_data": [
+                {
+                    "label": "Suburbs Capital Gain",
+                    "value": "5.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,155,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1155000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 9 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "9",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $905,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "905000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 9 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "9",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,200,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1200000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 12 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "12",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,301,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1301000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_11"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 12 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "12",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_13"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,700,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1700000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_14"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 10 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "10",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_15"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_16"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,420,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1420000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_17"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 8 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_18"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_19"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,700,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1700000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_20"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 6 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_21"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_22"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,970,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1970000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_23"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 4 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_24"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: 3\u20134 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "3-4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_25"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $2,700,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "2700000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_26"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 9 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "9",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_27"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_28"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $2,230,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "2230000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_29"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 6 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_30"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_31"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median house price in Greater Sydney rose 5.2 per cent in 2024.",
+            "vis_data": [
+                {
+                    "label": "Sydney 2024 House Price Rise",
+                    "value": "5.2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_2_32"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "House prices in the top five locations are forecast to grow over 5 per cent in the six months to August.",
+            "vis_data": [
+                {
+                    "label": "Top 5 Locations Growth",
+                    "value": "over 5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_3_33"
+        }
+    ]
+}

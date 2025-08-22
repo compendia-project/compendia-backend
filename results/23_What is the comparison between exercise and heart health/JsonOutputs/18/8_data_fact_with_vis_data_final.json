@@ -1,0 +1,162 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Although evidence suggests that the absolute risk of cardiovascular complications during high-intensity exercise is low, there is an increased relative risk of sudden cardiac death and/or acute myocardial infarction during or after exercise (independent of age, current physical health or functional capacity) [36]. Furthermore, based on the exercise heart rate corresponding to the occurrence of a positive exercise ECG, it is possible to determine the intensity of the exercise at which the positive ECG occurred at that time. The 10 cases of positive ECG in this study, 9 of which appeared during the exercise phase and 1 during the recovery phase, had a heart rate of \u2265\t62.50% HRR at the time of positive ECG changes. Therefore, it can be assumed that it is relatively safe to exercise within the range of exercise target heart rate\t<\t62.50% HRR. This result is similar to the safe starting exercise heart rate (<\t60% HRR) specified in the guideline, so it further validates the reliability and practical application of the results of this experiment. The results of this study may have a positive impact on the development of exercise prescriptions or exercise guidelines in China. By clarifying the maximum exercise intensity at which cardiovascular risk during exercise occurs, it is possible to consider the most effective maximum exercise intensity while taking into account the safety of exercise when formulating exercise prescriptions or exercise guidelines. It is hoped that the results of this study can be used as a reference for the subsequent development of exercise prescriptions or exercise guidelines in China.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "9 out of 10 cases of positive ECG appeared during the exercise phase.",
+                    "vis_data": [
+                        {
+                            "label": "Positive ECG during exercise",
+                            "value": "9",
+                            "unit": "cases"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1 out of 10 cases of positive ECG appeared during the recovery phase.",
+                    "vis_data": [
+                        {
+                            "label": "Positive ECG during recovery",
+                            "value": "1",
+                            "unit": "cases"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Positive ECG changes occurred at a heart rate of \u226562.50% HRR.",
+                    "vis_data": [
+                        {
+                            "label": "Heart rate at positive ECG",
+                            "value": "62.50",
+                            "unit": "% HRR"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "It is relatively safe to exercise within the range of exercise target heart rate <62.50% HRR.",
+                    "vis_data": [
+                        {
+                            "label": "Safe exercise heart rate",
+                            "value": "<62.50",
+                            "unit": "% HRR"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Safe starting exercise heart rate is <60% HRR.",
+                    "vis_data": [
+                        {
+                            "label": "Safe starting heart rate",
+                            "value": "<60",
+                            "unit": "% HRR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Although the overall prevalence of exercise-related SCD is low, these data suggest that there is heterogeneity in the risk of SCD during exercise, which may be driven by susceptibility in subpopulations [37]. The positive exercise ECG results in this study were found to be 20% in men and 80% in women. Although it has been shown that the rate of cardiovascular events is higher in men than in women during exercise, capturing exercise-related SCD is difficult, making the current outcome data very somewhat limited. This is because it will underestimate events in those who engage in unorganized, recreational exercise, and elucidating cardiovascular versus non-cardiovascular causes of death may be difficult in the absence of the autopsy. In addition, specific groups are underrepresented in the exercise-related cardiology literature; up to half of published data exclude female participants altogether [38]. Besides, the present study found that peak heart rate as a percentage of reserve heart rate was much higher in women than in men during CPET, suggesting that women may be exerting a much higher level of effort during the test than men. Since the greater the intensity of exercise, the greater the likelihood of an intra-exercise cardiovascular event, this may also partially explain the emergence of this result. Of course, it may also due to the fact that false-positive results of exercise ECG may be more common in women than in men [39], and subsequent expansion of the sample size is needed to explore the reasons for this result in depth.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Positive exercise ECG results were 20% in men.",
+                    "vis_data": [
+                        {
+                            "label": "Positive ECG in men",
+                            "value": "20",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Positive exercise ECG results were 80% in women.",
+                    "vis_data": [
+                        {
+                            "label": "Positive ECG in women",
+                            "value": "80",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "A one-way ANOVA of ECG outcomes found a statistically significant difference in the indicator of age (P<\\t0.001). Although increasing age is a risk factor for cardiovascular disease (\u2265\\t45 years in men; \u226555 years in women), there was no evidence that age per se was a strong predictor of exercise-related SCD [40]. Moreover, Age was included in the calculation of the HRR, and if both were included in the multifactor logistic analysis, there may have been a problem of covariance. Therefore, age was not included in the subsequent multifactorial logistic analysis. The results of this study showed that the higher the HRR%, the more likely the individual was to have a positive and equivocal exercise ECG, a finding that is consistent with existing findings [41]. Furthermore, the beneficial effects of physical activity are mediated in part by altering the number of CVDRFs. In the present study, we found that the number of CVDRFs influenced the outcome of exercise ECG, with individuals with CVDRF\\t=\\t3\u20134 being 2.6 times more likely to have a equivocal exercise ECG than individuals with CVDRF\\t=\\t0\u20132, and those with CVDRF\\t=\\t5\u20137 being 5.4 times more likely to have a positive exercise ECG than those with CVDRF\\t=\\t0\u20132. In fact, Gibbons et al. conducted a study at the Cooper Clinic in the United States that followed 25,927 healthy men aged 20\u223c82 years with a mean follow-up of 8.4 years [42]. The results of the study found that the age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 21 for no CVDRF, 27 for one CVDRF, 54 for two CVDRFs, and 80 for three or three CVDRFs. Again, it is argued that the higher the number of CVDRFs, the more likely an individual is to develop exercise ECG abnormalities. It also illustrates that PA is relatively safe when performed at <\\t60% HRR in apparently healthy populations. If the exercise intensity of PA is \u2265\\t60% HRR, the safety of cardiovascular events participating in PA should be combined with the number of CVDRFs. Therefore, CVD prevention can be facilitated by reducing the number of individual CVDRFs.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Individuals with CVDRF = 3\u20134 are 2.6 times more likely to have an equivocal exercise ECG than those with CVDRF = 0\u20132.",
+                    "vis_data": [
+                        {
+                            "label": "CVDRF 3-4 vs 0-2 equivocal ECG",
+                            "value": "2.6",
+                            "unit": "times"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Individuals with CVDRF = 5\u20137 are 5.4 times more likely to have a positive exercise ECG than those with CVDRF = 0\u20132.",
+                    "vis_data": [
+                        {
+                            "label": "CVDRF 5-7 vs 0-2 positive ECG",
+                            "value": "5.4",
+                            "unit": "times"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 21 for no CVDRF.",
+                    "vis_data": [
+                        {
+                            "label": "RR for no CVDRF",
+                            "value": "21",
+                            "unit": "ratio"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 27 for one CVDRF.",
+                    "vis_data": [
+                        {
+                            "label": "RR for one CVDRF",
+                            "value": "27",
+                            "unit": "ratio"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 54 for two CVDRFs.",
+                    "vis_data": [
+                        {
+                            "label": "RR for two CVDRFs",
+                            "value": "54",
+                            "unit": "ratio"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 80 for three CVDRFs.",
+                    "vis_data": [
+                        {
+                            "label": "RR for three CVDRFs",
+                            "value": "80",
+                            "unit": "ratio"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "For long-term stays, the cost of renting an apartment in Vietnam ranges from 4 to 15 million VND per month, depending on the location and size of the apartment.Foodis relatively cheap in Vietnam, with street food starting from as low as 15,000 VND (less than 1 USD) per meal. Restaurants and cafes are also affordable, with a decent meal costing around 60,000 to 150,000 VND.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cost of renting an apartment in Vietnam ranges from 4 to 15 million VND per month.",
+                    "vis_data": [
+                        {
+                            "label": "Rent (VND)",
+                            "value": "4000000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Rent (VND)",
+                            "value": "15000000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "7_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Street food starts from as low as 15,000 VND per meal.",
+                    "vis_data": [
+                        {
+                            "label": "Street Food (VND)",
+                            "value": "15000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "7_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Street food starts from less than 1 USD per meal.",
+                    "vis_data": [
+                        {
+                            "label": "Street Food (USD)",
+                            "value": "0.99",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "7_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "A decent meal in restaurants and cafes costs around 60,000 to 150,000 VND.",
+                    "vis_data": [
+                        {
+                            "label": "Meal Cost (VND)",
+                            "value": "60000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Meal Cost (VND)",
+                            "value": "150000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "7_0_3"
+                }
+            ],
+            "relatedness_score": 0.6457104863098563,
+            "article_meta_data": {
+                "title": "Traveling and Exploring in Northern Vietnam",
+                "date": "2025-07-24",
+                "url": "https://north-vietnam.com/prices-vietnam/",
+                "id": 7
+            },
+            "para_id": "7_0"
+        },
+        {
+            "paragraph": "The cost of living and traveling in Vietnam can vary greatly depending on your lifestyle, accommodation choices, and travel preferences. On average, a budget traveler can expect to spend around 400,000 to 800,000 VND per day (17 to 35 USD) on food,accommodation,transportation, and sightseeing. This amount can go up if you prefer to stay in luxury hotels or travel by private transportation.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A budget traveler can expect to spend around 400,000 to 800,000 VND per day.",
+                    "vis_data": [
+                        {
+                            "label": "Daily Budget (VND)",
+                            "value": "400000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Daily Budget (VND)",
+                            "value": "800000",
+                            "unit": "VND"
+                        }
+                    ],
+                    "fact_id": "7_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "A budget traveler can expect to spend around 17 to 35 USD per day.",
+                    "vis_data": [
+                        {
+                            "label": "Daily Budget (USD)",
+                            "value": "17",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Daily Budget (USD)",
+                            "value": "35",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "7_1_5"
+                }
+            ],
+            "relatedness_score": 0.624656000864208,
+            "article_meta_data": {
+                "title": "Traveling and Exploring in Northern Vietnam",
+                "date": "2025-07-24",
+                "url": "https://north-vietnam.com/prices-vietnam/",
+                "id": 7
+            },
+            "para_id": "7_1"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "7_0",
+            "paragraph": "For long-term stays, the cost of renting an apartment in Vietnam ranges from 4 to 15 million VND per month, depending on the location and size of the apartment.Foodis relatively cheap in Vietnam, with street food starting from as low as 15,000 VND (less than 1 USD) per meal. Restaurants and cafes are also affordable, with a decent meal costing around 60,000 to 150,000 VND."
+        },
+        {
+            "para_id": "7_1",
+            "paragraph": "The cost of living and traveling in Vietnam can vary greatly depending on your lifestyle, accommodation choices, and travel preferences. On average, a budget traveler can expect to spend around 400,000 to 800,000 VND per day (17 to 35 USD) on food,accommodation,transportation, and sightseeing. This amount can go up if you prefer to stay in luxury hotels or travel by private transportation."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "The cost of renting an apartment in Vietnam ranges from 4 to 15 million VND per month."
+        },
+        {
+            "fact_id": "7_0_1",
+            "fact_content": "Street food starts from as low as 15,000 VND per meal."
+        },
+        {
+            "fact_id": "7_0_2",
+            "fact_content": "Street food starts from less than 1 USD per meal."
+        },
+        {
+            "fact_id": "7_0_3",
+            "fact_content": "A decent meal in restaurants and cafes costs around 60,000 to 150,000 VND."
+        },
+        {
+            "fact_id": "7_1_4",
+            "fact_content": "A budget traveler can expect to spend around 400,000 to 800,000 VND per day."
+        },
+        {
+            "fact_id": "7_1_5",
+            "fact_content": "A budget traveler can expect to spend around 17 to 35 USD per day."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The cost of renting an apartment in Vietnam ranges from 4 to 15 million VND per month.",
+            "vis_data": [
+                {
+                    "label": "Rent (VND)",
+                    "value": "4000000",
+                    "unit": "VND"
+                },
+                {
+                    "label": "Rent (VND)",
+                    "value": "15000000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "7_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Street food starts from as low as 15,000 VND per meal.",
+            "vis_data": [
+                {
+                    "label": "Street Food (VND)",
+                    "value": "15000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "7_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Street food starts from less than 1 USD per meal.",
+            "vis_data": [
+                {
+                    "label": "Street Food (USD)",
+                    "value": "0.99",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "7_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "A decent meal in restaurants and cafes costs around 60,000 to 150,000 VND.",
+            "vis_data": [
+                {
+                    "label": "Meal Cost (VND)",
+                    "value": "60000",
+                    "unit": "VND"
+                },
+                {
+                    "label": "Meal Cost (VND)",
+                    "value": "150000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "7_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "A budget traveler can expect to spend around 400,000 to 800,000 VND per day.",
+            "vis_data": [
+                {
+                    "label": "Daily Budget (VND)",
+                    "value": "400000",
+                    "unit": "VND"
+                },
+                {
+                    "label": "Daily Budget (VND)",
+                    "value": "800000",
+                    "unit": "VND"
+                }
+            ],
+            "fact_id": "7_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "A budget traveler can expect to spend around 17 to 35 USD per day.",
+            "vis_data": [
+                {
+                    "label": "Daily Budget (USD)",
+                    "value": "17",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Daily Budget (USD)",
+                    "value": "35",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "7_1_5"
+        }
+    ]
+}

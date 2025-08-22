@@ -1,0 +1,67 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Food in Vietnam is delicious and affordable, with budget restaurants offering meals for as low as $1 to $2 per person, while mid-range restaurants can cost around $10 to $20 per person.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Budget restaurants offer meals for as low as $1 to $2 per person.",
+                    "vis_data": [
+                        {
+                            "label": "Budget Restaurant Meal",
+                            "value": "1",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Budget Restaurant Meal",
+                            "value": "2",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Mid-range restaurants can cost around $10 to $20 per person.",
+                    "vis_data": [
+                        {
+                            "label": "Mid-range Restaurant Meal",
+                            "value": "10",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Mid-range Restaurant Meal",
+                            "value": "20",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "If you're on a budget, there are other affordable options for food in Vietnam. Convenience stores and supermarkets offer a variety of tasty and healthy food at reasonable prices. You can find pre-packaged meals, fresh fruits, and snacks for as low as 10,000 VND (less than $1 USD).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pre-packaged meals, fresh fruits, and snacks can be found for as low as 10,000 VND (less than $1 USD).",
+                    "vis_data": [
+                        {
+                            "label": "Pre-packaged Meals",
+                            "value": "10000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Fresh Fruits",
+                            "value": "10000",
+                            "unit": "VND"
+                        },
+                        {
+                            "label": "Snacks",
+                            "value": "10000",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "In 2023, the crude marriage rate in Singapore was 6.4 marriages per 1,000 residents. The crude marriage rate in that year had bounced back to around pre COVID-19 levels. This was attributed to government services being resumed after disruptions caused by the COVID-19 pandemic.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The crude marriage rate in Singapore was 6.4 marriages per 1,000 residents in 2023."
+                }
+            ]
+        }
+    ]
+}

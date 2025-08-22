@@ -1,0 +1,139 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "The architect of the 1200s adopted the traditional \u201charmonic facade\u201d concept on the western facade, meaning a symmetrical and tripartite facade. Its construction took fifty years from 1200 to 1250. This facade measures 43.5 meters in width and 45 meters in height, 69 meters with the towers. Three portals constitute the lower part: the central Last Judgment portal, the left Virgin portal, and the right Saint Anne portal. The Gallery of Kings forms the upper part. A small terrace, the Gallery of the Virgin, bordered by an openwork balustrade, overlooks the Gallery of Kings. At the center, a 9.6-meter diameter rose window pierces the facade. The two square towers remained unfinished.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The facade measures 43.5 meters in width.",
+                    "vis_data": [
+                        {
+                            "label": "Facade Width",
+                            "value": "43.5",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "10_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The facade measures 45 meters in height.",
+                    "vis_data": [
+                        {
+                            "label": "Facade Height",
+                            "value": "45",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "10_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The facade measures 69 meters in height with the towers.",
+                    "vis_data": [
+                        {
+                            "label": "Facade Height with Towers",
+                            "value": "69",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "10_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The rose window has a diameter of 9.6 meters.",
+                    "vis_data": [
+                        {
+                            "label": "Rose Window Diameter",
+                            "value": "9.6",
+                            "unit": "meters"
+                        }
+                    ],
+                    "fact_id": "10_0_3"
+                }
+            ],
+            "relatedness_score": 0.47227917339811787,
+            "article_meta_data": {
+                "title": "Exterior Architecture of Notre-Dame de Paris",
+                "date": "Unknown",
+                "url": "https://www.notredamedeparis.fr/en/understand/architecture/exterior-architecture/",
+                "id": 10
+            },
+            "para_id": "10_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "10_0",
+            "paragraph": "The architect of the 1200s adopted the traditional \u201charmonic facade\u201d concept on the western facade, meaning a symmetrical and tripartite facade. Its construction took fifty years from 1200 to 1250. This facade measures 43.5 meters in width and 45 meters in height, 69 meters with the towers. Three portals constitute the lower part: the central Last Judgment portal, the left Virgin portal, and the right Saint Anne portal. The Gallery of Kings forms the upper part. A small terrace, the Gallery of the Virgin, bordered by an openwork balustrade, overlooks the Gallery of Kings. At the center, a 9.6-meter diameter rose window pierces the facade. The two square towers remained unfinished."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "10_0_0",
+            "fact_content": "The facade measures 43.5 meters in width."
+        },
+        {
+            "fact_id": "10_0_1",
+            "fact_content": "The facade measures 45 meters in height."
+        },
+        {
+            "fact_id": "10_0_2",
+            "fact_content": "The facade measures 69 meters in height with the towers."
+        },
+        {
+            "fact_id": "10_0_3",
+            "fact_content": "The rose window has a diameter of 9.6 meters."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "The facade measures 43.5 meters in width.",
+            "vis_data": [
+                {
+                    "label": "Facade Width",
+                    "value": "43.5",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "10_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The facade measures 45 meters in height.",
+            "vis_data": [
+                {
+                    "label": "Facade Height",
+                    "value": "45",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "10_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The facade measures 69 meters in height with the towers.",
+            "vis_data": [
+                {
+                    "label": "Facade Height with Towers",
+                    "value": "69",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "10_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The rose window has a diameter of 9.6 meters.",
+            "vis_data": [
+                {
+                    "label": "Rose Window Diameter",
+                    "value": "9.6",
+                    "unit": "meters"
+                }
+            ],
+            "fact_id": "10_0_3"
+        }
+    ]
+}

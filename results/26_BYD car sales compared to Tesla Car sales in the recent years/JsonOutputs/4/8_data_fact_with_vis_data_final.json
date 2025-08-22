@@ -1,0 +1,79 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In recent years, Chinese carmaker BYD has experienced remarkable growth and success. The numbers tell a compelling story: BYD\u2019s production has surged from approximately 500,000 units to over 4 million in almost seven years. This represents an over 700% increase, a clear indicator of the company\u2019s aggressive expansion strategy. BYD nearly caught up to Tesla in 2024 pure EV deliveries (1.76 million vs. 1.79 million) but stole the show with plug-in hybrids, firmly securing its spot as the world\u2019s top new energy vehicle maker.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD\u2019s production surged from approximately 500,000 units to over 4 million in almost seven years.",
+                    "vis_data": [
+                        {
+                            "label": "Production 7-year increase",
+                            "value": "3500000",
+                            "unit": "units"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "This represents an over 700% increase in BYD's production.",
+                    "vis_data": [
+                        {
+                            "label": "Production increase",
+                            "value": "700",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "BYD nearly caught up to Tesla in 2024 pure EV deliveries (1.76 million vs. 1.79 million).",
+                    "vis_data": [
+                        {
+                            "label": "BYD 2024 EV deliveries",
+                            "value": "1760000",
+                            "unit": "units"
+                        },
+                        {
+                            "label": "Tesla 2024 EV deliveries",
+                            "value": "1790000",
+                            "unit": "units"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "It didn\u2019t stop there; BYD surged past Tesla in Q3 revenue, bringing in $28.2 billion to Tesla\u2019s $25.18 billion. December marked yet another milestone with BYD\u2019s 10 millionth plug-in vehicle rolling off the line. And all of this comes just in time for the company\u2019s 30th anniversary. This growth, driven by their focus on New Energy Vehicles (NEVs), has propelled them to the forefront of the global automotive industry.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "BYD surged past Tesla in Q3 revenue, bringing in $28.2 billion to Tesla\u2019s $25.18 billion.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Q3 revenue",
+                            "value": "28.2",
+                            "unit": "billion USD"
+                        },
+                        {
+                            "label": "Tesla Q3 revenue",
+                            "value": "25.18",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD\u2019s 10 millionth plug-in vehicle rolled off the line.",
+                    "vis_data": [
+                        {
+                            "label": "Plug-in vehicles produced",
+                            "value": "10000000",
+                            "unit": "units"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

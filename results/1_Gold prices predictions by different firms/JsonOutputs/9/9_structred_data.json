@@ -1,0 +1,110 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "This statistic depicts the average annual prices for gold from 2014 to 2024 with a forecast until 2026. In 2024, the average price for gold stood at 2,388 U.S. dollars per troy ounce, the highest value recorded throughout the period considered. In 2026, the average gold price is expected to increase, reaching 3,200 U.S. dollars per troy ounce.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 2024, the average price for gold stood at 2,388 U.S. dollars per troy ounce.",
+                    "vis_data": [
+                        {
+                            "label": "Gold Price 2024",
+                            "value": "2388",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "9_0_0"
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "The highest value recorded throughout the period considered was 2,388 U.S. dollars per troy ounce in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Highest Gold Price 2024",
+                            "value": "2388",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "9_0_1"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "In 2026, the average gold price is expected to increase, reaching 3,200 U.S. dollars per troy ounce.",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Gold Price 2026",
+                            "value": "3200",
+                            "unit": "USD/troy ounce"
+                        }
+                    ],
+                    "fact_id": "9_0_2"
+                }
+            ],
+            "article_meta_data": {
+                "title": "Average prices for gold worldwide 2014-2026",
+                "date": "2025-06-04",
+                "url": "https://www.statista.com/statistics/675890/average-prices-gold-worldwide/",
+                "id": 9
+            },
+            "para_id": "9_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "9_0",
+            "paragraph": "This statistic depicts the average annual prices for gold from 2014 to 2024 with a forecast until 2026. In 2024, the average price for gold stood at 2,388 U.S. dollars per troy ounce, the highest value recorded throughout the period considered. In 2026, the average gold price is expected to increase, reaching 3,200 U.S. dollars per troy ounce."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "In 2024, the average price for gold stood at 2,388 U.S. dollars per troy ounce."
+        },
+        {
+            "fact_id": "9_0_1",
+            "fact_content": "The highest value recorded throughout the period considered was 2,388 U.S. dollars per troy ounce in 2024."
+        },
+        {
+            "fact_id": "9_0_2",
+            "fact_content": "In 2026, the average gold price is expected to increase, reaching 3,200 U.S. dollars per troy ounce."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "In 2024, the average price for gold stood at 2,388 U.S. dollars per troy ounce.",
+            "vis_data": [
+                {
+                    "label": "Gold Price 2024",
+                    "value": "2388",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "9_0_0"
+        },
+        {
+            "fact_type": "extreme",
+            "fact_content": "The highest value recorded throughout the period considered was 2,388 U.S. dollars per troy ounce in 2024.",
+            "vis_data": [
+                {
+                    "label": "Highest Gold Price 2024",
+                    "value": "2388",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "9_0_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "In 2026, the average gold price is expected to increase, reaching 3,200 U.S. dollars per troy ounce.",
+            "vis_data": [
+                {
+                    "label": "Forecast Gold Price 2026",
+                    "value": "3200",
+                    "unit": "USD/troy ounce"
+                }
+            ],
+            "fact_id": "9_0_2"
+        }
+    ]
+}

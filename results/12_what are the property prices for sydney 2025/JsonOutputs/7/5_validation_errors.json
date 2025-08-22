@@ -1,0 +1,85 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "Sydney home prices are expected to fall by $20,000-$80,000 next year as affordability challenges and delays in widely anticipated interest rate cuts drag the property market.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Sydney home prices are expected to fall by $20,000-$80,000 next year.",
+                    "vis_data": [
+                        {
+                            "label": "Price Fall Minimum",
+                            "value": "20000",
+                            "unit": "AUD"
+                        },
+                        {
+                            "label": "Price Fall Maximum",
+                            "value": "80000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "SQM Research\u2019s latest Housing Boom and Bust report, which has a track record of correctly forecasting price movements, indicated city prices were on course to fall between 1 to 5 per cent over 2025.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "City prices were on course to fall between 1 to 5 per cent over 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Price Fall Minimum",
+                            "value": "1",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Price Fall Maximum",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        },
+        {
+            "paragraph": "This kind of drop would scrub as much as $80,000 from the average value of houses given prices were already at extreme highs, with the median value of houses currently at about $1.65m.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median value of houses is currently about $1.65m.",
+                    "vis_data": [
+                        {
+                            "label": "Median House Value",
+                            "value": "1650000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "error": [
+                        "The unit 'AUD' is not explicitly mentioned in the paragraph. Consider verifying the currency unit."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Sydney\u2019s market has already been slowing for much of the spring selling season, with prices falling in regions such as the inner west and parts of the eastern suburbs. About 50 per cent of city suburbs recorded a fall in prices over the three months to October, PropTrack reported.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "About 50 per cent of city suburbs recorded a fall in prices over the three months to October.",
+                    "vis_data": [
+                        {
+                            "label": "Suburbs with Price Fall",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

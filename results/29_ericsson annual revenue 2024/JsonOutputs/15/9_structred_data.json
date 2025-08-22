@@ -1,0 +1,195 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "It\u2019ll come as no surprise to anyone following the mobile networks sector that Ericsson has reported grim full year financials for 2023, with organic (like-for-like) revenues down by 10% to263.4bn Swedish krona (SEK) ($25.2bn) and earnings before interest, tax and amortisation (EBITA) down by 49% to SEK14.9bn ($1.43bn), with significantly reduced spending by the US telcos the main cause of those declines. The vendor also reported a full year net loss of SEK26.1bn ($2.5bn) for 2023 compared with a net profit in 2022, with the bottom line decimated by its$2.9bn writedown of the value of its cloud-based communications platform unit Vonageand $623m of restructuring costs as a result of 9,000 roles being cut in 2023.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Ericsson's organic revenues down by 10% to SEK263.4bn ($25.2bn) in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Organic Revenues 2023",
+                            "value": "263.4",
+                            "unit": "SEK bn"
+                        }
+                    ],
+                    "fact_id": "15_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Ericsson's EBITA down by 49% to SEK14.9bn ($1.43bn) in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "EBITA 2023",
+                            "value": "14.9",
+                            "unit": "SEK bn"
+                        }
+                    ],
+                    "fact_id": "15_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson reported a full year net loss of SEK26.1bn ($2.5bn) for 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Net Loss 2023",
+                            "value": "26.1",
+                            "unit": "SEK bn"
+                        }
+                    ],
+                    "fact_id": "15_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson's writedown of the value of its cloud-based communications platform unit Vonage was $2.9bn.",
+                    "vis_data": [
+                        {
+                            "label": "Vonage Writedown",
+                            "value": "2.9",
+                            "unit": "USD bn"
+                        }
+                    ],
+                    "fact_id": "15_0_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson incurred $623m of restructuring costs in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Restructuring Costs 2023",
+                            "value": "623",
+                            "unit": "USD m"
+                        }
+                    ],
+                    "fact_id": "15_0_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "9,000 roles were cut by Ericsson in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Roles Cut 2023",
+                            "value": "9000",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "15_0_5"
+                }
+            ],
+            "relatedness_score": 0.6381768134008677,
+            "article_meta_data": {
+                "title": "Ericsson: 2023 was grim, 2024 isn't looking any better",
+                "date": "2024-01-23",
+                "url": "https://www.telecomtv.com/content/5g/ericsson-2023-was-grim-2024-isn-t-looking-any-better-49457/",
+                "id": 15
+            },
+            "para_id": "15_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "15_0",
+            "paragraph": "It\u2019ll come as no surprise to anyone following the mobile networks sector that Ericsson has reported grim full year financials for 2023, with organic (like-for-like) revenues down by 10% to263.4bn Swedish krona (SEK) ($25.2bn) and earnings before interest, tax and amortisation (EBITA) down by 49% to SEK14.9bn ($1.43bn), with significantly reduced spending by the US telcos the main cause of those declines. The vendor also reported a full year net loss of SEK26.1bn ($2.5bn) for 2023 compared with a net profit in 2022, with the bottom line decimated by its$2.9bn writedown of the value of its cloud-based communications platform unit Vonageand $623m of restructuring costs as a result of 9,000 roles being cut in 2023."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "Ericsson's organic revenues down by 10% to SEK263.4bn ($25.2bn) in 2023."
+        },
+        {
+            "fact_id": "15_0_1",
+            "fact_content": "Ericsson's EBITA down by 49% to SEK14.9bn ($1.43bn) in 2023."
+        },
+        {
+            "fact_id": "15_0_2",
+            "fact_content": "Ericsson reported a full year net loss of SEK26.1bn ($2.5bn) for 2023."
+        },
+        {
+            "fact_id": "15_0_3",
+            "fact_content": "Ericsson's writedown of the value of its cloud-based communications platform unit Vonage was $2.9bn."
+        },
+        {
+            "fact_id": "15_0_4",
+            "fact_content": "Ericsson incurred $623m of restructuring costs in 2023."
+        },
+        {
+            "fact_id": "15_0_5",
+            "fact_content": "9,000 roles were cut by Ericsson in 2023."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "Ericsson's organic revenues down by 10% to SEK263.4bn ($25.2bn) in 2023.",
+            "vis_data": [
+                {
+                    "label": "Organic Revenues 2023",
+                    "value": "263.4",
+                    "unit": "SEK bn"
+                }
+            ],
+            "fact_id": "15_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Ericsson's EBITA down by 49% to SEK14.9bn ($1.43bn) in 2023.",
+            "vis_data": [
+                {
+                    "label": "EBITA 2023",
+                    "value": "14.9",
+                    "unit": "SEK bn"
+                }
+            ],
+            "fact_id": "15_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Ericsson reported a full year net loss of SEK26.1bn ($2.5bn) for 2023.",
+            "vis_data": [
+                {
+                    "label": "Net Loss 2023",
+                    "value": "26.1",
+                    "unit": "SEK bn"
+                }
+            ],
+            "fact_id": "15_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Ericsson's writedown of the value of its cloud-based communications platform unit Vonage was $2.9bn.",
+            "vis_data": [
+                {
+                    "label": "Vonage Writedown",
+                    "value": "2.9",
+                    "unit": "USD bn"
+                }
+            ],
+            "fact_id": "15_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Ericsson incurred $623m of restructuring costs in 2023.",
+            "vis_data": [
+                {
+                    "label": "Restructuring Costs 2023",
+                    "value": "623",
+                    "unit": "USD m"
+                }
+            ],
+            "fact_id": "15_0_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "9,000 roles were cut by Ericsson in 2023.",
+            "vis_data": [
+                {
+                    "label": "Roles Cut 2023",
+                    "value": "9000",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "15_0_5"
+        }
+    ]
+}

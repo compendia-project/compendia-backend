@@ -1,0 +1,43 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The 2024 Revision of World Population Prospects is the twenty-eighth edition of official United Nations population estimates and projections that have been prepared by the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat. It presents population estimates from 1950 to the present for 237 countries or areas, underpinned by analyses of historical demographic trends. This latest assessment considers the results of 1,910 national population censuses conducted between 1950 and 2023, as well as information from vital registration systems and from 3,189 nationally representative sample surveys. The 2024 revision also presents population projections to the year 2100 that reflect a range of plausible outcomes at the global, regional and national levels.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "237 countries or areas have population estimates from 1950 to the present.",
+                    "vis_data": [
+                        {
+                            "label": "Countries with Estimates",
+                            "value": "237",
+                            "unit": "count"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1,910 national population censuses conducted between 1950 and 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Population Censuses",
+                            "value": "1,910",
+                            "unit": "count"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "3,189 nationally representative sample surveys considered in the assessment.",
+                    "vis_data": [
+                        {
+                            "label": "Sample Surveys",
+                            "value": "3189",
+                            "unit": "count"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.45448135721225325
+        }
+    ]
+}

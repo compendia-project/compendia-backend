@@ -1,0 +1,64 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Johnson & Johnson, Eli Lilly and Co, AbbVie Inc, Novo Nordisk AS, and Merck & Co Inc are the top 5 pharmaceutical companies in the world in 2023 by market cap (as of Mar 31, 2023). Comprehensively, the top 10 pharma companies in the world in 2022 had a market cap of $ 2,591,949 million (as of Mar 31, 2023), with Johnson & Johnson Ltd having the highest ($402,750 million), followed by Eli Lilly and Co ($327,055 million), and AbbVie Inc ($281,151 million), while Bristol-Myers Squibb Co has the lowest ($145,780 million).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The top 10 pharma companies in the world in 2022 had a market cap of $2,591,949 million.",
+                    "vis_data": [
+                        {
+                            "label": "Top 10 Pharma Market Cap 2022",
+                            "value": "2591949",
+                            "unit": "million USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Johnson & Johnson Ltd has the highest market cap of $402,750 million.",
+                    "vis_data": [
+                        {
+                            "label": "Johnson & Johnson Market Cap",
+                            "value": "402750",
+                            "unit": "million USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Eli Lilly and Co has a market cap of $327,055 million.",
+                    "vis_data": [
+                        {
+                            "label": "Eli Lilly Market Cap",
+                            "value": "327055",
+                            "unit": "million USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "AbbVie Inc has a market cap of $281,151 million.",
+                    "vis_data": [
+                        {
+                            "label": "AbbVie Market Cap",
+                            "value": "281151",
+                            "unit": "million USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Bristol-Myers Squibb Co has the lowest market cap of $145,780 million.",
+                    "vis_data": [
+                        {
+                            "label": "Bristol-Myers Squibb Market Cap",
+                            "value": "145780",
+                            "unit": "million USD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2491 @@
+{
+    "facts_with_meta": [
+        {
+            "paragraph": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day.",
+                    "vis_data": [
+                        {
+                            "label": "Australians reducing heart disease risk",
+                            "value": "90",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "12_0_0"
+                }
+            ],
+            "relatedness_score": 0.42212264606201266,
+            "article_meta_data": {
+                "title": "Physical activity and your heart health",
+                "date": "2025-02-03",
+                "url": "https://www.heartfoundation.org.au/healthy-living/physical-activity/physical-activity-and-exercise",
+                "id": 12
+            },
+            "para_id": "12_0"
+        },
+        {
+            "paragraph": "At 10+ hours of daily sedentary behavior, research shows increased risk for cardiovascular disease and other health issues. That\u2019s true even if you work out at some point during the day and meet recommended physical activity guidelines.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease and other health issues.",
+                    "vis_data": [
+                        {
+                            "label": "Sedentary Behavior",
+                            "value": "10+",
+                            "unit": "hours"
+                        }
+                    ],
+                    "fact_id": "5_0_0"
+                }
+            ],
+            "relatedness_score": 0.4044699532864682,
+            "article_meta_data": {
+                "title": "Health Risks of a Sedentary Lifestyle",
+                "date": "2025-05-16",
+                "url": "https://health.clevelandclinic.org/sedentary-lifestyle",
+                "id": 5
+            },
+            "para_id": "5_0"
+        },
+        {
+            "paragraph": "Physical activity recommendations from the American Heart Association state adults should get:",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adults should get 300 total minutes of any physical activity weekly.",
+                    "vis_data": [
+                        {
+                            "label": "Weekly Physical Activity",
+                            "value": "300",
+                            "unit": "minutes"
+                        }
+                    ],
+                    "fact_id": "0_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Moderate to high intensity muscle strengthening at least twice a week.",
+                    "vis_data": [
+                        {
+                            "label": "Muscle Strengthening Frequency",
+                            "value": "2",
+                            "unit": "times per week"
+                        }
+                    ],
+                    "fact_id": "0_0_1"
+                }
+            ],
+            "relatedness_score": 0.382955939162378,
+            "article_meta_data": {
+                "title": "Exercises for Heart Health: A Guide",
+                "date": "2024-05-07",
+                "url": "https://www.healthline.com/health/heart-health/guide-preventing-heart-disease",
+                "id": 0
+            },
+            "para_id": "0_0"
+        },
+        {
+            "paragraph": "Even with exercise, sedentary behavior can increase risk of heart failure by up to 60%, according to study",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sedentary behavior can increase risk of heart failure by up to 60%.",
+                    "vis_data": [
+                        {
+                            "label": "Increased Risk of Heart Failure",
+                            "value": "60",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_0_0"
+                }
+            ],
+            "relatedness_score": 0.4953665263014393,
+            "article_meta_data": {
+                "title": "Study finds too much sitting hurts the heart",
+                "date": "2024-11-18",
+                "url": "https://news.harvard.edu/gazette/story/2024/11/study-finds-too-much-sitting-hurts-the-heart/",
+                "id": 4
+            },
+            "para_id": "4_0"
+        },
+        {
+            "paragraph": "Investigators at Mass General Brigham found sedentary behavior was associated with higher risks of all four types of heart disease, with a marked 40-60 percent greater risk of heart failure and cardiovascular death when sedentary behavior exceeded 10.6 hours a day. (Sedentary behavior is defined as waking activity with low energy expenditure while sitting, reclining, or lying down and does not include hours spent sleeping at night.)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "40-60 percent greater risk of heart failure and cardiovascular death when sedentary behavior exceeded 10.6 hours a day.",
+                    "vis_data": [
+                        {
+                            "label": "Risk Increase (Heart Failure & Death)",
+                            "value": "40",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Risk Increase (Heart Failure & Death)",
+                            "value": "60",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_1"
+                }
+            ],
+            "relatedness_score": 0.40754218906820794,
+            "article_meta_data": {
+                "title": "Study finds too much sitting hurts the heart",
+                "date": "2024-11-18",
+                "url": "https://news.harvard.edu/gazette/story/2024/11/study-finds-too-much-sitting-hurts-the-heart/",
+                "id": 4
+            },
+            "para_id": "4_1"
+        },
+        {
+            "paragraph": "Regular physical activity reduces the risk of dying prematurely from CVD. It also helps prevent the development of diabetes, helps maintain weight loss, and reduces hypertension, which are all independent risk factors for CVD. Less active, less fit persons have a 30-50 percent greater risk of developing high blood pressure. Physical inactivity is a significant risk factor for CVD itself. It ranks similarly to cigarette smoking, high blood pressure, and elevated cholesterol. One reason it has such a large affect on mortality is because of its prevalence. Twice as many adults in the United States are physically inactive than smoke cigarettes. Regular physical activity has been shown to help protect against first cardiac episode, help patients' recovery from coronary surgeries, and will reduce the risk of recurrent cardiac events.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Less active, less fit persons have a 30-50 percent greater risk of developing high blood pressure.",
+                    "vis_data": [
+                        {
+                            "label": "Increased Risk of Hypertension",
+                            "value": "30",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Increased Risk of Hypertension",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_0_0"
+                }
+            ],
+            "relatedness_score": 0.488365992369308,
+            "article_meta_data": {
+                "title": "Physical Inactivity and Cardiovascular Disease",
+                "date": "Unknown",
+                "url": "https://health.ny.gov/diseases/chronic/cvd.htm",
+                "id": 6
+            },
+            "para_id": "6_0"
+        },
+        {
+            "paragraph": "It is estimated that approximately 35% of coronary heart disease mortality is due to physical inactivity. The significance of this relationship lies in the fact that coronary heart disease is the leading cause of death in the United States with over 700,000 deaths annually. Approximately 60% of all Americans age 18 and older report that they are physically inactive. Physical inactivity has a major economic impact. It is felt through the loss of income and productivity when disabling diseases result. It was estimated that in 1989 physical inactivity cost the nation $5.7 billion due to hospitalizations and other related health care costs.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Approximately 35% of coronary heart disease mortality is due to physical inactivity.",
+                    "vis_data": [
+                        {
+                            "label": "CHD Mortality Due to Inactivity",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_1_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Coronary heart disease is the leading cause of death in the United States with over 700,000 deaths annually.",
+                    "vis_data": [
+                        {
+                            "label": "Annual CHD Deaths",
+                            "value": "700000",
+                            "unit": "deaths"
+                        }
+                    ],
+                    "fact_id": "6_1_2"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Approximately 60% of all Americans age 18 and older report that they are physically inactive.",
+                    "vis_data": [
+                        {
+                            "label": "Physically Inactive Americans",
+                            "value": "60",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 1989 physical inactivity cost the nation $5.7 billion due to hospitalizations and other related health care costs.",
+                    "vis_data": [
+                        {
+                            "label": "Cost of Inactivity in 1989",
+                            "value": "5700000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "6_1_4"
+                }
+            ],
+            "relatedness_score": 0.42673249951137593,
+            "article_meta_data": {
+                "title": "Physical Inactivity and Cardiovascular Disease",
+                "date": "Unknown",
+                "url": "https://health.ny.gov/diseases/chronic/cvd.htm",
+                "id": 6
+            },
+            "para_id": "6_1"
+        },
+        {
+            "paragraph": "High blood pressure results from stiff, inflexible arteries. Exercise boosts the amount of blood circulating through your body by up to 25%, which, over time, encourages blood vessels to expand slightly and become more flexible. Exercise also spurs the production of nitric oxide, a molecule that relaxes and widens blood vessels.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise boosts the amount of blood circulating through your body by up to 25%.",
+                    "vis_data": [
+                        {
+                            "label": "Blood Circulation Increase",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "13_0_0"
+                }
+            ],
+            "relatedness_score": 0.47679153845238387,
+            "article_meta_data": {
+                "title": "The many ways exercise helps your heart",
+                "date": "2023-01-01",
+                "url": "https://www.health.harvard.edu/heart-health/the-many-ways-exercise-helps-your-heart",
+                "id": 13
+            },
+            "para_id": "13_0"
+        },
+        {
+            "paragraph": "Both aerobic and muscle-building exercises can lower blood pressure slightly in people with normal blood pressure. If you have high blood pressure (defined as 130/80 mm Hg or higher), the average reductions are greater \u2014 between 5 and 7 points in systolic pressure (the first number in the reading). \"That's similar to the reduction people experience from taking a blood pressure drug,\" says Dr. Baggish.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Exercise reduces systolic pressure by between 5 and 7 points in people with high blood pressure.",
+                    "vis_data": [
+                        {
+                            "label": "Systolic Pressure Reduction",
+                            "value": "5",
+                            "unit": "points"
+                        },
+                        {
+                            "label": "Systolic Pressure Reduction",
+                            "value": "7",
+                            "unit": "points"
+                        }
+                    ],
+                    "fact_id": "13_1_1"
+                }
+            ],
+            "relatedness_score": 0.46286715274222767,
+            "article_meta_data": {
+                "title": "The many ways exercise helps your heart",
+                "date": "2023-01-01",
+                "url": "https://www.health.harvard.edu/heart-health/the-many-ways-exercise-helps-your-heart",
+                "id": 13
+            },
+            "para_id": "13_1"
+        },
+        {
+            "paragraph": "Many health guidelines recommend 30 minutes of moderate intensity exercise at five to seven times per week to keep our heart healthy. Singapore\u2019s National Physical Activity guidelines recommend a similar 150 minutes of moderate intensity exercise every week. Activities such as taking the stairs, engaging in brisk walking and other aerobic exercises can contribute to this weekly target.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "30 minutes of moderate intensity exercise at five to seven times per week is recommended.",
+                    "vis_data": [
+                        {
+                            "label": "Exercise per session",
+                            "value": "30",
+                            "unit": "minutes"
+                        }
+                    ],
+                    "fact_id": "11_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Singapore\u2019s National Physical Activity guidelines recommend 150 minutes of moderate intensity exercise every week.",
+                    "vis_data": [
+                        {
+                            "label": "Weekly exercise",
+                            "value": "150",
+                            "unit": "minutes"
+                        }
+                    ],
+                    "fact_id": "11_0_1"
+                }
+            ],
+            "relatedness_score": 0.5152830601718887,
+            "article_meta_data": {
+                "title": "Benefits of Exercise on Heart Health",
+                "date": "2020-04-11",
+                "url": "https://www.healthxchange.sg/news/benefits-of-exercise-on-heart-health",
+                "id": 11
+            },
+            "para_id": "11_0"
+        },
+        {
+            "paragraph": "Exercise is even more important for patients with heart disease. After a bypass surgery or heart attack, it is recommended that eligible patients should attend a structured cardiac rehabilitation programme. This programme aims to educate patients on their cardiac condition, monitor the patients\u2019 health status following their discharge from the hospital, help patients effect lasting appropriate lifestyle changes, and motivate them to participate in regular aerobic exercise.The programme usually lasts for one to three months and can start a week after a patient discharges from the hospital. The patient should refer to his or her doctor\u2019s recommendation before embarking on such a programme. NHCS offers a secondphase outpatient Cardiovascular Rehabilitation and Preventive Cardiology programme, for all patients with coronary artery bypass surgery (CABG) done or had been admitted to NHCS for heart attack. Many studies have shown that cardiac patients who attended the structured cardiac rehabilitation programme and participated in regular exercise had up to 25% reduction in the risk of future cardiac events.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cardiac rehabilitation programme usually lasts for one to three months.",
+                    "vis_data": [
+                        {
+                            "label": "Rehabilitation duration",
+                            "value": "1-3",
+                            "unit": "months"
+                        }
+                    ],
+                    "fact_id": "11_1_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cardiac patients who attended the structured cardiac rehabilitation programme and participated in regular exercise had up to 25% reduction in the risk of future cardiac events.",
+                    "vis_data": [
+                        {
+                            "label": "Risk reduction",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "11_1_3"
+                }
+            ],
+            "relatedness_score": 0.45392426855791324,
+            "article_meta_data": {
+                "title": "Benefits of Exercise on Heart Health",
+                "date": "2020-04-11",
+                "url": "https://www.healthxchange.sg/news/benefits-of-exercise-on-heart-health",
+                "id": 11
+            },
+            "para_id": "11_1"
+        },
+        {
+            "paragraph": "Regular exercise leading to an elevation of 1 metabolic equivalent (MET) unit in cardiorespiratory fitness (CRF) has been found to reduce the risk of HF by 17%.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%.",
+                    "vis_data": [
+                        {
+                            "label": "HF risk reduction",
+                            "value": "17",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_0_0"
+                }
+            ],
+            "relatedness_score": 0.537104025133669,
+            "article_meta_data": {
+                "title": "What are the benefits of exercise on cardiovascular health?",
+                "date": "2023-05-01",
+                "url": "https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx",
+                "id": 15
+            },
+            "para_id": "15_0"
+        },
+        {
+            "paragraph": "HFrEF patients experience a notable increase in exercise capacity, resulting in a symptomatic improvement of up to 25%. Lifelong exercise is linked to a lower risk of HFrEF due to its inverse association with LV stiffness.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "HFrEF patients experience a symptomatic improvement of up to 25%.",
+                    "vis_data": [
+                        {
+                            "label": "Symptomatic improvement",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_1_1"
+                }
+            ],
+            "relatedness_score": 0.5030176441649117,
+            "article_meta_data": {
+                "title": "What are the benefits of exercise on cardiovascular health?",
+                "date": "2023-05-01",
+                "url": "https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx",
+                "id": 15
+            },
+            "para_id": "15_1"
+        },
+        {
+            "paragraph": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+                    "vis_data": [
+                        {
+                            "label": "Increased death risk",
+                            "value": "20",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Increased death risk",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_2_2"
+                }
+            ],
+            "relatedness_score": 0.47384508478645926,
+            "article_meta_data": {
+                "title": "What are the benefits of exercise on cardiovascular health?",
+                "date": "2023-05-01",
+                "url": "https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx",
+                "id": 15
+            },
+            "para_id": "15_2"
+        },
+        {
+            "paragraph": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations and a 35% decrease in all-cause mortality in patients with HF. PA can reduce cardiomegaly and reverse left ventricular remodeling in heart failure patients with reduced ejection fraction (HfrEF).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations.",
+                    "vis_data": [
+                        {
+                            "label": "HF hospitalization reduction",
+                            "value": "28",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_3_3"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF.",
+                    "vis_data": [
+                        {
+                            "label": "All-cause mortality reduction",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_3_4"
+                }
+            ],
+            "relatedness_score": 0.4727190703906248,
+            "article_meta_data": {
+                "title": "What are the benefits of exercise on cardiovascular health?",
+                "date": "2023-05-01",
+                "url": "https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx",
+                "id": 15
+            },
+            "para_id": "15_3"
+        },
+        {
+            "paragraph": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals and five to seven mm Hg in individuals with HTN. The effects, however, depend on PA's duration, frequency, and intensity.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals.",
+                    "vis_data": [
+                        {
+                            "label": "BP reduction in normotensive",
+                            "value": "2-5",
+                            "unit": "mm Hg"
+                        }
+                    ],
+                    "fact_id": "15_4_5"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by five to seven mm Hg in individuals with HTN.",
+                    "vis_data": [
+                        {
+                            "label": "BP reduction in HTN",
+                            "value": "5-7",
+                            "unit": "mm Hg"
+                        }
+                    ],
+                    "fact_id": "15_4_6"
+                }
+            ],
+            "relatedness_score": 0.4382605774589372,
+            "article_meta_data": {
+                "title": "What are the benefits of exercise on cardiovascular health?",
+                "date": "2023-05-01",
+                "url": "https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx",
+                "id": 15
+            },
+            "para_id": "15_4"
+        },
+        {
+            "paragraph": "Seven prospective studies were included in the high versus low analysis of total physical activity and heart failure risk, which included 12,496 cases and 329,768 participants. The summary RR for high versus low physical activity was 0.77 (95% CI 0.70\u20130.85, I2=48.7%, pheterogeneity=0.07).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "12,496 cases of heart failure were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Heart Failure Cases",
+                            "value": "12496",
+                            "unit": "cases"
+                        }
+                    ],
+                    "fact_id": "17_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "329,768 participants were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Participants",
+                            "value": "329768",
+                            "unit": "participants"
+                        }
+                    ],
+                    "fact_id": "17_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The summary RR for high versus low physical activity was 0.77.",
+                    "vis_data": [
+                        {
+                            "label": "Summary RR",
+                            "value": "0.77",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "17_0_2"
+                }
+            ],
+            "relatedness_score": 0.5003999463527234,
+            "article_meta_data": {
+                "title": "Physical activity and the risk of heart failure: a systematic review and meta-analysis",
+                "date": "Unknown",
+                "url": "https://link.springer.com/article/10.1007/s10654-020-00693-6",
+                "id": 17
+            },
+            "para_id": "17_0"
+        },
+        {
+            "paragraph": "Two prospective studies were included in the analysis of vigorous physical activity and risk of heart failure (3632 cases, 158,397 participants). The summary RR for high versus low vigorous physical activity was 0.66 (95% CI 0.59\u20130.74, I2=0%, pheterogeneity=0.63) and per 20 MET-hours/week was 0.64 (95% CI 0.52\u20130.79, I2=14.9%, pheterogeneity=0.28).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "3,632 cases of heart failure were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Heart Failure Cases",
+                            "value": "3632",
+                            "unit": "cases"
+                        }
+                    ],
+                    "fact_id": "17_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "158,397 participants were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Participants",
+                            "value": "158397",
+                            "unit": "participants"
+                        }
+                    ],
+                    "fact_id": "17_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The summary RR for high versus low vigorous physical activity was 0.66.",
+                    "vis_data": [
+                        {
+                            "label": "Summary RR",
+                            "value": "0.66",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "17_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The summary RR per 20 MET-hours/week was 0.64.",
+                    "vis_data": [
+                        {
+                            "label": "Summary RR per 20 MET-hours/week",
+                            "value": "0.64",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "17_1_6"
+                }
+            ],
+            "relatedness_score": 0.495499299629359,
+            "article_meta_data": {
+                "title": "Physical activity and the risk of heart failure: a systematic review and meta-analysis",
+                "date": "Unknown",
+                "url": "https://link.springer.com/article/10.1007/s10654-020-00693-6",
+                "id": 17
+            },
+            "para_id": "17_1"
+        },
+        {
+            "paragraph": "Sixteen prospective studies were included in the analysis of leisure-time physical activity and risk of heart failure (>73,391 cases and 1,895,300 participants). The summary RR for high versus low leisure-time activity was 0.74 (95% CI 0.68\u20130.81, I2=88.0%, pheterogeneity<0.0001).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "More than 73,391 cases of heart failure were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Heart Failure Cases",
+                            "value": "73391",
+                            "unit": "cases"
+                        }
+                    ],
+                    "fact_id": "17_2_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1,895,300 participants were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Participants",
+                            "value": "1895300",
+                            "unit": "participants"
+                        }
+                    ],
+                    "fact_id": "17_2_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The summary RR for high versus low leisure-time activity was 0.74.",
+                    "vis_data": [
+                        {
+                            "label": "Summary RR",
+                            "value": "0.74",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "17_2_9"
+                }
+            ],
+            "relatedness_score": 0.4842952358792241,
+            "article_meta_data": {
+                "title": "Physical activity and the risk of heart failure: a systematic review and meta-analysis",
+                "date": "Unknown",
+                "url": "https://link.springer.com/article/10.1007/s10654-020-00693-6",
+                "id": 17
+            },
+            "para_id": "17_2"
+        },
+        {
+            "paragraph": "Four prospective studies were included in the dose\u2013response analysis. The summary RR was 0.89 (95% CI 0.83\u20130.95, I2=66.8%, pheterogeneity=0.03, n=4) per 20 MET-hours per day of total activity.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The summary RR per 20 MET-hours per day of total activity was 0.89.",
+                    "vis_data": [
+                        {
+                            "label": "Summary RR per 20 MET-hours/day",
+                            "value": "0.89",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "17_3_10"
+                }
+            ],
+            "relatedness_score": 0.34317212574702816,
+            "article_meta_data": {
+                "title": "Physical activity and the risk of heart failure: a systematic review and meta-analysis",
+                "date": "Unknown",
+                "url": "https://link.springer.com/article/10.1007/s10654-020-00693-6",
+                "id": 17
+            },
+            "para_id": "17_3"
+        },
+        {
+            "paragraph": "Systematic reviews and meta-analyses have confirmed that moderate-to-vigorous physical activity (MVPA) decreases the likelihood of someone developing and suffering from coronary artery disease. Engaging in physical activity at a level that achieves or exceeds physical activity guidelines is associated with around a 35% reduction in risk of death from cardiovascular disease (Nocon et al., 2008). This is also reflected in recent systematic reviews conducted as part of global and national physical activity guideline processes. For example, the United Kingdom Chief Medical Officers\u2019 Physical Activity Guidelines conclude that physical activity reduces the risk of cardiovascular disease by 35% in adults and older adults (Department of Health and Social Care, 2019). The WHO has estimated physical inactivity to be the cause of approximately 30% of ischaemic heart disease (WHO, 2010).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Engaging in physical activity at a level that achieves or exceeds physical activity guidelines is associated with around a 35% reduction in risk of death from cardiovascular disease.",
+                    "vis_data": [
+                        {
+                            "label": "Risk reduction with MVPA",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Physical activity reduces the risk of cardiovascular disease by 35% in adults and older adults.",
+                    "vis_data": [
+                        {
+                            "label": "CVD risk reduction in adults",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_0_1"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Physical inactivity is the cause of approximately 30% of ischaemic heart disease.",
+                    "vis_data": [
+                        {
+                            "label": "Ischaemic heart disease due to inactivity",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_0_2"
+                }
+            ],
+            "relatedness_score": 0.5444014202951534,
+            "article_meta_data": {
+                "title": "People, More Active, More Often for Heart Health \u2013 Taking Action to Reduce Physical Inactivity",
+                "date": "Unknown",
+                "url": "https://globalheartjournal.com/articles/10.5334/gh.1308",
+                "id": 8
+            },
+            "para_id": "8_0"
+        },
+        {
+            "paragraph": "Physical inactivity is an important risk factor for cardiovascular disease. Evidence indicates there is an inverse dose-response relationship between physical activity and cardiovascular disease and mortality risk (Lee et al., 2012). In other words, the less physical activity, the greater risk of death from cardiovascular disease. The World Health Organization reports that about 7\u20138% of all cases of cardiovascular disease could be prevented if more people were physically active (WHO 2022). Indeed, by 2030, WHO estimates around 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity, costing US$ 27 billion annually (WHO 2022).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "About 7\u20138% of all cases of cardiovascular disease could be prevented if more people were physically active.",
+                    "vis_data": [
+                        {
+                            "label": "Preventable CVD cases",
+                            "value": "7",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Preventable CVD cases",
+                            "value": "8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "WHO estimates around 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity.",
+                    "vis_data": [
+                        {
+                            "label": "New NCD cases due to inactivity",
+                            "value": "500",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "8_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Physical inactivity will cost US$ 27 billion annually.",
+                    "vis_data": [
+                        {
+                            "label": "Annual cost of inactivity",
+                            "value": "27",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "8_1_5"
+                }
+            ],
+            "relatedness_score": 0.4694123567301919,
+            "article_meta_data": {
+                "title": "People, More Active, More Often for Heart Health \u2013 Taking Action to Reduce Physical Inactivity",
+                "date": "Unknown",
+                "url": "https://globalheartjournal.com/articles/10.5334/gh.1308",
+                "id": 8
+            },
+            "para_id": "8_1"
+        },
+        {
+            "paragraph": "Physical inactivity is a leading contributor to increased cardiovascular morbidity and mortality. Almost 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity, costing just over US$300 billion, or around US$ 27 billion annually (WHO 2022). Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease. Physical activity also helps in moderating cardiovascular disease risk factors such as high blood pressure, unhealthy weight and type 2 diabetes. For people with cardiovascular disease, hypertension, type 2 diabetes and many cancers, physical activity is an established and evidence-based part of treatment and management. For children and young people, physical activity affords important health benefits. Physical activity can also achieve important cross-sector goals. Increased walking and cycling can reduce journeys by vehicles, air pollution, and traffic congestion and contribute to increased safety and liveability in cities.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Almost 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity.",
+                    "vis_data": [
+                        {
+                            "label": "New NCD cases due to inactivity",
+                            "value": "500",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "8_2_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Physical inactivity will cost just over US$300 billion globally between 2020 and 2030.",
+                    "vis_data": [
+                        {
+                            "label": "Cost of inactivity (2020-2030)",
+                            "value": "300",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "8_2_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Physical inactivity will cost around US$ 27 billion annually.",
+                    "vis_data": [
+                        {
+                            "label": "Annual cost of inactivity",
+                            "value": "27",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "8_2_8"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease.",
+                    "vis_data": [
+                        {
+                            "label": "Risk reduction in active adults",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_2_9"
+                }
+            ],
+            "relatedness_score": 0.45476860844586486,
+            "article_meta_data": {
+                "title": "People, More Active, More Often for Heart Health \u2013 Taking Action to Reduce Physical Inactivity",
+                "date": "Unknown",
+                "url": "https://globalheartjournal.com/articles/10.5334/gh.1308",
+                "id": 8
+            },
+            "para_id": "8_2"
+        },
+        {
+            "paragraph": "In 2016, 27.5% of the global adult population and 81% of adolescents failed to meet the current guidelines for weekly exercise. Physical inactivity was responsible for 13.4 million disability-adjusted life years (DALYs) worldwide. Healthcare professionals should try to implement PA as a general treatment, as any type of PA yields positive effects on an individual\u2019s cardiovascular health, contributing to a 27% reduction in relative risk of cardiovascular mortality.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "27.5% of the global adult population failed to meet the current guidelines for weekly exercise in 2016.",
+                    "vis_data": [
+                        {
+                            "label": "Adults not meeting exercise guidelines",
+                            "value": "27.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "81% of adolescents failed to meet the current guidelines for weekly exercise in 2016.",
+                    "vis_data": [
+                        {
+                            "label": "Adolescents not meeting exercise guidelines",
+                            "value": "81",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Physical inactivity was responsible for 13.4 million disability-adjusted life years (DALYs) worldwide.",
+                    "vis_data": [
+                        {
+                            "label": "DALYs due to inactivity",
+                            "value": "13.4",
+                            "unit": "million DALYs"
+                        }
+                    ],
+                    "fact_id": "2_0_2"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "27% reduction in relative risk of cardiovascular mortality due to physical activity.",
+                    "vis_data": [
+                        {
+                            "label": "Reduction in cardiovascular mortality risk",
+                            "value": "27",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_0_3"
+                }
+            ],
+            "relatedness_score": 0.4709417154408361,
+            "article_meta_data": {
+                "title": "Physical activity for cardiovascular prevention",
+                "date": "Unknown",
+                "url": "https://www.escardio.org/Councils/Council-for-Cardiology-Practice-(CCP)/Cardiopractice/physical-activity-for-cardiovascular-prevention",
+                "id": 2
+            },
+            "para_id": "2_0"
+        },
+        {
+            "paragraph": "PA and increasing one\u2019s daily step count to 6,500 steps/day are associated with a reduced relative risk of CVD-related mortality of 49% [2], as well as a reduced incidence of CVD itself [3].",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Increasing daily step count to 6,500 steps/day is associated with a reduced relative risk of CVD-related mortality of 49%.",
+                    "vis_data": [
+                        {
+                            "label": "Reduction in CVD mortality risk",
+                            "value": "49",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_4"
+                }
+            ],
+            "relatedness_score": 0.37851365945347526,
+            "article_meta_data": {
+                "title": "Physical activity for cardiovascular prevention",
+                "date": "Unknown",
+                "url": "https://www.escardio.org/Councils/Council-for-Cardiology-Practice-(CCP)/Cardiopractice/physical-activity-for-cardiovascular-prevention",
+                "id": 2
+            },
+            "para_id": "2_1"
+        },
+        {
+            "paragraph": "Results:Exercise improved systolic blood pressure [SMD\u000f=\u000f\u22120.33 (95% CI, \u22120.62 to \u22120.05),p=\u000f0.02], diastolic blood pressure [SMD\u000f=\u000f\u22120.52 (95% CI, \u22120.92 to \u22120.12),p=\u000f0.01], and resting heart rate [SMD\u000f=\u000f\u22120.30 (95% CI, \u22120.50 to \u22120.10),p=\u000f0.004]. However, no significant effects were observed for total cholesterol [SMD\u000f=\u000f\u22120.03 (95% CI: \u22120.24 to 0.18),p=\u000f0.78], HDL cholesterol [SMD\u000f=\u000f0.06 (95% CI: \u22120.16 to 0.27),p=\u000f0.6], LDL cholesterol [SMD\u000f=\u000f\u22120.21 (95% CI: \u22120.59 to 0.18),p=\u000f0.29], triglycerides [SMD\u000f=\u000f\u22120.11 (95% CI: \u22120.42 to 0.21),p=\u000f0.51], or body mass index [SMD\u000f=\u000f0.01 (95% CI: \u22120.16 to 0.17),p=\u000f0.94].",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise improved systolic blood pressure with SMD = \u22120.33 (95% CI, \u22120.62 to \u22120.05), p = 0.02.",
+                    "vis_data": [
+                        {
+                            "label": "Systolic BP Improvement",
+                            "value": "-0.33",
+                            "unit": "SMD"
+                        }
+                    ],
+                    "fact_id": "9_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise improved diastolic blood pressure with SMD = \u22120.52 (95% CI, \u22120.92 to \u22120.12), p = 0.01.",
+                    "vis_data": [
+                        {
+                            "label": "Diastolic BP Improvement",
+                            "value": "-0.52",
+                            "unit": "SMD"
+                        }
+                    ],
+                    "fact_id": "9_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise improved resting heart rate with SMD = \u22120.30 (95% CI, \u22120.50 to \u22120.10), p = 0.004.",
+                    "vis_data": [
+                        {
+                            "label": "Resting Heart Rate Improvement",
+                            "value": "-0.30",
+                            "unit": "SMD"
+                        }
+                    ],
+                    "fact_id": "9_0_2"
+                }
+            ],
+            "relatedness_score": 0.5442081121786528,
+            "article_meta_data": {
+                "title": "The effect of exercise on cardiovascular disease risk factors in sedentary populations: A systematic review and meta-analysis",
+                "date": "2025-05-15",
+                "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1470947/full",
+                "id": 9
+            },
+            "para_id": "9_0"
+        },
+        {
+            "paragraph": "Eleven studies (20,21,23\u201329,32,33) reported systolic blood pressure and included 814 subjects. Two studies (23,26) divided the intervention group into two groups of different intensities. Thirteen were therefore included in the meta-analysis, and a random effects model was used due to the high heterogeneity present in this review (I2=\u000f70%,p<\u000f0.0001). The results showed that with a combined sample size of 832, there was sufficiently strong evidence of a small reduction in Systolic blood pressure in the exercise intervention group compared with the control group (SMD\u000f=\u000f\u22120.33, 95% CI\u000f=\u000f[\u22120.62, \u22120.05],p=\u000f0.02) (Figure 3). In addition, RCT and non-RCT were analyzed in separate subgroups, and the results showed that exercise was effective in lowering systolic blood pressure in the RCT group (SMD\u000f=\u000f\u22120.45, 95% CI\u000f=\u000f[\u22120.83, \u22120.08,p<\u000f0.001]), while the non-RCT group showed that exercise did not lower systolic blood pressure (SMD\u000f=\u000f0.01, 95% CI\u000f=\u000f[\u22120.21, 0.24,p=\u000f0.091]) (seeSupplementary file).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise was effective in lowering systolic blood pressure in the RCT group with SMD = \u22120.45, 95% CI = [\u22120.83, \u22120.08], p < 0.001.",
+                    "vis_data": [
+                        {
+                            "label": "RCT Systolic BP Improvement",
+                            "value": "-0.45",
+                            "unit": "SMD"
+                        }
+                    ],
+                    "fact_id": "9_1_3"
+                }
+            ],
+            "relatedness_score": 0.45173983251790173,
+            "article_meta_data": {
+                "title": "The effect of exercise on cardiovascular disease risk factors in sedentary populations: A systematic review and meta-analysis",
+                "date": "2025-05-15",
+                "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1470947/full",
+                "id": 9
+            },
+            "para_id": "9_1"
+        },
+        {
+            "paragraph": "Eleven studies (20,21,23\u201327,29,30,32,33) reported diastolic blood pressure and included 736 subjects. Two (23,26) studies divided the intervention group into two groups of different intensities. Therefore 13 were included in the meta-analysis, and a random effects model was used due to the high heterogeneity present in this review (I2=\u000f82%,p<\u000f0.00001). The results showed that with a combined sample size of 754, there was sufficiently strong evidence that the exercise intervention group significantly reduced diastolic blood pressure compared with the control group (SMD\u000f=\u000f\u22120.52, 95% CI\u000f=\u000f[\u22120.92, \u22120.12],p=\u000f0.01) (Figure 4). In addition, RCT and non-RCT were analyzed in separate subgroups, and the results showed that exercise was effective in lowering diastolic blood pressure in the RCT group (SMD\u000f=\u000f\u22120.72, 95% CI\u000f=\u000f[\u22121.27, \u22120.17,p<\u000f0.001]), while the non-RCT group showed that exercise did not lower diastolic blood pressure (SMD\u000f=\u000f0.01, 95% CI\u000f=\u000f[\u22120.21, 0.24,p=\u000f0.88]) (seeSupplementary file).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Exercise was effective in lowering diastolic blood pressure in the RCT group with SMD = \u22120.72, 95% CI = [\u22121.27, \u22120.17], p < 0.001.",
+                    "vis_data": [
+                        {
+                            "label": "RCT Diastolic BP Improvement",
+                            "value": "-0.72",
+                            "unit": "SMD"
+                        }
+                    ],
+                    "fact_id": "9_2_4"
+                }
+            ],
+            "relatedness_score": 0.438181992768752,
+            "article_meta_data": {
+                "title": "The effect of exercise on cardiovascular disease risk factors in sedentary populations: A systematic review and meta-analysis",
+                "date": "2025-05-15",
+                "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1470947/full",
+                "id": 9
+            },
+            "para_id": "9_2"
+        },
+        {
+            "paragraph": "Although evidence suggests that the absolute risk of cardiovascular complications during high-intensity exercise is low, there is an increased relative risk of sudden cardiac death and/or acute myocardial infarction during or after exercise (independent of age, current physical health or functional capacity) [36]. Furthermore, based on the exercise heart rate corresponding to the occurrence of a positive exercise ECG, it is possible to determine the intensity of the exercise at which the positive ECG occurred at that time. The 10 cases of positive ECG in this study, 9 of which appeared during the exercise phase and 1 during the recovery phase, had a heart rate of \u2265\t62.50% HRR at the time of positive ECG changes. Therefore, it can be assumed that it is relatively safe to exercise within the range of exercise target heart rate\t<\t62.50% HRR. This result is similar to the safe starting exercise heart rate (<\t60% HRR) specified in the guideline, so it further validates the reliability and practical application of the results of this experiment. The results of this study may have a positive impact on the development of exercise prescriptions or exercise guidelines in China. By clarifying the maximum exercise intensity at which cardiovascular risk during exercise occurs, it is possible to consider the most effective maximum exercise intensity while taking into account the safety of exercise when formulating exercise prescriptions or exercise guidelines. It is hoped that the results of this study can be used as a reference for the subsequent development of exercise prescriptions or exercise guidelines in China.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "9 out of 10 cases of positive ECG appeared during the exercise phase.",
+                    "vis_data": [
+                        {
+                            "label": "Positive ECG during exercise",
+                            "value": "9",
+                            "unit": "cases"
+                        }
+                    ],
+                    "fact_id": "18_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1 out of 10 cases of positive ECG appeared during the recovery phase.",
+                    "vis_data": [
+                        {
+                            "label": "Positive ECG during recovery",
+                            "value": "1",
+                            "unit": "cases"
+                        }
+                    ],
+                    "fact_id": "18_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Positive ECG changes occurred at a heart rate of \u226562.50% HRR.",
+                    "vis_data": [
+                        {
+                            "label": "Heart rate at positive ECG",
+                            "value": "62.50",
+                            "unit": "% HRR"
+                        }
+                    ],
+                    "fact_id": "18_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "It is relatively safe to exercise within the range of exercise target heart rate <62.50% HRR.",
+                    "vis_data": [
+                        {
+                            "label": "Safe exercise heart rate",
+                            "value": "<62.50",
+                            "unit": "% HRR"
+                        }
+                    ],
+                    "fact_id": "18_0_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Safe starting exercise heart rate is <60% HRR.",
+                    "vis_data": [
+                        {
+                            "label": "Safe starting heart rate",
+                            "value": "<60",
+                            "unit": "% HRR"
+                        }
+                    ],
+                    "fact_id": "18_0_4"
+                }
+            ],
+            "relatedness_score": 0.5488560220748199,
+            "article_meta_data": {
+                "title": "Cardiovascular risk and its influencing factors during exercise in an apparently healthy Chinese population",
+                "date": "Unknown",
+                "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-19924-6",
+                "id": 18
+            },
+            "para_id": "18_0"
+        },
+        {
+            "paragraph": "A one-way ANOVA of ECG outcomes found a statistically significant difference in the indicator of age (P<\\t0.001). Although increasing age is a risk factor for cardiovascular disease (\u2265\\t45 years in men; \u226555 years in women), there was no evidence that age per se was a strong predictor of exercise-related SCD [40]. Moreover, Age was included in the calculation of the HRR, and if both were included in the multifactor logistic analysis, there may have been a problem of covariance. Therefore, age was not included in the subsequent multifactorial logistic analysis. The results of this study showed that the higher the HRR%, the more likely the individual was to have a positive and equivocal exercise ECG, a finding that is consistent with existing findings [41]. Furthermore, the beneficial effects of physical activity are mediated in part by altering the number of CVDRFs. In the present study, we found that the number of CVDRFs influenced the outcome of exercise ECG, with individuals with CVDRF\\t=\\t3\u20134 being 2.6 times more likely to have a equivocal exercise ECG than individuals with CVDRF\\t=\\t0\u20132, and those with CVDRF\\t=\\t5\u20137 being 5.4 times more likely to have a positive exercise ECG than those with CVDRF\\t=\\t0\u20132. In fact, Gibbons et al. conducted a study at the Cooper Clinic in the United States that followed 25,927 healthy men aged 20\u223c82 years with a mean follow-up of 8.4 years [42]. The results of the study found that the age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 21 for no CVDRF, 27 for one CVDRF, 54 for two CVDRFs, and 80 for three or three CVDRFs. Again, it is argued that the higher the number of CVDRFs, the more likely an individual is to develop exercise ECG abnormalities. It also illustrates that PA is relatively safe when performed at <\\t60% HRR in apparently healthy populations. If the exercise intensity of PA is \u2265\\t60% HRR, the safety of cardiovascular events participating in PA should be combined with the number of CVDRFs. Therefore, CVD prevention can be facilitated by reducing the number of individual CVDRFs.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Individuals with CVDRF = 3\u20134 are 2.6 times more likely to have an equivocal exercise ECG than those with CVDRF = 0\u20132.",
+                    "vis_data": [
+                        {
+                            "label": "CVDRF 3-4 vs 0-2 equivocal ECG",
+                            "value": "2.6",
+                            "unit": "times"
+                        }
+                    ],
+                    "fact_id": "18_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Individuals with CVDRF = 5\u20137 are 5.4 times more likely to have a positive exercise ECG than those with CVDRF = 0\u20132.",
+                    "vis_data": [
+                        {
+                            "label": "CVDRF 5-7 vs 0-2 positive ECG",
+                            "value": "5.4",
+                            "unit": "times"
+                        }
+                    ],
+                    "fact_id": "18_1_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 21 for no CVDRF.",
+                    "vis_data": [
+                        {
+                            "label": "RR for no CVDRF",
+                            "value": "21",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "18_1_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 27 for one CVDRF.",
+                    "vis_data": [
+                        {
+                            "label": "RR for one CVDRF",
+                            "value": "27",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "18_1_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 54 for two CVDRFs.",
+                    "vis_data": [
+                        {
+                            "label": "RR for two CVDRFs",
+                            "value": "54",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "18_1_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 80 for three CVDRFs.",
+                    "vis_data": [
+                        {
+                            "label": "RR for three CVDRFs",
+                            "value": "80",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "18_1_10"
+                }
+            ],
+            "relatedness_score": 0.5000536945745062,
+            "article_meta_data": {
+                "title": "Cardiovascular risk and its influencing factors during exercise in an apparently healthy Chinese population",
+                "date": "Unknown",
+                "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-19924-6",
+                "id": 18
+            },
+            "para_id": "18_1"
+        },
+        {
+            "paragraph": "Although the overall prevalence of exercise-related SCD is low, these data suggest that there is heterogeneity in the risk of SCD during exercise, which may be driven by susceptibility in subpopulations [37]. The positive exercise ECG results in this study were found to be 20% in men and 80% in women. Although it has been shown that the rate of cardiovascular events is higher in men than in women during exercise, capturing exercise-related SCD is difficult, making the current outcome data very somewhat limited. This is because it will underestimate events in those who engage in unorganized, recreational exercise, and elucidating cardiovascular versus non-cardiovascular causes of death may be difficult in the absence of the autopsy. In addition, specific groups are underrepresented in the exercise-related cardiology literature; up to half of published data exclude female participants altogether [38]. Besides, the present study found that peak heart rate as a percentage of reserve heart rate was much higher in women than in men during CPET, suggesting that women may be exerting a much higher level of effort during the test than men. Since the greater the intensity of exercise, the greater the likelihood of an intra-exercise cardiovascular event, this may also partially explain the emergence of this result. Of course, it may also due to the fact that false-positive results of exercise ECG may be more common in women than in men [39], and subsequent expansion of the sample size is needed to explore the reasons for this result in depth.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Positive exercise ECG results were 20% in men.",
+                    "vis_data": [
+                        {
+                            "label": "Positive ECG in men",
+                            "value": "20",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "18_2_11"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Positive exercise ECG results were 80% in women.",
+                    "vis_data": [
+                        {
+                            "label": "Positive ECG in women",
+                            "value": "80",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "18_2_12"
+                }
+            ],
+            "relatedness_score": 0.4696877194404636,
+            "article_meta_data": {
+                "title": "Cardiovascular risk and its influencing factors during exercise in an apparently healthy Chinese population",
+                "date": "Unknown",
+                "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-19924-6",
+                "id": 18
+            },
+            "para_id": "18_2"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "12_0",
+            "paragraph": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day."
+        },
+        {
+            "para_id": "5_0",
+            "paragraph": "At 10+ hours of daily sedentary behavior, research shows increased risk for cardiovascular disease and other health issues. That\u2019s true even if you work out at some point during the day and meet recommended physical activity guidelines."
+        },
+        {
+            "para_id": "0_0",
+            "paragraph": "Physical activity recommendations from the American Heart Association state adults should get:"
+        },
+        {
+            "para_id": "4_0",
+            "paragraph": "Even with exercise, sedentary behavior can increase risk of heart failure by up to 60%, according to study"
+        },
+        {
+            "para_id": "4_1",
+            "paragraph": "Investigators at Mass General Brigham found sedentary behavior was associated with higher risks of all four types of heart disease, with a marked 40-60 percent greater risk of heart failure and cardiovascular death when sedentary behavior exceeded 10.6 hours a day. (Sedentary behavior is defined as waking activity with low energy expenditure while sitting, reclining, or lying down and does not include hours spent sleeping at night.)"
+        },
+        {
+            "para_id": "6_0",
+            "paragraph": "Regular physical activity reduces the risk of dying prematurely from CVD. It also helps prevent the development of diabetes, helps maintain weight loss, and reduces hypertension, which are all independent risk factors for CVD. Less active, less fit persons have a 30-50 percent greater risk of developing high blood pressure. Physical inactivity is a significant risk factor for CVD itself. It ranks similarly to cigarette smoking, high blood pressure, and elevated cholesterol. One reason it has such a large affect on mortality is because of its prevalence. Twice as many adults in the United States are physically inactive than smoke cigarettes. Regular physical activity has been shown to help protect against first cardiac episode, help patients' recovery from coronary surgeries, and will reduce the risk of recurrent cardiac events."
+        },
+        {
+            "para_id": "6_1",
+            "paragraph": "It is estimated that approximately 35% of coronary heart disease mortality is due to physical inactivity. The significance of this relationship lies in the fact that coronary heart disease is the leading cause of death in the United States with over 700,000 deaths annually. Approximately 60% of all Americans age 18 and older report that they are physically inactive. Physical inactivity has a major economic impact. It is felt through the loss of income and productivity when disabling diseases result. It was estimated that in 1989 physical inactivity cost the nation $5.7 billion due to hospitalizations and other related health care costs."
+        },
+        {
+            "para_id": "13_0",
+            "paragraph": "High blood pressure results from stiff, inflexible arteries. Exercise boosts the amount of blood circulating through your body by up to 25%, which, over time, encourages blood vessels to expand slightly and become more flexible. Exercise also spurs the production of nitric oxide, a molecule that relaxes and widens blood vessels."
+        },
+        {
+            "para_id": "13_1",
+            "paragraph": "Both aerobic and muscle-building exercises can lower blood pressure slightly in people with normal blood pressure. If you have high blood pressure (defined as 130/80 mm Hg or higher), the average reductions are greater \u2014 between 5 and 7 points in systolic pressure (the first number in the reading). \"That's similar to the reduction people experience from taking a blood pressure drug,\" says Dr. Baggish."
+        },
+        {
+            "para_id": "11_0",
+            "paragraph": "Many health guidelines recommend 30 minutes of moderate intensity exercise at five to seven times per week to keep our heart healthy. Singapore\u2019s National Physical Activity guidelines recommend a similar 150 minutes of moderate intensity exercise every week. Activities such as taking the stairs, engaging in brisk walking and other aerobic exercises can contribute to this weekly target."
+        },
+        {
+            "para_id": "11_1",
+            "paragraph": "Exercise is even more important for patients with heart disease. After a bypass surgery or heart attack, it is recommended that eligible patients should attend a structured cardiac rehabilitation programme. This programme aims to educate patients on their cardiac condition, monitor the patients\u2019 health status following their discharge from the hospital, help patients effect lasting appropriate lifestyle changes, and motivate them to participate in regular aerobic exercise.The programme usually lasts for one to three months and can start a week after a patient discharges from the hospital. The patient should refer to his or her doctor\u2019s recommendation before embarking on such a programme. NHCS offers a secondphase outpatient Cardiovascular Rehabilitation and Preventive Cardiology programme, for all patients with coronary artery bypass surgery (CABG) done or had been admitted to NHCS for heart attack. Many studies have shown that cardiac patients who attended the structured cardiac rehabilitation programme and participated in regular exercise had up to 25% reduction in the risk of future cardiac events."
+        },
+        {
+            "para_id": "15_0",
+            "paragraph": "Regular exercise leading to an elevation of 1 metabolic equivalent (MET) unit in cardiorespiratory fitness (CRF) has been found to reduce the risk of HF by 17%."
+        },
+        {
+            "para_id": "15_1",
+            "paragraph": "HFrEF patients experience a notable increase in exercise capacity, resulting in a symptomatic improvement of up to 25%. Lifelong exercise is linked to a lower risk of HFrEF due to its inverse association with LV stiffness."
+        },
+        {
+            "para_id": "15_2",
+            "paragraph": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity."
+        },
+        {
+            "para_id": "15_3",
+            "paragraph": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations and a 35% decrease in all-cause mortality in patients with HF. PA can reduce cardiomegaly and reverse left ventricular remodeling in heart failure patients with reduced ejection fraction (HfrEF)."
+        },
+        {
+            "para_id": "15_4",
+            "paragraph": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals and five to seven mm Hg in individuals with HTN. The effects, however, depend on PA's duration, frequency, and intensity."
+        },
+        {
+            "para_id": "17_0",
+            "paragraph": "Seven prospective studies were included in the high versus low analysis of total physical activity and heart failure risk, which included 12,496 cases and 329,768 participants. The summary RR for high versus low physical activity was 0.77 (95% CI 0.70\u20130.85, I2=48.7%, pheterogeneity=0.07)."
+        },
+        {
+            "para_id": "17_1",
+            "paragraph": "Two prospective studies were included in the analysis of vigorous physical activity and risk of heart failure (3632 cases, 158,397 participants). The summary RR for high versus low vigorous physical activity was 0.66 (95% CI 0.59\u20130.74, I2=0%, pheterogeneity=0.63) and per 20 MET-hours/week was 0.64 (95% CI 0.52\u20130.79, I2=14.9%, pheterogeneity=0.28)."
+        },
+        {
+            "para_id": "17_2",
+            "paragraph": "Sixteen prospective studies were included in the analysis of leisure-time physical activity and risk of heart failure (>73,391 cases and 1,895,300 participants). The summary RR for high versus low leisure-time activity was 0.74 (95% CI 0.68\u20130.81, I2=88.0%, pheterogeneity<0.0001)."
+        },
+        {
+            "para_id": "17_3",
+            "paragraph": "Four prospective studies were included in the dose\u2013response analysis. The summary RR was 0.89 (95% CI 0.83\u20130.95, I2=66.8%, pheterogeneity=0.03, n=4) per 20 MET-hours per day of total activity."
+        },
+        {
+            "para_id": "8_0",
+            "paragraph": "Systematic reviews and meta-analyses have confirmed that moderate-to-vigorous physical activity (MVPA) decreases the likelihood of someone developing and suffering from coronary artery disease. Engaging in physical activity at a level that achieves or exceeds physical activity guidelines is associated with around a 35% reduction in risk of death from cardiovascular disease (Nocon et al., 2008). This is also reflected in recent systematic reviews conducted as part of global and national physical activity guideline processes. For example, the United Kingdom Chief Medical Officers\u2019 Physical Activity Guidelines conclude that physical activity reduces the risk of cardiovascular disease by 35% in adults and older adults (Department of Health and Social Care, 2019). The WHO has estimated physical inactivity to be the cause of approximately 30% of ischaemic heart disease (WHO, 2010)."
+        },
+        {
+            "para_id": "8_1",
+            "paragraph": "Physical inactivity is an important risk factor for cardiovascular disease. Evidence indicates there is an inverse dose-response relationship between physical activity and cardiovascular disease and mortality risk (Lee et al., 2012). In other words, the less physical activity, the greater risk of death from cardiovascular disease. The World Health Organization reports that about 7\u20138% of all cases of cardiovascular disease could be prevented if more people were physically active (WHO 2022). Indeed, by 2030, WHO estimates around 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity, costing US$ 27 billion annually (WHO 2022)."
+        },
+        {
+            "para_id": "8_2",
+            "paragraph": "Physical inactivity is a leading contributor to increased cardiovascular morbidity and mortality. Almost 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity, costing just over US$300 billion, or around US$ 27 billion annually (WHO 2022). Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease. Physical activity also helps in moderating cardiovascular disease risk factors such as high blood pressure, unhealthy weight and type 2 diabetes. For people with cardiovascular disease, hypertension, type 2 diabetes and many cancers, physical activity is an established and evidence-based part of treatment and management. For children and young people, physical activity affords important health benefits. Physical activity can also achieve important cross-sector goals. Increased walking and cycling can reduce journeys by vehicles, air pollution, and traffic congestion and contribute to increased safety and liveability in cities."
+        },
+        {
+            "para_id": "2_0",
+            "paragraph": "In 2016, 27.5% of the global adult population and 81% of adolescents failed to meet the current guidelines for weekly exercise. Physical inactivity was responsible for 13.4 million disability-adjusted life years (DALYs) worldwide. Healthcare professionals should try to implement PA as a general treatment, as any type of PA yields positive effects on an individual\u2019s cardiovascular health, contributing to a 27% reduction in relative risk of cardiovascular mortality."
+        },
+        {
+            "para_id": "2_1",
+            "paragraph": "PA and increasing one\u2019s daily step count to 6,500 steps/day are associated with a reduced relative risk of CVD-related mortality of 49% [2], as well as a reduced incidence of CVD itself [3]."
+        },
+        {
+            "para_id": "9_0",
+            "paragraph": "Results:Exercise improved systolic blood pressure [SMD\u000f=\u000f\u22120.33 (95% CI, \u22120.62 to \u22120.05),p=\u000f0.02], diastolic blood pressure [SMD\u000f=\u000f\u22120.52 (95% CI, \u22120.92 to \u22120.12),p=\u000f0.01], and resting heart rate [SMD\u000f=\u000f\u22120.30 (95% CI, \u22120.50 to \u22120.10),p=\u000f0.004]. However, no significant effects were observed for total cholesterol [SMD\u000f=\u000f\u22120.03 (95% CI: \u22120.24 to 0.18),p=\u000f0.78], HDL cholesterol [SMD\u000f=\u000f0.06 (95% CI: \u22120.16 to 0.27),p=\u000f0.6], LDL cholesterol [SMD\u000f=\u000f\u22120.21 (95% CI: \u22120.59 to 0.18),p=\u000f0.29], triglycerides [SMD\u000f=\u000f\u22120.11 (95% CI: \u22120.42 to 0.21),p=\u000f0.51], or body mass index [SMD\u000f=\u000f0.01 (95% CI: \u22120.16 to 0.17),p=\u000f0.94]."
+        },
+        {
+            "para_id": "9_1",
+            "paragraph": "Eleven studies (20,21,23\u201329,32,33) reported systolic blood pressure and included 814 subjects. Two studies (23,26) divided the intervention group into two groups of different intensities. Thirteen were therefore included in the meta-analysis, and a random effects model was used due to the high heterogeneity present in this review (I2=\u000f70%,p<\u000f0.0001). The results showed that with a combined sample size of 832, there was sufficiently strong evidence of a small reduction in Systolic blood pressure in the exercise intervention group compared with the control group (SMD\u000f=\u000f\u22120.33, 95% CI\u000f=\u000f[\u22120.62, \u22120.05],p=\u000f0.02) (Figure 3). In addition, RCT and non-RCT were analyzed in separate subgroups, and the results showed that exercise was effective in lowering systolic blood pressure in the RCT group (SMD\u000f=\u000f\u22120.45, 95% CI\u000f=\u000f[\u22120.83, \u22120.08,p<\u000f0.001]), while the non-RCT group showed that exercise did not lower systolic blood pressure (SMD\u000f=\u000f0.01, 95% CI\u000f=\u000f[\u22120.21, 0.24,p=\u000f0.091]) (seeSupplementary file)."
+        },
+        {
+            "para_id": "9_2",
+            "paragraph": "Eleven studies (20,21,23\u201327,29,30,32,33) reported diastolic blood pressure and included 736 subjects. Two (23,26) studies divided the intervention group into two groups of different intensities. Therefore 13 were included in the meta-analysis, and a random effects model was used due to the high heterogeneity present in this review (I2=\u000f82%,p<\u000f0.00001). The results showed that with a combined sample size of 754, there was sufficiently strong evidence that the exercise intervention group significantly reduced diastolic blood pressure compared with the control group (SMD\u000f=\u000f\u22120.52, 95% CI\u000f=\u000f[\u22120.92, \u22120.12],p=\u000f0.01) (Figure 4). In addition, RCT and non-RCT were analyzed in separate subgroups, and the results showed that exercise was effective in lowering diastolic blood pressure in the RCT group (SMD\u000f=\u000f\u22120.72, 95% CI\u000f=\u000f[\u22121.27, \u22120.17,p<\u000f0.001]), while the non-RCT group showed that exercise did not lower diastolic blood pressure (SMD\u000f=\u000f0.01, 95% CI\u000f=\u000f[\u22120.21, 0.24,p=\u000f0.88]) (seeSupplementary file)."
+        },
+        {
+            "para_id": "18_0",
+            "paragraph": "Although evidence suggests that the absolute risk of cardiovascular complications during high-intensity exercise is low, there is an increased relative risk of sudden cardiac death and/or acute myocardial infarction during or after exercise (independent of age, current physical health or functional capacity) [36]. Furthermore, based on the exercise heart rate corresponding to the occurrence of a positive exercise ECG, it is possible to determine the intensity of the exercise at which the positive ECG occurred at that time. The 10 cases of positive ECG in this study, 9 of which appeared during the exercise phase and 1 during the recovery phase, had a heart rate of \u2265\t62.50% HRR at the time of positive ECG changes. Therefore, it can be assumed that it is relatively safe to exercise within the range of exercise target heart rate\t<\t62.50% HRR. This result is similar to the safe starting exercise heart rate (<\t60% HRR) specified in the guideline, so it further validates the reliability and practical application of the results of this experiment. The results of this study may have a positive impact on the development of exercise prescriptions or exercise guidelines in China. By clarifying the maximum exercise intensity at which cardiovascular risk during exercise occurs, it is possible to consider the most effective maximum exercise intensity while taking into account the safety of exercise when formulating exercise prescriptions or exercise guidelines. It is hoped that the results of this study can be used as a reference for the subsequent development of exercise prescriptions or exercise guidelines in China."
+        },
+        {
+            "para_id": "18_1",
+            "paragraph": "A one-way ANOVA of ECG outcomes found a statistically significant difference in the indicator of age (P<\\t0.001). Although increasing age is a risk factor for cardiovascular disease (\u2265\\t45 years in men; \u226555 years in women), there was no evidence that age per se was a strong predictor of exercise-related SCD [40]. Moreover, Age was included in the calculation of the HRR, and if both were included in the multifactor logistic analysis, there may have been a problem of covariance. Therefore, age was not included in the subsequent multifactorial logistic analysis. The results of this study showed that the higher the HRR%, the more likely the individual was to have a positive and equivocal exercise ECG, a finding that is consistent with existing findings [41]. Furthermore, the beneficial effects of physical activity are mediated in part by altering the number of CVDRFs. In the present study, we found that the number of CVDRFs influenced the outcome of exercise ECG, with individuals with CVDRF\\t=\\t3\u20134 being 2.6 times more likely to have a equivocal exercise ECG than individuals with CVDRF\\t=\\t0\u20132, and those with CVDRF\\t=\\t5\u20137 being 5.4 times more likely to have a positive exercise ECG than those with CVDRF\\t=\\t0\u20132. In fact, Gibbons et al. conducted a study at the Cooper Clinic in the United States that followed 25,927 healthy men aged 20\u223c82 years with a mean follow-up of 8.4 years [42]. The results of the study found that the age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 21 for no CVDRF, 27 for one CVDRF, 54 for two CVDRFs, and 80 for three or three CVDRFs. Again, it is argued that the higher the number of CVDRFs, the more likely an individual is to develop exercise ECG abnormalities. It also illustrates that PA is relatively safe when performed at <\\t60% HRR in apparently healthy populations. If the exercise intensity of PA is \u2265\\t60% HRR, the safety of cardiovascular events participating in PA should be combined with the number of CVDRFs. Therefore, CVD prevention can be facilitated by reducing the number of individual CVDRFs."
+        },
+        {
+            "para_id": "18_2",
+            "paragraph": "Although the overall prevalence of exercise-related SCD is low, these data suggest that there is heterogeneity in the risk of SCD during exercise, which may be driven by susceptibility in subpopulations [37]. The positive exercise ECG results in this study were found to be 20% in men and 80% in women. Although it has been shown that the rate of cardiovascular events is higher in men than in women during exercise, capturing exercise-related SCD is difficult, making the current outcome data very somewhat limited. This is because it will underestimate events in those who engage in unorganized, recreational exercise, and elucidating cardiovascular versus non-cardiovascular causes of death may be difficult in the absence of the autopsy. In addition, specific groups are underrepresented in the exercise-related cardiology literature; up to half of published data exclude female participants altogether [38]. Besides, the present study found that peak heart rate as a percentage of reserve heart rate was much higher in women than in men during CPET, suggesting that women may be exerting a much higher level of effort during the test than men. Since the greater the intensity of exercise, the greater the likelihood of an intra-exercise cardiovascular event, this may also partially explain the emergence of this result. Of course, it may also due to the fact that false-positive results of exercise ECG may be more common in women than in men [39], and subsequent expansion of the sample size is needed to explore the reasons for this result in depth."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "12_0_0",
+            "fact_content": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day."
+        },
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease and other health issues."
+        },
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "Adults should get 300 total minutes of any physical activity weekly."
+        },
+        {
+            "fact_id": "0_0_1",
+            "fact_content": "Moderate to high intensity muscle strengthening at least twice a week."
+        },
+        {
+            "fact_id": "4_0_0",
+            "fact_content": "Sedentary behavior can increase risk of heart failure by up to 60%."
+        },
+        {
+            "fact_id": "4_1_1",
+            "fact_content": "40-60 percent greater risk of heart failure and cardiovascular death when sedentary behavior exceeded 10.6 hours a day."
+        },
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "Less active, less fit persons have a 30-50 percent greater risk of developing high blood pressure."
+        },
+        {
+            "fact_id": "6_1_1",
+            "fact_content": "Approximately 35% of coronary heart disease mortality is due to physical inactivity."
+        },
+        {
+            "fact_id": "6_1_2",
+            "fact_content": "Coronary heart disease is the leading cause of death in the United States with over 700,000 deaths annually."
+        },
+        {
+            "fact_id": "6_1_3",
+            "fact_content": "Approximately 60% of all Americans age 18 and older report that they are physically inactive."
+        },
+        {
+            "fact_id": "6_1_4",
+            "fact_content": "In 1989 physical inactivity cost the nation $5.7 billion due to hospitalizations and other related health care costs."
+        },
+        {
+            "fact_id": "13_0_0",
+            "fact_content": "Exercise boosts the amount of blood circulating through your body by up to 25%."
+        },
+        {
+            "fact_id": "13_1_1",
+            "fact_content": "Exercise reduces systolic pressure by between 5 and 7 points in people with high blood pressure."
+        },
+        {
+            "fact_id": "11_0_0",
+            "fact_content": "30 minutes of moderate intensity exercise at five to seven times per week is recommended."
+        },
+        {
+            "fact_id": "11_0_1",
+            "fact_content": "Singapore\u2019s National Physical Activity guidelines recommend 150 minutes of moderate intensity exercise every week."
+        },
+        {
+            "fact_id": "11_1_2",
+            "fact_content": "The cardiac rehabilitation programme usually lasts for one to three months."
+        },
+        {
+            "fact_id": "11_1_3",
+            "fact_content": "Cardiac patients who attended the structured cardiac rehabilitation programme and participated in regular exercise had up to 25% reduction in the risk of future cardiac events."
+        },
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%."
+        },
+        {
+            "fact_id": "15_1_1",
+            "fact_content": "HFrEF patients experience a symptomatic improvement of up to 25%."
+        },
+        {
+            "fact_id": "15_2_2",
+            "fact_content": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity."
+        },
+        {
+            "fact_id": "15_3_3",
+            "fact_content": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations."
+        },
+        {
+            "fact_id": "15_3_4",
+            "fact_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF."
+        },
+        {
+            "fact_id": "15_4_5",
+            "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals."
+        },
+        {
+            "fact_id": "15_4_6",
+            "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by five to seven mm Hg in individuals with HTN."
+        },
+        {
+            "fact_id": "17_0_0",
+            "fact_content": "12,496 cases of heart failure were included in the analysis."
+        },
+        {
+            "fact_id": "17_0_1",
+            "fact_content": "329,768 participants were included in the analysis."
+        },
+        {
+            "fact_id": "17_0_2",
+            "fact_content": "The summary RR for high versus low physical activity was 0.77."
+        },
+        {
+            "fact_id": "17_1_3",
+            "fact_content": "3,632 cases of heart failure were included in the analysis."
+        },
+        {
+            "fact_id": "17_1_4",
+            "fact_content": "158,397 participants were included in the analysis."
+        },
+        {
+            "fact_id": "17_1_5",
+            "fact_content": "The summary RR for high versus low vigorous physical activity was 0.66."
+        },
+        {
+            "fact_id": "17_1_6",
+            "fact_content": "The summary RR per 20 MET-hours/week was 0.64."
+        },
+        {
+            "fact_id": "17_2_7",
+            "fact_content": "More than 73,391 cases of heart failure were included in the analysis."
+        },
+        {
+            "fact_id": "17_2_8",
+            "fact_content": "1,895,300 participants were included in the analysis."
+        },
+        {
+            "fact_id": "17_2_9",
+            "fact_content": "The summary RR for high versus low leisure-time activity was 0.74."
+        },
+        {
+            "fact_id": "17_3_10",
+            "fact_content": "The summary RR per 20 MET-hours per day of total activity was 0.89."
+        },
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "Engaging in physical activity at a level that achieves or exceeds physical activity guidelines is associated with around a 35% reduction in risk of death from cardiovascular disease."
+        },
+        {
+            "fact_id": "8_0_1",
+            "fact_content": "Physical activity reduces the risk of cardiovascular disease by 35% in adults and older adults."
+        },
+        {
+            "fact_id": "8_0_2",
+            "fact_content": "Physical inactivity is the cause of approximately 30% of ischaemic heart disease."
+        },
+        {
+            "fact_id": "8_1_3",
+            "fact_content": "About 7\u20138% of all cases of cardiovascular disease could be prevented if more people were physically active."
+        },
+        {
+            "fact_id": "8_1_4",
+            "fact_content": "WHO estimates around 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity."
+        },
+        {
+            "fact_id": "8_1_5",
+            "fact_content": "Physical inactivity will cost US$ 27 billion annually."
+        },
+        {
+            "fact_id": "8_2_6",
+            "fact_content": "Almost 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity."
+        },
+        {
+            "fact_id": "8_2_7",
+            "fact_content": "Physical inactivity will cost just over US$300 billion globally between 2020 and 2030."
+        },
+        {
+            "fact_id": "8_2_8",
+            "fact_content": "Physical inactivity will cost around US$ 27 billion annually."
+        },
+        {
+            "fact_id": "8_2_9",
+            "fact_content": "Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease."
+        },
+        {
+            "fact_id": "2_0_0",
+            "fact_content": "27.5% of the global adult population failed to meet the current guidelines for weekly exercise in 2016."
+        },
+        {
+            "fact_id": "2_0_1",
+            "fact_content": "81% of adolescents failed to meet the current guidelines for weekly exercise in 2016."
+        },
+        {
+            "fact_id": "2_0_2",
+            "fact_content": "Physical inactivity was responsible for 13.4 million disability-adjusted life years (DALYs) worldwide."
+        },
+        {
+            "fact_id": "2_0_3",
+            "fact_content": "27% reduction in relative risk of cardiovascular mortality due to physical activity."
+        },
+        {
+            "fact_id": "2_1_4",
+            "fact_content": "Increasing daily step count to 6,500 steps/day is associated with a reduced relative risk of CVD-related mortality of 49%."
+        },
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "Exercise improved systolic blood pressure with SMD = \u22120.33 (95% CI, \u22120.62 to \u22120.05), p = 0.02."
+        },
+        {
+            "fact_id": "9_0_1",
+            "fact_content": "Exercise improved diastolic blood pressure with SMD = \u22120.52 (95% CI, \u22120.92 to \u22120.12), p = 0.01."
+        },
+        {
+            "fact_id": "9_0_2",
+            "fact_content": "Exercise improved resting heart rate with SMD = \u22120.30 (95% CI, \u22120.50 to \u22120.10), p = 0.004."
+        },
+        {
+            "fact_id": "9_1_3",
+            "fact_content": "Exercise was effective in lowering systolic blood pressure in the RCT group with SMD = \u22120.45, 95% CI = [\u22120.83, \u22120.08], p < 0.001."
+        },
+        {
+            "fact_id": "9_2_4",
+            "fact_content": "Exercise was effective in lowering diastolic blood pressure in the RCT group with SMD = \u22120.72, 95% CI = [\u22121.27, \u22120.17], p < 0.001."
+        },
+        {
+            "fact_id": "18_0_0",
+            "fact_content": "9 out of 10 cases of positive ECG appeared during the exercise phase."
+        },
+        {
+            "fact_id": "18_0_1",
+            "fact_content": "1 out of 10 cases of positive ECG appeared during the recovery phase."
+        },
+        {
+            "fact_id": "18_0_2",
+            "fact_content": "Positive ECG changes occurred at a heart rate of \u226562.50% HRR."
+        },
+        {
+            "fact_id": "18_0_3",
+            "fact_content": "It is relatively safe to exercise within the range of exercise target heart rate <62.50% HRR."
+        },
+        {
+            "fact_id": "18_0_4",
+            "fact_content": "Safe starting exercise heart rate is <60% HRR."
+        },
+        {
+            "fact_id": "18_1_5",
+            "fact_content": "Individuals with CVDRF = 3\u20134 are 2.6 times more likely to have an equivocal exercise ECG than those with CVDRF = 0\u20132."
+        },
+        {
+            "fact_id": "18_1_6",
+            "fact_content": "Individuals with CVDRF = 5\u20137 are 5.4 times more likely to have a positive exercise ECG than those with CVDRF = 0\u20132."
+        },
+        {
+            "fact_id": "18_1_7",
+            "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 21 for no CVDRF."
+        },
+        {
+            "fact_id": "18_1_8",
+            "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 27 for one CVDRF."
+        },
+        {
+            "fact_id": "18_1_9",
+            "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 54 for two CVDRFs."
+        },
+        {
+            "fact_id": "18_1_10",
+            "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 80 for three CVDRFs."
+        },
+        {
+            "fact_id": "18_2_11",
+            "fact_content": "Positive exercise ECG results were 20% in men."
+        },
+        {
+            "fact_id": "18_2_12",
+            "fact_content": "Positive exercise ECG results were 80% in women."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day.",
+            "vis_data": [
+                {
+                    "label": "Australians reducing heart disease risk",
+                    "value": "90",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "12_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease and other health issues.",
+            "vis_data": [
+                {
+                    "label": "Sedentary Behavior",
+                    "value": "10+",
+                    "unit": "hours"
+                }
+            ],
+            "fact_id": "5_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Adults should get 300 total minutes of any physical activity weekly.",
+            "vis_data": [
+                {
+                    "label": "Weekly Physical Activity",
+                    "value": "300",
+                    "unit": "minutes"
+                }
+            ],
+            "fact_id": "0_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Moderate to high intensity muscle strengthening at least twice a week.",
+            "vis_data": [
+                {
+                    "label": "Muscle Strengthening Frequency",
+                    "value": "2",
+                    "unit": "times per week"
+                }
+            ],
+            "fact_id": "0_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Sedentary behavior can increase risk of heart failure by up to 60%.",
+            "vis_data": [
+                {
+                    "label": "Increased Risk of Heart Failure",
+                    "value": "60",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "40-60 percent greater risk of heart failure and cardiovascular death when sedentary behavior exceeded 10.6 hours a day.",
+            "vis_data": [
+                {
+                    "label": "Risk Increase (Heart Failure & Death)",
+                    "value": "40",
+                    "unit": "%"
+                },
+                {
+                    "label": "Risk Increase (Heart Failure & Death)",
+                    "value": "60",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Less active, less fit persons have a 30-50 percent greater risk of developing high blood pressure.",
+            "vis_data": [
+                {
+                    "label": "Increased Risk of Hypertension",
+                    "value": "30",
+                    "unit": "%"
+                },
+                {
+                    "label": "Increased Risk of Hypertension",
+                    "value": "50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Approximately 35% of coronary heart disease mortality is due to physical inactivity.",
+            "vis_data": [
+                {
+                    "label": "CHD Mortality Due to Inactivity",
+                    "value": "35",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Coronary heart disease is the leading cause of death in the United States with over 700,000 deaths annually.",
+            "vis_data": [
+                {
+                    "label": "Annual CHD Deaths",
+                    "value": "700000",
+                    "unit": "deaths"
+                }
+            ],
+            "fact_id": "6_1_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Approximately 60% of all Americans age 18 and older report that they are physically inactive.",
+            "vis_data": [
+                {
+                    "label": "Physically Inactive Americans",
+                    "value": "60",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "In 1989 physical inactivity cost the nation $5.7 billion due to hospitalizations and other related health care costs.",
+            "vis_data": [
+                {
+                    "label": "Cost of Inactivity in 1989",
+                    "value": "5700000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "6_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Exercise boosts the amount of blood circulating through your body by up to 25%.",
+            "vis_data": [
+                {
+                    "label": "Blood Circulation Increase",
+                    "value": "25",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "13_0_0"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Exercise reduces systolic pressure by between 5 and 7 points in people with high blood pressure.",
+            "vis_data": [
+                {
+                    "label": "Systolic Pressure Reduction",
+                    "value": "5",
+                    "unit": "points"
+                },
+                {
+                    "label": "Systolic Pressure Reduction",
+                    "value": "7",
+                    "unit": "points"
+                }
+            ],
+            "fact_id": "13_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "30 minutes of moderate intensity exercise at five to seven times per week is recommended.",
+            "vis_data": [
+                {
+                    "label": "Exercise per session",
+                    "value": "30",
+                    "unit": "minutes"
+                }
+            ],
+            "fact_id": "11_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Singapore\u2019s National Physical Activity guidelines recommend 150 minutes of moderate intensity exercise every week.",
+            "vis_data": [
+                {
+                    "label": "Weekly exercise",
+                    "value": "150",
+                    "unit": "minutes"
+                }
+            ],
+            "fact_id": "11_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The cardiac rehabilitation programme usually lasts for one to three months.",
+            "vis_data": [
+                {
+                    "label": "Rehabilitation duration",
+                    "value": "1-3",
+                    "unit": "months"
+                }
+            ],
+            "fact_id": "11_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cardiac patients who attended the structured cardiac rehabilitation programme and participated in regular exercise had up to 25% reduction in the risk of future cardiac events.",
+            "vis_data": [
+                {
+                    "label": "Risk reduction",
+                    "value": "25",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "11_1_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%.",
+            "vis_data": [
+                {
+                    "label": "HF risk reduction",
+                    "value": "17",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "HFrEF patients experience a symptomatic improvement of up to 25%.",
+            "vis_data": [
+                {
+                    "label": "Symptomatic improvement",
+                    "value": "25",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_1_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+            "vis_data": [
+                {
+                    "label": "Increased death risk",
+                    "value": "20",
+                    "unit": "%"
+                },
+                {
+                    "label": "Increased death risk",
+                    "value": "30",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_2_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations.",
+            "vis_data": [
+                {
+                    "label": "HF hospitalization reduction",
+                    "value": "28",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_3_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF.",
+            "vis_data": [
+                {
+                    "label": "All-cause mortality reduction",
+                    "value": "35",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_3_4"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals.",
+            "vis_data": [
+                {
+                    "label": "BP reduction in normotensive",
+                    "value": "2-5",
+                    "unit": "mm Hg"
+                }
+            ],
+            "fact_id": "15_4_5"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by five to seven mm Hg in individuals with HTN.",
+            "vis_data": [
+                {
+                    "label": "BP reduction in HTN",
+                    "value": "5-7",
+                    "unit": "mm Hg"
+                }
+            ],
+            "fact_id": "15_4_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "12,496 cases of heart failure were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Heart Failure Cases",
+                    "value": "12496",
+                    "unit": "cases"
+                }
+            ],
+            "fact_id": "17_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "329,768 participants were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Participants",
+                    "value": "329768",
+                    "unit": "participants"
+                }
+            ],
+            "fact_id": "17_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The summary RR for high versus low physical activity was 0.77.",
+            "vis_data": [
+                {
+                    "label": "Summary RR",
+                    "value": "0.77",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "17_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "3,632 cases of heart failure were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Heart Failure Cases",
+                    "value": "3632",
+                    "unit": "cases"
+                }
+            ],
+            "fact_id": "17_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "158,397 participants were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Participants",
+                    "value": "158397",
+                    "unit": "participants"
+                }
+            ],
+            "fact_id": "17_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The summary RR for high versus low vigorous physical activity was 0.66.",
+            "vis_data": [
+                {
+                    "label": "Summary RR",
+                    "value": "0.66",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "17_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The summary RR per 20 MET-hours/week was 0.64.",
+            "vis_data": [
+                {
+                    "label": "Summary RR per 20 MET-hours/week",
+                    "value": "0.64",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "17_1_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "More than 73,391 cases of heart failure were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Heart Failure Cases",
+                    "value": "73391",
+                    "unit": "cases"
+                }
+            ],
+            "fact_id": "17_2_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "1,895,300 participants were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Participants",
+                    "value": "1895300",
+                    "unit": "participants"
+                }
+            ],
+            "fact_id": "17_2_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The summary RR for high versus low leisure-time activity was 0.74.",
+            "vis_data": [
+                {
+                    "label": "Summary RR",
+                    "value": "0.74",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "17_2_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The summary RR per 20 MET-hours per day of total activity was 0.89.",
+            "vis_data": [
+                {
+                    "label": "Summary RR per 20 MET-hours/day",
+                    "value": "0.89",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "17_3_10"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Engaging in physical activity at a level that achieves or exceeds physical activity guidelines is associated with around a 35% reduction in risk of death from cardiovascular disease.",
+            "vis_data": [
+                {
+                    "label": "Risk reduction with MVPA",
+                    "value": "35",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Physical activity reduces the risk of cardiovascular disease by 35% in adults and older adults.",
+            "vis_data": [
+                {
+                    "label": "CVD risk reduction in adults",
+                    "value": "35",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_0_1"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Physical inactivity is the cause of approximately 30% of ischaemic heart disease.",
+            "vis_data": [
+                {
+                    "label": "Ischaemic heart disease due to inactivity",
+                    "value": "30",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_0_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "About 7\u20138% of all cases of cardiovascular disease could be prevented if more people were physically active.",
+            "vis_data": [
+                {
+                    "label": "Preventable CVD cases",
+                    "value": "7",
+                    "unit": "%"
+                },
+                {
+                    "label": "Preventable CVD cases",
+                    "value": "8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "WHO estimates around 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity.",
+            "vis_data": [
+                {
+                    "label": "New NCD cases due to inactivity",
+                    "value": "500",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "8_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Physical inactivity will cost US$ 27 billion annually.",
+            "vis_data": [
+                {
+                    "label": "Annual cost of inactivity",
+                    "value": "27",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "8_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Almost 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity.",
+            "vis_data": [
+                {
+                    "label": "New NCD cases due to inactivity",
+                    "value": "500",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "8_2_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Physical inactivity will cost just over US$300 billion globally between 2020 and 2030.",
+            "vis_data": [
+                {
+                    "label": "Cost of inactivity (2020-2030)",
+                    "value": "300",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "8_2_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Physical inactivity will cost around US$ 27 billion annually.",
+            "vis_data": [
+                {
+                    "label": "Annual cost of inactivity",
+                    "value": "27",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "8_2_8"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease.",
+            "vis_data": [
+                {
+                    "label": "Risk reduction in active adults",
+                    "value": "35",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_2_9"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "27.5% of the global adult population failed to meet the current guidelines for weekly exercise in 2016.",
+            "vis_data": [
+                {
+                    "label": "Adults not meeting exercise guidelines",
+                    "value": "27.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "81% of adolescents failed to meet the current guidelines for weekly exercise in 2016.",
+            "vis_data": [
+                {
+                    "label": "Adolescents not meeting exercise guidelines",
+                    "value": "81",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Physical inactivity was responsible for 13.4 million disability-adjusted life years (DALYs) worldwide.",
+            "vis_data": [
+                {
+                    "label": "DALYs due to inactivity",
+                    "value": "13.4",
+                    "unit": "million DALYs"
+                }
+            ],
+            "fact_id": "2_0_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "27% reduction in relative risk of cardiovascular mortality due to physical activity.",
+            "vis_data": [
+                {
+                    "label": "Reduction in cardiovascular mortality risk",
+                    "value": "27",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_0_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Increasing daily step count to 6,500 steps/day is associated with a reduced relative risk of CVD-related mortality of 49%.",
+            "vis_data": [
+                {
+                    "label": "Reduction in CVD mortality risk",
+                    "value": "49",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Exercise improved systolic blood pressure with SMD = \u22120.33 (95% CI, \u22120.62 to \u22120.05), p = 0.02.",
+            "vis_data": [
+                {
+                    "label": "Systolic BP Improvement",
+                    "value": "-0.33",
+                    "unit": "SMD"
+                }
+            ],
+            "fact_id": "9_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Exercise improved diastolic blood pressure with SMD = \u22120.52 (95% CI, \u22120.92 to \u22120.12), p = 0.01.",
+            "vis_data": [
+                {
+                    "label": "Diastolic BP Improvement",
+                    "value": "-0.52",
+                    "unit": "SMD"
+                }
+            ],
+            "fact_id": "9_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Exercise improved resting heart rate with SMD = \u22120.30 (95% CI, \u22120.50 to \u22120.10), p = 0.004.",
+            "vis_data": [
+                {
+                    "label": "Resting Heart Rate Improvement",
+                    "value": "-0.30",
+                    "unit": "SMD"
+                }
+            ],
+            "fact_id": "9_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Exercise was effective in lowering systolic blood pressure in the RCT group with SMD = \u22120.45, 95% CI = [\u22120.83, \u22120.08], p < 0.001.",
+            "vis_data": [
+                {
+                    "label": "RCT Systolic BP Improvement",
+                    "value": "-0.45",
+                    "unit": "SMD"
+                }
+            ],
+            "fact_id": "9_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Exercise was effective in lowering diastolic blood pressure in the RCT group with SMD = \u22120.72, 95% CI = [\u22121.27, \u22120.17], p < 0.001.",
+            "vis_data": [
+                {
+                    "label": "RCT Diastolic BP Improvement",
+                    "value": "-0.72",
+                    "unit": "SMD"
+                }
+            ],
+            "fact_id": "9_2_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "9 out of 10 cases of positive ECG appeared during the exercise phase.",
+            "vis_data": [
+                {
+                    "label": "Positive ECG during exercise",
+                    "value": "9",
+                    "unit": "cases"
+                }
+            ],
+            "fact_id": "18_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "1 out of 10 cases of positive ECG appeared during the recovery phase.",
+            "vis_data": [
+                {
+                    "label": "Positive ECG during recovery",
+                    "value": "1",
+                    "unit": "cases"
+                }
+            ],
+            "fact_id": "18_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Positive ECG changes occurred at a heart rate of \u226562.50% HRR.",
+            "vis_data": [
+                {
+                    "label": "Heart rate at positive ECG",
+                    "value": "62.50",
+                    "unit": "% HRR"
+                }
+            ],
+            "fact_id": "18_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "It is relatively safe to exercise within the range of exercise target heart rate <62.50% HRR.",
+            "vis_data": [
+                {
+                    "label": "Safe exercise heart rate",
+                    "value": "<62.50",
+                    "unit": "% HRR"
+                }
+            ],
+            "fact_id": "18_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Safe starting exercise heart rate is <60% HRR.",
+            "vis_data": [
+                {
+                    "label": "Safe starting heart rate",
+                    "value": "<60",
+                    "unit": "% HRR"
+                }
+            ],
+            "fact_id": "18_0_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Individuals with CVDRF = 3\u20134 are 2.6 times more likely to have an equivocal exercise ECG than those with CVDRF = 0\u20132.",
+            "vis_data": [
+                {
+                    "label": "CVDRF 3-4 vs 0-2 equivocal ECG",
+                    "value": "2.6",
+                    "unit": "times"
+                }
+            ],
+            "fact_id": "18_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Individuals with CVDRF = 5\u20137 are 5.4 times more likely to have a positive exercise ECG than those with CVDRF = 0\u20132.",
+            "vis_data": [
+                {
+                    "label": "CVDRF 5-7 vs 0-2 positive ECG",
+                    "value": "5.4",
+                    "unit": "times"
+                }
+            ],
+            "fact_id": "18_1_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 21 for no CVDRF.",
+            "vis_data": [
+                {
+                    "label": "RR for no CVDRF",
+                    "value": "21",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "18_1_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 27 for one CVDRF.",
+            "vis_data": [
+                {
+                    "label": "RR for one CVDRF",
+                    "value": "27",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "18_1_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 54 for two CVDRFs.",
+            "vis_data": [
+                {
+                    "label": "RR for two CVDRFs",
+                    "value": "54",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "18_1_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 80 for three CVDRFs.",
+            "vis_data": [
+                {
+                    "label": "RR for three CVDRFs",
+                    "value": "80",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "18_1_10"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Positive exercise ECG results were 20% in men.",
+            "vis_data": [
+                {
+                    "label": "Positive ECG in men",
+                    "value": "20",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "18_2_11"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Positive exercise ECG results were 80% in women.",
+            "vis_data": [
+                {
+                    "label": "Positive ECG in women",
+                    "value": "80",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "18_2_12"
+        }
+    ]
+}

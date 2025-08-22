@@ -1,0 +1,83 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "The global pharmaceutical market size was estimated at USD 1,645.75 billion in 2024 and is projected to reach USD 2,350.43 billion by 2030, growing at a CAGR of 6.12% from 2025 to 2030.The market is driven by rising chronic disease prevalence, aging populations, and increased healthcare spending.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The global pharmaceutical market size was estimated at USD 1,645.75 billion in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The global pharmaceutical market is projected to reach USD 2,350.43 billion by 2030."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The global pharmaceutical market is growing at a CAGR of 6.12% from 2025 to 2030."
+                }
+            ]
+        },
+        {
+            "paragraph": "The branded segment dominated the pharmaceutical market with a revenue share of 86.76% in 2024. The branded segment is a basis of the pharmaceutical market, fueling growth through innovation and exclusivity. These are patented medicines marketed under proprietary names, addressing critical healthcare challenges such as chronic diseases, cancer, and rare disorders. Their premium pricing reflects the substantial investment in research, development, and regulatory approvals and the value they deliver in advancing treatment standards.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The branded segment dominated the pharmaceutical market with a revenue share of 86.76% in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "The prescription segment dominated the market with a revenue share of 86.76% in 2024 due to rising demand for chronic disease treatments, technological advancements in drug development, and improved healthcare access. Favorable reimbursement policies, physician reliance on prescription medications, and increasing patient awareness contributed to this growth. Regulatory approvals, new product launches, and the expanding elderly population further boosted demand. In addition, the prevalence of lifestyle-related diseases and government initiatives promoting prescription drug use strengthened the segment's position in the market.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The prescription segment dominated the market with a revenue share of 86.76% in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "The cancer segment dominated the market with a revenue share of 18.06% in 2024. The rising prevalence, driven by aging populations, lifestyle changes, and environmental factors, is fueling substantial market growth. According to the American Cancer Society, approximately 1.96 million new cancer cases and 609,820 cancer-related deaths are expected in the U.S. in 2023. This surge has increased demand for treatments, diagnostic tools, and therapies, prompting advancements in pharmaceuticals and healthcare solutions. Ongoing research, improved early detection methods, and innovative therapies further contribute to the segment's market dominance.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The cancer segment dominated the market with a revenue share of 18.06% in 2024."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Approximately 1.96 million new cancer cases are expected in the U.S. in 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Approximately 609,820 cancer-related deaths are expected in the U.S. in 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "The adults segment dominated the peptide drug conjugates market with a revenue share of 63.84% in 2024 due to the high prevalence of chronic diseases, lifestyle-related conditions, and increased healthcare awareness in this age group. Factors such as rising demand for preventive care, early diagnosis, and advanced treatments drive market growth among adults. The working-age population\u2019s focus on health management, coupled with higher healthcare spending, further supports this dominance. In addition, the growing incidence of obesity, cardiovascular diseases, and cancer in adults contributes to the segment\u2019s leading market position.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The adults segment dominated the peptide drug conjugates market with a revenue share of 63.84% in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "The hospital pharmacy segment dominated the peptide drug conjugates market with a revenue share of 53.53% in 2024 due to increasing hospital admissions, rising demand for specialized treatments, and access to a wide range of prescription medications. Hospitals serve as primary points for acute care, chronic disease management, and surgical procedures, driving medication demand through in-house pharmacies. The availability of advanced therapies, including biologics and injectable drugs, further supports this dominance. In addition, favorable reimbursement policies and the growing prevalence of complex conditions requiring hospital-based treatments contribute to the segment\u2019s leading market position.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The hospital pharmacy segment dominated the peptide drug conjugates market with a revenue share of 53.53% in 2024."
+                }
+            ]
+        },
+        {
+            "paragraph": "North America pharmaceutical market holds a leading position in 2024, accounting for 41.87% of the global share. The region's dominance is driven by high healthcare expenditure, strong regulatory frameworks, and advancements in biologics and personalized medicine. Increasing demand for specialty drugs and RNAi-based treatments supports market growth. The U.S. leads the region, benefiting from significant R&D investments, early drug approvals, and a robust pipeline of innovative therapies. Hospital pharmacies dominate distribution, while retail and online pharmacies continue to expand their presence.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "North America pharmaceutical market holds a leading position in 2024, accounting for 41.87% of the global share."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Federal student aid faces major cuts, however, under President Trump. His new budget proposal slashes $980 million from theFederal Work-Study program, which provides part-time jobs for college students who have demonstrated they need more financial assistance.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "$980 million slashed from the Federal Work-Study program."
+                }
+            ]
+        }
+    ]
+}

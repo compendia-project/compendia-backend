@@ -1,0 +1,2279 @@
+{
+    "cluster_wise_facts": [
+        {
+            "cluster_id": 7,
+            "cluster_size": 40,
+            "facts": [
+                {
+                    "fact_id": "13_0_0",
+                    "fact_content": "77% of companies are either using or exploring the use of AI in their businesses."
+                },
+                {
+                    "fact_id": "6_1_2",
+                    "fact_content": "77% of businesses are using or exploring AI."
+                },
+                {
+                    "fact_id": "6_1_3",
+                    "fact_content": "35% of companies are using AI."
+                },
+                {
+                    "fact_id": "6_3_6",
+                    "fact_content": "Compound annual growth rate (CAGR) of 36.6%."
+                },
+                {
+                    "fact_id": "6_4_7",
+                    "fact_content": "The global AI market in the business sector is expected to reach $25.7 billion by 2025."
+                },
+                {
+                    "fact_id": "6_4_8",
+                    "fact_content": "CAGR of 52% from 2019 to 2025."
+                },
+                {
+                    "fact_id": "8_0_0",
+                    "fact_content": "AI market expected to surpass $1.8 trillion by 2030."
+                },
+                {
+                    "fact_id": "8_1_1",
+                    "fact_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030."
+                },
+                {
+                    "fact_id": "10_0_1",
+                    "fact_content": "73 percent of U.S. companies have already adopted AI in some aspect of their business."
+                },
+                {
+                    "fact_id": "10_2_3",
+                    "fact_content": "59 percent of executives agreed that AI enabled them to glean more actionable insights from the analytics they were tracking."
+                },
+                {
+                    "fact_id": "7_2_4",
+                    "fact_content": "Scammers successfully impersonated a company's CFO and other staff members on a video call using deepfakes, leading a finance worker to send $25 million to fraudulent accounts."
+                },
+                {
+                    "fact_id": "5_0_0",
+                    "fact_content": "The AI market is projected to reach $1,339 billion by 2030."
+                },
+                {
+                    "fact_id": "5_0_1",
+                    "fact_content": "The AI market is estimated to have $214 billion revenue in 2024."
+                },
+                {
+                    "fact_id": "5_3_4",
+                    "fact_content": "AI is expected to have an annual growth rate of 36.6% between 2023 and 2030."
+                },
+                {
+                    "fact_id": "5_4_5",
+                    "fact_content": "Nearly three out of four businesses have started using AI for at least one business function."
+                },
+                {
+                    "fact_id": "5_5_7",
+                    "fact_content": "AI adoption rates: India (59%), United Arab Emirates (58%), Singapore (53%), China (50%)."
+                },
+                {
+                    "fact_id": "5_5_8",
+                    "fact_content": "Lower AI adoption rates: Australia (29%), Spain (28%), France (26%)."
+                },
+                {
+                    "fact_id": "5_9_14",
+                    "fact_content": "One in three businesses plan to use ChatGPT to create website content."
+                },
+                {
+                    "fact_id": "5_11_18",
+                    "fact_content": "64% stated that AI would improve business productivity."
+                },
+                {
+                    "fact_id": "5_12_20",
+                    "fact_content": "43% of businesses are concerned about technology dependence."
+                },
+                {
+                    "fact_id": "5_13_22",
+                    "fact_content": "65% of consumers trust businesses that employ AI technology."
+                },
+                {
+                    "fact_id": "3_0_0",
+                    "fact_content": "U.S. private AI investment grew to $109.1 billion in 2024."
+                },
+                {
+                    "fact_id": "3_0_1",
+                    "fact_content": "China's private AI investment was $9.3 billion in 2024."
+                },
+                {
+                    "fact_id": "3_0_7",
+                    "fact_content": "Generative AI investment increased by 18.7% from 2023 to 2024."
+                },
+                {
+                    "fact_id": "3_4_27",
+                    "fact_content": "Canada pledged $2.4 billion for AI investment."
+                },
+                {
+                    "fact_id": "3_5_32",
+                    "fact_content": "The number of graduates with bachelor\u2019s degrees in computing in the U.S. increased 22% over the last 10 years."
+                },
+                {
+                    "fact_id": "3_6_36",
+                    "fact_content": "Score difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year."
+                },
+                {
+                    "fact_id": "12_2_6",
+                    "fact_content": "Nearly 40% of U.S. adults aged 18 to 64 had used generative AI to some extent as of August 2024."
+                },
+                {
+                    "fact_id": "12_5_15",
+                    "fact_content": "AI and machine learning startups' funding equals 1/3 of all VC dollars in 2024."
+                },
+                {
+                    "fact_id": "12_10_21",
+                    "fact_content": "The market for AI in retail stores is experiencing a compound annual growth rate of 34.2%."
+                },
+                {
+                    "fact_id": "12_11_22",
+                    "fact_content": "AI-powered chatbots provide automated customer service in 85% of banks."
+                },
+                {
+                    "fact_id": "12_13_25",
+                    "fact_content": "The AI market value in manufacturing is projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032."
+                },
+                {
+                    "fact_id": "12_15_30",
+                    "fact_content": "93% of marketers leverage AI to generate content more efficiently."
+                },
+                {
+                    "fact_id": "12_16_31",
+                    "fact_content": "75% of marketers report that AI simplifies their job responsibilities."
+                },
+                {
+                    "fact_id": "12_17_32",
+                    "fact_content": "27% of marketers express concerns that AI may challenge their job security."
+                },
+                {
+                    "fact_id": "12_18_33",
+                    "fact_content": "One-third of interactions with e-commerce AI chatbots were focused on product-related inquiries."
+                },
+                {
+                    "fact_id": "12_18_35",
+                    "fact_content": "4% of interactions with e-commerce AI chatbots were related to arranging product returns."
+                },
+                {
+                    "fact_id": "12_19_37",
+                    "fact_content": "Usage of AI by coders increased their productivity by 26%."
+                },
+                {
+                    "fact_id": "12_20_38",
+                    "fact_content": "49% of technology leaders reported that AI is fully embedded in their company\u2019s core business strategy."
+                },
+                {
+                    "fact_id": "12_22_41",
+                    "fact_content": "AI will displace around 85 million jobs."
+                }
+            ]
+        },
+        {
+            "cluster_id": 9,
+            "cluster_size": 29,
+            "facts": [
+                {
+                    "fact_id": "13_0_0",
+                    "fact_content": "77% of companies are either using or exploring the use of AI in their businesses."
+                },
+                {
+                    "fact_id": "6_1_2",
+                    "fact_content": "77% of businesses are using or exploring AI."
+                },
+                {
+                    "fact_id": "6_1_3",
+                    "fact_content": "35% of companies are using AI."
+                },
+                {
+                    "fact_id": "6_3_6",
+                    "fact_content": "Compound annual growth rate (CAGR) of 36.6%."
+                },
+                {
+                    "fact_id": "6_4_7",
+                    "fact_content": "The global AI market in the business sector is expected to reach $25.7 billion by 2025."
+                },
+                {
+                    "fact_id": "6_4_8",
+                    "fact_content": "CAGR of 52% from 2019 to 2025."
+                },
+                {
+                    "fact_id": "8_0_0",
+                    "fact_content": "AI market expected to surpass $1.8 trillion by 2030."
+                },
+                {
+                    "fact_id": "8_1_1",
+                    "fact_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030."
+                },
+                {
+                    "fact_id": "5_0_0",
+                    "fact_content": "The AI market is projected to reach $1,339 billion by 2030."
+                },
+                {
+                    "fact_id": "5_0_1",
+                    "fact_content": "The AI market is estimated to have $214 billion revenue in 2024."
+                },
+                {
+                    "fact_id": "5_9_15",
+                    "fact_content": "44% aim to generate content in multiple languages using ChatGPT."
+                },
+                {
+                    "fact_id": "5_11_18",
+                    "fact_content": "64% stated that AI would improve business productivity."
+                },
+                {
+                    "fact_id": "5_12_20",
+                    "fact_content": "43% of businesses are concerned about technology dependence."
+                },
+                {
+                    "fact_id": "5_14_23",
+                    "fact_content": "54% believe that AI can improve written content."
+                },
+                {
+                    "fact_id": "3_4_27",
+                    "fact_content": "Canada pledged $2.4 billion for AI investment."
+                },
+                {
+                    "fact_id": "3_5_32",
+                    "fact_content": "The number of graduates with bachelor\u2019s degrees in computing in the U.S. increased 22% over the last 10 years."
+                },
+                {
+                    "fact_id": "3_6_36",
+                    "fact_content": "Score difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year."
+                },
+                {
+                    "fact_id": "12_2_6",
+                    "fact_content": "Nearly 40% of U.S. adults aged 18 to 64 had used generative AI to some extent as of August 2024."
+                },
+                {
+                    "fact_id": "12_4_12",
+                    "fact_content": "The AI market is projected to reach $3,680.47 billion by 2034."
+                },
+                {
+                    "fact_id": "12_5_15",
+                    "fact_content": "AI and machine learning startups' funding equals 1/3 of all VC dollars in 2024."
+                },
+                {
+                    "fact_id": "12_6_16",
+                    "fact_content": "Approximately 43% of higher education students utilize AI-powered tools."
+                },
+                {
+                    "fact_id": "12_10_21",
+                    "fact_content": "The market for AI in retail stores is experiencing a compound annual growth rate of 34.2%."
+                },
+                {
+                    "fact_id": "12_13_25",
+                    "fact_content": "The AI market value in manufacturing is projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032."
+                },
+                {
+                    "fact_id": "12_15_30",
+                    "fact_content": "93% of marketers leverage AI to generate content more efficiently."
+                },
+                {
+                    "fact_id": "12_18_33",
+                    "fact_content": "One-third of interactions with e-commerce AI chatbots were focused on product-related inquiries."
+                },
+                {
+                    "fact_id": "12_18_35",
+                    "fact_content": "4% of interactions with e-commerce AI chatbots were related to arranging product returns."
+                },
+                {
+                    "fact_id": "12_20_38",
+                    "fact_content": "49% of technology leaders reported that AI is fully embedded in their company\u2019s core business strategy."
+                },
+                {
+                    "fact_id": "12_22_41",
+                    "fact_content": "AI will displace around 85 million jobs."
+                },
+                {
+                    "fact_id": "12_22_42",
+                    "fact_content": "AI could create 97 million new jobs."
+                }
+            ]
+        },
+        {
+            "cluster_id": 2,
+            "cluster_size": 21,
+            "facts": [
+                {
+                    "fact_id": "13_0_1",
+                    "fact_content": "83% of companies claim that AI is a top priority in their business plans."
+                },
+                {
+                    "fact_id": "6_0_0",
+                    "fact_content": "35% of companies are using AI."
+                },
+                {
+                    "fact_id": "6_0_1",
+                    "fact_content": "42% of companies are exploring AI for its implementation in the future."
+                },
+                {
+                    "fact_id": "6_2_5",
+                    "fact_content": "The global AI market is expected to grow from $9.5 billion in 2018 to $118.6 billion by 2025."
+                },
+                {
+                    "fact_id": "6_5_10",
+                    "fact_content": "The global AI market is expected to reach USD 309.6 billion by 2026."
+                },
+                {
+                    "fact_id": "6_5_11",
+                    "fact_content": "CAGR of 40.1% during the forecast period."
+                },
+                {
+                    "fact_id": "10_1_2",
+                    "fact_content": "AI and other technologies have the potential to automate work activities that absorb 60 to 70 percent of employees\u2019 time."
+                },
+                {
+                    "fact_id": "10_3_4",
+                    "fact_content": "Office buildings consume nearly one-third of the world's energy."
+                },
+                {
+                    "fact_id": "7_0_0",
+                    "fact_content": "Over 90% of organizations had increased their generative AI use over the previous year."
+                },
+                {
+                    "fact_id": "7_1_2",
+                    "fact_content": "Less than half of Americans aged 18 to 64 use generative AI."
+                },
+                {
+                    "fact_id": "7_1_3",
+                    "fact_content": "Just over a quarter of Americans aged 18 to 64 use generative AI at work."
+                },
+                {
+                    "fact_id": "5_1_2",
+                    "fact_content": "AI is expected to contribute a 21% net increase to the United States GDP by 2030."
+                },
+                {
+                    "fact_id": "5_4_6",
+                    "fact_content": "Half of survey respondents use AI for two or more of their business functions."
+                },
+                {
+                    "fact_id": "3_3_23",
+                    "fact_content": "Energy efficiency has improved by 40% each year."
+                },
+                {
+                    "fact_id": "12_2_8",
+                    "fact_content": "AI usage was 28.1% at work."
+                },
+                {
+                    "fact_id": "12_4_13",
+                    "fact_content": "The United States is expected to have an AI market size of $851.46 billion by 2034."
+                },
+                {
+                    "fact_id": "12_7_18",
+                    "fact_content": "The use of ChatGPT for schoolwork by teens doubled from 13% in 2023 to 26% in 2024."
+                },
+                {
+                    "fact_id": "12_8_19",
+                    "fact_content": "12% of U.S. adults report that their healthcare providers utilize AI."
+                },
+                {
+                    "fact_id": "12_9_20",
+                    "fact_content": "80% of Americans believe AI has the potential to improve healthcare quality, reduce costs, and increase accessibility."
+                },
+                {
+                    "fact_id": "12_11_23",
+                    "fact_content": "AI is expected to save the financial industry up to $1 trillion annually by 2030."
+                },
+                {
+                    "fact_id": "12_13_26",
+                    "fact_content": "The AI market in manufacturing is expected to grow at a compound annual growth rate of 33.5%."
+                }
+            ]
+        },
+        {
+            "cluster_id": 3,
+            "cluster_size": 19,
+            "facts": [
+                {
+                    "fact_id": "6_1_4",
+                    "fact_content": "42% of companies are exploring AI for its implementation in the future."
+                },
+                {
+                    "fact_id": "10_3_5",
+                    "fact_content": "Office buildings contribute roughly a quarter of global greenhouse gas emissions."
+                },
+                {
+                    "fact_id": "7_0_1",
+                    "fact_content": "Only 8% of organizations considered their generative AI initiatives mature."
+                },
+                {
+                    "fact_id": "5_2_3",
+                    "fact_content": "64% of businesses believe AI will help increase their overall productivity."
+                },
+                {
+                    "fact_id": "5_6_9",
+                    "fact_content": "77% of people are apprehensive that AI could bring about job losses."
+                },
+                {
+                    "fact_id": "5_7_11",
+                    "fact_content": "AI-related advancements may affect around 15% of the global workforce between 2016 and 2030."
+                },
+                {
+                    "fact_id": "5_8_12",
+                    "fact_content": "Highest long-term AI adoption rate: healthcare (40%), automotive (18%)."
+                },
+                {
+                    "fact_id": "3_4_31",
+                    "fact_content": "Saudi Arabia\u2019s Project Transcendence represents a $100 billion initiative."
+                },
+                {
+                    "fact_id": "3_6_34",
+                    "fact_content": "Nearly 90% of notable AI models in 2024 came from industry."
+                },
+                {
+                    "fact_id": "3_6_35",
+                    "fact_content": "60% of notable AI models in 2023 came from industry."
+                },
+                {
+                    "fact_id": "3_6_37",
+                    "fact_content": "The top two models are now separated by just 0.7%."
+                },
+                {
+                    "fact_id": "12_0_0",
+                    "fact_content": "The adoption rate of generative AI is currently at 39.4%."
+                },
+                {
+                    "fact_id": "12_0_1",
+                    "fact_content": "Three years after the personal computer\u2019s mass introduction, its adoption rate was only 20%."
+                },
+                {
+                    "fact_id": "12_0_2",
+                    "fact_content": "The internet\u2019s adoption rate was 20% two years after its launch."
+                },
+                {
+                    "fact_id": "12_1_3",
+                    "fact_content": "AI adoption in organizations has remained around 50 percent over the past six years."
+                },
+                {
+                    "fact_id": "12_1_4",
+                    "fact_content": "In 2024, AI adoption in organizations rose to 72 percent."
+                },
+                {
+                    "fact_id": "12_1_5",
+                    "fact_content": "Generative AI adoption has reached 65 percent."
+                },
+                {
+                    "fact_id": "12_2_7",
+                    "fact_content": "AI usage was 32.6% at home."
+                },
+                {
+                    "fact_id": "12_5_14",
+                    "fact_content": "AI and machine learning startups secured $131.5 billion in venture capital funding in 2024."
+                }
+            ]
+        },
+        {
+            "cluster_id": 8,
+            "cluster_size": 12,
+            "facts": [
+                {
+                    "fact_id": "6_2_5",
+                    "fact_content": "The global AI market is expected to grow from $9.5 billion in 2018 to $118.6 billion by 2025."
+                },
+                {
+                    "fact_id": "6_5_9",
+                    "fact_content": "The global AI market size was valued at USD 62.35 billion in 2020."
+                },
+                {
+                    "fact_id": "5_7_10",
+                    "fact_content": "AI could displace 400 million workers worldwide."
+                },
+                {
+                    "fact_id": "3_0_3",
+                    "fact_content": "Generative AI attracted $33.9 billion globally in private investment in 2024."
+                },
+                {
+                    "fact_id": "3_3_23",
+                    "fact_content": "Energy efficiency has improved by 40% each year."
+                },
+                {
+                    "fact_id": "3_5_33",
+                    "fact_content": "81% of K\u201312 CS teachers in the U.S. say AI should be part of foundational CS education."
+                },
+                {
+                    "fact_id": "12_11_22",
+                    "fact_content": "AI-powered chatbots provide automated customer service in 85% of banks."
+                },
+                {
+                    "fact_id": "12_12_24",
+                    "fact_content": "77% of financial institutions utilize AI for portfolio management."
+                },
+                {
+                    "fact_id": "12_13_27",
+                    "fact_content": "AI has achieved a 90% accuracy rate in defect detection in manufacturing."
+                },
+                {
+                    "fact_id": "12_14_28",
+                    "fact_content": "97% of manufacturing companies have integrated AI into their operations."
+                },
+                {
+                    "fact_id": "12_19_36",
+                    "fact_content": "AI is predicted to drive productivity gains ranging from 20% to 30% in various sectors by 2025."
+                },
+                {
+                    "fact_id": "12_20_39",
+                    "fact_content": "One-third of technology leaders stated that AI is fully integrated into their products and services."
+                }
+            ]
+        },
+        {
+            "cluster_id": 5,
+            "cluster_size": 13,
+            "facts": [
+                {
+                    "fact_id": "10_0_0",
+                    "fact_content": "79 percent of corporate strategists agree that AI and analytics will be critical to their organization\u2019s success over the next two years."
+                },
+                {
+                    "fact_id": "5_11_17",
+                    "fact_content": "Over 60% of business owners believe AI will increase productivity."
+                },
+                {
+                    "fact_id": "5_11_19",
+                    "fact_content": "42% believe AI will streamline job processes."
+                },
+                {
+                    "fact_id": "5_12_21",
+                    "fact_content": "35% worry about having the technical skills to use AI effectively."
+                },
+                {
+                    "fact_id": "3_0_5",
+                    "fact_content": "55% of organizations reported using AI in 2023."
+                },
+                {
+                    "fact_id": "3_1_10",
+                    "fact_content": "Europe produced three notable AI models in 2024."
+                },
+                {
+                    "fact_id": "3_2_21",
+                    "fact_content": "Optimism in the United States grew by 4% since 2022."
+                },
+                {
+                    "fact_id": "3_3_24",
+                    "fact_content": "Performance difference between open-weight and closed models reduced from 8% to 1.7% on some benchmarks in a single year."
+                },
+                {
+                    "fact_id": "3_4_26",
+                    "fact_content": "Legislative mentions of AI rose 21.3% across 75 countries since 2023."
+                },
+                {
+                    "fact_id": "3_4_28",
+                    "fact_content": "China launched a $47.5 billion semiconductor fund."
+                },
+                {
+                    "fact_id": "3_4_29",
+                    "fact_content": "France committed \u20ac109 billion for AI investment."
+                },
+                {
+                    "fact_id": "12_2_9",
+                    "fact_content": "Daily AI use was 10.6% at work."
+                },
+                {
+                    "fact_id": "12_7_17",
+                    "fact_content": "26% of teens used ChatGPT for schoolwork in 2024."
+                }
+            ]
+        },
+        {
+            "cluster_id": 1,
+            "cluster_size": 13,
+            "facts": [
+                {
+                    "fact_id": "10_0_1",
+                    "fact_content": "73 percent of U.S. companies have already adopted AI in some aspect of their business."
+                },
+                {
+                    "fact_id": "10_2_3",
+                    "fact_content": "59 percent of executives agreed that AI enabled them to glean more actionable insights from the analytics they were tracking."
+                },
+                {
+                    "fact_id": "5_9_13",
+                    "fact_content": "97% of business owners believe ChatGPT will benefit their businesses."
+                },
+                {
+                    "fact_id": "5_10_16",
+                    "fact_content": "64% of business owners believe AI can improve customer relationships."
+                },
+                {
+                    "fact_id": "5_13_22",
+                    "fact_content": "65% of consumers trust businesses that employ AI technology."
+                },
+                {
+                    "fact_id": "3_0_0",
+                    "fact_content": "U.S. private AI investment grew to $109.1 billion in 2024."
+                },
+                {
+                    "fact_id": "3_0_6",
+                    "fact_content": "AI business usage increased from 55% in 2023 to 78% in 2024."
+                },
+                {
+                    "fact_id": "3_1_8",
+                    "fact_content": "U.S.-based institutions produced 40 notable AI models in 2024."
+                },
+                {
+                    "fact_id": "3_1_9",
+                    "fact_content": "China produced 15 notable AI models in 2024."
+                },
+                {
+                    "fact_id": "3_2_13",
+                    "fact_content": "77% in Thailand see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_id": "3_2_14",
+                    "fact_content": "40% in Canada see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_id": "12_14_29",
+                    "fact_content": "AI is expected to boost manufacturing productivity by 40% by 2035."
+                },
+                {
+                    "fact_id": "12_21_40",
+                    "fact_content": "Only 5% of businesses in the U.S. are currently utilizing AI technology."
+                }
+            ]
+        },
+        {
+            "cluster_id": 4,
+            "cluster_size": 12,
+            "facts": [
+                {
+                    "fact_id": "3_0_2",
+                    "fact_content": "The U.K.'s private AI investment was $4.5 billion in 2024."
+                },
+                {
+                    "fact_id": "3_0_4",
+                    "fact_content": "78% of organizations reported using AI in 2024."
+                },
+                {
+                    "fact_id": "3_2_11",
+                    "fact_content": "83% in China see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_id": "3_2_19",
+                    "fact_content": "Optimism in Canada grew by 8% since 2022."
+                },
+                {
+                    "fact_id": "3_2_20",
+                    "fact_content": "Optimism in Great Britain grew by 8% since 2022."
+                },
+                {
+                    "fact_id": "3_3_22",
+                    "fact_content": "Hardware costs have declined by 30% annually."
+                },
+                {
+                    "fact_id": "3_4_25",
+                    "fact_content": "U.S. federal agencies introduced 59 AI-related regulations in 2024."
+                },
+                {
+                    "fact_id": "3_4_30",
+                    "fact_content": "India pledged $1.25 billion for AI investment."
+                },
+                {
+                    "fact_id": "3_6_37",
+                    "fact_content": "The top two models are now separated by just 0.7%."
+                },
+                {
+                    "fact_id": "12_2_10",
+                    "fact_content": "Daily AI use was 6.4% at home."
+                },
+                {
+                    "fact_id": "12_3_11",
+                    "fact_content": "The global AI industry is valued at approximately $638.23 billion as of 2024."
+                },
+                {
+                    "fact_id": "12_18_34",
+                    "fact_content": "20% of interactions with e-commerce AI chatbots involved order status and shipping."
+                }
+            ]
+        },
+        {
+            "cluster_id": 6,
+            "cluster_size": 5,
+            "facts": [
+                {
+                    "fact_id": "3_2_12",
+                    "fact_content": "80% in Indonesia see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_id": "3_2_15",
+                    "fact_content": "39% in the United States see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_id": "3_2_16",
+                    "fact_content": "36% in the Netherlands see AI products and services as more beneficial than harmful."
+                },
+                {
+                    "fact_id": "3_2_17",
+                    "fact_content": "Optimism in Germany grew by 10% since 2022."
+                },
+                {
+                    "fact_id": "3_2_18",
+                    "fact_content": "Optimism in France grew by 10% since 2022."
+                }
+            ]
+        }
+    ],
+    "fact_wise_clusters": [
+        {
+            "fact_id": "13_0_0",
+            "fact_content": "77% of companies are either using or exploring the use of AI in their businesses.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.692015789835615
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.3079087524717228
+                }
+            ]
+        },
+        {
+            "fact_id": "13_0_1",
+            "fact_content": "83% of companies claim that AI is a top priority in their business plans.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999998114496416
+                }
+            ]
+        },
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "35% of companies are using AI.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999375499905
+                }
+            ]
+        },
+        {
+            "fact_id": "6_0_1",
+            "fact_content": "42% of companies are exploring AI for its implementation in the future.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9989672462237651
+                }
+            ]
+        },
+        {
+            "fact_id": "6_1_2",
+            "fact_content": "77% of businesses are using or exploring AI.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.7377636669289181
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.26215513427638903
+                }
+            ]
+        },
+        {
+            "fact_id": "6_1_3",
+            "fact_content": "35% of companies are using AI.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.6765472761403031
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.3233459227361029
+                }
+            ]
+        },
+        {
+            "fact_id": "6_1_4",
+            "fact_content": "42% of companies are exploring AI for its implementation in the future.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999863088925304
+                }
+            ]
+        },
+        {
+            "fact_id": "6_2_5",
+            "fact_content": "The global AI market is expected to grow from $9.5 billion in 2018 to $118.6 billion by 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.399102877835619
+                },
+                {
+                    "cluster_id": 8,
+                    "probability": 0.6008595195054899
+                }
+            ]
+        },
+        {
+            "fact_id": "6_3_6",
+            "fact_content": "Compound annual growth rate (CAGR) of 36.6%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.573117291077558
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.42532530495789717
+                }
+            ]
+        },
+        {
+            "fact_id": "6_4_7",
+            "fact_content": "The global AI market in the business sector is expected to reach $25.7 billion by 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.5314315629505031
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.4676682656395328
+                }
+            ]
+        },
+        {
+            "fact_id": "6_4_8",
+            "fact_content": "CAGR of 52% from 2019 to 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.6462218651742294
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.3536899020320153
+                }
+            ]
+        },
+        {
+            "fact_id": "6_5_9",
+            "fact_content": "The global AI market size was valued at USD 62.35 billion in 2020.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9987473737219866
+                }
+            ]
+        },
+        {
+            "fact_id": "6_5_10",
+            "fact_content": "The global AI market is expected to reach USD 309.6 billion by 2026.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9993299746334704
+                }
+            ]
+        },
+        {
+            "fact_id": "6_5_11",
+            "fact_content": "CAGR of 40.1% during the forecast period.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999237367684255
+                }
+            ]
+        },
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "AI market expected to surpass $1.8 trillion by 2030.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.5441620386522648
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.4484712778205291
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_1",
+            "fact_content": "AI adoption could contribute over $15.7 trillion to the global economy by 2030.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.6851406654405415
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.31476529778141704
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_0",
+            "fact_content": "79 percent of corporate strategists agree that AI and analytics will be critical to their organization\u2019s success over the next two years.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9528625076283121
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_1",
+            "fact_content": "73 percent of U.S. companies have already adopted AI in some aspect of their business.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.5017961305746322
+                },
+                {
+                    "cluster_id": 7,
+                    "probability": 0.48971791779553014
+                }
+            ]
+        },
+        {
+            "fact_id": "10_1_2",
+            "fact_content": "AI and other technologies have the potential to automate work activities that absorb 60 to 70 percent of employees\u2019 time.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999999668727
+                }
+            ]
+        },
+        {
+            "fact_id": "10_2_3",
+            "fact_content": "59 percent of executives agreed that AI enabled them to glean more actionable insights from the analytics they were tracking.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.5229989596895955
+                },
+                {
+                    "cluster_id": 7,
+                    "probability": 0.47562262200560673
+                }
+            ]
+        },
+        {
+            "fact_id": "10_3_4",
+            "fact_content": "Office buildings consume nearly one-third of the world's energy.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999998222902
+                }
+            ]
+        },
+        {
+            "fact_id": "10_3_5",
+            "fact_content": "Office buildings contribute roughly a quarter of global greenhouse gas emissions.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9997596367418118
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "Over 90% of organizations had increased their generative AI use over the previous year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999998868216979
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_1",
+            "fact_content": "Only 8% of organizations considered their generative AI initiatives mature.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999554191311224
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_2",
+            "fact_content": "Less than half of Americans aged 18 to 64 use generative AI.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9993989551153213
+                }
+            ]
+        },
+        {
+            "fact_id": "7_1_3",
+            "fact_content": "Just over a quarter of Americans aged 18 to 64 use generative AI at work.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.998112691982783
+                }
+            ]
+        },
+        {
+            "fact_id": "7_2_4",
+            "fact_content": "Scammers successfully impersonated a company's CFO and other staff members on a video call using deepfakes, leading a finance worker to send $25 million to fraudulent accounts.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.8756135727513598
+                }
+            ]
+        },
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "The AI market is projected to reach $1,339 billion by 2030.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.5158332527971166
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.48318211159851243
+                }
+            ]
+        },
+        {
+            "fact_id": "5_0_1",
+            "fact_content": "The AI market is estimated to have $214 billion revenue in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.6147558629501662
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.3852422274492001
+                }
+            ]
+        },
+        {
+            "fact_id": "5_1_2",
+            "fact_content": "AI is expected to contribute a 21% net increase to the United States GDP by 2030.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999717665911151
+                }
+            ]
+        },
+        {
+            "fact_id": "5_2_3",
+            "fact_content": "64% of businesses believe AI will help increase their overall productivity.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9974641317833424
+                }
+            ]
+        },
+        {
+            "fact_id": "5_3_4",
+            "fact_content": "AI is expected to have an annual growth rate of 36.6% between 2023 and 2030.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.8529189564335579
+                }
+            ]
+        },
+        {
+            "fact_id": "5_4_5",
+            "fact_content": "Nearly three out of four businesses have started using AI for at least one business function.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9007000949288686
+                }
+            ]
+        },
+        {
+            "fact_id": "5_4_6",
+            "fact_content": "Half of survey respondents use AI for two or more of their business functions.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999993548596138
+                }
+            ]
+        },
+        {
+            "fact_id": "5_5_7",
+            "fact_content": "AI adoption rates: India (59%), United Arab Emirates (58%), Singapore (53%), China (50%).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9949925185622741
+                }
+            ]
+        },
+        {
+            "fact_id": "5_5_8",
+            "fact_content": "Lower AI adoption rates: Australia (29%), Spain (28%), France (26%).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.8457712890850473
+                }
+            ]
+        },
+        {
+            "fact_id": "5_6_9",
+            "fact_content": "77% of people are apprehensive that AI could bring about job losses.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9720091845165733
+                }
+            ]
+        },
+        {
+            "fact_id": "5_7_10",
+            "fact_content": "AI could displace 400 million workers worldwide.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9997631896944873
+                }
+            ]
+        },
+        {
+            "fact_id": "5_7_11",
+            "fact_content": "AI-related advancements may affect around 15% of the global workforce between 2016 and 2030.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.8962827204205871
+                }
+            ]
+        },
+        {
+            "fact_id": "5_8_12",
+            "fact_content": "Highest long-term AI adoption rate: healthcare (40%), automotive (18%).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9842716550604722
+                }
+            ]
+        },
+        {
+            "fact_id": "5_9_13",
+            "fact_content": "97% of business owners believe ChatGPT will benefit their businesses.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.8669727859835903
+                }
+            ]
+        },
+        {
+            "fact_id": "5_9_14",
+            "fact_content": "One in three businesses plan to use ChatGPT to create website content.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9973910707982953
+                }
+            ]
+        },
+        {
+            "fact_id": "5_9_15",
+            "fact_content": "44% aim to generate content in multiple languages using ChatGPT.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9876939427436717
+                }
+            ]
+        },
+        {
+            "fact_id": "5_10_16",
+            "fact_content": "64% of business owners believe AI can improve customer relationships.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.8475973197950073
+                }
+            ]
+        },
+        {
+            "fact_id": "5_11_17",
+            "fact_content": "Over 60% of business owners believe AI will increase productivity.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9996025290560798
+                }
+            ]
+        },
+        {
+            "fact_id": "5_11_18",
+            "fact_content": "64% stated that AI would improve business productivity.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.6868074556344385
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.2595088610017918
+                }
+            ]
+        },
+        {
+            "fact_id": "5_11_19",
+            "fact_content": "42% believe AI will streamline job processes.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.999988020261834
+                }
+            ]
+        },
+        {
+            "fact_id": "5_12_20",
+            "fact_content": "43% of businesses are concerned about technology dependence.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.6828616757413055
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.2566435964180738
+                }
+            ]
+        },
+        {
+            "fact_id": "5_12_21",
+            "fact_content": "35% worry about having the technical skills to use AI effectively.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9998850357520466
+                }
+            ]
+        },
+        {
+            "fact_id": "5_13_22",
+            "fact_content": "65% of consumers trust businesses that employ AI technology.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.3463326681781902
+                },
+                {
+                    "cluster_id": 7,
+                    "probability": 0.6424557626082235
+                }
+            ]
+        },
+        {
+            "fact_id": "5_14_23",
+            "fact_content": "54% believe that AI can improve written content.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9938539151390959
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_0",
+            "fact_content": "U.S. private AI investment grew to $109.1 billion in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.6669253911550614
+                },
+                {
+                    "cluster_id": 7,
+                    "probability": 0.3309982172238558
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_1",
+            "fact_content": "China's private AI investment was $9.3 billion in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9979445557360364
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_2",
+            "fact_content": "The U.K.'s private AI investment was $4.5 billion in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9969222554941747
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_3",
+            "fact_content": "Generative AI attracted $33.9 billion globally in private investment in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9995364251461633
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_4",
+            "fact_content": "78% of organizations reported using AI in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9978003004953704
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_5",
+            "fact_content": "55% of organizations reported using AI in 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9997366277784764
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_6",
+            "fact_content": "AI business usage increased from 55% in 2023 to 78% in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9978072939553413
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_7",
+            "fact_content": "Generative AI investment increased by 18.7% from 2023 to 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9703189946098404
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_8",
+            "fact_content": "U.S.-based institutions produced 40 notable AI models in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.999442093499566
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_9",
+            "fact_content": "China produced 15 notable AI models in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9973861656850056
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_10",
+            "fact_content": "Europe produced three notable AI models in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999553059987949
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_11",
+            "fact_content": "83% in China see AI products and services as more beneficial than harmful.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9065776958237641
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_12",
+            "fact_content": "80% in Indonesia see AI products and services as more beneficial than harmful.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999998138409616
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_13",
+            "fact_content": "77% in Thailand see AI products and services as more beneficial than harmful.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9997529988783838
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_14",
+            "fact_content": "40% in Canada see AI products and services as more beneficial than harmful.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9993164700422583
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_15",
+            "fact_content": "39% in the United States see AI products and services as more beneficial than harmful.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999996346885683
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_16",
+            "fact_content": "36% in the Netherlands see AI products and services as more beneficial than harmful.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999996777198081
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_17",
+            "fact_content": "Optimism in Germany grew by 10% since 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999999146537225
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_18",
+            "fact_content": "Optimism in France grew by 10% since 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999998014978481
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_19",
+            "fact_content": "Optimism in Canada grew by 8% since 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9863781469927836
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_20",
+            "fact_content": "Optimism in Great Britain grew by 8% since 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9913195382281125
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_21",
+            "fact_content": "Optimism in the United States grew by 4% since 2022.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.999999066795161
+                }
+            ]
+        },
+        {
+            "fact_id": "3_3_22",
+            "fact_content": "Hardware costs have declined by 30% annually.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9980463657306317
+                }
+            ]
+        },
+        {
+            "fact_id": "3_3_23",
+            "fact_content": "Energy efficiency has improved by 40% each year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.2982614241443031
+                },
+                {
+                    "cluster_id": 8,
+                    "probability": 0.7014956480791079
+                }
+            ]
+        },
+        {
+            "fact_id": "3_3_24",
+            "fact_content": "Performance difference between open-weight and closed models reduced from 8% to 1.7% on some benchmarks in a single year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999993166606774
+                }
+            ]
+        },
+        {
+            "fact_id": "3_4_25",
+            "fact_content": "U.S. federal agencies introduced 59 AI-related regulations in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9750581677204605
+                }
+            ]
+        },
+        {
+            "fact_id": "3_4_26",
+            "fact_content": "Legislative mentions of AI rose 21.3% across 75 countries since 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999984929652821
+                }
+            ]
+        },
+        {
+            "fact_id": "3_4_27",
+            "fact_content": "Canada pledged $2.4 billion for AI investment.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.6919639136518846
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.30803270823719475
+                }
+            ]
+        },
+        {
+            "fact_id": "3_4_28",
+            "fact_content": "China launched a $47.5 billion semiconductor fund.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999894978258607
+                }
+            ]
+        },
+        {
+            "fact_id": "3_4_29",
+            "fact_content": "France committed \u20ac109 billion for AI investment.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9999994489851639
+                }
+            ]
+        },
+        {
+            "fact_id": "3_4_30",
+            "fact_content": "India pledged $1.25 billion for AI investment.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9232843965442695
+                }
+            ]
+        },
+        {
+            "fact_id": "3_4_31",
+            "fact_content": "Saudi Arabia\u2019s Project Transcendence represents a $100 billion initiative.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.7383563266997992
+                }
+            ]
+        },
+        {
+            "fact_id": "3_5_32",
+            "fact_content": "The number of graduates with bachelor\u2019s degrees in computing in the U.S. increased 22% over the last 10 years.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.6641960876747511
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.33579657710879707
+                }
+            ]
+        },
+        {
+            "fact_id": "3_5_33",
+            "fact_content": "81% of K\u201312 CS teachers in the U.S. say AI should be part of foundational CS education.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.94244614287076
+                }
+            ]
+        },
+        {
+            "fact_id": "3_6_34",
+            "fact_content": "Nearly 90% of notable AI models in 2024 came from industry.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9991698044518944
+                }
+            ]
+        },
+        {
+            "fact_id": "3_6_35",
+            "fact_content": "60% of notable AI models in 2023 came from industry.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9689842244135399
+                }
+            ]
+        },
+        {
+            "fact_id": "3_6_36",
+            "fact_content": "Score difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.5173119537501832
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.45505131486074163
+                }
+            ]
+        },
+        {
+            "fact_id": "3_6_37",
+            "fact_content": "The top two models are now separated by just 0.7%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.39213607882993484
+                },
+                {
+                    "cluster_id": 4,
+                    "probability": 0.401329727328731
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_0",
+            "fact_content": "The adoption rate of generative AI is currently at 39.4%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9928413696416212
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_1",
+            "fact_content": "Three years after the personal computer\u2019s mass introduction, its adoption rate was only 20%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9979975800479182
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_2",
+            "fact_content": "The internet\u2019s adoption rate was 20% two years after its launch.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.999974221339372
+                }
+            ]
+        },
+        {
+            "fact_id": "12_1_3",
+            "fact_content": "AI adoption in organizations has remained around 50 percent over the past six years.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9904572273373824
+                }
+            ]
+        },
+        {
+            "fact_id": "12_1_4",
+            "fact_content": "In 2024, AI adoption in organizations rose to 72 percent.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9996596849942946
+                }
+            ]
+        },
+        {
+            "fact_id": "12_1_5",
+            "fact_content": "Generative AI adoption has reached 65 percent.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999618426304449
+                }
+            ]
+        },
+        {
+            "fact_id": "12_2_6",
+            "fact_content": "Nearly 40% of U.S. adults aged 18 to 64 had used generative AI to some extent as of August 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.3187569882606427
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.6796752901887626
+                }
+            ]
+        },
+        {
+            "fact_id": "12_2_7",
+            "fact_content": "AI usage was 32.6% at home.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999226878300557
+                }
+            ]
+        },
+        {
+            "fact_id": "12_2_8",
+            "fact_content": "AI usage was 28.1% at work.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999984844545
+                }
+            ]
+        },
+        {
+            "fact_id": "12_2_9",
+            "fact_content": "Daily AI use was 10.6% at work.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9782710117644392
+                }
+            ]
+        },
+        {
+            "fact_id": "12_2_10",
+            "fact_content": "Daily AI use was 6.4% at home.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9966429589405139
+                }
+            ]
+        },
+        {
+            "fact_id": "12_3_11",
+            "fact_content": "The global AI industry is valued at approximately $638.23 billion as of 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9978932256573853
+                }
+            ]
+        },
+        {
+            "fact_id": "12_4_12",
+            "fact_content": "The AI market is projected to reach $3,680.47 billion by 2034.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9305892330117965
+                }
+            ]
+        },
+        {
+            "fact_id": "12_4_13",
+            "fact_content": "The United States is expected to have an AI market size of $851.46 billion by 2034.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999876749744632
+                }
+            ]
+        },
+        {
+            "fact_id": "12_5_14",
+            "fact_content": "AI and machine learning startups secured $131.5 billion in venture capital funding in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9995134007680893
+                }
+            ]
+        },
+        {
+            "fact_id": "12_5_15",
+            "fact_content": "AI and machine learning startups' funding equals 1/3 of all VC dollars in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.7181653567965697
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.28167321620564667
+                }
+            ]
+        },
+        {
+            "fact_id": "12_6_16",
+            "fact_content": "Approximately 43% of higher education students utilize AI-powered tools.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9815154312691965
+                }
+            ]
+        },
+        {
+            "fact_id": "12_7_17",
+            "fact_content": "26% of teens used ChatGPT for schoolwork in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9932063285801873
+                }
+            ]
+        },
+        {
+            "fact_id": "12_7_18",
+            "fact_content": "The use of ChatGPT for schoolwork by teens doubled from 13% in 2023 to 26% in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999965447029805
+                }
+            ]
+        },
+        {
+            "fact_id": "12_8_19",
+            "fact_content": "12% of U.S. adults report that their healthcare providers utilize AI.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999999978262
+                }
+            ]
+        },
+        {
+            "fact_id": "12_9_20",
+            "fact_content": "80% of Americans believe AI has the potential to improve healthcare quality, reduce costs, and increase accessibility.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9979088773519775
+                }
+            ]
+        },
+        {
+            "fact_id": "12_10_21",
+            "fact_content": "The market for AI in retail stores is experiencing a compound annual growth rate of 34.2%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.2994867315426949
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.7002894207645033
+                }
+            ]
+        },
+        {
+            "fact_id": "12_11_22",
+            "fact_content": "AI-powered chatbots provide automated customer service in 85% of banks.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.2226869659298208
+                },
+                {
+                    "cluster_id": 8,
+                    "probability": 0.6537867011870007
+                }
+            ]
+        },
+        {
+            "fact_id": "12_11_23",
+            "fact_content": "AI is expected to save the financial industry up to $1 trillion annually by 2030.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999999912447342
+                }
+            ]
+        },
+        {
+            "fact_id": "12_12_24",
+            "fact_content": "77% of financial institutions utilize AI for portfolio management.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9909919547113403
+                }
+            ]
+        },
+        {
+            "fact_id": "12_13_25",
+            "fact_content": "The AI market value in manufacturing is projected to grow from $5.94 billion in 2024 to $68.36 billion by 2032.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.7412537039513925
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.2568942862215115
+                }
+            ]
+        },
+        {
+            "fact_id": "12_13_26",
+            "fact_content": "The AI market in manufacturing is expected to grow at a compound annual growth rate of 33.5%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999997039149856
+                }
+            ]
+        },
+        {
+            "fact_id": "12_13_27",
+            "fact_content": "AI has achieved a 90% accuracy rate in defect detection in manufacturing.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9996303599496366
+                }
+            ]
+        },
+        {
+            "fact_id": "12_14_28",
+            "fact_content": "97% of manufacturing companies have integrated AI into their operations.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9928718009029205
+                }
+            ]
+        },
+        {
+            "fact_id": "12_14_29",
+            "fact_content": "AI is expected to boost manufacturing productivity by 40% by 2035.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9904520476601447
+                }
+            ]
+        },
+        {
+            "fact_id": "12_15_30",
+            "fact_content": "93% of marketers leverage AI to generate content more efficiently.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.4120328541033493
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.5864621817110538
+                }
+            ]
+        },
+        {
+            "fact_id": "12_16_31",
+            "fact_content": "75% of marketers report that AI simplifies their job responsibilities.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9906128921154282
+                }
+            ]
+        },
+        {
+            "fact_id": "12_17_32",
+            "fact_content": "27% of marketers express concerns that AI may challenge their job security.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9976719950794863
+                }
+            ]
+        },
+        {
+            "fact_id": "12_18_33",
+            "fact_content": "One-third of interactions with e-commerce AI chatbots were focused on product-related inquiries.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.3736244811372219
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.6262177251974893
+                }
+            ]
+        },
+        {
+            "fact_id": "12_18_34",
+            "fact_content": "20% of interactions with e-commerce AI chatbots involved order status and shipping.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9946954593870881
+                }
+            ]
+        },
+        {
+            "fact_id": "12_18_35",
+            "fact_content": "4% of interactions with e-commerce AI chatbots were related to arranging product returns.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.679549740258846
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.3204280294803195
+                }
+            ]
+        },
+        {
+            "fact_id": "12_19_36",
+            "fact_content": "AI is predicted to drive productivity gains ranging from 20% to 30% in various sectors by 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9996594487485582
+                }
+            ]
+        },
+        {
+            "fact_id": "12_19_37",
+            "fact_content": "Usage of AI by coders increased their productivity by 26%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9983200704713229
+                }
+            ]
+        },
+        {
+            "fact_id": "12_20_38",
+            "fact_content": "49% of technology leaders reported that AI is fully embedded in their company\u2019s core business strategy.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.46776758950359515
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.5259427876534737
+                }
+            ]
+        },
+        {
+            "fact_id": "12_20_39",
+            "fact_content": "One-third of technology leaders stated that AI is fully integrated into their products and services.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.990212692803276
+                }
+            ]
+        },
+        {
+            "fact_id": "12_21_40",
+            "fact_content": "Only 5% of businesses in the U.S. are currently utilizing AI technology.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9996327325920329
+                }
+            ]
+        },
+        {
+            "fact_id": "12_22_41",
+            "fact_content": "AI will displace around 85 million jobs.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.21401851661803473
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.7853475329419528
+                }
+            ]
+        },
+        {
+            "fact_id": "12_22_42",
+            "fact_content": "AI could create 97 million new jobs.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9953415495535827
+                }
+            ]
+        }
+    ],
+    "evaluation_metrics": {
+        "silhouette_score": 0.4439625144004822,
+        "davies_bouldin_score": 0.693019907737991,
+        "cluster_entropy": 0.2210306270331496
+    },
+    "cluster_summary": {
+        "3": {
+            "representative_fact": "AI usage was 32.6% at home.",
+            "top_keywords": [
+                "ai",
+                "adoption",
+                "rate",
+                "organizations",
+                "generative"
+            ],
+            "mean_similarity": 0.4985200002182173,
+            "mean_similarity_normalized": 0.9954589622287623
+        },
+        "9": {
+            "representative_fact": "The AI market is estimated to have $214 billion revenue in 2024.",
+            "top_keywords": [
+                "ai",
+                "market",
+                "billion",
+                "using",
+                "2024"
+            ],
+            "mean_similarity": 0.3802460051947411,
+            "mean_similarity_normalized": 0.5494175200719075
+        },
+        "6": {
+            "representative_fact": "36% in the Netherlands see AI products and services as more beneficial than harmful.",
+            "top_keywords": [
+                "see",
+                "ai",
+                "products",
+                "services",
+                "beneficial"
+            ],
+            "mean_similarity": 0.23456042781750738,
+            "mean_similarity_normalized": 0.0
+        },
+        "1": {
+            "representative_fact": "40% in Canada see AI products and services as more beneficial than harmful.",
+            "top_keywords": [
+                "ai",
+                "u",
+                "business",
+                "2024",
+                "businesses"
+            ],
+            "mean_similarity": 0.46745225338630503,
+            "mean_similarity_normalized": 0.8782945542900635
+        },
+        "8": {
+            "representative_fact": "77% of financial institutions utilize AI for portfolio management.",
+            "top_keywords": [
+                "ai",
+                "billion",
+                "global",
+                "market",
+                "9"
+            ],
+            "mean_similarity": 0.48078711074165853,
+            "mean_similarity_normalized": 0.9285837070709198
+        },
+        "2": {
+            "representative_fact": "80% of Americans believe AI has the potential to improve healthcare quality, reduce costs, and increase accessibility.",
+            "top_keywords": [
+                "ai",
+                "expected",
+                "use",
+                "market",
+                "billion"
+            ],
+            "mean_similarity": 0.49972411855340976,
+            "mean_similarity_normalized": 1.0
+        },
+        "5": {
+            "representative_fact": "Over 60% of business owners believe AI will increase productivity.",
+            "top_keywords": [
+                "ai",
+                "believe",
+                "use",
+                "2023",
+                "models"
+            ],
+            "mean_similarity": 0.3940599969522755,
+            "mean_similarity_normalized": 0.6015136110532812
+        },
+        "7": {
+            "representative_fact": "77% of businesses are using or exploring AI.",
+            "top_keywords": [
+                "ai",
+                "billion",
+                "2024",
+                "businesses",
+                "market"
+            ],
+            "mean_similarity": 0.46401341747235225,
+            "mean_similarity_normalized": 0.8653258257872695
+        },
+        "4": {
+            "representative_fact": "The U.K.'s private AI investment was $4.5 billion in 2024.",
+            "top_keywords": [
+                "ai",
+                "2024",
+                "billion",
+                "u",
+                "investment"
+            ],
+            "mean_similarity": 0.4738442707349629,
+            "mean_similarity_normalized": 0.9024004842193017
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "['Brown is part of an ever-growing group of colleges forced into significant austerity measures as the Trump administration wages financial warfare on the U.S. system of scientific and scholarly research.', \"Brown\u2019s own experience reflects much of the confusion and fiscal turmoil throughout the sector. Since April, for example, \u201cthe government has (with no formal explanation) ceased paying bills on existing Brown grants from the National Institutes of Health (NIH), which represent over 70% of the University's federal research funding,\u201d the officials said.\", 'And the lost funding keeps adding up. From NIH alone, the total losses increase by roughly $3.5 million a week.', 'Along with fellow Ivy League universities Harvard and Columbia, the Trump administration has reportedly planned to target Brown by freezing research funding over campus antisemitism allegations. However, the Trump administration never officially announced a freeze and Brown officials said in April they could not substantiate the \u201crumors.\u201d']",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Over 70% of the University's federal research funding is from NIH grants.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Grant Funding",
+                            "value": "70",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The total losses from NIH increase by roughly $3.5 million a week.",
+                    "vis_data": [
+                        {
+                            "label": "Weekly NIH Losses",
+                            "value": "3.5",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "8_0_1"
+                }
+            ],
+            "relatedness_score": 0.48774853778603156,
+            "article_meta_data": {
+                "title": "Brown University preps for 'significant cost-cutting' amid financial challenges",
+                "date": "2025-06-30",
+                "url": "https://www.highereddive.com/news/brown-university-cost-cutting-federal-funding-trump-administration/752011/",
+                "id": 8
+            },
+            "para_id": "8_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "8_0",
+            "paragraph": "['Brown is part of an ever-growing group of colleges forced into significant austerity measures as the Trump administration wages financial warfare on the U.S. system of scientific and scholarly research.', \"Brown\u2019s own experience reflects much of the confusion and fiscal turmoil throughout the sector. Since April, for example, \u201cthe government has (with no formal explanation) ceased paying bills on existing Brown grants from the National Institutes of Health (NIH), which represent over 70% of the University's federal research funding,\u201d the officials said.\", 'And the lost funding keeps adding up. From NIH alone, the total losses increase by roughly $3.5 million a week.', 'Along with fellow Ivy League universities Harvard and Columbia, the Trump administration has reportedly planned to target Brown by freezing research funding over campus antisemitism allegations. However, the Trump administration never officially announced a freeze and Brown officials said in April they could not substantiate the \u201crumors.\u201d']"
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "Over 70% of the University's federal research funding is from NIH grants."
+        },
+        {
+            "fact_id": "8_0_1",
+            "fact_content": "The total losses from NIH increase by roughly $3.5 million a week."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "Over 70% of the University's federal research funding is from NIH grants.",
+            "vis_data": [
+                {
+                    "label": "NIH Grant Funding",
+                    "value": "70",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The total losses from NIH increase by roughly $3.5 million a week.",
+            "vis_data": [
+                {
+                    "label": "Weekly NIH Losses",
+                    "value": "3.5",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "8_0_1"
+        }
+    ]
+}

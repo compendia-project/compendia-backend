@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Although Sweden has made strides in reaching the 90-90-90 target set by UNAIDS, there is a HIV epidemic among migrants.Eighty percent of those diagnosed with HIV in Sweden are migrants(defined as originating outside the country in which they are diagnosed). There is evidence to suggest that a substantially higher proportion of migrants are infected with HIV after their arrival in Sweden than what has been estimated using routine clinical reports. Another complicating factor in uncovering how HIV affects key populations in Sweden is that AIDS reporting has not been mandatory in Sweden since 2000. AIDS data is not available from 2008-2016 because the national AIDS surveillance system had been discontinued.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Eighty percent of those diagnosed with HIV in Sweden are migrants.",
+                    "vis_data": [
+                        {
+                            "label": "Migrants with HIV",
+                            "value": "80",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "17_0_0"
+                }
+            ],
+            "relatedness_score": 0.705023185756187,
+            "article_meta_data": {
+                "title": "Sweden - HIV and Migration",
+                "date": "2018-11-06",
+                "url": "https://hivandmigration.com/countries/sweden/",
+                "id": 17
+            },
+            "para_id": "17_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "17_0",
+            "paragraph": "Although Sweden has made strides in reaching the 90-90-90 target set by UNAIDS, there is a HIV epidemic among migrants.Eighty percent of those diagnosed with HIV in Sweden are migrants(defined as originating outside the country in which they are diagnosed). There is evidence to suggest that a substantially higher proportion of migrants are infected with HIV after their arrival in Sweden than what has been estimated using routine clinical reports. Another complicating factor in uncovering how HIV affects key populations in Sweden is that AIDS reporting has not been mandatory in Sweden since 2000. AIDS data is not available from 2008-2016 because the national AIDS surveillance system had been discontinued."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "17_0_0",
+            "fact_content": "Eighty percent of those diagnosed with HIV in Sweden are migrants."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "Eighty percent of those diagnosed with HIV in Sweden are migrants.",
+            "vis_data": [
+                {
+                    "label": "Migrants with HIV",
+                    "value": "80",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "17_0_0"
+        }
+    ]
+}

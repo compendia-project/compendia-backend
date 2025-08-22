@@ -1,0 +1,229 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Ericsson has reported its full-year results for 2024, showing that sales increased by 2 per cent year-on-year.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sales increased by 2 per cent year-on-year.",
+                    "vis_data": [
+                        {
+                            "label": "Sales Increase",
+                            "value": "2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_0_0"
+                }
+            ],
+            "relatedness_score": 0.6697364031750092,
+            "article_meta_data": {
+                "title": "Ericsson reports full-year results 2024",
+                "date": "2025-01-24",
+                "url": "https://www.commsbusiness.co.uk/content/news/ericsson-reports-full-year-results-2024/",
+                "id": 5
+            },
+            "para_id": "5_0"
+        },
+        {
+            "paragraph": "Ericsson reported its adjusted gross margin at 46.3 per cent, an over 5 per cent increase compared to last year, driven by supply chain efficiency actions, commercial discipline and market mix.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted gross margin at 46.3 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted Gross Margin",
+                            "value": "46.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_1_1"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Adjusted gross margin increased by over 5 per cent compared to last year.",
+                    "vis_data": [
+                        {
+                            "label": "Gross Margin Increase",
+                            "value": "over 5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_1_2"
+                }
+            ],
+            "relatedness_score": 0.5379937308263538,
+            "article_meta_data": {
+                "title": "Ericsson reports full-year results 2024",
+                "date": "2025-01-24",
+                "url": "https://www.commsbusiness.co.uk/content/news/ericsson-reports-full-year-results-2024/",
+                "id": 5
+            },
+            "para_id": "5_1"
+        },
+        {
+            "paragraph": "Operating profit excluding restructuring costs and impairments was at approximately \u00a3722 million (9.8 billion crowns), with adjusted EBITA margin at 14.1 per cent.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Operating profit excluding restructuring costs and impairments was approximately \u00a3722 million.",
+                    "vis_data": [
+                        {
+                            "label": "Operating Profit",
+                            "value": "722",
+                            "unit": "million \u00a3"
+                        }
+                    ],
+                    "fact_id": "5_2_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Operating profit excluding restructuring costs and impairments was approximately 9.8 billion crowns.",
+                    "vis_data": [
+                        {
+                            "label": "Operating Profit",
+                            "value": "9.8",
+                            "unit": "billion crowns"
+                        }
+                    ],
+                    "fact_id": "5_2_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Adjusted EBITA margin at 14.1 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted EBITA Margin",
+                            "value": "14.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_2_5"
+                }
+            ],
+            "relatedness_score": 0.3869107491868711,
+            "article_meta_data": {
+                "title": "Ericsson reports full-year results 2024",
+                "date": "2025-01-24",
+                "url": "https://www.commsbusiness.co.uk/content/news/ericsson-reports-full-year-results-2024/",
+                "id": 5
+            },
+            "para_id": "5_2"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "5_0",
+            "paragraph": "Ericsson has reported its full-year results for 2024, showing that sales increased by 2 per cent year-on-year."
+        },
+        {
+            "para_id": "5_1",
+            "paragraph": "Ericsson reported its adjusted gross margin at 46.3 per cent, an over 5 per cent increase compared to last year, driven by supply chain efficiency actions, commercial discipline and market mix."
+        },
+        {
+            "para_id": "5_2",
+            "paragraph": "Operating profit excluding restructuring costs and impairments was at approximately \u00a3722 million (9.8 billion crowns), with adjusted EBITA margin at 14.1 per cent."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "Sales increased by 2 per cent year-on-year."
+        },
+        {
+            "fact_id": "5_1_1",
+            "fact_content": "Adjusted gross margin at 46.3 per cent."
+        },
+        {
+            "fact_id": "5_1_2",
+            "fact_content": "Adjusted gross margin increased by over 5 per cent compared to last year."
+        },
+        {
+            "fact_id": "5_2_3",
+            "fact_content": "Operating profit excluding restructuring costs and impairments was approximately \u00a3722 million."
+        },
+        {
+            "fact_id": "5_2_4",
+            "fact_content": "Operating profit excluding restructuring costs and impairments was approximately 9.8 billion crowns."
+        },
+        {
+            "fact_id": "5_2_5",
+            "fact_content": "Adjusted EBITA margin at 14.1 per cent."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "Sales increased by 2 per cent year-on-year.",
+            "vis_data": [
+                {
+                    "label": "Sales Increase",
+                    "value": "2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Adjusted gross margin at 46.3 per cent.",
+            "vis_data": [
+                {
+                    "label": "Adjusted Gross Margin",
+                    "value": "46.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_1_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Adjusted gross margin increased by over 5 per cent compared to last year.",
+            "vis_data": [
+                {
+                    "label": "Gross Margin Increase",
+                    "value": "over 5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Operating profit excluding restructuring costs and impairments was approximately \u00a3722 million.",
+            "vis_data": [
+                {
+                    "label": "Operating Profit",
+                    "value": "722",
+                    "unit": "million \u00a3"
+                }
+            ],
+            "fact_id": "5_2_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Operating profit excluding restructuring costs and impairments was approximately 9.8 billion crowns.",
+            "vis_data": [
+                {
+                    "label": "Operating Profit",
+                    "value": "9.8",
+                    "unit": "billion crowns"
+                }
+            ],
+            "fact_id": "5_2_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Adjusted EBITA margin at 14.1 per cent.",
+            "vis_data": [
+                {
+                    "label": "Adjusted EBITA Margin",
+                    "value": "14.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_2_5"
+        }
+    ]
+}

@@ -1,0 +1,2859 @@
+[
+    {
+        "cluster_id": "5",
+        "merged_facts": [
+            {
+                "merged_content": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day. PA has been associated with a 35% decrease in all-cause mortality in patients with HF.",
+                "merged_data": [
+                    {
+                        "label": "Australians reducing heart disease risk",
+                        "value": "90",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "All-cause mortality reduction",
+                        "value": "35",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Health Benefits of Physical Activity",
+                    "x_axis": "Health Impact",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_0",
+                        "fact_group_content": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day.",
+                        "fact_ids": [
+                            "12_0_0"
+                        ],
+                        "article_ids": [
+                            "12"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Nine out of 10 Australians could reduce the risk of heart disease by walking as little as 15 minutes more each day.",
+                                "vis_data": [
+                                    {
+                                        "label": "Australians reducing heart disease risk",
+                                        "value": "90",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "12_0_0"
+                            }
+                        ],
+                        "missing_entities": [
+                            "PERCENT"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "5_5",
+                        "fact_group_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF.",
+                        "fact_ids": [
+                            "15_3_4"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF.",
+                                "vis_data": [
+                                    {
+                                        "label": "All-cause mortality reduction",
+                                        "value": "35",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "15_3_4"
+                            }
+                        ],
+                        "missing_entities": [
+                            "TIME",
+                            "CARDINAL",
+                            "NORP"
+                        ]
+                    }
+                ],
+                "merged_id": "5_0"
+            },
+            {
+                "merged_content": "Adults should get 300 total minutes of any physical activity weekly. Singapore\u2019s National Physical Activity guidelines recommend 150 minutes of moderate intensity exercise every week.",
+                "merged_data": [
+                    {
+                        "label": "Weekly Physical Activity",
+                        "value": "300",
+                        "unit": "minutes"
+                    },
+                    {
+                        "label": "Weekly exercise",
+                        "value": "150",
+                        "unit": "minutes"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Recommended Weekly Exercise",
+                    "x_axis": "Guideline",
+                    "y_axis": "Minutes"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_1",
+                        "fact_group_content": "Adults should get 300 total minutes of any physical activity weekly, according to the American Heart Association.",
+                        "fact_ids": [
+                            "0_0_0"
+                        ],
+                        "article_ids": [
+                            "0"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Adults should get 300 total minutes of any physical activity weekly, according to the American Heart Association.",
+                                "vis_data": [
+                                    {
+                                        "label": "Weekly Physical Activity",
+                                        "value": "300",
+                                        "unit": "minutes"
+                                    }
+                                ],
+                                "fact_id": "0_0_0"
+                            }
+                        ],
+                        "missing_entities": [
+                            "GPE",
+                            "TIME"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "5_3",
+                        "fact_group_content": "Singapore\u2019s National Physical Activity guidelines recommend 150 minutes of moderate intensity exercise every week.",
+                        "fact_ids": [
+                            "11_0_1"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Singapore\u2019s National Physical Activity guidelines recommend 150 minutes of moderate intensity exercise every week.",
+                                "vis_data": [
+                                    {
+                                        "label": "Weekly exercise",
+                                        "value": "150",
+                                        "unit": "minutes"
+                                    }
+                                ],
+                                "fact_id": "11_0_1"
+                            }
+                        ],
+                        "missing_entities": [
+                            "CARDINAL",
+                            "DATE"
+                        ]
+                    }
+                ],
+                "merged_id": "5_1"
+            },
+            {
+                "merged_content": "Less active, less fit persons have a 30-50 percent greater risk of developing high blood pressure. Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+                "merged_data": [
+                    {
+                        "label": "Increased Risk of Hypertension",
+                        "value": "30",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Increased Risk of Hypertension",
+                        "value": "50",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Increased death risk",
+                        "value": "20",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Increased death risk",
+                        "value": "30",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Risks of Inactivity",
+                    "x_axis": "Risk Type",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_2",
+                        "fact_group_content": "Less active, less fit persons have a 30-50 percent greater risk of developing high blood pressure.",
+                        "fact_ids": [
+                            "6_0_0"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Less active, less fit persons have a 30-50 percent greater risk of developing high blood pressure.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increased Risk of Hypertension",
+                                        "value": "30",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "Increased Risk of Hypertension",
+                                        "value": "50",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_0_0"
+                            }
+                        ],
+                        "missing_entities": [
+                            "QUANTITY"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "5_4",
+                        "fact_group_content": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+                        "fact_ids": [
+                            "15_2_2"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Sedentary people have a 20% to 30% higher risk of death from any cause than people who exercise 150 minutes per week at a moderate intensity.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increased death risk",
+                                        "value": "20",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "Increased death risk",
+                                        "value": "30",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "15_2_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_2"
+            },
+            {
+                "merged_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals.",
+                "merged_data": [
+                    {
+                        "label": "BP reduction in normotensive",
+                        "value": "2-5",
+                        "unit": "mm Hg"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "BP Reduction from Exercise",
+                    "x_axis": "Effect",
+                    "y_axis": "mm Hg"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_6",
+                        "fact_group_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals.",
+                        "fact_ids": [
+                            "15_4_5"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by two to five mm Hg in normotensive individuals.",
+                                "vis_data": [
+                                    {
+                                        "label": "BP reduction in normotensive",
+                                        "value": "2-5",
+                                        "unit": "mm Hg"
+                                    }
+                                ],
+                                "fact_id": "15_4_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_3"
+            },
+            {
+                "merged_content": "158,397 participants were included in the analysis.",
+                "merged_data": [
+                    {
+                        "label": "Participants",
+                        "value": "158397",
+                        "unit": "participants"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Study Participants",
+                    "x_axis": "Participants",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_7",
+                        "fact_group_content": "158,397 participants were included in the analysis.",
+                        "fact_ids": [
+                            "17_1_4"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "158,397 participants were included in the analysis.",
+                                "vis_data": [
+                                    {
+                                        "label": "Participants",
+                                        "value": "158397",
+                                        "unit": "participants"
+                                    }
+                                ],
+                                "fact_id": "17_1_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_4"
+            },
+            {
+                "merged_content": "The summary RR per 20 MET-hours/week was 0.64. The summary RR for high versus low leisure-time activity was 0.74.",
+                "merged_data": [
+                    {
+                        "label": "Summary RR per 20 MET-hours/week",
+                        "value": "0.64",
+                        "unit": "ratio"
+                    },
+                    {
+                        "label": "Summary RR",
+                        "value": "0.74",
+                        "unit": "ratio"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Summary RR of Physical Activity",
+                    "x_axis": "Activity Type",
+                    "y_axis": "Ratio"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_8",
+                        "fact_group_content": "The summary RR per 20 MET-hours/week was 0.64 (95% CI 0.52\u20130.79, I2=14.9%, pheterogeneity=0.28).",
+                        "fact_ids": [
+                            "17_1_6"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The summary RR per 20 MET-hours/week was 0.64 (95% CI 0.52\u20130.79, I2=14.9%, pheterogeneity=0.28).",
+                                "vis_data": [
+                                    {
+                                        "label": "Summary RR per 20 MET-hours/week",
+                                        "value": "0.64",
+                                        "unit": "ratio"
+                                    }
+                                ],
+                                "fact_id": "17_1_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "5_9",
+                        "fact_group_content": "The summary RR for high versus low leisure-time activity was 0.74 (95% CI 0.68\u20130.81, I2=88.1%, n=16).",
+                        "fact_ids": [
+                            "17_2_9"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The summary RR for high versus low leisure-time activity was 0.74 (95% CI 0.68\u20130.81, I2=88.1%, n=16).",
+                                "vis_data": [
+                                    {
+                                        "label": "Summary RR",
+                                        "value": "0.74",
+                                        "unit": "ratio"
+                                    }
+                                ],
+                                "fact_id": "17_2_9"
+                            }
+                        ],
+                        "missing_entities": [
+                            "QUANTITY"
+                        ]
+                    }
+                ],
+                "merged_id": "5_5"
+            },
+            {
+                "merged_content": "Physical inactivity will cost around US$ 27 billion annually.",
+                "merged_data": [
+                    {
+                        "label": "Annual cost of inactivity",
+                        "value": "27",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Cost of Physical Inactivity",
+                    "x_axis": "Cost",
+                    "y_axis": "Billion USD"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "5_10",
+                        "fact_group_content": "Physical inactivity will cost around US$ 27 billion annually (WHO 2022).",
+                        "fact_ids": [
+                            "8_2_8"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Physical inactivity will cost around US$ 27 billion annually (WHO 2022).",
+                                "vis_data": [
+                                    {
+                                        "label": "Annual cost of inactivity",
+                                        "value": "27",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "8_2_8"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "5_6"
+            }
+        ]
+    },
+    {
+        "cluster_id": "7",
+        "merged_facts": [
+            {
+                "merged_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease and other health issues.",
+                "merged_data": [
+                    {
+                        "label": "Sedentary Behavior",
+                        "value": "10+",
+                        "unit": "hours"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Sedentary Behavior Risk",
+                    "x_axis": "Behavior",
+                    "y_axis": "Duration (hours)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_0",
+                        "fact_group_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease and other health issues.",
+                        "fact_ids": [
+                            "5_0_0"
+                        ],
+                        "article_ids": [
+                            "5"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "10+ hours of daily sedentary behavior increases risk for cardiovascular disease and other health issues.",
+                                "vis_data": [
+                                    {
+                                        "label": "Sedentary Behavior",
+                                        "value": "10+",
+                                        "unit": "hours"
+                                    }
+                                ],
+                                "fact_id": "5_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_0"
+            },
+            {
+                "merged_content": "Moderate to high intensity muscle strengthening at least twice a week.",
+                "merged_data": [
+                    {
+                        "label": "Muscle Strengthening Frequency",
+                        "value": "2",
+                        "unit": "times per week"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Muscle Strengthening Frequency",
+                    "x_axis": "Activity",
+                    "y_axis": "Frequency (times/week)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_1",
+                        "fact_group_content": "Moderate to high intensity muscle strengthening at least twice a week.",
+                        "fact_ids": [
+                            "0_0_1"
+                        ],
+                        "article_ids": [
+                            "0"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Moderate to high intensity muscle strengthening at least twice a week.",
+                                "vis_data": [
+                                    {
+                                        "label": "Muscle Strengthening Frequency",
+                                        "value": "2",
+                                        "unit": "times per week"
+                                    }
+                                ],
+                                "fact_id": "0_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_1"
+            },
+            {
+                "merged_content": "30 minutes of moderate intensity exercise at five to seven times per week is recommended.",
+                "merged_data": [
+                    {
+                        "label": "Exercise per session",
+                        "value": "30",
+                        "unit": "minutes"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Exercise Duration per Session",
+                    "x_axis": "Session",
+                    "y_axis": "Duration (minutes)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_2",
+                        "fact_group_content": "30 minutes of moderate intensity exercise at five to seven times per week is recommended.",
+                        "fact_ids": [
+                            "11_0_0"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "30 minutes of moderate intensity exercise at five to seven times per week is recommended.",
+                                "vis_data": [
+                                    {
+                                        "label": "Exercise per session",
+                                        "value": "30",
+                                        "unit": "minutes"
+                                    }
+                                ],
+                                "fact_id": "11_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_2"
+            },
+            {
+                "merged_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%.",
+                "merged_data": [
+                    {
+                        "label": "HF risk reduction",
+                        "value": "17",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "HF Risk Reduction by Exercise",
+                    "x_axis": "Risk Reduction",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "7_3",
+                        "fact_group_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%.",
+                        "fact_ids": [
+                            "15_0_0"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Regular exercise leading to an elevation of 1 MET unit in CRF reduces the risk of HF by 17%.",
+                                "vis_data": [
+                                    {
+                                        "label": "HF risk reduction",
+                                        "value": "17",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "15_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "7_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": "9",
+        "merged_facts": [
+            {
+                "merged_content": "Sedentary behavior can increase risk of heart failure by up to 60%.",
+                "merged_data": [
+                    {
+                        "label": "Increased Risk of Heart Failure",
+                        "value": "60",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Risk Increase from Sedentary Behavior",
+                    "x_axis": "Risk Factor",
+                    "y_axis": "Increase (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_0",
+                        "fact_group_content": "Sedentary behavior can increase risk of heart failure by up to 60%.",
+                        "fact_ids": [
+                            "4_0_0"
+                        ],
+                        "article_ids": [
+                            "4"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Sedentary behavior can increase risk of heart failure by up to 60%.",
+                                "vis_data": [
+                                    {
+                                        "label": "Increased Risk of Heart Failure",
+                                        "value": "60",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "4_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_0"
+            },
+            {
+                "merged_content": "In 1989 physical inactivity cost the nation $5.7 billion due to hospitalizations and other related health care costs.",
+                "merged_data": [
+                    {
+                        "label": "Cost of Inactivity in 1989",
+                        "value": "5700",
+                        "unit": "Million USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Cost of Inactivity in 1989",
+                    "x_axis": "Year",
+                    "y_axis": "Cost (Million USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_1",
+                        "fact_group_content": "In 1989 physical inactivity cost the nation $5.7 billion due to hospitalizations and other related health care costs.",
+                        "fact_ids": [
+                            "6_1_4"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "In 1989 physical inactivity cost the nation $5.7 billion due to hospitalizations and other related health care costs.",
+                                "vis_data": [
+                                    {
+                                        "label": "Cost of Inactivity in 1989",
+                                        "value": "5700000000",
+                                        "unit": "USD"
+                                    }
+                                ],
+                                "fact_id": "6_1_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_1"
+            },
+            {
+                "merged_content": "Physical inactivity will cost just over US$300 billion globally between 2020 and 2030.",
+                "merged_data": [
+                    {
+                        "label": "Cost of inactivity (2020-2030)",
+                        "value": "300",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Global Cost of Inactivity (2020-2030)",
+                    "x_axis": "Period",
+                    "y_axis": "Cost (Billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_2",
+                        "fact_group_content": "Physical inactivity will cost just over US$300 billion globally between 2020 and 2030.",
+                        "fact_ids": [
+                            "8_2_7"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Physical inactivity will cost just over US$300 billion globally between 2020 and 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "Cost of inactivity (2020-2030)",
+                                        "value": "300",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "8_2_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_2"
+            },
+            {
+                "merged_content": "Exercise was effective in lowering systolic blood pressure in the RCT group with SMD = \u22120.45, 95% CI = [\u22120.83, \u22120.08], p < 0.001.",
+                "merged_data": [
+                    {
+                        "label": "RCT Systolic BP Improvement",
+                        "value": "-0.45",
+                        "unit": "SMD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Effect of Exercise on Systolic BP",
+                    "x_axis": "Study",
+                    "y_axis": "Improvement (SMD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "9_3",
+                        "fact_group_content": "Exercise was effective in lowering systolic blood pressure in the RCT group with SMD = \u22120.45, 95% CI = [\u22120.83, \u22120.08], p < 0.001.",
+                        "fact_ids": [
+                            "9_1_3"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Exercise was effective in lowering systolic blood pressure in the RCT group with SMD = \u22120.45, 95% CI = [\u22120.83, \u22120.08], p < 0.001.",
+                                "vis_data": [
+                                    {
+                                        "label": "RCT Systolic BP Improvement",
+                                        "value": "-0.45",
+                                        "unit": "SMD"
+                                    }
+                                ],
+                                "fact_id": "9_1_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "9_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": "2",
+        "merged_facts": [
+            {
+                "merged_content": "Risk changes related to heart health interventions and behaviors.",
+                "merged_data": [
+                    {
+                        "label": "Sedentary Behavior",
+                        "value": "40",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Sedentary Behavior",
+                        "value": "60",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Rehabilitation & Exercise",
+                        "value": "25",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Physical Activity",
+                        "value": "35",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Heart Health Risk Changes",
+                    "x_axis": "Intervention/Behavior",
+                    "y_axis": "Risk Change (%)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_0",
+                        "fact_group_content": "40-60 percent greater risk of heart failure and cardiovascular death when sedentary behavior exceeded 10.6 hours a day.",
+                        "fact_ids": [
+                            "4_1_1"
+                        ],
+                        "article_ids": [
+                            "4"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "40-60 percent greater risk of heart failure and cardiovascular death when sedentary behavior exceeded 10.6 hours a day.",
+                                "vis_data": [
+                                    {
+                                        "label": "Risk Increase (Heart Failure & Death)",
+                                        "value": "40",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "Risk Increase (Heart Failure & Death)",
+                                        "value": "60",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "4_1_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "2_1",
+                        "fact_group_content": "Cardiac patients who attended the structured cardiac rehabilitation programme and participated in regular exercise had up to 25% reduction in the risk of future cardiac events.",
+                        "fact_ids": [
+                            "11_1_3"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Cardiac patients who attended the structured cardiac rehabilitation programme and participated in regular exercise had up to 25% reduction in the risk of future cardiac events.",
+                                "vis_data": [
+                                    {
+                                        "label": "Risk reduction",
+                                        "value": "25",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "11_1_3"
+                            }
+                        ],
+                        "missing_entities": [
+                            "TIME"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "2_2",
+                        "fact_group_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF and a 28% reduction in heart failure (HF) hospitalizations.",
+                        "fact_ids": [
+                            "15_3_4"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "PA has been associated with a 35% decrease in all-cause mortality in patients with HF and a 28% reduction in heart failure (HF) hospitalizations.",
+                                "vis_data": [
+                                    {
+                                        "label": "All-cause mortality reduction",
+                                        "value": "35",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "HF hospitalizations reduction",
+                                        "value": "28",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "15_3_4"
+                            }
+                        ],
+                        "missing_entities": [
+                            "TIME"
+                        ]
+                    }
+                ],
+                "merged_id": "2_0"
+            },
+            {
+                "merged_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death.",
+                "merged_data": [
+                    {
+                        "label": "RR for two CVDRFs",
+                        "value": "54",
+                        "unit": "ratio"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Age-adjusted RR for CHD Death",
+                    "x_axis": "N/A",
+                    "y_axis": "N/A"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "2_3",
+                        "fact_group_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 54 for two CVDRFs.",
+                        "fact_ids": [
+                            "18_1_9"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 54 for two CVDRFs.",
+                                "vis_data": [
+                                    {
+                                        "label": "RR for two CVDRFs",
+                                        "value": "54",
+                                        "unit": "ratio"
+                                    }
+                                ],
+                                "fact_id": "18_1_9"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "2_1"
+            }
+        ]
+    },
+    {
+        "cluster_id": "6",
+        "merged_facts": [
+            {
+                "merged_content": "Approximately 35% of coronary heart disease mortality is due to physical inactivity. PA has been associated with a 28% reduction in heart failure (HF) hospitalizations. Positive exercise ECG results were 80% in women.",
+                "merged_data": [
+                    {
+                        "label": "CHD Mortality Due to Inactivity",
+                        "value": "35",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "HF hospitalization reduction",
+                        "value": "28",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Positive ECG in women",
+                        "value": "80",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Impact of Physical Activity on Heart Health",
+                    "x_axis": "Health Metric",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_0",
+                        "fact_group_content": "Approximately 35% of coronary heart disease mortality is due to physical inactivity.",
+                        "fact_ids": [
+                            "6_1_1"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Approximately 35% of coronary heart disease mortality is due to physical inactivity.",
+                                "vis_data": [
+                                    {
+                                        "label": "CHD Mortality Due to Inactivity",
+                                        "value": "35",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_1_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_1",
+                        "fact_group_content": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations and a 35% decrease in all-cause mortality in patients with HF.",
+                        "fact_ids": [
+                            "15_3_3"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "PA has been associated with a 28% reduction in heart failure (HF) hospitalizations and a 35% decrease in all-cause mortality in patients with HF.",
+                                "vis_data": [
+                                    {
+                                        "label": "HF hospitalization reduction",
+                                        "value": "28",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "All-cause mortality reduction",
+                                        "value": "35",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "15_3_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "6_5",
+                        "fact_group_content": "Positive exercise ECG results were 80% in women.",
+                        "fact_ids": [
+                            "18_2_12"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Positive exercise ECG results were 80% in women.",
+                                "vis_data": [
+                                    {
+                                        "label": "Positive ECG in women",
+                                        "value": "80",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "18_2_12"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_0"
+            },
+            {
+                "merged_content": "12,496 cases of heart failure were included in the analysis.",
+                "merged_data": [
+                    {
+                        "label": "Heart Failure Cases",
+                        "value": "12496",
+                        "unit": "cases"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Heart Failure Cases Analysis",
+                    "x_axis": "Cases",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_2",
+                        "fact_group_content": "12,496 cases of heart failure were included in the analysis.",
+                        "fact_ids": [
+                            "17_0_0"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "12,496 cases of heart failure were included in the analysis.",
+                                "vis_data": [
+                                    {
+                                        "label": "Heart Failure Cases",
+                                        "value": "12496",
+                                        "unit": "cases"
+                                    }
+                                ],
+                                "fact_id": "17_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_1"
+            },
+            {
+                "merged_content": "1,895,300 participants were included in the analysis.",
+                "merged_data": [
+                    {
+                        "label": "Participants",
+                        "value": "1895300",
+                        "unit": "participants"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Participants in Analysis",
+                    "x_axis": "Participants",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_3",
+                        "fact_group_content": "1,895,300 participants were included in the analysis.",
+                        "fact_ids": [
+                            "17_2_8"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "1,895,300 participants were included in the analysis.",
+                                "vis_data": [
+                                    {
+                                        "label": "Participants",
+                                        "value": "1895300",
+                                        "unit": "participants"
+                                    }
+                                ],
+                                "fact_id": "17_2_8"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_2"
+            },
+            {
+                "merged_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 80 for three CVDRFs.",
+                "merged_data": [
+                    {
+                        "label": "RR for three CVDRFs",
+                        "value": "80",
+                        "unit": "ratio"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "RR of ST Segment Changes",
+                    "x_axis": "RR",
+                    "y_axis": "Ratio"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "6_4",
+                        "fact_group_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 80 for three CVDRFs.",
+                        "fact_ids": [
+                            "18_1_10"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 80 for three CVDRFs.",
+                                "vis_data": [
+                                    {
+                                        "label": "RR for three CVDRFs",
+                                        "value": "80",
+                                        "unit": "ratio"
+                                    }
+                                ],
+                                "fact_id": "18_1_10"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "6_3"
+            }
+        ]
+    },
+    {
+        "cluster_id": "8",
+        "merged_facts": [
+            {
+                "merged_content": "Coronary heart disease is the leading cause of death in the United States with over 700,000 deaths annually.",
+                "merged_data": [
+                    {
+                        "label": "Annual CHD Deaths",
+                        "value": "700000",
+                        "unit": "deaths"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Annual CHD Deaths in the US",
+                    "x_axis": "Category",
+                    "y_axis": "Deaths"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_0",
+                        "fact_group_content": "Coronary heart disease is the leading cause of death in the United States with over 700,000 deaths annually.",
+                        "fact_ids": [
+                            "6_1_2"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Coronary heart disease is the leading cause of death in the United States with over 700,000 deaths annually.",
+                                "vis_data": [
+                                    {
+                                        "label": "Annual CHD Deaths",
+                                        "value": "700000",
+                                        "unit": "deaths"
+                                    }
+                                ],
+                                "fact_id": "6_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_0"
+            },
+            {
+                "merged_content": "The cardiac rehabilitation programme usually lasts for one to three months.",
+                "merged_data": [
+                    {
+                        "label": "Rehabilitation duration",
+                        "value": "1-3",
+                        "unit": "months"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Cardiac Rehabilitation Duration",
+                    "x_axis": "Program",
+                    "y_axis": "Duration (months)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_1",
+                        "fact_group_content": "The cardiac rehabilitation programme usually lasts for one to three months.",
+                        "fact_ids": [
+                            "11_1_2"
+                        ],
+                        "article_ids": [
+                            "11"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The cardiac rehabilitation programme usually lasts for one to three months.",
+                                "vis_data": [
+                                    {
+                                        "label": "Rehabilitation duration",
+                                        "value": "1-3",
+                                        "unit": "months"
+                                    }
+                                ],
+                                "fact_id": "11_1_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_1"
+            },
+            {
+                "merged_content": "3,632 cases of heart failure were included in the analysis.",
+                "merged_data": [
+                    {
+                        "label": "Heart Failure Cases",
+                        "value": "3632",
+                        "unit": "cases"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Heart Failure Cases Analyzed",
+                    "x_axis": "Category",
+                    "y_axis": "Cases"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "8_2",
+                        "fact_group_content": "3,632 cases of heart failure were included in the analysis.",
+                        "fact_ids": [
+                            "17_1_3"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "3,632 cases of heart failure were included in the analysis.",
+                                "vis_data": [
+                                    {
+                                        "label": "Heart Failure Cases",
+                                        "value": "3632",
+                                        "unit": "cases"
+                                    }
+                                ],
+                                "fact_id": "17_1_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "8_2"
+            }
+        ]
+    },
+    {
+        "cluster_id": "1",
+        "merged_facts": [
+            {
+                "merged_content": "Approximately 60% of all Americans age 18 and older report that they are physically inactive. 27.5% of the global adult population failed to meet the current guidelines for weekly exercise in 2016.",
+                "merged_data": [
+                    {
+                        "label": "Physically Inactive Americans",
+                        "value": "60",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Adults not meeting exercise guidelines",
+                        "value": "27.5",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Physical Inactivity Rates",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_0",
+                        "fact_group_content": "Approximately 60% of all Americans age 18 and older report that they are physically inactive.",
+                        "fact_ids": [
+                            "6_1_3"
+                        ],
+                        "article_ids": [
+                            "6"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Approximately 60% of all Americans age 18 and older report that they are physically inactive.",
+                                "vis_data": [
+                                    {
+                                        "label": "Physically Inactive Americans",
+                                        "value": "60",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "6_1_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "1_6",
+                        "fact_group_content": "27.5% of the global adult population failed to meet the current guidelines for weekly exercise in 2016.",
+                        "fact_ids": [
+                            "2_0_0"
+                        ],
+                        "article_ids": [
+                            "2"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "27.5% of the global adult population failed to meet the current guidelines for weekly exercise in 2016.",
+                                "vis_data": [
+                                    {
+                                        "label": "Adults not meeting exercise guidelines",
+                                        "value": "27.5",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "2_0_0"
+                            }
+                        ],
+                        "missing_entities": [
+                            "NORP"
+                        ]
+                    }
+                ],
+                "merged_id": "1_0"
+            },
+            {
+                "merged_content": "About 7\u20138% of all cases of cardiovascular disease could be prevented if more people were physically active.",
+                "merged_data": [
+                    {
+                        "label": "Preventable CVD cases",
+                        "value": "7",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Preventable CVD cases",
+                        "value": "8",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Preventable CVD Cases",
+                    "x_axis": "CVD Cases",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_3",
+                        "fact_group_content": "About 7\u20138% of all cases of cardiovascular disease could be prevented if more people were physically active.",
+                        "fact_ids": [
+                            "8_1_3"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "About 7\u20138% of all cases of cardiovascular disease could be prevented if more people were physically active.",
+                                "vis_data": [
+                                    {
+                                        "label": "Preventable CVD cases",
+                                        "value": "7",
+                                        "unit": "%"
+                                    },
+                                    {
+                                        "label": "Preventable CVD cases",
+                                        "value": "8",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "8_1_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_1"
+            },
+            {
+                "merged_content": "WHO estimates around 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity.",
+                "merged_data": [
+                    {
+                        "label": "New NCD cases due to inactivity",
+                        "value": "500",
+                        "unit": "million"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "New NCD Cases Due to Inactivity",
+                    "x_axis": "Year",
+                    "y_axis": "Cases (Million)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_4",
+                        "fact_group_content": "WHO estimates around 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity.",
+                        "fact_ids": [
+                            "8_1_4",
+                            "8_2_6"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "WHO estimates around 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity.",
+                                "vis_data": [
+                                    {
+                                        "label": "New NCD cases due to inactivity",
+                                        "value": "500",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "8_1_4"
+                            },
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Almost 500 million new cases of preventable noncommunicable diseases (NCDs) will occur globally between 2020 and 2030 due to physical inactivity.",
+                                "vis_data": [
+                                    {
+                                        "label": "New NCD cases due to inactivity",
+                                        "value": "500",
+                                        "unit": "million"
+                                    }
+                                ],
+                                "fact_id": "8_2_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_2"
+            },
+            {
+                "merged_content": "Physical inactivity will cost US$ 27 billion annually.",
+                "merged_data": [
+                    {
+                        "label": "Annual cost of inactivity",
+                        "value": "27",
+                        "unit": "billion USD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Annual Cost of Inactivity",
+                    "x_axis": "Year",
+                    "y_axis": "Cost (Billion USD)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_5",
+                        "fact_group_content": "Physical inactivity will cost US$ 27 billion annually (WHO 2022).",
+                        "fact_ids": [
+                            "8_1_5"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Physical inactivity will cost US$ 27 billion annually (WHO 2022).",
+                                "vis_data": [
+                                    {
+                                        "label": "Annual cost of inactivity",
+                                        "value": "27",
+                                        "unit": "billion USD"
+                                    }
+                                ],
+                                "fact_id": "8_1_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_3"
+            },
+            {
+                "merged_content": "329,768 participants were included in the analysis.",
+                "merged_data": [
+                    {
+                        "label": "Participants",
+                        "value": "329768",
+                        "unit": "participants"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Participants in Analysis",
+                    "x_axis": "Category",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_1",
+                        "fact_group_content": "329,768 participants were included in the analysis.",
+                        "fact_ids": [
+                            "17_0_1"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "329,768 participants were included in the analysis.",
+                                "vis_data": [
+                                    {
+                                        "label": "Participants",
+                                        "value": "329768",
+                                        "unit": "participants"
+                                    }
+                                ],
+                                "fact_id": "17_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_4"
+            },
+            {
+                "merged_content": "The summary RR for high versus low vigorous physical activity was 0.66.",
+                "merged_data": [
+                    {
+                        "label": "Summary RR",
+                        "value": "0.66",
+                        "unit": "ratio"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Summary RR for Physical Activity",
+                    "x_axis": "Activity Level",
+                    "y_axis": "Ratio"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_2",
+                        "fact_group_content": "The summary RR for high versus low vigorous physical activity was 0.66 (95% CI 0.59\u20130.74, I2=0%, n=2).",
+                        "fact_ids": [
+                            "17_1_5"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The summary RR for high versus low vigorous physical activity was 0.66 (95% CI 0.59\u20130.74, I2=0%, n=2).",
+                                "vis_data": [
+                                    {
+                                        "label": "Summary RR",
+                                        "value": "0.66",
+                                        "unit": "ratio"
+                                    }
+                                ],
+                                "fact_id": "17_1_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_5"
+            },
+            {
+                "merged_content": "Exercise improved diastolic blood pressure with SMD = \u22120.52 (95% CI, \u22120.92 to \u22120.12), p = 0.01.",
+                "merged_data": [
+                    {
+                        "label": "Diastolic BP Improvement",
+                        "value": "-0.52",
+                        "unit": "SMD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Exercise and Diastolic BP",
+                    "x_axis": "Measure",
+                    "y_axis": "SMD"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_7",
+                        "fact_group_content": "Exercise improved diastolic blood pressure with SMD = \u22120.52 (95% CI, \u22120.92 to \u22120.12), p = 0.01.",
+                        "fact_ids": [
+                            "9_0_1"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Exercise improved diastolic blood pressure with SMD = \u22120.52 (95% CI, \u22120.92 to \u22120.12), p = 0.01.",
+                                "vis_data": [
+                                    {
+                                        "label": "Diastolic BP Improvement",
+                                        "value": "-0.52",
+                                        "unit": "SMD"
+                                    }
+                                ],
+                                "fact_id": "9_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_6"
+            },
+            {
+                "merged_content": "It is relatively safe to exercise within the range of exercise target heart rate <62.50% HRR.",
+                "merged_data": [
+                    {
+                        "label": "Safe exercise heart rate",
+                        "value": "<62.50",
+                        "unit": "% HRR"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Safe Exercise Heart Rate",
+                    "x_axis": "Measure",
+                    "y_axis": "% HRR"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "1_8",
+                        "fact_group_content": "It is relatively safe to exercise within the range of exercise target heart rate <62.50% HRR.",
+                        "fact_ids": [
+                            "18_0_3"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "It is relatively safe to exercise within the range of exercise target heart rate <62.50% HRR.",
+                                "vis_data": [
+                                    {
+                                        "label": "Safe exercise heart rate",
+                                        "value": "<62.50",
+                                        "unit": "% HRR"
+                                    }
+                                ],
+                                "fact_id": "18_0_3"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "1_7"
+            }
+        ]
+    },
+    {
+        "cluster_id": "10",
+        "merged_facts": [
+            {
+                "merged_content": "Exercise impacts on health metrics.",
+                "merged_data": [
+                    {
+                        "label": "Blood Circulation Increase",
+                        "value": "25",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Risk reduction with MVPA",
+                        "value": "35",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "CVD risk reduction in adults",
+                        "value": "35",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Positive ECG in men",
+                        "value": "20",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Exercise Impacts on Health",
+                    "x_axis": "Health Metric",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "10_0",
+                        "fact_group_content": "Exercise boosts the amount of blood circulating through your body by up to 25%.",
+                        "fact_ids": [
+                            "13_0_0"
+                        ],
+                        "article_ids": [
+                            "13"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Exercise boosts the amount of blood circulating through your body by up to 25%.",
+                                "vis_data": [
+                                    {
+                                        "label": "Blood Circulation Increase",
+                                        "value": "25",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "13_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "10_2",
+                        "fact_group_content": "Engaging in physical activity at a level that achieves or exceeds physical activity guidelines is associated with around a 35% reduction in risk of death from cardiovascular disease.",
+                        "fact_ids": [
+                            "8_0_0"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Engaging in physical activity at a level that achieves or exceeds physical activity guidelines is associated with around a 35% reduction in risk of death from cardiovascular disease.",
+                                "vis_data": [
+                                    {
+                                        "label": "Risk reduction with MVPA",
+                                        "value": "35",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "8_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "10_3",
+                        "fact_group_content": "Physical activity reduces the risk of cardiovascular disease by 35% in adults and older adults.",
+                        "fact_ids": [
+                            "8_0_1"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Physical activity reduces the risk of cardiovascular disease by 35% in adults and older adults.",
+                                "vis_data": [
+                                    {
+                                        "label": "CVD risk reduction in adults",
+                                        "value": "35",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "8_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "10_4",
+                        "fact_group_content": "Positive exercise ECG results were 20% in men.",
+                        "fact_ids": [
+                            "18_2_11"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Positive exercise ECG results were 20% in men.",
+                                "vis_data": [
+                                    {
+                                        "label": "Positive ECG in men",
+                                        "value": "20",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "18_2_11"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "10_0"
+            },
+            {
+                "merged_content": "Heart failure cases analysis.",
+                "merged_data": [
+                    {
+                        "label": "Heart Failure Cases",
+                        "value": "73391",
+                        "unit": "cases"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Heart Failure Cases Analysis",
+                    "x_axis": "Cases",
+                    "y_axis": "Count"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "10_1",
+                        "fact_group_content": "More than 73,391 cases of heart failure were included in the analysis.",
+                        "fact_ids": [
+                            "17_2_7"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "More than 73,391 cases of heart failure were included in the analysis.",
+                                "vis_data": [
+                                    {
+                                        "label": "Heart Failure Cases",
+                                        "value": "73391",
+                                        "unit": "cases"
+                                    }
+                                ],
+                                "fact_id": "17_2_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "10_1"
+            }
+        ]
+    },
+    {
+        "cluster_id": "4",
+        "merged_facts": [
+            {
+                "merged_content": "Exercise reduces systolic pressure by between 5 and 7 points in people with high blood pressure. Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by five to seven mm Hg in individuals with HTN.",
+                "merged_data": [
+                    {
+                        "label": "Systolic Pressure Reduction",
+                        "value": "5",
+                        "unit": "points"
+                    },
+                    {
+                        "label": "Systolic Pressure Reduction",
+                        "value": "7",
+                        "unit": "points"
+                    },
+                    {
+                        "label": "BP reduction in HTN",
+                        "value": "5-7",
+                        "unit": "mm Hg"
+                    }
+                ],
+                "merged_recommendation": "range",
+                "titles": {
+                    "chart_title": "Blood Pressure Reduction by Exercise",
+                    "x_axis": "Reduction Type",
+                    "y_axis": "Reduction (points/mm Hg)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_0",
+                        "fact_group_content": "Exercise reduces systolic pressure by between 5 and 7 points in people with high blood pressure.",
+                        "fact_ids": [
+                            "13_1_1"
+                        ],
+                        "article_ids": [
+                            "13"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Exercise reduces systolic pressure by between 5 and 7 points in people with high blood pressure.",
+                                "vis_data": [
+                                    {
+                                        "label": "Systolic Pressure Reduction",
+                                        "value": "5",
+                                        "unit": "points"
+                                    },
+                                    {
+                                        "label": "Systolic Pressure Reduction",
+                                        "value": "7",
+                                        "unit": "points"
+                                    }
+                                ],
+                                "fact_id": "13_1_1"
+                            }
+                        ],
+                        "missing_entities": [
+                            "QUANTITY"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "4_2",
+                        "fact_group_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by five to seven mm Hg in individuals with HTN.",
+                        "fact_ids": [
+                            "15_4_6"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "difference",
+                                "fact_content": "Moderate to high-intensity resistance training and aerobic exercise can reduce systolic and diastolic blood pressure by five to seven mm Hg in individuals with HTN.",
+                                "vis_data": [
+                                    {
+                                        "label": "BP reduction in HTN",
+                                        "value": "5-7",
+                                        "unit": "mm Hg"
+                                    }
+                                ],
+                                "fact_id": "15_4_6"
+                            }
+                        ],
+                        "missing_entities": [
+                            "CARDINAL"
+                        ]
+                    }
+                ],
+                "merged_id": "4_0"
+            },
+            {
+                "merged_content": "HFrEF patients experience a symptomatic improvement of up to 25%.",
+                "merged_data": [
+                    {
+                        "label": "Symptomatic improvement",
+                        "value": "25",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "HFrEF Symptomatic Improvement",
+                    "x_axis": "Improvement",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_1",
+                        "fact_group_content": "HFrEF patients experience a symptomatic improvement of up to 25%.",
+                        "fact_ids": [
+                            "15_1_1"
+                        ],
+                        "article_ids": [
+                            "15"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "HFrEF patients experience a symptomatic improvement of up to 25%.",
+                                "vis_data": [
+                                    {
+                                        "label": "Symptomatic improvement",
+                                        "value": "25",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "15_1_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_1"
+            },
+            {
+                "merged_content": "Physical inactivity is the cause of approximately 30% of ischaemic heart disease. Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease. 27% reduction in relative risk of cardiovascular mortality due to physical activity. Increasing daily step count to 6,500 steps/day is associated with a reduced relative risk of CVD-related mortality of 49%.",
+                "merged_data": [
+                    {
+                        "label": "Ischaemic heart disease due to inactivity",
+                        "value": "30",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Risk reduction in active adults",
+                        "value": "35",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Reduction in cardiovascular mortality risk",
+                        "value": "27",
+                        "unit": "%"
+                    },
+                    {
+                        "label": "Reduction in CVD mortality risk",
+                        "value": "49",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Impact of Activity on Cardiovascular Health",
+                    "x_axis": "Impact Type",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_4",
+                        "fact_group_content": "Physical inactivity is the cause of approximately 30% of ischaemic heart disease (WHO, 2010).",
+                        "fact_ids": [
+                            "8_0_2"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Physical inactivity is the cause of approximately 30% of ischaemic heart disease (WHO, 2010).",
+                                "vis_data": [
+                                    {
+                                        "label": "Ischaemic heart disease due to inactivity",
+                                        "value": "30",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "8_0_2"
+                            }
+                        ],
+                        "missing_entities": [
+                            "CARDINAL"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "4_5",
+                        "fact_group_content": "Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease by 2030.",
+                        "fact_ids": [
+                            "8_2_9"
+                        ],
+                        "article_ids": [
+                            "8"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Active adults can achieve a reduction of up to 35% in risk of death from cardiovascular disease by 2030.",
+                                "vis_data": [
+                                    {
+                                        "label": "Risk reduction in active adults",
+                                        "value": "35",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "8_2_9"
+                            }
+                        ],
+                        "missing_entities": [
+                            "ORG",
+                            "CARDINAL"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "4_6",
+                        "fact_group_content": "27% reduction in relative risk of cardiovascular mortality due to physical activity in 2016.",
+                        "fact_ids": [
+                            "2_0_3"
+                        ],
+                        "article_ids": [
+                            "2"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "27% reduction in relative risk of cardiovascular mortality due to physical activity in 2016.",
+                                "vis_data": [
+                                    {
+                                        "label": "Reduction in cardiovascular mortality risk",
+                                        "value": "27",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "2_0_3"
+                            }
+                        ],
+                        "missing_entities": [
+                            "ORG",
+                            "CARDINAL"
+                        ]
+                    },
+                    {
+                        "fact_group_id": "4_7",
+                        "fact_group_content": "Increasing daily step count to 6,500 steps/day is associated with a reduced relative risk of CVD-related mortality of 49%.",
+                        "fact_ids": [
+                            "2_1_4"
+                        ],
+                        "article_ids": [
+                            "2"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "Increasing daily step count to 6,500 steps/day is associated with a reduced relative risk of CVD-related mortality of 49%.",
+                                "vis_data": [
+                                    {
+                                        "label": "Reduction in CVD mortality risk",
+                                        "value": "49",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "2_1_4"
+                            }
+                        ],
+                        "missing_entities": [
+                            "ORG"
+                        ]
+                    }
+                ],
+                "merged_id": "4_2"
+            },
+            {
+                "merged_content": "The summary RR for high versus low physical activity was 0.77.",
+                "merged_data": [
+                    {
+                        "label": "Summary RR",
+                        "value": "0.77",
+                        "unit": "ratio"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Summary RR for Physical Activity",
+                    "x_axis": "RR",
+                    "y_axis": "Ratio"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_3",
+                        "fact_group_content": "The summary RR for high versus low physical activity was 0.77 (95% CI 0.70\u20130.85, I2=49%, n=7) for total physical activity.",
+                        "fact_ids": [
+                            "17_0_2"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The summary RR for high versus low physical activity was 0.77 (95% CI 0.70\u20130.85, I2=49%, n=7) for total physical activity.",
+                                "vis_data": [
+                                    {
+                                        "label": "Summary RR",
+                                        "value": "0.77",
+                                        "unit": "ratio"
+                                    }
+                                ],
+                                "fact_id": "17_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_3"
+            },
+            {
+                "merged_content": "Exercise improved systolic blood pressure with SMD = \u22120.33 (95% CI, \u22120.62 to \u22120.05), p = 0.02.",
+                "merged_data": [
+                    {
+                        "label": "Systolic BP Improvement",
+                        "value": "-0.33",
+                        "unit": "SMD"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Exercise Impact on Systolic BP",
+                    "x_axis": "Improvement",
+                    "y_axis": "SMD"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "4_8",
+                        "fact_group_content": "Exercise improved systolic blood pressure with SMD = \u22120.33 (95% CI, \u22120.62 to \u22120.05), p = 0.02.",
+                        "fact_ids": [
+                            "9_0_0"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Exercise improved systolic blood pressure with SMD = \u22120.33 (95% CI, \u22120.62 to \u22120.05), p = 0.02.",
+                                "vis_data": [
+                                    {
+                                        "label": "Systolic BP Improvement",
+                                        "value": "-0.33",
+                                        "unit": "SMD"
+                                    }
+                                ],
+                                "fact_id": "9_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "4_4"
+            }
+        ]
+    },
+    {
+        "cluster_id": "3",
+        "merged_facts": [
+            {
+                "merged_content": "The summary RR per 20 MET-hours per day of total activity was 0.89.",
+                "merged_data": [
+                    {
+                        "label": "Summary RR per 20 MET-hours/day",
+                        "value": "0.89",
+                        "unit": "ratio"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "Summary RR for Total Activity",
+                    "x_axis": "Metric",
+                    "y_axis": "Ratio"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_0",
+                        "fact_group_content": "The summary RR per 20 MET-hours per day of total activity was 0.89 (95% CI 0.83\u20130.95, I2=67%, n=4).",
+                        "fact_ids": [
+                            "17_3_10"
+                        ],
+                        "article_ids": [
+                            "17"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "The summary RR per 20 MET-hours per day of total activity was 0.89 (95% CI 0.83\u20130.95, I2=67%, n=4).",
+                                "vis_data": [
+                                    {
+                                        "label": "Summary RR per 20 MET-hours/day",
+                                        "value": "0.89",
+                                        "unit": "ratio"
+                                    }
+                                ],
+                                "fact_id": "17_3_10"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_0"
+            },
+            {
+                "merged_content": "81% of adolescents failed to meet the current guidelines for weekly exercise in 2016.",
+                "merged_data": [
+                    {
+                        "label": "Adolescents not meeting exercise guidelines",
+                        "value": "81",
+                        "unit": "%"
+                    }
+                ],
+                "merged_recommendation": "isotype",
+                "titles": {
+                    "chart_title": "Adolescents Not Meeting Exercise Guidelines",
+                    "x_axis": "Category",
+                    "y_axis": "Percentage"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_1",
+                        "fact_group_content": "81% of adolescents failed to meet the current guidelines for weekly exercise in 2016.",
+                        "fact_ids": [
+                            "2_0_1"
+                        ],
+                        "article_ids": [
+                            "2"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "proportion",
+                                "fact_content": "81% of adolescents failed to meet the current guidelines for weekly exercise in 2016.",
+                                "vis_data": [
+                                    {
+                                        "label": "Adolescents not meeting exercise guidelines",
+                                        "value": "81",
+                                        "unit": "%"
+                                    }
+                                ],
+                                "fact_id": "2_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_1"
+            },
+            {
+                "merged_content": "Physical inactivity was responsible for 13.4 million disability-adjusted life years (DALYs) worldwide.",
+                "merged_data": [
+                    {
+                        "label": "DALYs due to inactivity",
+                        "value": "13.4",
+                        "unit": "million DALYs"
+                    }
+                ],
+                "merged_recommendation": "text",
+                "titles": {
+                    "chart_title": "DALYs Due to Physical Inactivity",
+                    "x_axis": "Metric",
+                    "y_axis": "Million DALYs"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_2",
+                        "fact_group_content": "Physical inactivity was responsible for 13.4 million disability-adjusted life years (DALYs) worldwide in 2016.",
+                        "fact_ids": [
+                            "2_0_2"
+                        ],
+                        "article_ids": [
+                            "2"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Physical inactivity was responsible for 13.4 million disability-adjusted life years (DALYs) worldwide in 2016.",
+                                "vis_data": [
+                                    {
+                                        "label": "DALYs due to inactivity in 2016",
+                                        "value": "13.4",
+                                        "unit": "million DALYs"
+                                    }
+                                ],
+                                "fact_id": "2_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_2"
+            },
+            {
+                "merged_content": "Exercise improved resting heart rate with SMD = \u22120.30 and lowered diastolic blood pressure with SMD = \u22120.72.",
+                "merged_data": [
+                    {
+                        "label": "Resting Heart Rate Improvement",
+                        "value": "-0.30",
+                        "unit": "SMD"
+                    },
+                    {
+                        "label": "RCT Diastolic BP Improvement",
+                        "value": "-0.72",
+                        "unit": "SMD"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Exercise Impact on Heart Rate and BP",
+                    "x_axis": "Improvement Type",
+                    "y_axis": "SMD"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_3",
+                        "fact_group_content": "Exercise improved resting heart rate with SMD = \u22120.30 (95% CI, \u22120.50 to \u22120.10), p = 0.004.",
+                        "fact_ids": [
+                            "9_0_2"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Exercise improved resting heart rate with SMD = \u22120.30 (95% CI, \u22120.50 to \u22120.10), p = 0.004.",
+                                "vis_data": [
+                                    {
+                                        "label": "Resting Heart Rate Improvement",
+                                        "value": "-0.30",
+                                        "unit": "SMD"
+                                    }
+                                ],
+                                "fact_id": "9_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_4",
+                        "fact_group_content": "Exercise was effective in lowering diastolic blood pressure in the RCT group with SMD = \u22120.72, 95% CI = [\u22121.27, \u22120.17], p < 0.001.",
+                        "fact_ids": [
+                            "9_2_4"
+                        ],
+                        "article_ids": [
+                            "9"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Exercise was effective in lowering diastolic blood pressure in the RCT group with SMD = \u22120.72, 95% CI = [\u22121.27, \u22120.17], p < 0.001.",
+                                "vis_data": [
+                                    {
+                                        "label": "RCT Diastolic BP Improvement",
+                                        "value": "-0.72",
+                                        "unit": "SMD"
+                                    }
+                                ],
+                                "fact_id": "9_2_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_3"
+            },
+            {
+                "merged_content": "9 out of 10 cases of positive ECG appeared during the exercise phase, and 1 out of 10 during the recovery phase.",
+                "merged_data": [
+                    {
+                        "label": "Positive ECG during exercise",
+                        "value": "9",
+                        "unit": "cases"
+                    },
+                    {
+                        "label": "Positive ECG during recovery",
+                        "value": "1",
+                        "unit": "cases"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Positive ECG Cases During Phases",
+                    "x_axis": "Phase",
+                    "y_axis": "Cases"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_5",
+                        "fact_group_content": "9 out of 10 cases of positive ECG appeared during the exercise phase.",
+                        "fact_ids": [
+                            "18_0_0"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "9 out of 10 cases of positive ECG appeared during the exercise phase.",
+                                "vis_data": [
+                                    {
+                                        "label": "Positive ECG during exercise",
+                                        "value": "9",
+                                        "unit": "cases"
+                                    }
+                                ],
+                                "fact_id": "18_0_0"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_6",
+                        "fact_group_content": "1 out of 10 cases of positive ECG appeared during the recovery phase.",
+                        "fact_ids": [
+                            "18_0_1"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "1 out of 10 cases of positive ECG appeared during the recovery phase.",
+                                "vis_data": [
+                                    {
+                                        "label": "Positive ECG during recovery",
+                                        "value": "1",
+                                        "unit": "cases"
+                                    }
+                                ],
+                                "fact_id": "18_0_1"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_4"
+            },
+            {
+                "merged_content": "Positive ECG changes occurred at a heart rate of \u226562.50% HRR, while safe starting exercise heart rate is <60% HRR.",
+                "merged_data": [
+                    {
+                        "label": "Heart rate at positive ECG",
+                        "value": "62.50",
+                        "unit": "% HRR"
+                    },
+                    {
+                        "label": "Safe starting heart rate",
+                        "value": "<60",
+                        "unit": "% HRR"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Heart Rate and ECG Changes",
+                    "x_axis": "Heart Rate Type",
+                    "y_axis": "% HRR"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_7",
+                        "fact_group_content": "Positive ECG changes occurred at a heart rate of \u226562.50% HRR.",
+                        "fact_ids": [
+                            "18_0_2"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Positive ECG changes occurred at a heart rate of \u226562.50% HRR.",
+                                "vis_data": [
+                                    {
+                                        "label": "Heart rate at positive ECG",
+                                        "value": "62.50",
+                                        "unit": "% HRR"
+                                    }
+                                ],
+                                "fact_id": "18_0_2"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_8",
+                        "fact_group_content": "Safe starting exercise heart rate is <60% HRR.",
+                        "fact_ids": [
+                            "18_0_4"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Safe starting exercise heart rate is <60% HRR.",
+                                "vis_data": [
+                                    {
+                                        "label": "Safe starting heart rate",
+                                        "value": "<60",
+                                        "unit": "% HRR"
+                                    }
+                                ],
+                                "fact_id": "18_0_4"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_5"
+            },
+            {
+                "merged_content": "Individuals with CVDRF = 3\u20134 are 2.6 times more likely to have an equivocal exercise ECG than those with CVDRF = 0\u20132, and those with CVDRF = 5\u20137 are 5.4 times more likely to have a positive exercise ECG.",
+                "merged_data": [
+                    {
+                        "label": "CVDRF 3-4 vs 0-2 equivocal ECG",
+                        "value": "2.6",
+                        "unit": "times"
+                    },
+                    {
+                        "label": "CVDRF 5-7 vs 0-2 positive ECG",
+                        "value": "5.4",
+                        "unit": "times"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "CVDRF Impact on ECG Likelihood",
+                    "x_axis": "CVDRF Comparison",
+                    "y_axis": "Likelihood (times)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_9",
+                        "fact_group_content": "Individuals with CVDRF = 3\u20134 are 2.6 times more likely to have an equivocal exercise ECG than those with CVDRF = 0\u20132.",
+                        "fact_ids": [
+                            "18_1_5"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Individuals with CVDRF = 3\u20134 are 2.6 times more likely to have an equivocal exercise ECG than those with CVDRF = 0\u20132.",
+                                "vis_data": [
+                                    {
+                                        "label": "CVDRF 3-4 vs 0-2 equivocal ECG",
+                                        "value": "2.6",
+                                        "unit": "times"
+                                    }
+                                ],
+                                "fact_id": "18_1_5"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_10",
+                        "fact_group_content": "Individuals with CVDRF = 5\u20137 are 5.4 times more likely to have a positive exercise ECG than those with CVDRF = 0\u20132.",
+                        "fact_ids": [
+                            "18_1_6"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Individuals with CVDRF = 5\u20137 are 5.4 times more likely to have a positive exercise ECG than those with CVDRF = 0\u20132.",
+                                "vis_data": [
+                                    {
+                                        "label": "CVDRF 5-7 vs 0-2 positive ECG",
+                                        "value": "5.4",
+                                        "unit": "times"
+                                    }
+                                ],
+                                "fact_id": "18_1_6"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_6"
+            },
+            {
+                "merged_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 21 for no CVDRF and 27 for one CVDRF.",
+                "merged_data": [
+                    {
+                        "label": "RR for no CVDRF",
+                        "value": "21",
+                        "unit": "ratio"
+                    },
+                    {
+                        "label": "RR for one CVDRF",
+                        "value": "27",
+                        "unit": "ratio"
+                    }
+                ],
+                "merged_recommendation": "bar",
+                "titles": {
+                    "chart_title": "Age-adjusted RR for ST Changes",
+                    "x_axis": "CVDRF Level",
+                    "y_axis": "RR (ratio)"
+                },
+                "facts": [
+                    {
+                        "fact_group_id": "3_11",
+                        "fact_group_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 21 for no CVDRF.",
+                        "fact_ids": [
+                            "18_1_7"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 21 for no CVDRF.",
+                                "vis_data": [
+                                    {
+                                        "label": "RR for no CVDRF",
+                                        "value": "21",
+                                        "unit": "ratio"
+                                    }
+                                ],
+                                "fact_id": "18_1_7"
+                            }
+                        ],
+                        "missing_entities": []
+                    },
+                    {
+                        "fact_group_id": "3_12",
+                        "fact_group_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 27 for one CVDRF.",
+                        "fact_ids": [
+                            "18_1_8"
+                        ],
+                        "article_ids": [
+                            "18"
+                        ],
+                        "facts": [
+                            {
+                                "fact_type": "value",
+                                "fact_content": "Age-adjusted RR of ST segment changes during exercise testing to predict coronary heart disease death was 27 for one CVDRF.",
+                                "vis_data": [
+                                    {
+                                        "label": "RR for one CVDRF",
+                                        "value": "27",
+                                        "unit": "ratio"
+                                    }
+                                ],
+                                "fact_id": "18_1_8"
+                            }
+                        ],
+                        "missing_entities": []
+                    }
+                ],
+                "merged_id": "3_7"
+            }
+        ]
+    }
+]

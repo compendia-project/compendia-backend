@@ -1,0 +1,47 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "The implications of the predicted $3,100 per troy ounce price by Goldman Sachs for the global economy include potential increased investment in gold, shifts in central bank reserves, and impacts on related industries such as mining and jewelry.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The predicted gold price by Goldman Sachs is $3,100 per troy ounce for 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Predicted Gold Price 2025",
+                            "value": "3100",
+                            "unit": "USD/troy ounce"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "If central bank purchases reach an average of 70 tonnes per month, gold prices could rise significantly, potentially reaching as high as $3,200 by the end of 2025.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Central bank purchases could reach an average of 70 tonnes per month.",
+                    "vis_data": [
+                        {
+                            "label": "Central Bank Purchases",
+                            "value": "70",
+                            "unit": "tonnes/month"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Gold prices could potentially reach as high as $3,200 by the end of 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Potential Gold Price 2025",
+                            "value": "3200",
+                            "unit": "USD/troy ounce"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

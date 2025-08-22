@@ -1,0 +1,69 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Regular physical activity reduces the risk of dying prematurely from CVD. It also helps prevent the development of diabetes, helps maintain weight loss, and reduces hypertension, which are all independent risk factors for CVD. Less active, less fit persons have a 30-50 percent greater risk of developing high blood pressure. Physical inactivity is a significant risk factor for CVD itself. It ranks similarly to cigarette smoking, high blood pressure, and elevated cholesterol. One reason it has such a large affect on mortality is because of its prevalence. Twice as many adults in the United States are physically inactive than smoke cigarettes. Regular physical activity has been shown to help protect against first cardiac episode, help patients' recovery from coronary surgeries, and will reduce the risk of recurrent cardiac events.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Less active, less fit persons have a 30-50 percent greater risk of developing high blood pressure.",
+                    "vis_data": [
+                        {
+                            "label": "Increased Risk of Hypertension",
+                            "value": "30-50",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "It is estimated that approximately 35% of coronary heart disease mortality is due to physical inactivity. The significance of this relationship lies in the fact that coronary heart disease is the leading cause of death in the United States with over 700,000 deaths annually. Approximately 60% of all Americans age 18 and older report that they are physically inactive. Physical inactivity has a major economic impact. It is felt through the loss of income and productivity when disabling diseases result. It was estimated that in 1989 physical inactivity cost the nation $5.7 billion due to hospitalizations and other related health care costs.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Approximately 35% of coronary heart disease mortality is due to physical inactivity.",
+                    "vis_data": [
+                        {
+                            "label": "CHD Mortality Due to Inactivity",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Coronary heart disease is the leading cause of death in the United States with over 700,000 deaths annually.",
+                    "vis_data": [
+                        {
+                            "label": "Annual CHD Deaths",
+                            "value": "700000",
+                            "unit": "deaths"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Approximately 60% of all Americans age 18 and older report that they are physically inactive.",
+                    "vis_data": [
+                        {
+                            "label": "Physically Inactive Americans",
+                            "value": "60",
+                            "unit": "%"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 1989 physical inactivity cost the nation $5.7 billion due to hospitalizations and other related health care costs.",
+                    "vis_data": [
+                        {
+                            "label": "Cost of Inactivity in 1989",
+                            "value": "5.7",
+                            "unit": "billion USD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

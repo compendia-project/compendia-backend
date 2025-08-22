@@ -1,0 +1,386 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Seven prospective studies were included in the high versus low analysis of total physical activity and heart failure risk, which included 12,496 cases and 329,768 participants. The summary RR for high versus low physical activity was 0.77 (95% CI 0.70\u20130.85, I2=48.7%, pheterogeneity=0.07).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "12,496 cases of heart failure were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Heart Failure Cases",
+                            "value": "12496",
+                            "unit": "cases"
+                        }
+                    ],
+                    "fact_id": "17_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "329,768 participants were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Participants",
+                            "value": "329768",
+                            "unit": "participants"
+                        }
+                    ],
+                    "fact_id": "17_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The summary RR for high versus low physical activity was 0.77.",
+                    "vis_data": [
+                        {
+                            "label": "Summary RR",
+                            "value": "0.77",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "17_0_2"
+                }
+            ],
+            "relatedness_score": 0.5003999463527234,
+            "article_meta_data": {
+                "title": "Physical activity and the risk of heart failure: a systematic review and meta-analysis",
+                "date": "Unknown",
+                "url": "https://link.springer.com/article/10.1007/s10654-020-00693-6",
+                "id": 17
+            },
+            "para_id": "17_0"
+        },
+        {
+            "paragraph": "Two prospective studies were included in the analysis of vigorous physical activity and risk of heart failure (3632 cases, 158,397 participants). The summary RR for high versus low vigorous physical activity was 0.66 (95% CI 0.59\u20130.74, I2=0%, pheterogeneity=0.63) and per 20 MET-hours/week was 0.64 (95% CI 0.52\u20130.79, I2=14.9%, pheterogeneity=0.28).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "3,632 cases of heart failure were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Heart Failure Cases",
+                            "value": "3632",
+                            "unit": "cases"
+                        }
+                    ],
+                    "fact_id": "17_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "158,397 participants were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Participants",
+                            "value": "158397",
+                            "unit": "participants"
+                        }
+                    ],
+                    "fact_id": "17_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The summary RR for high versus low vigorous physical activity was 0.66.",
+                    "vis_data": [
+                        {
+                            "label": "Summary RR",
+                            "value": "0.66",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "17_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The summary RR per 20 MET-hours/week was 0.64.",
+                    "vis_data": [
+                        {
+                            "label": "Summary RR per 20 MET-hours/week",
+                            "value": "0.64",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "17_1_6"
+                }
+            ],
+            "relatedness_score": 0.495499299629359,
+            "article_meta_data": {
+                "title": "Physical activity and the risk of heart failure: a systematic review and meta-analysis",
+                "date": "Unknown",
+                "url": "https://link.springer.com/article/10.1007/s10654-020-00693-6",
+                "id": 17
+            },
+            "para_id": "17_1"
+        },
+        {
+            "paragraph": "Sixteen prospective studies were included in the analysis of leisure-time physical activity and risk of heart failure (>73,391 cases and 1,895,300 participants). The summary RR for high versus low leisure-time activity was 0.74 (95% CI 0.68\u20130.81, I2=88.0%, pheterogeneity<0.0001).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "More than 73,391 cases of heart failure were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Heart Failure Cases",
+                            "value": "73391",
+                            "unit": "cases"
+                        }
+                    ],
+                    "fact_id": "17_2_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1,895,300 participants were included in the analysis.",
+                    "vis_data": [
+                        {
+                            "label": "Participants",
+                            "value": "1895300",
+                            "unit": "participants"
+                        }
+                    ],
+                    "fact_id": "17_2_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The summary RR for high versus low leisure-time activity was 0.74.",
+                    "vis_data": [
+                        {
+                            "label": "Summary RR",
+                            "value": "0.74",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "17_2_9"
+                }
+            ],
+            "relatedness_score": 0.4842952358792241,
+            "article_meta_data": {
+                "title": "Physical activity and the risk of heart failure: a systematic review and meta-analysis",
+                "date": "Unknown",
+                "url": "https://link.springer.com/article/10.1007/s10654-020-00693-6",
+                "id": 17
+            },
+            "para_id": "17_2"
+        },
+        {
+            "paragraph": "Four prospective studies were included in the dose\u2013response analysis. The summary RR was 0.89 (95% CI 0.83\u20130.95, I2=66.8%, pheterogeneity=0.03, n=4) per 20 MET-hours per day of total activity.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The summary RR per 20 MET-hours per day of total activity was 0.89.",
+                    "vis_data": [
+                        {
+                            "label": "Summary RR per 20 MET-hours/day",
+                            "value": "0.89",
+                            "unit": "ratio"
+                        }
+                    ],
+                    "fact_id": "17_3_10"
+                }
+            ],
+            "relatedness_score": 0.34317212574702816,
+            "article_meta_data": {
+                "title": "Physical activity and the risk of heart failure: a systematic review and meta-analysis",
+                "date": "Unknown",
+                "url": "https://link.springer.com/article/10.1007/s10654-020-00693-6",
+                "id": 17
+            },
+            "para_id": "17_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "17_0",
+            "paragraph": "Seven prospective studies were included in the high versus low analysis of total physical activity and heart failure risk, which included 12,496 cases and 329,768 participants. The summary RR for high versus low physical activity was 0.77 (95% CI 0.70\u20130.85, I2=48.7%, pheterogeneity=0.07)."
+        },
+        {
+            "para_id": "17_1",
+            "paragraph": "Two prospective studies were included in the analysis of vigorous physical activity and risk of heart failure (3632 cases, 158,397 participants). The summary RR for high versus low vigorous physical activity was 0.66 (95% CI 0.59\u20130.74, I2=0%, pheterogeneity=0.63) and per 20 MET-hours/week was 0.64 (95% CI 0.52\u20130.79, I2=14.9%, pheterogeneity=0.28)."
+        },
+        {
+            "para_id": "17_2",
+            "paragraph": "Sixteen prospective studies were included in the analysis of leisure-time physical activity and risk of heart failure (>73,391 cases and 1,895,300 participants). The summary RR for high versus low leisure-time activity was 0.74 (95% CI 0.68\u20130.81, I2=88.0%, pheterogeneity<0.0001)."
+        },
+        {
+            "para_id": "17_3",
+            "paragraph": "Four prospective studies were included in the dose\u2013response analysis. The summary RR was 0.89 (95% CI 0.83\u20130.95, I2=66.8%, pheterogeneity=0.03, n=4) per 20 MET-hours per day of total activity."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "17_0_0",
+            "fact_content": "12,496 cases of heart failure were included in the analysis."
+        },
+        {
+            "fact_id": "17_0_1",
+            "fact_content": "329,768 participants were included in the analysis."
+        },
+        {
+            "fact_id": "17_0_2",
+            "fact_content": "The summary RR for high versus low physical activity was 0.77."
+        },
+        {
+            "fact_id": "17_1_3",
+            "fact_content": "3,632 cases of heart failure were included in the analysis."
+        },
+        {
+            "fact_id": "17_1_4",
+            "fact_content": "158,397 participants were included in the analysis."
+        },
+        {
+            "fact_id": "17_1_5",
+            "fact_content": "The summary RR for high versus low vigorous physical activity was 0.66."
+        },
+        {
+            "fact_id": "17_1_6",
+            "fact_content": "The summary RR per 20 MET-hours/week was 0.64."
+        },
+        {
+            "fact_id": "17_2_7",
+            "fact_content": "More than 73,391 cases of heart failure were included in the analysis."
+        },
+        {
+            "fact_id": "17_2_8",
+            "fact_content": "1,895,300 participants were included in the analysis."
+        },
+        {
+            "fact_id": "17_2_9",
+            "fact_content": "The summary RR for high versus low leisure-time activity was 0.74."
+        },
+        {
+            "fact_id": "17_3_10",
+            "fact_content": "The summary RR per 20 MET-hours per day of total activity was 0.89."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "12,496 cases of heart failure were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Heart Failure Cases",
+                    "value": "12496",
+                    "unit": "cases"
+                }
+            ],
+            "fact_id": "17_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "329,768 participants were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Participants",
+                    "value": "329768",
+                    "unit": "participants"
+                }
+            ],
+            "fact_id": "17_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The summary RR for high versus low physical activity was 0.77.",
+            "vis_data": [
+                {
+                    "label": "Summary RR",
+                    "value": "0.77",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "17_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "3,632 cases of heart failure were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Heart Failure Cases",
+                    "value": "3632",
+                    "unit": "cases"
+                }
+            ],
+            "fact_id": "17_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "158,397 participants were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Participants",
+                    "value": "158397",
+                    "unit": "participants"
+                }
+            ],
+            "fact_id": "17_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The summary RR for high versus low vigorous physical activity was 0.66.",
+            "vis_data": [
+                {
+                    "label": "Summary RR",
+                    "value": "0.66",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "17_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The summary RR per 20 MET-hours/week was 0.64.",
+            "vis_data": [
+                {
+                    "label": "Summary RR per 20 MET-hours/week",
+                    "value": "0.64",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "17_1_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "More than 73,391 cases of heart failure were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Heart Failure Cases",
+                    "value": "73391",
+                    "unit": "cases"
+                }
+            ],
+            "fact_id": "17_2_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "1,895,300 participants were included in the analysis.",
+            "vis_data": [
+                {
+                    "label": "Participants",
+                    "value": "1895300",
+                    "unit": "participants"
+                }
+            ],
+            "fact_id": "17_2_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The summary RR for high versus low leisure-time activity was 0.74.",
+            "vis_data": [
+                {
+                    "label": "Summary RR",
+                    "value": "0.74",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "17_2_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The summary RR per 20 MET-hours per day of total activity was 0.89.",
+            "vis_data": [
+                {
+                    "label": "Summary RR per 20 MET-hours/day",
+                    "value": "0.89",
+                    "unit": "ratio"
+                }
+            ],
+            "fact_id": "17_3_10"
+        }
+    ]
+}

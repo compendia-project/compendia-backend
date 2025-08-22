@@ -1,0 +1,111 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "China is steadily becoming a crucial market for categories geared toward consumers with higher incomes. By 2030, it may be home to about 400 million households with upper-middle and higher incomes\u2014roughly as many as in Europe and the United States combined. Over the next five years, it is estimated that the number of millionaires in China may double, from around five million today to ten million in 2025. Thanks to their rising incomes, Chinese consumers are punching well above their weight. China generates about 17 percent of global GDP today, but accounts for a larger share of consumption in several categories (Exhibit 2). Three patterns are emerging in terms of China\u2019s share of global consumption.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "China may be home to about 400 million households with upper-middle and higher incomes by 2030.",
+                    "vis_data": [
+                        {
+                            "label": "Households with upper-middle and higher incomes",
+                            "value": "400",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "29_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The number of millionaires in China may double from around five million today to ten million in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Millionaires in China 2025",
+                            "value": "10",
+                            "unit": "million"
+                        }
+                    ],
+                    "fact_id": "29_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "China generates about 17 percent of global GDP today.",
+                    "vis_data": [
+                        {
+                            "label": "China's share of global GDP",
+                            "value": "17",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "29_0_2"
+                }
+            ],
+            "relatedness_score": 0.595306857602477,
+            "article_meta_data": {
+                "title": "Five consumer trends shaping the next decade of growth in China",
+                "date": "2021-11-11",
+                "url": "https://www.mckinsey.com/cn/our-insights/our-insights/five-consumer-trends-shaping-the-next-decade-of-growth-in-china",
+                "id": 29
+            },
+            "para_id": "29_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "29_0",
+            "paragraph": "China is steadily becoming a crucial market for categories geared toward consumers with higher incomes. By 2030, it may be home to about 400 million households with upper-middle and higher incomes\u2014roughly as many as in Europe and the United States combined. Over the next five years, it is estimated that the number of millionaires in China may double, from around five million today to ten million in 2025. Thanks to their rising incomes, Chinese consumers are punching well above their weight. China generates about 17 percent of global GDP today, but accounts for a larger share of consumption in several categories (Exhibit 2). Three patterns are emerging in terms of China\u2019s share of global consumption."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "29_0_0",
+            "fact_content": "China may be home to about 400 million households with upper-middle and higher incomes by 2030."
+        },
+        {
+            "fact_id": "29_0_1",
+            "fact_content": "The number of millionaires in China may double from around five million today to ten million in 2025."
+        },
+        {
+            "fact_id": "29_0_2",
+            "fact_content": "China generates about 17 percent of global GDP today."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "China may be home to about 400 million households with upper-middle and higher incomes by 2030.",
+            "vis_data": [
+                {
+                    "label": "Households with upper-middle and higher incomes",
+                    "value": "400",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "29_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The number of millionaires in China may double from around five million today to ten million in 2025.",
+            "vis_data": [
+                {
+                    "label": "Millionaires in China 2025",
+                    "value": "10",
+                    "unit": "million"
+                }
+            ],
+            "fact_id": "29_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "China generates about 17 percent of global GDP today.",
+            "vis_data": [
+                {
+                    "label": "China's share of global GDP",
+                    "value": "17",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "29_0_2"
+        }
+    ]
+}

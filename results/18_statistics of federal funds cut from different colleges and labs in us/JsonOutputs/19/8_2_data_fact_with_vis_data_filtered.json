@@ -1,0 +1,60 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In Massachusetts, 5,396 research institutions \u2014 including hospitals, medical schools, companies and universities \u2014 are estimated to lose $535 million in funding, as the NIH is a primary source of federal funding for medical research in the U.S.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "5,396 research institutions in Massachusetts are estimated to lose funding.",
+                    "vis_data": [
+                        {
+                            "label": "Research Institutions",
+                            "value": "5396",
+                            "unit": "count"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "$535 million in funding is estimated to be lost by research institutions in Massachusetts.",
+                    "vis_data": [
+                        {
+                            "label": "Funding Loss",
+                            "value": "535",
+                            "unit": "million USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5469767223542501
+        },
+        {
+            "paragraph": "The University of Massachusetts Amherst, with over 100 grants, received $38 million in funding in 2024 and faces an estimated loss of $6 million.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The University of Massachusetts Amherst received $38 million in funding in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Funding Received 2024",
+                            "value": "38",
+                            "unit": "million USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The University of Massachusetts Amherst faces an estimated loss of $6 million.",
+                    "vis_data": [
+                        {
+                            "label": "Estimated Funding Loss",
+                            "value": "6",
+                            "unit": "million USD"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.5193247246795403
+        }
+    ]
+}

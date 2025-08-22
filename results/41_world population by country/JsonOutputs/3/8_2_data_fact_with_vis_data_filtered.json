@@ -1,0 +1,178 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "South Korea\u2019s population has been declining since 2020, but it is still more populous than it was a few decades ago. Its 2024 population is still 19% larger than in 1990.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "South Korea's 2024 population is 19% larger than in 1990.",
+                    "vis_data": [
+                        {
+                            "label": "Population Increase 1990-2024",
+                            "value": "19",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.3692758942146719
+        },
+        {
+            "paragraph": "In combination with high fertility and declining mortality, C\u00f4te d\u2019Ivoire\u2019s population is growing. Its population doubled from 1998 to 31 million people in 2024 and we project it will double again over the next 38 years to 62 million by 2062.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "C\u00f4te d\u2019Ivoire's population doubled from 1998 to 31 million in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population 1998-2024",
+                            "value": "31",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "C\u00f4te d\u2019Ivoire's population is projected to double again to 62 million by 2062.",
+                    "vis_data": [
+                        {
+                            "label": "Projected Population 2062",
+                            "value": "62",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.3594351746873603
+        },
+        {
+            "paragraph": "Canada has had decades of high immigration. In 2024, the rate of net migration is 6.1 per thousand, meaning that about another six people are added to the population via migration for every 1,000 people in the population.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 2024, Canada's rate of net migration is 6.1 per thousand.",
+                    "vis_data": [
+                        {
+                            "label": "Net Migration Rate 2024",
+                            "value": "6.1",
+                            "unit": "per thousand"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.3534973822147196
+        },
+        {
+            "paragraph": "In 1990, about 2.2 million people (about 5% of the population) were age 65 or older. Thirty-four years later, that number has swelled to 10.2 million (20% of the population).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 1990, about 2.2 million people (5% of the population) in South Korea were age 65 or older.",
+                    "vis_data": [
+                        {
+                            "label": "65+ Population 1990",
+                            "value": "2.2",
+                            "unit": "million"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "In 2024, about 10.2 million people (20% of the population) in South Korea are age 65 or older.",
+                    "vis_data": [
+                        {
+                            "label": "65+ Population 2024",
+                            "value": "10.2",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.3405575347163978
+        },
+        {
+            "paragraph": "Despite decades of low fertility, Canada\u2019s population has been growing due to migration and an increase in the population age 65 and older, which more than doubled from about 3.2 million in 1991 to 8.2 million in 2024.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Canada's population age 65 and older more than doubled from 3.2 million in 1991 to 8.2 million in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "65+ Population in 1991",
+                            "value": "3.2",
+                            "unit": "million"
+                        },
+                        {
+                            "label": "65+ Population in 2024",
+                            "value": "8.2",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.33464993671855825
+        },
+        {
+            "paragraph": "And it\u2019s projected that people age 65 and over will make up 50% of South Korea\u2019s population by 2062.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "People age 65 and over will make up 50% of South Korea's population by 2062.",
+                    "vis_data": [
+                        {
+                            "label": "65+ Population 2062",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.33351455809509867
+        },
+        {
+            "paragraph": "As recently as the 1980s, people ages 0-14 outnumbered people age 65 and older by more than 3 to 1. Today, there are slightly more people age 65 and older than there are people ages 14 and younger.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "In the 1980s, people ages 0-14 outnumbered people age 65 and older by more than 3 to 1.",
+                    "vis_data": [
+                        {
+                            "label": "0-14 vs 65+ Ratio 1980s",
+                            "value": "3:1",
+                            "unit": ""
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Today, there are slightly more people age 65 and older than people ages 14 and younger.",
+                    "vis_data": [
+                        {
+                            "label": "65+ vs 0-14 Ratio Today",
+                            "value": "1.1:1",
+                            "unit": ""
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.3009855770048354
+        },
+        {
+            "paragraph": "By 2100, we project there will be almost four people age 65 and older for every person age 14 and younger.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "By 2100, there will be almost four people age 65 and older for every person age 14 and younger.",
+                    "vis_data": [
+                        {
+                            "label": "65+ vs 0-14 Ratio 2100",
+                            "value": "4:1",
+                            "unit": ""
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.3004832462980517
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: UMLA: Malays data was reported at 221.000 Number in Oct 2018. This records a decrease from the previous number of 261.000 Number for Sep 2018. Singapore Marriages Registered By Ethnic Group: UMLA: Malays data is updated monthly, averaging 217.000 Number from Jan 1961 (Median) to Oct 2018, with 694 observations. The data reached an all-time high of 774.000 Number in Dec 1988 and a record low of 19.000 Number in Feb 1963. Singapore Marriages Registered By Ethnic Group: UMLA: Malays data remains active status in CEIC and is reported by Department of Statistics. The data is categorized under Global Database\u2019s Singapore \u2013 Table SG.G007: Vital Statistics: Marriages & Divorces.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "221 marriages for Malays under UMLA in Oct 2018."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Decrease from 261 marriages in Sep 2018 to 221 in Oct 2018 for Malays under UMLA."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Average of 217 marriages for Malays under UMLA from Jan 1961 to Oct 2018."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "All-time high of 774 marriages for Malays under UMLA in Dec 1988."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Record low of 19 marriages for Malays under UMLA in Feb 1963."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: Total (Number)2,033.00May 2018monthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "2,033 total marriages in May 2018."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: Under Women's Charter (UWC) (Number)1,752.00May 2018monthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "1,752 marriages under Women's Charter in May 2018."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: UWC: Chinese (Number)1,256.00May 2018monthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "1,256 marriages for Chinese under UWC in May 2018."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: UWC: Indians (Number)74.00May 2018monthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "74 marriages for Indians under UWC in May 2018."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: UWC: Other Ethnic Groups (Number)70.00May 2018monthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "70 marriages for Other Ethnic Groups under UWC in May 2018."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: UWC: Inter-ethnic Group (Number)352.00May 2018monthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "352 inter-ethnic marriages under UWC in May 2018."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: Under Muslim Law Act (UMLA) (Number)281.00May 2018monthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "281 marriages under Muslim Law Act in May 2018."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: UMLA: Indians (Number)14.00May 2018monthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "14 marriages for Indians under UMLA in May 2018."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: UMLA: Other Ethnic Groups (Number)26.00May 2018monthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "26 marriages for Other Ethnic Groups under UMLA in May 2018."
+                }
+            ]
+        },
+        {
+            "paragraph": "Singapore Marriages Registered By Ethnic Group: UMLA: Inter-ethnic Group (Number)108.00May 2018monthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "108 inter-ethnic marriages under UMLA in May 2018."
+                }
+            ]
+        },
+        {
+            "paragraph": "What was Singapore's Singapore Marriages Registered By Ethnic Group: UMLA: Malays in May 2018?LastPreviousMinMaxUnitFrequencyRange133.00May 2018232.00Apr 201819.00Feb 1963774.00Dec 1988NumbermonthlyJan 1961 - May 2018",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "133 marriages for Malays under UMLA in May 2018."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Decrease from 232 marriages in Apr 2018 to 133 in May 2018 for Malays under UMLA."
+                }
+            ]
+        }
+    ]
+}

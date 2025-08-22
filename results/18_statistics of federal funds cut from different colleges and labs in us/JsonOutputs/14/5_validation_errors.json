@@ -1,0 +1,46 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "In addition to freezing university funding, recent federal cost-cutting measures have also led to staff reductions and grant cancellations at key agencies like the National Science Foundation (NSF) and National Institutes of Health (NIH). These cuts could carry devastating long-term economic consequences. On the cautious side, a 25 percent reduction in public research and development spending wouldshrink the U.S. GDP by 3.8 percent, a decline comparable to that of the Great Recession, according to a recent study from American University. A 50 or 75 percent cut would result in GDP declines of 7.5 and 11.3 percent, respectively.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 25 percent reduction in public research and development spending would shrink the U.S. GDP by 3.8 percent.",
+                    "vis_data": [
+                        {
+                            "label": "GDP Decline (25% R&D cut)",
+                            "value": "3.8",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 50 percent cut would result in GDP declines of 7.5 percent.",
+                    "vis_data": [
+                        {
+                            "label": "GDP Decline (50% R&D cut)",
+                            "value": "7.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 75 percent cut would result in GDP declines of 11.3 percent.",
+                    "vis_data": [
+                        {
+                            "label": "GDP Decline (75% R&D cut)",
+                            "value": "11.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

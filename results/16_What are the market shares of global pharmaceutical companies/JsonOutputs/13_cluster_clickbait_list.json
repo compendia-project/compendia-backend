@@ -1,0 +1,1311 @@
+[
+    {
+        "cluster_id": 7,
+        "clickbait_list": [
+            {
+                "clickbait": "Drug Development Costs",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_0",
+                        "fact_group_content": "The average cost of developing a new drug can exceed USD 2.6 billion."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Top Pharmaceutical Giants",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_1",
+                        "fact_group_content": "Eli Lilly and Co has a market cap of $327,055 million."
+                    },
+                    {
+                        "fact_group_id": "7_2",
+                        "fact_group_content": "Johnson & Johnson is ranked 1st with $85.2bn."
+                    },
+                    {
+                        "fact_group_id": "7_3",
+                        "fact_group_content": "Merck & Co is ranked 3rd with $60.1bn."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Prescription Drug Dominance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_5",
+                        "fact_group_content": "Prescription drugs accounted for 87.10% revenue share in 2023."
+                    },
+                    {
+                        "fact_group_id": "7_9",
+                        "fact_group_content": "The prescription segment dominated the market with a revenue share of 86.76% in 2024."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Branded Segment Leadership",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_8",
+                        "fact_group_content": "The branded segment dominated the pharmaceutical market with a revenue share of 86.76% in 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "US Pharmaceutical Sales",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_12",
+                        "fact_group_content": "The US pharmaceutical industry accounts for roughly 50% of the global pharmaceutical sales revenue."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Chinese Market Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "7_13",
+                        "fact_group_content": "The Chinese biopharmaceutical market is expected to grow to $111.76 billion by 2025."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "drug",
+            "development",
+            "costs",
+            "Eli Lilly",
+            "Johnson & Johnson",
+            "Merck",
+            "Novartis",
+            "prescription",
+            "revenue",
+            "branded",
+            "pharmaceutical",
+            "US",
+            "Chinese",
+            "biopharmaceutical",
+            "market",
+            "growth"
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "clickbait_list": [
+            {
+                "clickbait": "Pharma Market Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_4",
+                        "fact_group_content": "The market is projected to grow from USD 1,763.90 billion in 2024 to USD 3,148.31 billion by 2032."
+                    },
+                    {
+                        "fact_group_id": "5_5",
+                        "fact_group_content": "The market is exhibiting a CAGR of 7.5% during the forecast period."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Top Pharma Rankings",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_7",
+                        "fact_group_content": "F. Hoffmann-La Roche Ltd is ranked 2nd with $66.4bn."
+                    },
+                    {
+                        "fact_group_id": "5_8",
+                        "fact_group_content": "AbbVie is ranked 5th with $54.3bn."
+                    },
+                    {
+                        "fact_group_id": "5_9",
+                        "fact_group_content": "Bayer is ranked 6th with $51.9bn."
+                    },
+                    {
+                        "fact_group_id": "5_10",
+                        "fact_group_content": "AstraZeneca is ranked 8th with $45.8bn."
+                    },
+                    {
+                        "fact_group_id": "5_11",
+                        "fact_group_content": "Novartis is ranked 9th with $45.4bn."
+                    },
+                    {
+                        "fact_group_id": "5_12",
+                        "fact_group_content": "Bristol Myers Squibb is ranked 10th with $45.0bn."
+                    },
+                    {
+                        "fact_group_id": "5_15",
+                        "fact_group_content": "Pfizer is ranked 1st with US$58.5bn in pharmaceutical sales revenue."
+                    },
+                    {
+                        "fact_group_id": "5_16",
+                        "fact_group_content": "AbbVie is ranked 3rd with US$54.32bn in pharmaceutical sales revenue."
+                    },
+                    {
+                        "fact_group_id": "5_17",
+                        "fact_group_content": "Sanofi is ranked 6th with US$46.16bn in pharmaceutical sales revenue."
+                    },
+                    {
+                        "fact_group_id": "5_18",
+                        "fact_group_content": "AstraZeneca is ranked 7th with US$45.8bn in pharmaceutical sales revenue."
+                    },
+                    {
+                        "fact_group_id": "5_19",
+                        "fact_group_content": "Bristol-Myers Squibb is ranked 9th with US$45bn in pharmaceutical sales revenue."
+                    },
+                    {
+                        "fact_group_id": "5_20",
+                        "fact_group_content": "GSK is ranked 10th with US$38.4bn in pharmaceutical sales revenue."
+                    }
+                ],
+                "number_of_facts": 12
+            },
+            {
+                "clickbait": "North America Dominance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_1",
+                        "fact_group_content": "North America pharmaceutical contract sales organizations market accounted for 38.0% in 2024."
+                    },
+                    {
+                        "fact_group_id": "5_6",
+                        "fact_group_content": "The market size in North America stood at USD 749.27 billion in 2023."
+                    },
+                    {
+                        "fact_group_id": "5_13",
+                        "fact_group_content": "North America is responsible for nearly half of the global market size."
+                    },
+                    {
+                        "fact_group_id": "5_14",
+                        "fact_group_content": "The United States makes up almost half of global medicine spending."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Oncology Market Share",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_2",
+                        "fact_group_content": "The oncology segment had a 32.8% market share in 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Pharma Market Leaders",
+                "related_facts": [
+                    {
+                        "fact_group_id": "5_0",
+                        "fact_group_content": "The pharmaceutical companies segment had a 52.0% market share in 2024."
+                    },
+                    {
+                        "fact_group_id": "5_3",
+                        "fact_group_content": "Bristol-Myers Squibb Co has the lowest market cap of $145,780 million."
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "pharmaceutical",
+            "companies",
+            "North",
+            "America",
+            "oncology",
+            "Bristol-Myers",
+            "Squibb",
+            "market",
+            "growth",
+            "CAGR",
+            "Hoffmann-La",
+            "Roche",
+            "AbbVie",
+            "Bayer",
+            "AstraZeneca",
+            "Novartis",
+            "Pfizer",
+            "Sanofi",
+            "GSK"
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "clickbait_list": [
+            {
+                "clickbait": "North America Dominance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_0",
+                        "fact_group_content": "North America pharmaceutical contract sales organizations market accounted for 38.0% in 2024."
+                    },
+                    {
+                        "fact_group_id": "3_2",
+                        "fact_group_content": "North America is responsible for nearly half of the global market size."
+                    },
+                    {
+                        "fact_group_id": "3_9",
+                        "fact_group_content": "The US pharmaceutical industry accounted for 48% of the global pharmaceutical market as of 2020."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Pfizer's Market Leadership",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_3",
+                        "fact_group_content": "Pfizer is ranked 1st with US$58.5bn in pharmaceutical sales revenue."
+                    },
+                    {
+                        "fact_group_id": "3_6",
+                        "fact_group_content": "Pfizer market share of 6%."
+                    },
+                    {
+                        "fact_group_id": "3_19",
+                        "fact_group_content": "Pfizer had available around $10bn\u201315bn for business development in 2023."
+                    },
+                    {
+                        "fact_group_id": "3_25",
+                        "fact_group_content": "Pfizer 2023 revenue: US$58.5 billion."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Bristol-Myers Squibb Challenges",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_1",
+                        "fact_group_content": "Bristol-Myers Squibb Co has the lowest market cap of $145,780 million."
+                    },
+                    {
+                        "fact_group_id": "3_21",
+                        "fact_group_content": "Bristol Myers Squibb's 2025 guidance is for a decline of nearly $3bn on 2024\u2019s revenues."
+                    },
+                    {
+                        "fact_group_id": "3_22",
+                        "fact_group_content": "BMS is implementing $2bn in cuts in 2025\u20132027."
+                    },
+                    {
+                        "fact_group_id": "3_26",
+                        "fact_group_content": "Bristol-Myers Squibb 2023 revenue: US$45 billion."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Roche's Financial Performance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_7",
+                        "fact_group_content": "Roche market share of 3.7%."
+                    },
+                    {
+                        "fact_group_id": "3_31",
+                        "fact_group_content": "Roche 2023 revenue: US$65.32 billion."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Merck & Co's Revenue",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_4",
+                        "fact_group_content": "Merck & Co is ranked 4th with US$53.6bn in pharmaceutical sales revenue."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Eli Lilly's Market Cap",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_5",
+                        "fact_group_content": "Eli Lilly and Company market cap is US$772.11 billion."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Chinese Market Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_10",
+                        "fact_group_content": "The Chinese biopharmaceutical market increased by 200% in market capitalization between 2016 and 2020."
+                    },
+                    {
+                        "fact_group_id": "3_11",
+                        "fact_group_content": "China generates $29.36 million in over-the-counter revenue."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Oncology Revenue Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_16",
+                        "fact_group_content": "Oncology portfolio revenue marked an 11.6% increase."
+                    },
+                    {
+                        "fact_group_id": "3_23",
+                        "fact_group_content": "Keytruda sales reached US$25 billion in 2023, a 19 percent increase."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Novartis Sales Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_18",
+                        "fact_group_content": "Novartis reported 12% growth of net pharma sales to $50.3bn."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Sanofi's Sales Increase",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_20",
+                        "fact_group_content": "Sanofi reported 11.3% company sales growth at constant currencies."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "AstraZeneca's Revenue",
+                "related_facts": [
+                    {
+                        "fact_group_id": "3_29",
+                        "fact_group_content": "AstraZeneca 2023 revenue: US$45.81 billion."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "North",
+            "America",
+            "pharmaceutical",
+            "contract",
+            "sales",
+            "organizations",
+            "market",
+            "Bristol-Myers",
+            "Squibb",
+            "lowest",
+            "cap",
+            "Pfizer",
+            "ranked",
+            "revenue",
+            "Merck",
+            "Eli",
+            "Lilly",
+            "Company",
+            "share",
+            "Roche",
+            "cancer-related",
+            "deaths",
+            "Chinese",
+            "biopharmaceutical",
+            "capitalization",
+            "Mounjaro",
+            "Zepbound",
+            "AbbVie",
+            "ImmunoGen",
+            "Cerevel",
+            "Therapeutics",
+            "Oncology",
+            "portfolio",
+            "Wegovy",
+            "Ozempic",
+            "Novartis",
+            "Sanofi",
+            "Keytruda",
+            "Gardasil",
+            "Tremfya",
+            "Entresto",
+            "AstraZeneca",
+            "Tagrisso"
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "clickbait_list": [
+            {
+                "clickbait": "Top Pharma Companies",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_0",
+                        "fact_group_content": "The top 10 pharma companies in the world in 2022 had a market cap of $2,591,949 million."
+                    },
+                    {
+                        "fact_group_id": "6_1",
+                        "fact_group_content": "Pfizer is ranked 4th with $58.5bn."
+                    },
+                    {
+                        "fact_group_id": "6_2",
+                        "fact_group_content": "Johnson & Johnson is ranked 2nd with US$54.76bn in pharmaceutical sales revenue."
+                    },
+                    {
+                        "fact_group_id": "6_14",
+                        "fact_group_content": "Johnson & Johnson achieved its $57bn sales target a year early."
+                    }
+                ],
+                "number_of_facts": 4
+            },
+            {
+                "clickbait": "Chinese Pharma Market",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_8",
+                        "fact_group_content": "Digestive and metabolic drugs and systemic anti-infective drugs account for 14% of the Chinese pharmaceutical market."
+                    },
+                    {
+                        "fact_group_id": "6_9",
+                        "fact_group_content": "Patent and generic drugs account for 56% and 44% of the Chinese pharmaceutical market, respectively."
+                    },
+                    {
+                        "fact_group_id": "6_10",
+                        "fact_group_content": "The Chinese healthcare industry was valued at $900 billion as of 2019."
+                    },
+                    {
+                        "fact_group_id": "6_11",
+                        "fact_group_content": "The Chinese healthcare industry is expected to grow to $2.3 trillion by 2030."
+                    },
+                    {
+                        "fact_group_id": "6_12",
+                        "fact_group_content": "The Chinese biopharmaceutical market was valued at $47.6 billion in 2020."
+                    },
+                    {
+                        "fact_group_id": "6_13",
+                        "fact_group_content": "The Chinese biopharmaceutical market is expected to grow to $111.76 billion by 2025."
+                    }
+                ],
+                "number_of_facts": 6
+            },
+            {
+                "clickbait": "Global Pharma Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_5",
+                        "fact_group_content": "The global pharmaceutical market size was estimated at USD 1,645.75 billion in 2024."
+                    },
+                    {
+                        "fact_group_id": "6_6",
+                        "fact_group_content": "The global pharmaceutical market is projected to reach USD 2,350.43 billion by 2030."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "UK Pharma Market Share",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_7",
+                        "fact_group_content": "The UK pharmaceutical market accounts for 2.6% of the global pharmaceutical market."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Oral Drug Dominance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_3",
+                        "fact_group_content": "The oral route of administration had a 58.10% revenue share in 2023."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Indian Health Coverage",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_4",
+                        "fact_group_content": "Health insurance coverage for more than 500 million Indians through the Ayushman Bharat scheme."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Humira Sales Erosion",
+                "related_facts": [
+                    {
+                        "fact_group_id": "6_15",
+                        "fact_group_content": "Humira experienced $5bn of US sales erosion in 2024."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "pharma",
+            "companies",
+            "market",
+            "cap",
+            "Pfizer",
+            "Johnson",
+            "sales",
+            "revenue",
+            "oral",
+            "route",
+            "administration",
+            "health",
+            "insurance",
+            "coverage",
+            "Ayushman",
+            "Bharat",
+            "scheme",
+            "global",
+            "size",
+            "projected",
+            "UK",
+            "accounts",
+            "digestive",
+            "metabolic",
+            "drugs",
+            "systemic",
+            "anti-infective",
+            "patent",
+            "generic",
+            "Chinese",
+            "healthcare",
+            "industry",
+            "biopharmaceutical",
+            "Humira",
+            "erosion"
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "clickbait_list": [
+            {
+                "clickbait": "Top Market Cap Giants",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_0",
+                        "fact_group_content": "Johnson & Johnson Ltd has the highest market cap of $402,750 million."
+                    },
+                    {
+                        "fact_group_id": "2_1",
+                        "fact_group_content": "AbbVie Inc has a market cap of $281,151 million."
+                    },
+                    {
+                        "fact_group_id": "2_4",
+                        "fact_group_content": "Eli Lilly and Company market cap is US$772.11 billion."
+                    },
+                    {
+                        "fact_group_id": "2_7",
+                        "fact_group_content": "AbbVie market cap is US$320.74 billion."
+                    },
+                    {
+                        "fact_group_id": "2_15",
+                        "fact_group_content": "Eli Lilly achieved the largest market capitalisation growth of 32.4% to $733bn in 2024."
+                    },
+                    {
+                        "fact_group_id": "2_18",
+                        "fact_group_content": "UCB doubled its market capitalisation from $16.9bn in 2023 to $38.7bn in 2024."
+                    },
+                    {
+                        "fact_group_id": "2_20",
+                        "fact_group_content": "CSL witnessed a 10.5% decline in market capitalisation in 2024."
+                    }
+                ],
+                "number_of_facts": 7
+            },
+            {
+                "clickbait": "Pharma Sales Rankings",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_3",
+                        "fact_group_content": "Merck & Co is ranked 4th with US$53.6bn in pharmaceutical sales revenue."
+                    },
+                    {
+                        "fact_group_id": "2_23",
+                        "fact_group_content": "AstraZeneca is aiming to reach $80bn in sales by 2030 from $54bn in 2024."
+                    },
+                    {
+                        "fact_group_id": "2_24",
+                        "fact_group_content": "Roche 2023 revenue: US$65.32 billion."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Global Market Expansion",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_2",
+                        "fact_group_content": "North America is responsible for nearly half of the global market size."
+                    },
+                    {
+                        "fact_group_id": "2_6",
+                        "fact_group_content": "Eli Lilly and Company has products marketed in 110 countries."
+                    },
+                    {
+                        "fact_group_id": "2_8",
+                        "fact_group_content": "Novo Nordisk markets its therapies in 170 countries."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Rising Pharma Products",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_22",
+                        "fact_group_content": "Kisqali sales grew by 49% to $3bn in 2024."
+                    },
+                    {
+                        "fact_group_id": "2_25",
+                        "fact_group_content": "Hemlibra sales increased by 16 percent to US$4.6 billion in 2023."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Oncology and Neuroscience",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_16",
+                        "fact_group_content": "Global net revenue from oncology portfolio reached $1.687bn in Q3."
+                    },
+                    {
+                        "fact_group_id": "2_17",
+                        "fact_group_content": "Neuroscience portfolio generated $2.363bn in Q3."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Weight Loss Breakthrough",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_19",
+                        "fact_group_content": "Participants lost an average of 22.7% of their body weight over 68 weeks in the Phase III REDEFINE 1 trial."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Chinese Pharma Insights",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_13",
+                        "fact_group_content": "Cardiovascular and central nervous system drugs each account for 13% of the Chinese pharmaceutical market."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Market Share Dynamics",
+                "related_facts": [
+                    {
+                        "fact_group_id": "2_9",
+                        "fact_group_content": "Pfizer market share of 6%."
+                    },
+                    {
+                        "fact_group_id": "2_10",
+                        "fact_group_content": "Sanofi market share of 2.4%."
+                    },
+                    {
+                        "fact_group_id": "2_11",
+                        "fact_group_content": "AbbVie market share of 4.2%."
+                    }
+                ],
+                "number_of_facts": 3
+            }
+        ],
+        "important_words": [
+            "market",
+            "cap",
+            "sales",
+            "revenue",
+            "growth",
+            "oncology",
+            "neuroscience",
+            "countries",
+            "expansion",
+            "weight",
+            "loss",
+            "trial",
+            "cardiovascular",
+            "central",
+            "nervous",
+            "system",
+            "Chinese",
+            "pharmaceutical"
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "clickbait_list": [
+            {
+                "clickbait": "Pharmaceutical Market Size",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_0",
+                        "fact_group_content": "The global pharmaceuticals market size was valued at USD 1,661.26 billion in 2023."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Top Pharmaceutical Companies",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_1",
+                        "fact_group_content": "Novartis is ranked 8th with US$45.4bn in pharmaceutical sales revenue."
+                    },
+                    {
+                        "fact_group_id": "1_2",
+                        "fact_group_content": "BMS global revenues of $45,055 in 2021."
+                    },
+                    {
+                        "fact_group_id": "1_3",
+                        "fact_group_content": "Johnson & Johnson market share of 3.9%."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "North America Dominance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_5",
+                        "fact_group_content": "North America accounted for 38.60% of total revenue in the pharmaceutical market in 2023."
+                    },
+                    {
+                        "fact_group_id": "1_10",
+                        "fact_group_content": "North America had a revenue share of 45.0% in the global pharmaceutical market in 2023."
+                    },
+                    {
+                        "fact_group_id": "1_11",
+                        "fact_group_content": "The U.S. generates almost half of the world's pharmaceutical revenues."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Branded Drugs Revenue",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_6",
+                        "fact_group_content": "The branded drug segment captured a revenue share of 67.80% in 2023."
+                    },
+                    {
+                        "fact_group_id": "1_12",
+                        "fact_group_content": "The branded segment held 66% of the pharmaceutical market share in 2023."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Hospital Market Share",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_8",
+                        "fact_group_content": "Hospitals accounted for 54.20% of the market share in 2023."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Cancer Market Impact",
+                "related_facts": [
+                    {
+                        "fact_group_id": "1_14",
+                        "fact_group_content": "The cancer segment dominated the market with a revenue share of 18.06% in 2024."
+                    },
+                    {
+                        "fact_group_id": "1_15",
+                        "fact_group_content": "Approximately 1.96 million new cancer cases are expected in the U.S. in 2023."
+                    }
+                ],
+                "number_of_facts": 2
+            }
+        ],
+        "important_words": [
+            "pharmaceuticals",
+            "market",
+            "revenue",
+            "North",
+            "America",
+            "branded",
+            "drugs",
+            "hospitals",
+            "cancer",
+            "segment"
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "clickbait_list": [
+            {
+                "clickbait": "North America's Dominance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_0",
+                        "fact_group_content": "North America dominated the pharmaceuticals market with a market share of 45.10% in 2023."
+                    },
+                    {
+                        "fact_group_id": "9_3",
+                        "fact_group_content": "North America pharmaceutical market holds a leading position in 2024, accounting for 41.87% of the global share."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Sanofi's Market Position",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_1",
+                        "fact_group_content": "Sanofi is ranked 7th with $46.9bn."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Pharma Market Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_2",
+                        "fact_group_content": "The global pharmaceutical market is growing at a CAGR of 6.12% from 2025 to 2030."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "AbbVie's Revenue Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_4",
+                        "fact_group_content": "AbbVie generated $55 billion in 2021."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "US Pharma Revenue",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_5",
+                        "fact_group_content": "The US pharmaceutical industry generated $550 billion in revenue in 2021."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "UK Pharma Turnover",
+                "related_facts": [
+                    {
+                        "fact_group_id": "9_6",
+                        "fact_group_content": "The annual turnover of the pharmaceutical industry in the UK is roughly $50.21 billion."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "North America",
+            "Sanofi",
+            "CAGR",
+            "AbbVie",
+            "US",
+            "UK",
+            "revenue",
+            "turnover",
+            "dominated",
+            "growing"
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "clickbait_list": [
+            {
+                "clickbait": "Top Pharmaceutical Revenues",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_0",
+                        "fact_group_content": "Roche is ranked 5th with US$49.9bn in pharmaceutical sales revenue."
+                    },
+                    {
+                        "fact_group_id": "8_3",
+                        "fact_group_content": "Pfizer pharmaceutical revenues of $79,557 million."
+                    },
+                    {
+                        "fact_group_id": "8_4",
+                        "fact_group_content": "Novartis global revenues of $52,601 in 2021."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Staggering Market Caps",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_1",
+                        "fact_group_content": "Merck & Company market cap is US$257.64 billion."
+                    },
+                    {
+                        "fact_group_id": "8_2",
+                        "fact_group_content": "Novo Nordisk market cap is US$484.11 billion."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Global Market Shares",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_5",
+                        "fact_group_content": "CNPGC market share of 4.4%."
+                    },
+                    {
+                        "fact_group_id": "8_6",
+                        "fact_group_content": "Market share of 2.8% in 2021."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Over-the-Counter Revenue",
+                "related_facts": [
+                    {
+                        "fact_group_id": "8_7",
+                        "fact_group_content": "Global over-the-counter revenue is $145.3 billion."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "Roche",
+            "pharmaceutical",
+            "sales",
+            "revenue",
+            "Merck",
+            "market",
+            "cap",
+            "Novo",
+            "Nordisk",
+            "Pfizer",
+            "Novartis",
+            "global",
+            "CNPGC",
+            "share",
+            "over-the-counter"
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "clickbait_list": [
+            {
+                "clickbait": "Johnson & Johnson Dominance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_0",
+                        "fact_group_content": "Johnson & Johnson market cap is US$366.83 billion."
+                    },
+                    {
+                        "fact_group_id": "10_5",
+                        "fact_group_content": "Johnson & Johnson revenues of $52,080 million in 2021."
+                    },
+                    {
+                        "fact_group_id": "10_14",
+                        "fact_group_content": "Johnson & Johnson 2023 revenue: US$85.16 billion."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Revenue Growth Trends",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_1",
+                        "fact_group_content": "Sanofi revenues of $31,879 million."
+                    },
+                    {
+                        "fact_group_id": "10_2",
+                        "fact_group_content": "AbbVie revenues of $56,601."
+                    },
+                    {
+                        "fact_group_id": "10_3",
+                        "fact_group_content": "Roche revenues of $49,279 million in 2021."
+                    },
+                    {
+                        "fact_group_id": "10_4",
+                        "fact_group_content": "CNPGC revenues of $58,447 million in 2021."
+                    },
+                    {
+                        "fact_group_id": "10_5",
+                        "fact_group_content": "Johnson & Johnson revenues of $52,080 million in 2021."
+                    },
+                    {
+                        "fact_group_id": "10_9",
+                        "fact_group_content": "Novartis reported 12% growth of net pharma sales to $50.3bn."
+                    },
+                    {
+                        "fact_group_id": "10_13",
+                        "fact_group_content": "GSK 2023 revenue: US$38.4 billion."
+                    },
+                    {
+                        "fact_group_id": "10_14",
+                        "fact_group_content": "Johnson & Johnson 2023 revenue: US$85.16 billion."
+                    }
+                ],
+                "number_of_facts": 8
+            },
+            {
+                "clickbait": "Pharma Market Challenges",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_10",
+                        "fact_group_content": "Pfizer faces a loss of about $17bn in revenues from exclusivity expiries in 2025\u20132030."
+                    },
+                    {
+                        "fact_group_id": "10_12",
+                        "fact_group_content": "Bristol Myers Squibb's 2025 guidance is for a decline of nearly $3bn on 2024\u2019s revenues."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Innovative Drug Sales",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_6",
+                        "fact_group_content": "Q3 results for 2024 showed a 16.21% increase in global sales of Wegovy and Ozempic."
+                    },
+                    {
+                        "fact_group_id": "10_15",
+                        "fact_group_content": "Kesimpta sales were above US$2 billion."
+                    },
+                    {
+                        "fact_group_id": "10_16",
+                        "fact_group_content": "AstraZeneca's oncology division posted 20 percent gains to reach US$17.1 billion."
+                    }
+                ],
+                "number_of_facts": 3
+            },
+            {
+                "clickbait": "Market Capitalisation Shifts",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_7",
+                        "fact_group_content": "Gilead Sciences achieved a 14% increase in market capitalisation."
+                    },
+                    {
+                        "fact_group_id": "10_8",
+                        "fact_group_content": "Lilly ended 2024 with 34% share of the GLP-1 market."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Future Revenue Projections",
+                "related_facts": [
+                    {
+                        "fact_group_id": "10_11",
+                        "fact_group_content": "AbbVie is forecasting revenue growth of about 5.7% in 2025."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "Johnson",
+            "Sanofi",
+            "AbbVie",
+            "Roche",
+            "CNPGC",
+            "Gilead",
+            "Lilly",
+            "Novartis",
+            "Pfizer",
+            "Bristol Myers Squibb",
+            "GSK",
+            "AstraZeneca",
+            "market",
+            "revenue",
+            "growth",
+            "sales",
+            "oncology",
+            "exclusivity",
+            "forecasting",
+            "guidance"
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "clickbait_list": [
+            {
+                "clickbait": "Neuroscience Revenue Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_0",
+                        "fact_group_content": "Neuroscience portfolio revenue reflected a 15.6% growth."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Novo Nordisk's Market Shift",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_1",
+                        "fact_group_content": "Novo Nordisk experienced a 16.8% decline in market capitalisation in 2024."
+                    },
+                    {
+                        "fact_group_id": "4_4",
+                        "fact_group_content": "Novo Nordisk ended 2024 with 63% share of the GLP-1 market."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Wegovy and Ozempic Sales",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_2",
+                        "fact_group_content": "Global sales of Wegovy and Ozempic reached $6.8bn in Q3."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Lilly's Market Ascent",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_3",
+                        "fact_group_content": "Lilly's 32% rise enabled it to edge GSK out of the top 10."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Pfizer's Revenue Boost",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_5",
+                        "fact_group_content": "Recent acquisitions brought in about $20bn in 2030 risk-adjusted revenues for Pfizer."
+                    },
+                    {
+                        "fact_group_id": "4_7",
+                        "fact_group_content": "Pfizer achieved US$100.33 billion in revenues in 2022."
+                    }
+                ],
+                "number_of_facts": 2
+            },
+            {
+                "clickbait": "Merck's Financial Performance",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_6",
+                        "fact_group_content": "Merck & Company 2023 revenue: US$60.1 billion."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Johnson & Johnson's Oncology Gains",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_8",
+                        "fact_group_content": "Johnson & Johnson's oncology unit posted gains of 10.5 percent to reach US$17.66 billion."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Stelara's Sales Growth",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_9",
+                        "fact_group_content": "Stelara sales grew from US$9.72 billion in 2022 to US$10.86 billion in 2023."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Novartis Revenue Insights",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_10",
+                        "fact_group_content": "Novartis 2023 revenue: US$45.44 billion."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Imfinzi and Imjudo Surge",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_11",
+                        "fact_group_content": "Imfinzi and Imjudo combined sales were US$4.2 billion, up 55 percent over the previous year."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "Sanofi's Revenue Report",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_12",
+                        "fact_group_content": "Sanofi 2023 revenue: US$46.6 billion."
+                    }
+                ],
+                "number_of_facts": 1
+            },
+            {
+                "clickbait": "AbbVie's Financial Overview",
+                "related_facts": [
+                    {
+                        "fact_group_id": "4_13",
+                        "fact_group_content": "AbbVie 2023 revenue: US$54.3 billion."
+                    }
+                ],
+                "number_of_facts": 1
+            }
+        ],
+        "important_words": [
+            "Neuroscience",
+            "revenue",
+            "growth",
+            "Novo Nordisk",
+            "decline",
+            "market",
+            "capitalisation",
+            "sales",
+            "Wegovy",
+            "Ozempic",
+            "Lilly",
+            "rise",
+            "GSK",
+            "share",
+            "GLP-1",
+            "acquisitions",
+            "Pfizer",
+            "risk-adjusted",
+            "Merck",
+            "Johnson & Johnson",
+            "oncology",
+            "Stelara",
+            "Novartis",
+            "Imfinzi",
+            "Imjudo",
+            "Sanofi",
+            "AbbVie"
+        ]
+    }
+]

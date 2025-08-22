@@ -1,0 +1,95 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In Sydney, that means preparing for a median house price of $2 million - and unit prices crossing the $1 million mark - within the next 18 months.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price of $2 million in Sydney within the next 18 months.",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "2000000",
+                            "unit": "$"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Unit prices crossing the $1 million mark in Sydney within the next 18 months.",
+                    "vis_data": [
+                        {
+                            "label": "Unit Price Threshold",
+                            "value": "1000000",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Sydney, long Australia\u2019s most expensive housing market, is leading the charge, with a large 1% lift in house prices in May 2025 alone, according to Neoval.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "1% lift in house prices in Sydney in May 2025.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Increase",
+                            "value": "1",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "The median house price in the Harbour City now sits at $1.627 million.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price in the Harbour City is $1.627 million.",
+                    "vis_data": [
+                        {
+                            "label": "Current Median House Price",
+                            "value": "1.627",
+                            "unit": "million $"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "If current growth rates continue - and with the prospect of more RBA rate cuts this year, Ms Conisbee believes Sydney\u2019s median house price is on track to hit $2 million by the end of 2026.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney\u2019s median house price is on track to hit $2 million by the end of 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Projected Median House Price",
+                            "value": "2000000",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "With a current median of $900,289, at current momentum, million-dollar apartments are on the horizon, marking a significant shift in affordability for first-home buyers and investors alike.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Current median unit price in Sydney is $900,289.",
+                    "vis_data": [
+                        {
+                            "label": "Current Median Unit Price",
+                            "value": "900289",
+                            "unit": "$"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

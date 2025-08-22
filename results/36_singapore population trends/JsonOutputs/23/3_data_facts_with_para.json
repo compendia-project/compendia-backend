@@ -1,0 +1,66 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "As of 2025, the population of Singapore is projected at 5.87 million, compared to 5.83 million in 2024. It ranks 115th in the world by population and 36th in Asia. The population growth rate in 2025 is projected at 0.63 percent, the 126th highest among 237 countries and dependent territories.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population of Singapore is projected at 5.87 million in 2025."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population of Singapore is projected at 5.83 million in 2024."
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Singapore ranks 115th in the world by population."
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Singapore ranks 36th in Asia by population."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population growth rate in 2025 is projected at 0.63 percent."
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "The population growth rate is the 126th highest among 237 countries and dependent territories."
+                }
+            ]
+        },
+        {
+            "paragraph": "There are 3.03 million males and 2.84 million females in Singapore. The percentage of the male population is 51.65%, compared to 48.35% of the female population. Singapore has 194k more males than females. The sex ratio in Singapore in 2025 will be 106.828 males per 100 females. Singapore is in the 220th position in terms of the female-to-male ratio.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "There are 3.03 million males in Singapore."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "There are 2.84 million females in Singapore."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The percentage of the male population is 51.65%."
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The percentage of the female population is 48.35%."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Singapore has 194k more males than females."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The sex ratio in Singapore in 2025 will be 106.828 males per 100 females."
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Singapore is in the 220th position in terms of the female-to-male ratio."
+                }
+            ]
+        }
+    ]
+}

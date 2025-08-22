@@ -1,0 +1,65 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "['EricssonERICis set to release fourth-quarter 2024 results onJan. 24, before the opening bell. In the last reported quarter, the wireless equipment provider surpassed the Zacks Consensus Estimate by 2 cents.', 'The company is expected to report top-line growth year over year in the fourth quarter of 2024, backed by several customer wins and growing network investments. Strong focus on innovation, initiative to improve working capital management and cost optimizations are tailwinds.', \"During the quarter, Ericsson entered a multi-year partnership with MasOrange, Spain's largest communications service provider. Per the agreement, ERIC will streamline the integration of MASMOVIL and Orange Spain\u2019s existing networks. It has also secured a 5G contract with Chunghwa Telecom to modernize Taiwan\u2019s network infrastructure.Epiroc, a prominent provider of mining equipment and solutions, has opted to use Ericsson\u2019s next-generation private network solution to drive digital transformation in Mexico's mining operations. These customers\u2019 wins are expected to have a favorable impact on ERIC\u2019s earnings in the fourth quarter.In the quarter under review, Ericsson completed an innovative 5G slicing automation project in Belgium in collaboration with the telecommunication company Orange Belgium. It has also completed a series of tests for 6G synesthesia integration and network infrastructure, marking a significant milestone in exploring key 6G technologies. Ericsson unveiled its new Compact Packet Core, a powerful cloud-native network solution that brings significant advancements for Communications Service Providers. These innovation initiatives are expected to have supported top-line growth.\", 'For the December quarter, the Zacks Consensus Estimate for total revenues is pegged at $6.96 billion, indicating growth from the year-ago quarter\u2019s reported figure of $6.76 billion. The consensus estimate for adjusted earnings per share stands at 21 cents, suggesting growth from 16 cents reported in the prior-year quarter.Our estimate for revenues from the Networks segment is pegged at SEK 45.19 billion, implying marginal growth of 0.4% year over year. For the Cloud Software and Services segment, our revenue estimate stands at SEK 18.04 billion, suggesting a 7.7% decrease year over year. Our estimate for revenues from the Enterprise business is pegged at SEK 7.4 billion, implying a 10.6% year-over-year improvement.']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Zacks Consensus Estimate for total revenues for the December quarter is $6.96 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Total Revenues Estimate",
+                            "value": "6.96",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The consensus estimate for adjusted earnings per share for the December quarter is 21 cents.",
+                    "vis_data": [
+                        {
+                            "label": "Adjusted EPS Estimate",
+                            "value": "21",
+                            "unit": "cents"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The estimate for revenues from the Networks segment is SEK 45.19 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Networks Segment Revenue",
+                            "value": "45.19",
+                            "unit": "billion SEK"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The revenue estimate for the Cloud Software and Services segment is SEK 18.04 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Cloud Software Revenue",
+                            "value": "18.04",
+                            "unit": "billion SEK"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The estimate for revenues from the Enterprise business is SEK 7.4 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Enterprise Business Revenue",
+                            "value": "7.4",
+                            "unit": "billion SEK"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6308088518314944
+        }
+    ]
+}

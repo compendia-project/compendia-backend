@@ -1,0 +1,1891 @@
+{
+    "cluster_wise_facts": [
+        {
+            "cluster_id": 6,
+            "cluster_size": 20,
+            "facts": [
+                {
+                    "fact_id": "0_0_0",
+                    "fact_content": "Telefonaktiebolaget LM Ericsson had annual revenue of 247.88B."
+                },
+                {
+                    "fact_id": "5_2_3",
+                    "fact_content": "Operating profit excluding restructuring costs and impairments was approximately \u00a3722 million."
+                },
+                {
+                    "fact_id": "5_2_5",
+                    "fact_content": "Adjusted EBITA margin at 14.1 per cent."
+                },
+                {
+                    "fact_id": "19_0_0",
+                    "fact_content": "Ericsson's adjusted core earnings were 7.33 billion crowns."
+                },
+                {
+                    "fact_id": "19_0_1",
+                    "fact_content": "Ericsson's adjusted core earnings were 3.9 billion crowns a year earlier."
+                },
+                {
+                    "fact_id": "19_1_4",
+                    "fact_content": "Net sales were 61.8 billion Swedish crowns ($5.92 billion)."
+                },
+                {
+                    "fact_id": "18_0_3",
+                    "fact_content": "Share price took a near 9% hit to SEK88.84 on the Stockholm exchange."
+                },
+                {
+                    "fact_id": "7_0_0",
+                    "fact_content": "Ericsson registered a net profit of 400 million kronor ($36.6 million) for the full year."
+                },
+                {
+                    "fact_id": "7_0_2",
+                    "fact_content": "Ericsson's sales inched up one percent to 72.9 billion kronor in the fourth quarter."
+                },
+                {
+                    "fact_id": "7_0_3",
+                    "fact_content": "Bloomberg's consensus of analyst forecasts was 72.4 billion kronor."
+                },
+                {
+                    "fact_id": "3_1_2",
+                    "fact_content": "Sales of SEK 158.207 billion from Networks."
+                },
+                {
+                    "fact_id": "3_1_3",
+                    "fact_content": "Sales from Networks down 8 percent."
+                },
+                {
+                    "fact_id": "9_0_0",
+                    "fact_content": "Adjusted gross income increased to SEK 28.6 b."
+                },
+                {
+                    "fact_id": "1_5_8",
+                    "fact_content": "Overall sales for Q4 were SEK 72.9 billion."
+                },
+                {
+                    "fact_id": "11_1_1",
+                    "fact_content": "Sales increased by 2% YoY."
+                },
+                {
+                    "fact_id": "11_2_5",
+                    "fact_content": "-6% sales decrease in Networks."
+                },
+                {
+                    "fact_id": "11_2_6",
+                    "fact_content": "Reported sales were SEK 247.9 b."
+                },
+                {
+                    "fact_id": "15_0_3",
+                    "fact_content": "Ericsson's writedown of the value of its cloud-based communications platform unit Vonage was $2.9bn."
+                },
+                {
+                    "fact_id": "8_0_0",
+                    "fact_content": "Ericsson generated SEK 61.8 billion ($5.93 billion) in revenues."
+                },
+                {
+                    "fact_id": "8_4_19",
+                    "fact_content": "Cloud Software and Services contributed SEK 15 billion ($1.44 billion) in revenues."
+                }
+            ]
+        },
+        {
+            "cluster_id": 8,
+            "cluster_size": 15,
+            "facts": [
+                {
+                    "fact_id": "0_0_0",
+                    "fact_content": "Telefonaktiebolaget LM Ericsson had annual revenue of 247.88B."
+                },
+                {
+                    "fact_id": "17_0_2",
+                    "fact_content": "Expected EPS is $0.50 for the fiscal year 2024."
+                },
+                {
+                    "fact_id": "17_0_3",
+                    "fact_content": "P/E multiple is 15.3x for the fiscal year 2024."
+                },
+                {
+                    "fact_id": "5_0_0",
+                    "fact_content": "Sales increased by 2 per cent year-on-year."
+                },
+                {
+                    "fact_id": "19_1_3",
+                    "fact_content": "Net sales declined by 4%."
+                },
+                {
+                    "fact_id": "23_0_1",
+                    "fact_content": "In 2024, Ericsson made a revenue of $23.35 Billion USD."
+                },
+                {
+                    "fact_id": "7_0_4",
+                    "fact_content": "Sales rose by 54 percent in North America."
+                },
+                {
+                    "fact_id": "3_1_4",
+                    "fact_content": "Sales of SEK 62.635 billion from Cloud Software and Services."
+                },
+                {
+                    "fact_id": "11_2_4",
+                    "fact_content": "Sales declined by -5%."
+                },
+                {
+                    "fact_id": "15_0_0",
+                    "fact_content": "Ericsson's organic revenues down by 10% to SEK263.4bn ($25.2bn) in 2023."
+                },
+                {
+                    "fact_id": "15_0_1",
+                    "fact_content": "Ericsson's EBITA down by 49% to SEK14.9bn ($1.43bn) in 2023."
+                },
+                {
+                    "fact_id": "15_0_5",
+                    "fact_content": "9,000 roles were cut by Ericsson in 2023."
+                },
+                {
+                    "fact_id": "10_0_3",
+                    "fact_content": "The revenue estimate for the Cloud Software and Services segment is SEK 18.04 billion."
+                },
+                {
+                    "fact_id": "10_0_4",
+                    "fact_content": "The estimate for revenues from the Enterprise business is SEK 7.4 billion."
+                },
+                {
+                    "fact_id": "8_3_16",
+                    "fact_content": "Europe and Latin American markets witnessed a 2% year-over-year decline to SEK 15.2 billion ($1.46 billion)."
+                }
+            ]
+        },
+        {
+            "cluster_id": 4,
+            "cluster_size": 14,
+            "facts": [
+                {
+                    "fact_id": "0_0_1",
+                    "fact_content": "Telefonaktiebolaget LM Ericsson's revenue was down -5.87%."
+                },
+                {
+                    "fact_id": "17_0_1",
+                    "fact_content": "Ericsson\u2019s Valuation revised to around $8 per share for the fiscal year 2024."
+                },
+                {
+                    "fact_id": "5_1_2",
+                    "fact_content": "Adjusted gross margin increased by over 5 per cent compared to last year."
+                },
+                {
+                    "fact_id": "18_0_0",
+                    "fact_content": "Fourth-quarter 2024 sales of 72.9bn Swedish krona (SEK) ($6.7bn)."
+                },
+                {
+                    "fact_id": "12_0_2",
+                    "fact_content": "Ericsson's sales inched up one percent to 72.9 billion kronor in the fourth quarter."
+                },
+                {
+                    "fact_id": "9_3_7",
+                    "fact_content": "Net income was SEK 3.9 (-30.5) b."
+                },
+                {
+                    "fact_id": "9_3_8",
+                    "fact_content": "EPS diluted was SEK 1.14 (-9.21)."
+                },
+                {
+                    "fact_id": "6_0_0",
+                    "fact_content": "SEK 3.7 billion of free cash flow in Q1."
+                },
+                {
+                    "fact_id": "6_2_5",
+                    "fact_content": "EBITA of SEK 5.1 billion."
+                },
+                {
+                    "fact_id": "1_2_2",
+                    "fact_content": "Ericsson\u2019s sales increased by 2% in Q4 compared to last year."
+                },
+                {
+                    "fact_id": "11_0_0",
+                    "fact_content": "In 2024 sales grew by 17% YoY."
+                },
+                {
+                    "fact_id": "8_2_8",
+                    "fact_content": "Down 4% from the year-ago quarter\u2019s tally of SEK 41.5 billion."
+                },
+                {
+                    "fact_id": "8_3_18",
+                    "fact_content": "Revenues from other regions rose to SEK 10 billion ($960 million) from SEK 9.9 billion in the prior-year quarter."
+                },
+                {
+                    "fact_id": "8_4_20",
+                    "fact_content": "Down from SEK 15.6 billion in the year-ago quarter."
+                }
+            ]
+        },
+        {
+            "cluster_id": 3,
+            "cluster_size": 11,
+            "facts": [
+                {
+                    "fact_id": "4_0_0",
+                    "fact_content": "Adjusted Group gross margin of 46.3% in the quarter."
+                },
+                {
+                    "fact_id": "23_0_3",
+                    "fact_content": "Ericsson's revenue decreased from $25.01 Billion USD in 2023 to $23.35 Billion USD in 2024."
+                },
+                {
+                    "fact_id": "18_0_1",
+                    "fact_content": "Like-for-like growth rate of 2%."
+                },
+                {
+                    "fact_id": "7_0_1",
+                    "fact_content": "Ericsson had a loss of 26.1 billion kronor a year earlier."
+                },
+                {
+                    "fact_id": "12_0_0",
+                    "fact_content": "Ericsson registered a net profit of 400 million kronor ($36.6 million) for the full year."
+                },
+                {
+                    "fact_id": "9_1_4",
+                    "fact_content": "Reported sales were SEK 61.8 b."
+                },
+                {
+                    "fact_id": "1_2_3",
+                    "fact_content": "North America saw a 54% increase in sales in Q4."
+                },
+                {
+                    "fact_id": "1_3_4",
+                    "fact_content": "Adjusted gross margin increased from 41.1% to 46.3%."
+                },
+                {
+                    "fact_id": "1_4_6",
+                    "fact_content": "Ericsson's sales dropped by 5% for the full year."
+                },
+                {
+                    "fact_id": "1_5_9",
+                    "fact_content": "Overall sales increased from SEK 71.9 billion in Q4 2023 to SEK 72.9 billion."
+                },
+                {
+                    "fact_id": "8_1_4",
+                    "fact_content": "Down 5% year over year."
+                }
+            ]
+        },
+        {
+            "cluster_id": 1,
+            "cluster_size": 12,
+            "facts": [
+                {
+                    "fact_id": "17_0_0",
+                    "fact_content": "Ericsson Revenues forecasted to be $24.8 billion for the fiscal year 2024."
+                },
+                {
+                    "fact_id": "18_0_2",
+                    "fact_content": "Adjusted EBIT margin hitting 13.1%, up from 10.3% a year earlier."
+                },
+                {
+                    "fact_id": "7_0_2",
+                    "fact_content": "Ericsson's sales inched up one percent to 72.9 billion kronor in the fourth quarter."
+                },
+                {
+                    "fact_id": "12_0_4",
+                    "fact_content": "Sales rose by 54 percent in North America."
+                },
+                {
+                    "fact_id": "3_1_6",
+                    "fact_content": "Sales of SEK 24.863 billion from Enterprises."
+                },
+                {
+                    "fact_id": "9_0_1",
+                    "fact_content": "Reported gross income was SEK 28.2 b."
+                },
+                {
+                    "fact_id": "9_2_5",
+                    "fact_content": "Adjusted EBITA was SEK 7.8 b."
+                },
+                {
+                    "fact_id": "6_1_2",
+                    "fact_content": "Gross margin of 44.3%."
+                },
+                {
+                    "fact_id": "1_0_0",
+                    "fact_content": "Free cash flow increased from SEK 12.5 billion to SEK 15.8 billion."
+                },
+                {
+                    "fact_id": "1_3_5",
+                    "fact_content": "Adjusted gross income increased from SEK 29.6 billion to SEK 33.7 billion."
+                },
+                {
+                    "fact_id": "1_4_7",
+                    "fact_content": "Networks sales declined by 6% for the full year."
+                },
+                {
+                    "fact_id": "11_1_3",
+                    "fact_content": "Reported sales were SEK 72.9 b."
+                }
+            ]
+        },
+        {
+            "cluster_id": 2,
+            "cluster_size": 8,
+            "facts": [
+                {
+                    "fact_id": "17_0_3",
+                    "fact_content": "P/E multiple is 15.3x for the fiscal year 2024."
+                },
+                {
+                    "fact_id": "5_2_4",
+                    "fact_content": "Operating profit excluding restructuring costs and impairments was approximately 9.8 billion crowns."
+                },
+                {
+                    "fact_id": "23_0_0",
+                    "fact_content": "Ericsson's current revenue (TTM) is $23.84 Billion USD."
+                },
+                {
+                    "fact_id": "23_0_2",
+                    "fact_content": "In 2023, Ericsson's revenue was $25.01 Billion USD."
+                },
+                {
+                    "fact_id": "12_0_3",
+                    "fact_content": "Ericsson's sales were just above Bloomberg's consensus of analyst forecasts of 72.4 billion kronor."
+                },
+                {
+                    "fact_id": "3_0_0",
+                    "fact_content": "6 percent decrease in revenue in 2024 to SEK 247.880 billion from SEK 263.351 billion in 2023."
+                },
+                {
+                    "fact_id": "6_2_4",
+                    "fact_content": "Gross margin of 42.7%."
+                },
+                {
+                    "fact_id": "6_2_6",
+                    "fact_content": "EBITA margin of 9.6%."
+                }
+            ]
+        },
+        {
+            "cluster_id": 7,
+            "cluster_size": 13,
+            "facts": [
+                {
+                    "fact_id": "5_1_1",
+                    "fact_content": "Adjusted gross margin at 46.3 per cent."
+                },
+                {
+                    "fact_id": "12_0_1",
+                    "fact_content": "Ericsson had a loss of 26.1 billion kronor a year earlier."
+                },
+                {
+                    "fact_id": "3_1_5",
+                    "fact_content": "Sales from Cloud Software and Services down 2 percent."
+                },
+                {
+                    "fact_id": "3_2_8",
+                    "fact_content": "First-quarter sale fell 1 percent to SEK 72.913 billion in Q4 2024 from SEK 71.881 billion in Q4 2023."
+                },
+                {
+                    "fact_id": "9_1_2",
+                    "fact_content": "Sales declined by -1% YoY."
+                },
+                {
+                    "fact_id": "9_4_10",
+                    "fact_content": "Reported gross margin was 45.6%."
+                },
+                {
+                    "fact_id": "6_1_1",
+                    "fact_content": "Networks sales decreased organically by -19% YoY."
+                },
+                {
+                    "fact_id": "6_2_3",
+                    "fact_content": "Organic sales declined by -14%."
+                },
+                {
+                    "fact_id": "1_1_1",
+                    "fact_content": "Adjusted EBITA increased from SEK 21.4 billion to SEK 27.2 billion."
+                },
+                {
+                    "fact_id": "1_6_10",
+                    "fact_content": "Net income rose from SEK 3.4 billion to SEK 4.9 billion."
+                },
+                {
+                    "fact_id": "15_0_2",
+                    "fact_content": "Ericsson reported a full year net loss of SEK26.1bn ($2.5bn) for 2023."
+                },
+                {
+                    "fact_id": "15_0_4",
+                    "fact_content": "Ericsson incurred $623m of restructuring costs in 2023."
+                },
+                {
+                    "fact_id": "10_0_0",
+                    "fact_content": "The Zacks Consensus Estimate for total revenues for the December quarter is $6.96 billion."
+                }
+            ]
+        },
+        {
+            "cluster_id": 9,
+            "cluster_size": 17,
+            "facts": [
+                {
+                    "fact_id": "19_0_2",
+                    "fact_content": "Ericsson's adjusted core earnings beat a 5.75 billion crown mean forecast."
+                },
+                {
+                    "fact_id": "19_1_4",
+                    "fact_content": "Net sales were 61.8 billion Swedish crowns ($5.92 billion)."
+                },
+                {
+                    "fact_id": "19_1_5",
+                    "fact_content": "Sales in North America increased to 20.4 billion crowns."
+                },
+                {
+                    "fact_id": "7_0_2",
+                    "fact_content": "Ericsson's sales inched up one percent to 72.9 billion kronor in the fourth quarter."
+                },
+                {
+                    "fact_id": "3_0_1",
+                    "fact_content": "Fourth-quarter sale dropped 1 percent."
+                },
+                {
+                    "fact_id": "9_0_0",
+                    "fact_content": "Adjusted gross income increased to SEK 28.6 b."
+                },
+                {
+                    "fact_id": "9_1_3",
+                    "fact_content": "Strong growth in market area North America of 55%."
+                },
+                {
+                    "fact_id": "9_2_6",
+                    "fact_content": "EBITA was SEK 6.2 b."
+                },
+                {
+                    "fact_id": "9_4_9",
+                    "fact_content": "Adjusted gross margin was 46.3%."
+                },
+                {
+                    "fact_id": "1_5_8",
+                    "fact_content": "Overall sales for Q4 were SEK 72.9 billion."
+                },
+                {
+                    "fact_id": "11_1_1",
+                    "fact_content": "Sales increased by 2% YoY."
+                },
+                {
+                    "fact_id": "11_1_2",
+                    "fact_content": "54% growth in market area North America."
+                },
+                {
+                    "fact_id": "11_2_6",
+                    "fact_content": "Reported sales were SEK 247.9 b."
+                },
+                {
+                    "fact_id": "8_0_1",
+                    "fact_content": "Revenues down 4% year over year."
+                },
+                {
+                    "fact_id": "8_1_6",
+                    "fact_content": "Other revenues were SEK 0.5 billion ($48 million) compared with the prior-year quarter\u2019s figure of SEK 0.7 billion."
+                },
+                {
+                    "fact_id": "8_3_14",
+                    "fact_content": "Revenues from North East Asia fell 31% year over year to SEK 3.7 billion ($355 million)."
+                },
+                {
+                    "fact_id": "8_4_21",
+                    "fact_content": "Adjusted gross margin improved to 38.7% from 36.2% in the prior-year quarter."
+                }
+            ]
+        },
+        {
+            "cluster_id": 5,
+            "cluster_size": 6,
+            "facts": [
+                {
+                    "fact_id": "3_1_7",
+                    "fact_content": "Sales from Enterprises down 3 percent."
+                },
+                {
+                    "fact_id": "10_0_1",
+                    "fact_content": "The consensus estimate for adjusted earnings per share for the December quarter is 21 cents."
+                },
+                {
+                    "fact_id": "10_0_2",
+                    "fact_content": "The estimate for revenues from the Networks segment is SEK 45.19 billion."
+                },
+                {
+                    "fact_id": "8_1_5",
+                    "fact_content": "Adjusted gross margin was 52.4%, up from 48.8% in the year-ago quarter."
+                },
+                {
+                    "fact_id": "8_2_10",
+                    "fact_content": "49% sales decline in South East Asia, Oceania and India."
+                },
+                {
+                    "fact_id": "8_3_17",
+                    "fact_content": "Revenues in the Middle East and Africa fell 24% to SEK 4.9 billion ($470 million)."
+                }
+            ]
+        },
+        {
+            "cluster_id": 10,
+            "cluster_size": 10,
+            "facts": [
+                {
+                    "fact_id": "8_0_2",
+                    "fact_content": "Top line surpassed the Zacks Consensus Estimate of $5.73 billion."
+                },
+                {
+                    "fact_id": "8_1_3",
+                    "fact_content": "Enterprise sales remained flat at SEK 6.3 billion ($605 million)."
+                },
+                {
+                    "fact_id": "8_1_6",
+                    "fact_content": "Other revenues were SEK 0.5 billion ($48 million) compared with the prior-year quarter\u2019s figure of SEK 0.7 billion."
+                },
+                {
+                    "fact_id": "8_2_7",
+                    "fact_content": "The Networks segment generated SEK 40 billion ($3.84 billion)."
+                },
+                {
+                    "fact_id": "8_2_9",
+                    "fact_content": "Adjusted gross margin improved to 48.7% from 39.9% in the year-ago quarter."
+                },
+                {
+                    "fact_id": "8_2_11",
+                    "fact_content": "Sales in the Networks segment from North America improved 80% year over year."
+                },
+                {
+                    "fact_id": "8_3_12",
+                    "fact_content": "South-East Asia, Oceania and India registered revenues of SEK 7.7 billion ($739 million)."
+                },
+                {
+                    "fact_id": "8_3_13",
+                    "fact_content": "Down from SEK 13.8 billion in the prior-year quarter."
+                },
+                {
+                    "fact_id": "8_3_14",
+                    "fact_content": "Revenues from North East Asia fell 31% year over year to SEK 3.7 billion ($355 million)."
+                },
+                {
+                    "fact_id": "8_3_15",
+                    "fact_content": "Net sales from North America increased 51% year over year to SEK 20.4 billion ($1.96 billion)."
+                }
+            ]
+        }
+    ],
+    "fact_wise_clusters": [
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "Telefonaktiebolaget LM Ericsson had annual revenue of 247.88B.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.4607027305635975
+                },
+                {
+                    "cluster_id": 8,
+                    "probability": 0.5392972693299134
+                }
+            ]
+        },
+        {
+            "fact_id": "0_0_1",
+            "fact_content": "Telefonaktiebolaget LM Ericsson's revenue was down -5.87%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999224657539738
+                }
+            ]
+        },
+        {
+            "fact_id": "4_0_0",
+            "fact_content": "Adjusted Group gross margin of 46.3% in the quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999912482770038
+                }
+            ]
+        },
+        {
+            "fact_id": "17_0_0",
+            "fact_content": "Ericsson Revenues forecasted to be $24.8 billion for the fiscal year 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9953659402111514
+                }
+            ]
+        },
+        {
+            "fact_id": "17_0_1",
+            "fact_content": "Ericsson\u2019s Valuation revised to around $8 per share for the fiscal year 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999987075676279
+                }
+            ]
+        },
+        {
+            "fact_id": "17_0_2",
+            "fact_content": "Expected EPS is $0.50 for the fiscal year 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999579047813785
+                }
+            ]
+        },
+        {
+            "fact_id": "17_0_3",
+            "fact_content": "P/E multiple is 15.3x for the fiscal year 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.4506648610546766
+                },
+                {
+                    "cluster_id": 8,
+                    "probability": 0.5493351389453233
+                }
+            ]
+        },
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "Sales increased by 2 per cent year-on-year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.8297847696819286
+                }
+            ]
+        },
+        {
+            "fact_id": "5_1_1",
+            "fact_content": "Adjusted gross margin at 46.3 per cent.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9995273855310448
+                }
+            ]
+        },
+        {
+            "fact_id": "5_1_2",
+            "fact_content": "Adjusted gross margin increased by over 5 per cent compared to last year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.999817832703893
+                }
+            ]
+        },
+        {
+            "fact_id": "5_2_3",
+            "fact_content": "Operating profit excluding restructuring costs and impairments was approximately \u00a3722 million.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9638991446674702
+                }
+            ]
+        },
+        {
+            "fact_id": "5_2_4",
+            "fact_content": "Operating profit excluding restructuring costs and impairments was approximately 9.8 billion crowns.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.8873227115173212
+                }
+            ]
+        },
+        {
+            "fact_id": "5_2_5",
+            "fact_content": "Adjusted EBITA margin at 14.1 per cent.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.8934475334359414
+                }
+            ]
+        },
+        {
+            "fact_id": "19_0_0",
+            "fact_content": "Ericsson's adjusted core earnings were 7.33 billion crowns.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.940029162826242
+                }
+            ]
+        },
+        {
+            "fact_id": "19_0_1",
+            "fact_content": "Ericsson's adjusted core earnings were 3.9 billion crowns a year earlier.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.8680376800989208
+                }
+            ]
+        },
+        {
+            "fact_id": "19_0_2",
+            "fact_content": "Ericsson's adjusted core earnings beat a 5.75 billion crown mean forecast.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9998905586044016
+                }
+            ]
+        },
+        {
+            "fact_id": "19_1_3",
+            "fact_content": "Net sales declined by 4%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9979022165784223
+                }
+            ]
+        },
+        {
+            "fact_id": "19_1_4",
+            "fact_content": "Net sales were 61.8 billion Swedish crowns ($5.92 billion).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.7707396774077684
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.22925992646818213
+                }
+            ]
+        },
+        {
+            "fact_id": "19_1_5",
+            "fact_content": "Sales in North America increased to 20.4 billion crowns.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9683708385332541
+                }
+            ]
+        },
+        {
+            "fact_id": "23_0_0",
+            "fact_content": "Ericsson's current revenue (TTM) is $23.84 Billion USD.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9910965639060755
+                }
+            ]
+        },
+        {
+            "fact_id": "23_0_1",
+            "fact_content": "In 2024, Ericsson made a revenue of $23.35 Billion USD.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999959602039222
+                }
+            ]
+        },
+        {
+            "fact_id": "23_0_2",
+            "fact_content": "In 2023, Ericsson's revenue was $25.01 Billion USD.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9427891128644481
+                }
+            ]
+        },
+        {
+            "fact_id": "23_0_3",
+            "fact_content": "Ericsson's revenue decreased from $25.01 Billion USD in 2023 to $23.35 Billion USD in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9965436206276461
+                }
+            ]
+        },
+        {
+            "fact_id": "18_0_0",
+            "fact_content": "Fourth-quarter 2024 sales of 72.9bn Swedish krona (SEK) ($6.7bn).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999980647904163
+                }
+            ]
+        },
+        {
+            "fact_id": "18_0_1",
+            "fact_content": "Like-for-like growth rate of 2%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9636058571595442
+                }
+            ]
+        },
+        {
+            "fact_id": "18_0_2",
+            "fact_content": "Adjusted EBIT margin hitting 13.1%, up from 10.3% a year earlier.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9935506271705633
+                }
+            ]
+        },
+        {
+            "fact_id": "18_0_3",
+            "fact_content": "Share price took a near 9% hit to SEK88.84 on the Stockholm exchange.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.924081326386109
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "Ericsson registered a net profit of 400 million kronor ($36.6 million) for the full year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.999407899066602
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_1",
+            "fact_content": "Ericsson had a loss of 26.1 billion kronor a year earlier.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9984232551342354
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_2",
+            "fact_content": "Ericsson's sales inched up one percent to 72.9 billion kronor in the fourth quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.4686554035501257
+                },
+                {
+                    "cluster_id": 6,
+                    "probability": 0.24756769448916008
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.28363154598853
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_3",
+            "fact_content": "Bloomberg's consensus of analyst forecasts was 72.4 billion kronor.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9982360519670085
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_4",
+            "fact_content": "Sales rose by 54 percent in North America.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.999918898364547
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_0",
+            "fact_content": "Ericsson registered a net profit of 400 million kronor ($36.6 million) for the full year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9998152482361732
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_1",
+            "fact_content": "Ericsson had a loss of 26.1 billion kronor a year earlier.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9992792244205242
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_2",
+            "fact_content": "Ericsson's sales inched up one percent to 72.9 billion kronor in the fourth quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.99999920193129
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_3",
+            "fact_content": "Ericsson's sales were just above Bloomberg's consensus of analyst forecasts of 72.4 billion kronor.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9816042875374589
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_4",
+            "fact_content": "Sales rose by 54 percent in North America.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9966654422025641
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_0",
+            "fact_content": "6 percent decrease in revenue in 2024 to SEK 247.880 billion from SEK 263.351 billion in 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9879708257188532
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_1",
+            "fact_content": "Fourth-quarter sale dropped 1 percent.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9998288062531857
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_2",
+            "fact_content": "Sales of SEK 158.207 billion from Networks.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9041828677798802
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_3",
+            "fact_content": "Sales from Networks down 8 percent.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9927581490702385
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_4",
+            "fact_content": "Sales of SEK 62.635 billion from Cloud Software and Services.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999746344844
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_5",
+            "fact_content": "Sales from Cloud Software and Services down 2 percent.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9996742135687546
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_6",
+            "fact_content": "Sales of SEK 24.863 billion from Enterprises.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.8617192881815273
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_7",
+            "fact_content": "Sales from Enterprises down 3 percent.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9989513746504043
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_8",
+            "fact_content": "First-quarter sale fell 1 percent to SEK 72.913 billion in Q4 2024 from SEK 71.881 billion in Q4 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9999994147931826
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "Adjusted gross income increased to SEK 28.6 b.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.39783840474450133
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.5999983059689138
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_1",
+            "fact_content": "Reported gross income was SEK 28.2 b.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9961298024243349
+                }
+            ]
+        },
+        {
+            "fact_id": "9_1_2",
+            "fact_content": "Sales declined by -1% YoY.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9805628608543527
+                }
+            ]
+        },
+        {
+            "fact_id": "9_1_3",
+            "fact_content": "Strong growth in market area North America of 55%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9479531311831044
+                }
+            ]
+        },
+        {
+            "fact_id": "9_1_4",
+            "fact_content": "Reported sales were SEK 61.8 b.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999997178946851
+                }
+            ]
+        },
+        {
+            "fact_id": "9_2_5",
+            "fact_content": "Adjusted EBITA was SEK 7.8 b.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.991085538080009
+                }
+            ]
+        },
+        {
+            "fact_id": "9_2_6",
+            "fact_content": "EBITA was SEK 6.2 b.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9655980444482247
+                }
+            ]
+        },
+        {
+            "fact_id": "9_3_7",
+            "fact_content": "Net income was SEK 3.9 (-30.5) b.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999991764612828
+                }
+            ]
+        },
+        {
+            "fact_id": "9_3_8",
+            "fact_content": "EPS diluted was SEK 1.14 (-9.21).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999998926849485
+                }
+            ]
+        },
+        {
+            "fact_id": "9_4_9",
+            "fact_content": "Adjusted gross margin was 46.3%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9546764863504574
+                }
+            ]
+        },
+        {
+            "fact_id": "9_4_10",
+            "fact_content": "Reported gross margin was 45.6%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9680400108540507
+                }
+            ]
+        },
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "SEK 3.7 billion of free cash flow in Q1.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999934594704587
+                }
+            ]
+        },
+        {
+            "fact_id": "6_1_1",
+            "fact_content": "Networks sales decreased organically by -19% YoY.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9923943903920445
+                }
+            ]
+        },
+        {
+            "fact_id": "6_1_2",
+            "fact_content": "Gross margin of 44.3%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9916819199521956
+                }
+            ]
+        },
+        {
+            "fact_id": "6_2_3",
+            "fact_content": "Organic sales declined by -14%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9997443008761595
+                }
+            ]
+        },
+        {
+            "fact_id": "6_2_4",
+            "fact_content": "Gross margin of 42.7%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9781449823947665
+                }
+            ]
+        },
+        {
+            "fact_id": "6_2_5",
+            "fact_content": "EBITA of SEK 5.1 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999979181457052
+                }
+            ]
+        },
+        {
+            "fact_id": "6_2_6",
+            "fact_content": "EBITA margin of 9.6%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9972887549023546
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_0",
+            "fact_content": "Free cash flow increased from SEK 12.5 billion to SEK 15.8 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9699224014357323
+                }
+            ]
+        },
+        {
+            "fact_id": "1_1_1",
+            "fact_content": "Adjusted EBITA increased from SEK 21.4 billion to SEK 27.2 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9999665300001609
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_2",
+            "fact_content": "Ericsson\u2019s sales increased by 2% in Q4 compared to last year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999122905128911
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_3",
+            "fact_content": "North America saw a 54% increase in sales in Q4.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999368678041707
+                }
+            ]
+        },
+        {
+            "fact_id": "1_3_4",
+            "fact_content": "Adjusted gross margin increased from 41.1% to 46.3%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9995046525808126
+                }
+            ]
+        },
+        {
+            "fact_id": "1_3_5",
+            "fact_content": "Adjusted gross income increased from SEK 29.6 billion to SEK 33.7 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9997584973574264
+                }
+            ]
+        },
+        {
+            "fact_id": "1_4_6",
+            "fact_content": "Ericsson's sales dropped by 5% for the full year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9991440915650766
+                }
+            ]
+        },
+        {
+            "fact_id": "1_4_7",
+            "fact_content": "Networks sales declined by 6% for the full year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.991982706027203
+                }
+            ]
+        },
+        {
+            "fact_id": "1_5_8",
+            "fact_content": "Overall sales for Q4 were SEK 72.9 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.3763138989664971
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.6109615774100011
+                }
+            ]
+        },
+        {
+            "fact_id": "1_5_9",
+            "fact_content": "Overall sales increased from SEK 71.9 billion in Q4 2023 to SEK 72.9 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999938752050849
+                }
+            ]
+        },
+        {
+            "fact_id": "1_6_10",
+            "fact_content": "Net income rose from SEK 3.4 billion to SEK 4.9 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.994896244961829
+                }
+            ]
+        },
+        {
+            "fact_id": "11_0_0",
+            "fact_content": "In 2024 sales grew by 17% YoY.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999999988163406
+                }
+            ]
+        },
+        {
+            "fact_id": "11_1_1",
+            "fact_content": "Sales increased by 2% YoY.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.5258678866909892
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.47410633827871373
+                }
+            ]
+        },
+        {
+            "fact_id": "11_1_2",
+            "fact_content": "54% growth in market area North America.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9618450222978591
+                }
+            ]
+        },
+        {
+            "fact_id": "11_1_3",
+            "fact_content": "Reported sales were SEK 72.9 b.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9197493701743423
+                }
+            ]
+        },
+        {
+            "fact_id": "11_2_4",
+            "fact_content": "Sales declined by -5%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999999998677
+                }
+            ]
+        },
+        {
+            "fact_id": "11_2_5",
+            "fact_content": "-6% sales decrease in Networks.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9997702769384461
+                }
+            ]
+        },
+        {
+            "fact_id": "11_2_6",
+            "fact_content": "Reported sales were SEK 247.9 b.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.373188982982623
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.6161190197097416
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "Ericsson's organic revenues down by 10% to SEK263.4bn ($25.2bn) in 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999999601057
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_1",
+            "fact_content": "Ericsson's EBITA down by 49% to SEK14.9bn ($1.43bn) in 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999774062237343
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_2",
+            "fact_content": "Ericsson reported a full year net loss of SEK26.1bn ($2.5bn) for 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9999605883849092
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_3",
+            "fact_content": "Ericsson's writedown of the value of its cloud-based communications platform unit Vonage was $2.9bn.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999454408073088
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_4",
+            "fact_content": "Ericsson incurred $623m of restructuring costs in 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9999874200172684
+                }
+            ]
+        },
+        {
+            "fact_id": "15_0_5",
+            "fact_content": "9,000 roles were cut by Ericsson in 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999922740281
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_0",
+            "fact_content": "The Zacks Consensus Estimate for total revenues for the December quarter is $6.96 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9999980476467483
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_1",
+            "fact_content": "The consensus estimate for adjusted earnings per share for the December quarter is 21 cents.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9996249344735407
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_2",
+            "fact_content": "The estimate for revenues from the Networks segment is SEK 45.19 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9987571120400146
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_3",
+            "fact_content": "The revenue estimate for the Cloud Software and Services segment is SEK 18.04 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999999922768
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_4",
+            "fact_content": "The estimate for revenues from the Enterprise business is SEK 7.4 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9873660932847453
+                }
+            ]
+        },
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "Ericsson generated SEK 61.8 billion ($5.93 billion) in revenues.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.998241683421432
+                }
+            ]
+        },
+        {
+            "fact_id": "8_0_1",
+            "fact_content": "Revenues down 4% year over year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.803524653563955
+                }
+            ]
+        },
+        {
+            "fact_id": "8_0_2",
+            "fact_content": "Top line surpassed the Zacks Consensus Estimate of $5.73 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.8771515541866246
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_3",
+            "fact_content": "Enterprise sales remained flat at SEK 6.3 billion ($605 million).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9999999565867985
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_4",
+            "fact_content": "Down 5% year over year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999921450060254
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_5",
+            "fact_content": "Adjusted gross margin was 52.4%, up from 48.8% in the year-ago quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9143940003708347
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_6",
+            "fact_content": "Other revenues were SEK 0.5 billion ($48 million) compared with the prior-year quarter\u2019s figure of SEK 0.7 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.7387878440470773
+                },
+                {
+                    "cluster_id": 10,
+                    "probability": 0.2612118077892678
+                }
+            ]
+        },
+        {
+            "fact_id": "8_2_7",
+            "fact_content": "The Networks segment generated SEK 40 billion ($3.84 billion).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9999263491611569
+                }
+            ]
+        },
+        {
+            "fact_id": "8_2_8",
+            "fact_content": "Down 4% from the year-ago quarter\u2019s tally of SEK 41.5 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999999978445249
+                }
+            ]
+        },
+        {
+            "fact_id": "8_2_9",
+            "fact_content": "Adjusted gross margin improved to 48.7% from 39.9% in the year-ago quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9998859436637685
+                }
+            ]
+        },
+        {
+            "fact_id": "8_2_10",
+            "fact_content": "49% sales decline in South East Asia, Oceania and India.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9996620116286169
+                }
+            ]
+        },
+        {
+            "fact_id": "8_2_11",
+            "fact_content": "Sales in the Networks segment from North America improved 80% year over year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9992389170157131
+                }
+            ]
+        },
+        {
+            "fact_id": "8_3_12",
+            "fact_content": "South-East Asia, Oceania and India registered revenues of SEK 7.7 billion ($739 million).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9926870840652621
+                }
+            ]
+        },
+        {
+            "fact_id": "8_3_13",
+            "fact_content": "Down from SEK 13.8 billion in the prior-year quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9990733051306099
+                }
+            ]
+        },
+        {
+            "fact_id": "8_3_14",
+            "fact_content": "Revenues from North East Asia fell 31% year over year to SEK 3.7 billion ($355 million).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.49291657984331244
+                },
+                {
+                    "cluster_id": 10,
+                    "probability": 0.5070834183084689
+                }
+            ]
+        },
+        {
+            "fact_id": "8_3_15",
+            "fact_content": "Net sales from North America increased 51% year over year to SEK 20.4 billion ($1.96 billion).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9998436419447652
+                }
+            ]
+        },
+        {
+            "fact_id": "8_3_16",
+            "fact_content": "Europe and Latin American markets witnessed a 2% year-over-year decline to SEK 15.2 billion ($1.46 billion).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9999999999512563
+                }
+            ]
+        },
+        {
+            "fact_id": "8_3_17",
+            "fact_content": "Revenues in the Middle East and Africa fell 24% to SEK 4.9 billion ($470 million).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9978481700809847
+                }
+            ]
+        },
+        {
+            "fact_id": "8_3_18",
+            "fact_content": "Revenues from other regions rose to SEK 10 billion ($960 million) from SEK 9.9 billion in the prior-year quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999999999156839
+                }
+            ]
+        },
+        {
+            "fact_id": "8_4_19",
+            "fact_content": "Cloud Software and Services contributed SEK 15 billion ($1.44 billion) in revenues.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.931364140663152
+                }
+            ]
+        },
+        {
+            "fact_id": "8_4_20",
+            "fact_content": "Down from SEK 15.6 billion in the year-ago quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9999999517010978
+                }
+            ]
+        },
+        {
+            "fact_id": "8_4_21",
+            "fact_content": "Adjusted gross margin improved to 38.7% from 36.2% in the prior-year quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9999290521204401
+                }
+            ]
+        }
+    ],
+    "evaluation_metrics": {
+        "silhouette_score": 0.44509124755859375,
+        "davies_bouldin_score": 0.6739821994905563,
+        "cluster_entropy": 0.12530139660504402
+    },
+    "cluster_summary": {
+        "7": {
+            "representative_fact": "Sales from Cloud Software and Services down 2 percent.",
+            "top_keywords": [
+                "billion",
+                "sek",
+                "sales",
+                "ericsson",
+                "1"
+            ],
+            "mean_similarity": 0.26890529211681746,
+            "mean_similarity_normalized": 0.0
+        },
+        "4": {
+            "representative_fact": "Net income was SEK 3.9 (-30.5) b.",
+            "top_keywords": [
+                "sek",
+                "billion",
+                "year",
+                "5",
+                "quarter"
+            ],
+            "mean_similarity": 0.2767257624538268,
+            "mean_similarity_normalized": 0.023316800717028397
+        },
+        "1": {
+            "representative_fact": "Gross margin of 44.3%.",
+            "top_keywords": [
+                "sek",
+                "billion",
+                "sales",
+                "8",
+                "year"
+            ],
+            "mean_similarity": 0.4020088100099628,
+            "mean_similarity_normalized": 0.3968493028817928
+        },
+        "2": {
+            "representative_fact": "Operating profit excluding restructuring costs and impairments was approximately 9.8 billion crowns.",
+            "top_keywords": [
+                "billion",
+                "ericsson",
+                "revenue",
+                "2024",
+                "9"
+            ],
+            "mean_similarity": 0.5583341331841211,
+            "mean_similarity_normalized": 0.8629346213347512
+        },
+        "9": {
+            "representative_fact": "Fourth-quarter sale dropped 1 percent.",
+            "top_keywords": [
+                "billion",
+                "sek",
+                "sales",
+                "year",
+                "adjusted"
+            ],
+            "mean_similarity": 0.42993352186988726,
+            "mean_similarity_normalized": 0.48010707555525767
+        },
+        "6": {
+            "representative_fact": "Adjusted gross income increased to SEK 28.6 b.",
+            "top_keywords": [
+                "billion",
+                "sales",
+                "ericsson",
+                "sek",
+                "9"
+            ],
+            "mean_similarity": 0.5586435884010509,
+            "mean_similarity_normalized": 0.8638572647708948
+        },
+        "3": {
+            "representative_fact": "Ericsson registered a net profit of 400 million kronor ($36.6 million) for the full year.",
+            "top_keywords": [
+                "billion",
+                "year",
+                "ericsson",
+                "sales",
+                "sek"
+            ],
+            "mean_similarity": 0.28778717302755613,
+            "mean_similarity_normalized": 0.05629649309899694
+        },
+        "5": {
+            "representative_fact": "The consensus estimate for adjusted earnings per share for the December quarter is 21 cents.",
+            "top_keywords": [
+                "sales",
+                "estimate",
+                "adjusted",
+                "quarter",
+                "revenues"
+            ],
+            "mean_similarity": 0.4990439259368347,
+            "mean_similarity_normalized": 0.6861603498035377
+        },
+        "8": {
+            "representative_fact": "Europe and Latin American markets witnessed a 2% year-over-year decline to SEK 15.2 billion ($1.46 billion).",
+            "top_keywords": [
+                "year",
+                "billion",
+                "ericsson",
+                "sales",
+                "sek"
+            ],
+            "mean_similarity": 0.6043059515777013,
+            "mean_similarity_normalized": 1.0
+        },
+        "10": {
+            "representative_fact": "Adjusted gross margin improved to 48.7% from 39.9% in the year-ago quarter.",
+            "top_keywords": [
+                "billion",
+                "year",
+                "sek",
+                "7",
+                "million"
+            ],
+            "mean_similarity": 0.420637321612694,
+            "mean_similarity_normalized": 0.452390373172693
+        }
+    }
+}

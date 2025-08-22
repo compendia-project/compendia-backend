@@ -1,0 +1,111 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "In addition to freezing university funding, recent federal cost-cutting measures have also led to staff reductions and grant cancellations at key agencies like the National Science Foundation (NSF) and National Institutes of Health (NIH). These cuts could carry devastating long-term economic consequences. On the cautious side, a 25 percent reduction in public research and development spending wouldshrink the U.S. GDP by 3.8 percent, a decline comparable to that of the Great Recession, according to a recent study from American University. A 50 or 75 percent cut would result in GDP declines of 7.5 and 11.3 percent, respectively.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 25 percent reduction in public research and development spending would shrink the U.S. GDP by 3.8 percent.",
+                    "vis_data": [
+                        {
+                            "label": "GDP Decline (25% R&D cut)",
+                            "value": "3.8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "14_0_0"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 50 percent cut would result in GDP declines of 7.5 percent.",
+                    "vis_data": [
+                        {
+                            "label": "GDP Decline (50% R&D cut)",
+                            "value": "7.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "14_0_1"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 75 percent cut would result in GDP declines of 11.3 percent.",
+                    "vis_data": [
+                        {
+                            "label": "GDP Decline (75% R&D cut)",
+                            "value": "11.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "14_0_2"
+                }
+            ],
+            "relatedness_score": 0.620104914713473,
+            "article_meta_data": {
+                "title": "Federal Science Funding Cuts Put A.I.'s Foundation at Risk",
+                "date": "2025-05-13",
+                "url": "https://observer.com/2025/05/federal-funding-cut-impact-ai-development/",
+                "id": 14
+            },
+            "para_id": "14_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "14_0",
+            "paragraph": "In addition to freezing university funding, recent federal cost-cutting measures have also led to staff reductions and grant cancellations at key agencies like the National Science Foundation (NSF) and National Institutes of Health (NIH). These cuts could carry devastating long-term economic consequences. On the cautious side, a 25 percent reduction in public research and development spending wouldshrink the U.S. GDP by 3.8 percent, a decline comparable to that of the Great Recession, according to a recent study from American University. A 50 or 75 percent cut would result in GDP declines of 7.5 and 11.3 percent, respectively."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "14_0_0",
+            "fact_content": "A 25 percent reduction in public research and development spending would shrink the U.S. GDP by 3.8 percent."
+        },
+        {
+            "fact_id": "14_0_1",
+            "fact_content": "A 50 percent cut would result in GDP declines of 7.5 percent."
+        },
+        {
+            "fact_id": "14_0_2",
+            "fact_content": "A 75 percent cut would result in GDP declines of 11.3 percent."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "difference",
+            "fact_content": "A 25 percent reduction in public research and development spending would shrink the U.S. GDP by 3.8 percent.",
+            "vis_data": [
+                {
+                    "label": "GDP Decline (25% R&D cut)",
+                    "value": "3.8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "14_0_0"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "A 50 percent cut would result in GDP declines of 7.5 percent.",
+            "vis_data": [
+                {
+                    "label": "GDP Decline (50% R&D cut)",
+                    "value": "7.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "14_0_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "A 75 percent cut would result in GDP declines of 11.3 percent.",
+            "vis_data": [
+                {
+                    "label": "GDP Decline (75% R&D cut)",
+                    "value": "11.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "14_0_2"
+        }
+    ]
+}

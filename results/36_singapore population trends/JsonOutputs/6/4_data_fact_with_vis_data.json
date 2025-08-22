@@ -1,0 +1,20 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In 2024, the population of Singapore stood at approximately 6.04 million, an increase from the previous year. The total population included both the resident and non-resident population. The resident population of Singapore comprised of both citizens and permanent residents.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The population of Singapore stood at approximately 6.04 million in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Population of Singapore",
+                            "value": "6.04",
+                            "unit": "million"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

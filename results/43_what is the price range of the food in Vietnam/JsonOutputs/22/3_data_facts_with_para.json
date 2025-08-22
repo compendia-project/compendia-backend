@@ -1,0 +1,29 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Vietnam Consumer Price Index (CPI): Foods and Foodstuffs data was reported at 244.770 2000=100 in Oct 2009. This records an increase from the previous number of 243.990 2000=100 for Sep 2009. Vietnam Consumer Price Index (CPI): Foods and Foodstuffs data is updated monthly, averaging 137.100 2000=100 from Jul 2001 (Median) to Oct 2009, with 99 observations. The data reached an all-time high of 244.770 2000=100 in Oct 2009 and a record low of 98.500 2000=100 in Jul 2001.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Vietnam Consumer Price Index (CPI): Foods and Foodstuffs was 244.770 2000=100 in Oct 2009."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Increase from 243.990 2000=100 in Sep 2009 to 244.770 2000=100 in Oct 2009."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Vietnam Consumer Price Index (CPI): Foods and Foodstuffs averaged 137.100 2000=100 from Jul 2001 to Oct 2009."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "All-time high of 244.770 2000=100 in Oct 2009."
+                },
+                {
+                    "fact_type": "extreme",
+                    "fact_content": "Record low of 98.500 2000=100 in Jul 2001."
+                }
+            ]
+        }
+    ]
+}

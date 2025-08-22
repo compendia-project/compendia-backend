@@ -1,0 +1,138 @@
+[
+    {
+        "cluster_id": 1,
+        "title": "Middle-Class Surge",
+        "description": "The global middle class is expanding significantly, with China and India poised to dominate by 2030. China's middle class has grown from 3% in 2001 to a projected majority by 2030, contributing to 17% of global GDP. Meanwhile, the middle class in the US earns between $45,000 and $135,000 annually, highlighting different economic scales.",
+        "representative_facts": [
+            {
+                "fact_content": "Over 70% of China\u2019s population could be middle class by 2030",
+                "fact_id": "1_4"
+            },
+            {
+                "fact_content": "China and India will represent roughly two-thirds of the global middle-class population by 2030",
+                "fact_id": "1_5"
+            },
+            {
+                "fact_content": "A middle-income-three-member-household in the US earns about US$45,000 to US$135,000",
+                "fact_id": "1_2"
+            }
+        ],
+        "cluster_order_id": 1
+    },
+    {
+        "cluster_id": 5,
+        "title": "Demographic Dynamics",
+        "description": "The middle class population is a significant demographic in both the United States and China. In the US, 52% of the population was classified as middle class in 2016, with 92 million adults identified as part of this group. In China, a substantial shift occurred between 2001 and 2011, with 203 million people crossing the middle-income threshold. This highlights the growing economic power and changing income dynamics in these countries.",
+        "representative_facts": [
+            {
+                "fact_content": "52% of the US population was classified as middle class in 2016",
+                "fact_id": "5_2"
+            },
+            {
+                "fact_content": "92 million middle class adults are Americans",
+                "fact_id": "5_1"
+            },
+            {
+                "fact_content": "203 million people in China crossed the middle-income threshold of $10 per day from 2001 to 2011",
+                "fact_id": "5_3"
+            }
+        ],
+        "cluster_order_id": 2
+    },
+    {
+        "cluster_id": 7,
+        "title": "Global Consumption",
+        "description": "The global middle class comprises 664 million adults, with 15% of the world's adult population belonging to this group. China plays a significant role, with 110 million middle-class adults and a potential consumption of nearly $10 trillion by 2030. The middle-class consumption worldwide is projected to reach $64 trillion by 2030.",
+        "representative_facts": [
+            {
+                "fact_content": "664 million adults are part of the middle class this year",
+                "fact_id": "7_0"
+            },
+            {
+                "fact_content": "110 million middle class adults are Chinese",
+                "fact_id": "7_2"
+            },
+            {
+                "fact_content": "Middle-class consumption is expected to tally $64 trillion by 2030",
+                "fact_id": "7_5"
+            }
+        ],
+        "cluster_order_id": 3
+    },
+    {
+        "cluster_id": 3,
+        "title": "Income Expansion",
+        "description": "By 2030, China is projected to have around 400 million households with upper-middle and higher incomes, indicating significant economic growth. In 2011, 16% of the global population lived on $20 or more daily, reflecting a substantial portion of the world achieving a middle-class income level.",
+        "representative_facts": [
+            {
+                "fact_content": "China may have 400 million upper-middle income households by 2030",
+                "fact_id": "3_0"
+            },
+            {
+                "fact_content": "16% of global population lived on $20+ daily in 2011",
+                "fact_id": "3_1"
+            }
+        ],
+        "cluster_order_id": 4
+    },
+    {
+        "cluster_id": 6,
+        "title": "Wealth Accumulation",
+        "description": "China's economic landscape is rapidly evolving, with a significant increase in the number of millionaires and a burgeoning middle class. The number of millionaires in China is projected to double by 2025, reflecting the country's growing wealth. Additionally, middle-class consumption is anticipated to reach $64 trillion by 2030, highlighting the expanding economic power of this demographic. In 2000, only 3% of China's population was considered middle class, indicating substantial growth over the years.",
+        "representative_facts": [
+            {
+                "fact_content": "China's millionaires may double to 10 million by 2025",
+                "fact_id": "6_0"
+            },
+            {
+                "fact_content": "Middle-class consumption expected to hit $64 trillion by 2030",
+                "fact_id": "6_1"
+            },
+            {
+                "fact_content": "3% of China's population was middle class in 2000",
+                "fact_id": "6_2"
+            }
+        ],
+        "cluster_order_id": 5
+    },
+    {
+        "cluster_id": 2,
+        "title": "Regional Shifts",
+        "description": "Between 2001 and 2011, Asia and the South Pacific saw a significant rise in their share of the global middle-income population, increasing from 31% to 51%. China's middle-income population alone represented 30% of the global middle-income demographic by 2011. During the same period, China's poverty rate dropped from 41% to 12%, indicating substantial economic progress.",
+        "representative_facts": [
+            {
+                "fact_content": "Asia & South Pacific's middle-income share rose from 31% in 2001 to 51% in 2011",
+                "fact_id": "2_0"
+            },
+            {
+                "fact_content": "China's middle-income population was 30% of the global total in 2011",
+                "fact_id": "2_1"
+            },
+            {
+                "fact_content": "China's poverty rate fell from 41% in 2001 to 12% in 2011",
+                "fact_id": "2_3"
+            }
+        ],
+        "cluster_order_id": 6
+    },
+    {
+        "cluster_id": 4,
+        "title": "Income Transition",
+        "description": "In 2011, China's middle-income population reached 235 million, representing 18% of its total population. During the decade from 2001 to 2011, 356 million people in China transitioned out of poverty. In contrast, in 2001, North America's middle-income population was 10%, with a high-income population share of 43%.",
+        "representative_facts": [
+            {
+                "fact_content": "China's middle-income population was 235 million in 2011",
+                "fact_id": "4_0"
+            },
+            {
+                "fact_content": "356 million people moved out of poverty in China from 2001 to 2011",
+                "fact_id": "4_2"
+            },
+            {
+                "fact_content": "The share of China's middle-income population was 18% in 2011",
+                "fact_id": "4_1"
+            }
+        ],
+        "cluster_order_id": 7
+    }
+]

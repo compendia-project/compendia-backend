@@ -1,0 +1,55 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "The distribution of HIV-1 subtypes in Sweden has changed a lot since the beginning of the AIDS epidemic and has become very diverse, mostly due to migration of already infected people to Sweden. Currently, HIV-1A6 is the sixth most common subtype. People from Ukraine are not always aware that they are infected, and the majority of Ukrainian people living with HIV are infected with HIV-1A6.",
+            "facts": [
+                {
+                    "fact_type": "rank",
+                    "fact_content": "HIV-1A6 is the sixth most common subtype.",
+                    "vis_data": [
+                        {
+                            "label": "HIV-1A6 Subtype Rank",
+                            "value": "6",
+                            "unit": "rank"
+                        }
+                    ],
+                    "fact_id": "21_0_0"
+                }
+            ],
+            "relatedness_score": 0.5780273704335736,
+            "article_meta_data": {
+                "title": "Study finds changing distribution of HIV-1 subtypes in Sweden",
+                "date": "2023-12-01",
+                "url": "https://medicalxpress.com/news/2023-12-hiv-subtypes-sweden.html",
+                "id": 21
+            },
+            "para_id": "21_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "21_0",
+            "paragraph": "The distribution of HIV-1 subtypes in Sweden has changed a lot since the beginning of the AIDS epidemic and has become very diverse, mostly due to migration of already infected people to Sweden. Currently, HIV-1A6 is the sixth most common subtype. People from Ukraine are not always aware that they are infected, and the majority of Ukrainian people living with HIV are infected with HIV-1A6."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "21_0_0",
+            "fact_content": "HIV-1A6 is the sixth most common subtype."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "rank",
+            "fact_content": "HIV-1A6 is the sixth most common subtype.",
+            "vis_data": [
+                {
+                    "label": "HIV-1A6 Subtype Rank",
+                    "value": "6",
+                    "unit": "rank"
+                }
+            ],
+            "fact_id": "21_0_0"
+        }
+    ]
+}

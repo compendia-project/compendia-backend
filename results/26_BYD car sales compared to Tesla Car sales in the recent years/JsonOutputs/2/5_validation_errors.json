@@ -1,0 +1,110 @@
+{
+    "has_error": true,
+    "vis_data_error": [
+        {
+            "paragraph": "BYD reported selling more than 526,000 EVs in the fourth quarter of 2023, compared with Tesla\u2019s sales of nearly 485,000 for the same period.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD reported selling more than 526,000 EVs in the fourth quarter of 2023.",
+                    "vis_data": [
+                        {
+                            "label": "BYD EV Sales Q4 2023",
+                            "value": "526000",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": [
+                        "The value should reflect 'more than 526,000', not exactly '526000'."
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla\u2019s sales were nearly 485,000 EVs in the fourth quarter of 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla EV Sales Q4 2023",
+                            "value": "485000",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": [
+                        "The value should reflect 'nearly 485,000', not exactly '485000'."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Despite the overtaking, Tesla still managed to hit its yearly sales target of 1.81M delivered EV\u2019s in 2023. The company\u2019s global vehicle delivery increased by 38% year-on-year, while production increased by 35% year-on-year to 1.85M vehicles.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla hit its yearly sales target of 1.81M delivered EVs in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Yearly Sales 2023",
+                            "value": "1810000",
+                            "unit": "units"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla\u2019s global vehicle delivery increased by 38% year-on-year.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Delivery Growth YoY",
+                            "value": "38",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla\u2019s production increased by 35% year-on-year to 1.85M vehicles.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Production Growth YoY",
+                            "value": "35",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": [
+                        "Missing data point: '1.85M vehicles' should be included in the visualization data."
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Despite this shift, Tesla continues to grow, though at a slower rate. It maintained 17% of the global market YoY but only saw 27% growth. Tesla\u2019s Model Y remains the best-selling battery EV on the planet, and the American automaker was recently able to stumble over the finish line in delivering Cybertrucks to customers.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Tesla maintained 17% of the global market YoY.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Global Market Share YoY",
+                            "value": "17",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Tesla saw 27% growth.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Growth",
+                            "value": "27",
+                            "unit": "%"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

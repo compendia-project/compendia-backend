@@ -1,0 +1,3496 @@
+{
+    "facts_with_meta": [
+        {
+            "paragraph": "In a recent analysis of data collected by the National Center for Science and Engineering Statistics, The New York Times found that \u201cin fiscal year 2023 alone, roughly $60 billion flowed from the federal government to universities in all 50 states, funding research on an array of topics, like cancer, Alzheimer\u2019s disease and rare isotope beams.\u201d",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Roughly $60 billion flowed from the federal government to universities in fiscal year 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Funding to Universities",
+                            "value": "60",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "17_0_0"
+                }
+            ],
+            "relatedness_score": 0.6130129915828886,
+            "article_meta_data": {
+                "title": "Reports Say Cuts to Federal Research Funding Would Seriously Harm the American Economy",
+                "date": "2025-05-02",
+                "url": "https://www.aau.edu/newsroom/leading-research-universities-report/reports-say-cuts-federal-research-funding-would",
+                "id": 17
+            },
+            "para_id": "17_0"
+        },
+        {
+            "paragraph": "On February 10, as part of its mission to \u201cmaximize government efficiency,\u201d the Trump administration announced its cancellation of roughly $1 billion in federal contracts for education research. These contracts were held under the Institute of Education Sciences (IES)\u2014the research, statistics, and evaluation arm of the U.S. Department of Education, which was created as part of the Education Sciences Reform Act (ESRA) of 2002.\u0000a0The contracts affect organizations and individuals all across the United States and impact our ability to monitor the global competitiveness of our students.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cancellation of roughly $1 billion in federal contracts for education research.",
+                    "vis_data": [
+                        {
+                            "label": "Cancelled Federal Contracts",
+                            "value": "1000000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "2_0_0"
+                }
+            ],
+            "relatedness_score": 0.43458815860476396,
+            "article_meta_data": {
+                "title": "Cutting research funding would make education less efficient",
+                "date": "2025-02-24",
+                "url": "https://www.brookings.edu/articles/cutting-research-funding-would-make-education-less-effective-and-efficient/",
+                "id": 2
+            },
+            "para_id": "2_0"
+        },
+        {
+            "paragraph": "Federal student aid faces major cuts, however, under President Trump. His new budget proposal slashes $980 million from theFederal Work-Study program, which provides part-time jobs for college students who have demonstrated they need more financial assistance.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "$980 million slashed from the Federal Work-Study program.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Work-Study Cut",
+                            "value": "980",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "9_0_0"
+                }
+            ],
+            "relatedness_score": 0.5175757446068158,
+            "article_meta_data": {
+                "title": "Higher education funding in the US: A broad overview",
+                "date": "2025-05-08",
+                "url": "https://journalistsresource.org/home/higher-education-funding-college-tuition-overview/",
+                "id": 9
+            },
+            "para_id": "9_0"
+        },
+        {
+            "paragraph": "In addition, the NIH said it would be cutting billions in overhead payments by capping so-called indirect costs for researchers at 15%, which has been described as \u201ca sure-fire way to cripple lifesaving research and innovation\u201d1. Overheads typically cover essential research costs, including equipment, administration and researcher salaries. At the same time, negative media coverage of campus controversies has further affected institutions. Additionally, accusations have emerged that the Trump administration\u2019s funding cuts are partly motivated by perceptions that conservative values are underrepresented in academia.2",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "NIH capping indirect costs for researchers at 15%.",
+                    "vis_data": [
+                        {
+                            "label": "Indirect Cost Cap",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_0_0"
+                }
+            ],
+            "relatedness_score": 0.5177773331899499,
+            "article_meta_data": {
+                "title": "Budget cuts put research integrity under stress",
+                "date": "Unknown",
+                "url": "https://www.labonline.com.au/content/lab-business/article/budget-cuts-put-research-integrity-under-stress-1549986815",
+                "id": 6
+            },
+            "para_id": "6_0"
+        },
+        {
+            "paragraph": "Federal agencies cancelled more than $17.5 million in funding across TC\u2019s education, health and psychology projects, including grant termination letters by the U.S. Department of Education on March 7. Additional cancellation notices for an NIH grant, two F31 student fellowships, and two Fulbright-Hays awards were issued later in March. Since then, College leadership and faculty have investigated the full scope and impact of the federal grant cuts as outlined below.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Federal agencies cancelled more than $17.5 million in funding.",
+                    "vis_data": [
+                        {
+                            "label": "Cancelled Funding",
+                            "value": "18",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "22_0_0"
+                }
+            ],
+            "relatedness_score": 0.5524982056530451,
+            "article_meta_data": {
+                "title": "Federal Cuts Hinder Public Good Research Across TC",
+                "date": "2025-03-25",
+                "url": "https://www.tc.columbia.edu/articles/2025/march/federal-cuts-hinder-public-good-research-across-tc/",
+                "id": 22
+            },
+            "para_id": "22_0"
+        },
+        {
+            "paragraph": "In Massachusetts, 5,396 research institutions \u2014 including hospitals, medical schools, companies and universities \u2014 are estimated to lose $535 million in funding, as the NIH is a primary source of federal funding for medical research in the U.S.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "5,396 research institutions in Massachusetts are estimated to lose funding.",
+                    "vis_data": [
+                        {
+                            "label": "Research Institutions",
+                            "value": "5396",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "19_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "$535 million in funding is estimated to be lost by research institutions in Massachusetts.",
+                    "vis_data": [
+                        {
+                            "label": "Funding Loss",
+                            "value": "535",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "19_0_1"
+                }
+            ],
+            "relatedness_score": 0.5469767223542501,
+            "article_meta_data": {
+                "title": "Federal funding cuts impacts scientific research",
+                "date": "2025-03-31",
+                "url": "https://dailycollegian.com/2025/03/federal-funding-cuts-impacts-on-scientific-research/",
+                "id": 19
+            },
+            "para_id": "19_0"
+        },
+        {
+            "paragraph": "The University of Massachusetts Amherst, with over 100 grants, received $38 million in funding in 2024 and faces an estimated loss of $6 million.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The University of Massachusetts Amherst received $38 million in funding in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Funding Received 2024",
+                            "value": "38",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "19_1_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The University of Massachusetts Amherst faces an estimated loss of $6 million.",
+                    "vis_data": [
+                        {
+                            "label": "Estimated Funding Loss",
+                            "value": "6",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "19_1_3"
+                }
+            ],
+            "relatedness_score": 0.5193247246795403,
+            "article_meta_data": {
+                "title": "Federal funding cuts impacts scientific research",
+                "date": "2025-03-31",
+                "url": "https://dailycollegian.com/2025/03/federal-funding-cuts-impacts-on-scientific-research/",
+                "id": 19
+            },
+            "para_id": "19_1"
+        },
+        {
+            "paragraph": "['Brown is part of an ever-growing group of colleges forced into significant austerity measures as the Trump administration wages financial warfare on the U.S. system of scientific and scholarly research.', \"Brown\u2019s own experience reflects much of the confusion and fiscal turmoil throughout the sector. Since April, for example, \u201cthe government has (with no formal explanation) ceased paying bills on existing Brown grants from the National Institutes of Health (NIH), which represent over 70% of the University's federal research funding,\u201d the officials said.\", 'And the lost funding keeps adding up. From NIH alone, the total losses increase by roughly $3.5 million a week.', 'Along with fellow Ivy League universities Harvard and Columbia, the Trump administration has reportedly planned to target Brown by freezing research funding over campus antisemitism allegations. However, the Trump administration never officially announced a freeze and Brown officials said in April they could not substantiate the \u201crumors.\u201d']",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Over 70% of the University's federal research funding is from NIH grants.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Grant Funding",
+                            "value": "70",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The total losses from NIH increase by roughly $3.5 million a week.",
+                    "vis_data": [
+                        {
+                            "label": "Weekly NIH Losses",
+                            "value": "3.5",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "8_0_1"
+                }
+            ],
+            "relatedness_score": 0.48774853778603156,
+            "article_meta_data": {
+                "title": "Brown University preps for 'significant cost-cutting' amid financial challenges",
+                "date": "2025-06-30",
+                "url": "https://www.highereddive.com/news/brown-university-cost-cutting-federal-funding-trump-administration/752011/",
+                "id": 8
+            },
+            "para_id": "8_0"
+        },
+        {
+            "paragraph": "In addition to freezing university funding, recent federal cost-cutting measures have also led to staff reductions and grant cancellations at key agencies like the National Science Foundation (NSF) and National Institutes of Health (NIH). These cuts could carry devastating long-term economic consequences. On the cautious side, a 25 percent reduction in public research and development spending wouldshrink the U.S. GDP by 3.8 percent, a decline comparable to that of the Great Recession, according to a recent study from American University. A 50 or 75 percent cut would result in GDP declines of 7.5 and 11.3 percent, respectively.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 25 percent reduction in public research and development spending would shrink the U.S. GDP by 3.8 percent.",
+                    "vis_data": [
+                        {
+                            "label": "GDP Decline (25% R&D cut)",
+                            "value": "3.8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "14_0_0"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 50 percent cut would result in GDP declines of 7.5 percent.",
+                    "vis_data": [
+                        {
+                            "label": "GDP Decline (50% R&D cut)",
+                            "value": "7.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "14_0_1"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "A 75 percent cut would result in GDP declines of 11.3 percent.",
+                    "vis_data": [
+                        {
+                            "label": "GDP Decline (75% R&D cut)",
+                            "value": "11.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "14_0_2"
+                }
+            ],
+            "relatedness_score": 0.620104914713473,
+            "article_meta_data": {
+                "title": "Federal Science Funding Cuts Put A.I.'s Foundation at Risk",
+                "date": "2025-05-13",
+                "url": "https://observer.com/2025/05/federal-funding-cut-impact-ai-development/",
+                "id": 14
+            },
+            "para_id": "14_0"
+        },
+        {
+            "paragraph": "The department also granted $260 million in fiscal 2024 through its research arm, the Institute of Education Sciences. (The Trump administration recentlycanceled $900 millionin IES contracts, some of which cover multiple years.)",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The department granted $260 million in fiscal 2024 through its research arm.",
+                    "vis_data": [
+                        {
+                            "label": "Grant Amount",
+                            "value": "260",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "1_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The Trump administration canceled $900 million in IES contracts.",
+                    "vis_data": [
+                        {
+                            "label": "Canceled Contracts",
+                            "value": "900",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "1_0_1"
+                }
+            ],
+            "relatedness_score": 0.4940205744749908,
+            "article_meta_data": {
+                "title": "What the data says about the U.S. Department of Education",
+                "date": "2025-03-18",
+                "url": "https://www.pewresearch.org/short-reads/2025/03/18/what-the-data-says-about-the-us-department-of-education/",
+                "id": 1
+            },
+            "para_id": "1_0"
+        },
+        {
+            "paragraph": "President Donald Trump has revived those efforts. Adraft executive orderdirects his newly confirmed education secretary, Linda McMahon, to prepare the department for closure, while acknowledging that actually dissolving it would require an act of Congress. (Asked directly if the United States needs her department, McMahon said, \u201cNo, we don\u2019t.\u201d) The department already has shedaround 2,000 staffers\u2013 nearly half its workforce \u2013 through layoffs and buyouts, and canceleddozens of research contracts.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The department has shed around 2,000 staffers.",
+                    "vis_data": [
+                        {
+                            "label": "Staffers Shed",
+                            "value": "~2000",
+                            "unit": "staffers"
+                        }
+                    ],
+                    "fact_id": "1_1_2"
+                }
+            ],
+            "relatedness_score": 0.3334156302196396,
+            "article_meta_data": {
+                "title": "What the data says about the U.S. Department of Education",
+                "date": "2025-03-18",
+                "url": "https://www.pewresearch.org/short-reads/2025/03/18/what-the-data-says-about-the-us-department-of-education/",
+                "id": 1
+            },
+            "para_id": "1_1"
+        },
+        {
+            "paragraph": "Executive orders, looming budget cuts and other changes to major federal agencies by the Trump administration pose a serious threat to over $6 million in scientific research funding at Middlebury this spring. Hundreds of thousands in grants have already been lost, prompting faculty to worry that their ongoing projects will be impacted next.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Over $6 million in scientific research funding at Middlebury is threatened.",
+                    "vis_data": [
+                        {
+                            "label": "Threatened Research Funding",
+                            "value": "over 6000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "21_0_0"
+                }
+            ],
+            "relatedness_score": 0.5527644835609146,
+            "article_meta_data": {
+                "title": "Federal budget cuts endanger over $6 million in college's scientific research funding",
+                "date": "2025-02-20",
+                "url": "https://www.middleburycampus.com/article/2025/02/federal-budget-cuts-endanger-over-6-million-in-colleges-research-grants",
+                "id": 21
+            },
+            "para_id": "21_0"
+        },
+        {
+            "paragraph": "On Feb. 10, Vermont and 21 other states sued the federal government over these cuts to the NIH\u2019s indirect cost rates, and they received a temporary reprieve later that day. The state currently has 128 NIH-funded projects, totaling $84,668,147 for colleges, universities and several medical companies. A full hearing on the suit is set for Feb. 21, according to The New York Times.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Vermont has 128 NIH-funded projects totaling $84,668,147.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Projects Total Funding",
+                            "value": "84668147",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Number of NIH Projects",
+                            "value": "128",
+                            "unit": ""
+                        }
+                    ],
+                    "fact_id": "21_1_1"
+                }
+            ],
+            "relatedness_score": 0.537267302364318,
+            "article_meta_data": {
+                "title": "Federal budget cuts endanger over $6 million in college's scientific research funding",
+                "date": "2025-02-20",
+                "url": "https://www.middleburycampus.com/article/2025/02/federal-budget-cuts-endanger-over-6-million-in-colleges-research-grants",
+                "id": 21
+            },
+            "para_id": "21_1"
+        },
+        {
+            "paragraph": "Two weeks ago the college lost a $530,000 Inclusive Excellence Grant from the Howard Hughes Medical Institute (HHMI) after Trump\u2019s executive order targeted Diversity, Equity, and Inclusion (DEI) programs. The grant was in its third year of funding as part of a now-defunct $60 million initiative from the nation\u2019s largest private funder of biomedical research, which cut off this funding to over 100 colleges and universities on Feb. 5.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The college lost a $530,000 Inclusive Excellence Grant from HHMI.",
+                    "vis_data": [
+                        {
+                            "label": "Lost HHMI Grant",
+                            "value": "530000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "21_2_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The $530,000 grant was part of a $60 million initiative.",
+                    "vis_data": [
+                        {
+                            "label": "Total Initiative Funding",
+                            "value": "60000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "21_2_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Funding was cut off to over 100 colleges and universities.",
+                    "vis_data": [
+                        {
+                            "label": "Affected Institutions",
+                            "value": "100",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "21_2_4"
+                }
+            ],
+            "relatedness_score": 0.4561607396737988,
+            "article_meta_data": {
+                "title": "Federal budget cuts endanger over $6 million in college's scientific research funding",
+                "date": "2025-02-20",
+                "url": "https://www.middleburycampus.com/article/2025/02/federal-budget-cuts-endanger-over-6-million-in-colleges-research-grants",
+                "id": 21
+            },
+            "para_id": "21_2"
+        },
+        {
+            "paragraph": "The college also has three ongoing grants from the National Institutes of Health (NIH), which provides $1,133,900 in total to those projects, according to the agency\u2019s website.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The college has three ongoing grants from NIH totaling $1,133,900.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Grants Total",
+                            "value": "1133900",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "21_3_5"
+                }
+            ],
+            "relatedness_score": 0.43367916946590523,
+            "article_meta_data": {
+                "title": "Federal budget cuts endanger over $6 million in college's scientific research funding",
+                "date": "2025-02-20",
+                "url": "https://www.middleburycampus.com/article/2025/02/federal-budget-cuts-endanger-over-6-million-in-colleges-research-grants",
+                "id": 21
+            },
+            "para_id": "21_3"
+        },
+        {
+            "paragraph": "As of Feb. 10, Middlebury has at least 17 active grants based in Vermont provided by the National Science Foundation (NSF) that total over $4.9 million in scientific research funding, according to the organization\u2019s online database.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Middlebury has at least 17 active grants from NSF totaling over $4.9 million.",
+                    "vis_data": [
+                        {
+                            "label": "NSF Grants Total",
+                            "value": "4900000",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Number of NSF Grants",
+                            "value": "17",
+                            "unit": ""
+                        }
+                    ],
+                    "fact_id": "21_4_6"
+                }
+            ],
+            "relatedness_score": 0.41367364782867533,
+            "article_meta_data": {
+                "title": "Federal budget cuts endanger over $6 million in college's scientific research funding",
+                "date": "2025-02-20",
+                "url": "https://www.middleburycampus.com/article/2025/02/federal-budget-cuts-endanger-over-6-million-in-colleges-research-grants",
+                "id": 21
+            },
+            "para_id": "21_4"
+        },
+        {
+            "paragraph": "Cuts to indirect funding from the NIH\u2014proposed to be capped at 15%\u2014and the shutdown of federal grant-making processes have already disrupted major research operations at public institutions like the University of California, Davis (UC Davis) and the University of Illinois. These are not isolated incidents. Across the nation, land-grant universities, minority-serving institutions, and research centers reliant on federal dollars are grappling with halted projects and staff layoffs.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Cuts to indirect funding from the NIH proposed to be capped at 15%.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Funding Cap",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_0_0"
+                }
+            ],
+            "relatedness_score": 0.6079132753374328,
+            "article_meta_data": {
+                "title": "Funding Cuts to STEM Research Threaten U.S. Innovation",
+                "date": "2025-06-04",
+                "url": "https://insightintoacademia.com/stem-research-cuts/",
+                "id": 5
+            },
+            "para_id": "5_0"
+        },
+        {
+            "paragraph": "A significant portion of public research in the U.S. is tied to federal funding. At UC Davis for example, researchers submitted $2.75 billion in federal grant proposals in fiscal year 2024. But with new rules in place, many of those dollars remain out of reach. Similar patterns are emerging nationwide, leaving institutions uncertain whether they can retain students or sustain vital programs. For instance, some graduate student enrollees at UC Davis who have not yet accepted their offers were moved to waitlists because of the unpredictability of current funding streams, UC President Michael Drake told Reuters.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "UC Davis researchers submitted $2.75 billion in federal grant proposals in fiscal year 2024.",
+                    "vis_data": [
+                        {
+                            "label": "UC Davis Grant Proposals",
+                            "value": "2750000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "5_1_1"
+                }
+            ],
+            "relatedness_score": 0.5622187527797565,
+            "article_meta_data": {
+                "title": "Funding Cuts to STEM Research Threaten U.S. Innovation",
+                "date": "2025-06-04",
+                "url": "https://insightintoacademia.com/stem-research-cuts/",
+                "id": 5
+            },
+            "para_id": "5_1"
+        },
+        {
+            "paragraph": "Holmes, a STEM education researcher in Cornell\u2019s College of Arts and Sciences, recently learned that a $1.3 million project she co-authored had been recommended for funding\u2014only to see it stalled indefinitely due to the agency\u2019s funding freeze.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "A $1.3 million project co-authored by Holmes was recommended for funding but stalled due to the funding freeze.",
+                    "vis_data": [
+                        {
+                            "label": "Holmes' Project Funding",
+                            "value": "1300000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "5_2_2"
+                }
+            ],
+            "relatedness_score": 0.44240103860433444,
+            "article_meta_data": {
+                "title": "Funding Cuts to STEM Research Threaten U.S. Innovation",
+                "date": "2025-06-04",
+                "url": "https://insightintoacademia.com/stem-research-cuts/",
+                "id": 5
+            },
+            "para_id": "5_2"
+        },
+        {
+            "paragraph": "The NIH is the world\u2019s largest public funder of biomedical research, awarding over $48 billion annually\u2014more than 80% of which goes to grants at universities and hospitals. Harvard received nearly $488 million in NIH funding in FY 2024 alone.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The NIH awards over $48 billion annually for biomedical research.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Annual Funding",
+                            "value": "48000000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "5_3_3"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "More than 80% of NIH funding goes to grants at universities and hospitals.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Funding to Universities",
+                            "value": "80",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_3_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Harvard received nearly $488 million in NIH funding in FY 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Harvard NIH Funding",
+                            "value": "487999999",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "5_3_5"
+                }
+            ],
+            "relatedness_score": 0.4268484522741538,
+            "article_meta_data": {
+                "title": "Funding Cuts to STEM Research Threaten U.S. Innovation",
+                "date": "2025-06-04",
+                "url": "https://insightintoacademia.com/stem-research-cuts/",
+                "id": 5
+            },
+            "para_id": "5_3"
+        },
+        {
+            "paragraph": "\u201cIn October, my collaborators and I received notification that our $1.3M physics education research project was being recommended for funding,\u201d Holmes said in auniversity press release.The initiative was designed to help lab instructors nationwide adopt hands-on, research-based methods for teaching physics, with an anticipated reach of 45,000 STEM students annually.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Holmes' $1.3M physics education research project was recommended for funding.",
+                    "vis_data": [
+                        {
+                            "label": "Holmes' Project Funding",
+                            "value": "1300000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "5_4_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The project was designed to reach 45,000 STEM students annually.",
+                    "vis_data": [
+                        {
+                            "label": "STEM Students Reached",
+                            "value": "45000",
+                            "unit": "students"
+                        }
+                    ],
+                    "fact_id": "5_4_7"
+                }
+            ],
+            "relatedness_score": 0.3707963718234155,
+            "article_meta_data": {
+                "title": "Funding Cuts to STEM Research Threaten U.S. Innovation",
+                "date": "2025-06-04",
+                "url": "https://insightintoacademia.com/stem-research-cuts/",
+                "id": 5
+            },
+            "para_id": "5_4"
+        },
+        {
+            "paragraph": "Over the past several decades, universities have already substantially increased the amount of money they spend on their own research and development\u2014from 10 percent of the total in 1970 to 25 percent in 2023, according to federal data. Meanwhile, federal support for academic research has been on the decline, falling from 71 percent to 55 percent during that same timeframe. And support from industry, charities and other sources have always been marginal, collectively making up about 15 percent of contributions to research funding at colleges and universities in 2023.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Universities increased their own research and development spending from 10% in 1970 to 25% in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "University R&D Spending 1970",
+                            "value": "10",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "University R&D Spending 2023",
+                            "value": "25",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "12_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Federal support for academic research declined from 71% to 55% from 1970 to 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Support 1970",
+                            "value": "71",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Federal Support 2023",
+                            "value": "55",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "12_0_1"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Support from industry, charities, and other sources made up about 15% of contributions to research funding at colleges and universities in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Industry & Charities Support 2023",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "12_0_2"
+                }
+            ],
+            "relatedness_score": 0.5021612416062107,
+            "article_meta_data": {
+                "title": "Can Scientific Research Survive Without Federal Funding?",
+                "date": "2025-05-12",
+                "url": "https://www.insidehighered.com/news/business/revenue-strategies/2025/05/12/can-scientific-research-survive-without-federal-funding",
+                "id": 12
+            },
+            "para_id": "12_0"
+        },
+        {
+            "paragraph": "In February, the Yale School of Medicine beganoffering temporary fundingto researchers with terminated grants\u2014many related to topics the Trump administration has deemed unworthy of scientific inquiry, such as transgender health\u2014to give them time to reorient their research. Yale\u2019s Graduate School of Arts and Sciences is also investing $4 million to support graduate students who have lost training and research grants. Similarly, last monthJohns Hopkins University announcedthat it is tapping earnings from its $13.2 billion endowment to give researchers $100,000 each for delayed grants, or $150,000 for terminated grants, during a 12-month period. And Northwestern University\u2014whichhasn\u2019t received any grant paymentsfrom the National Institutes of Health since March\u2014is offering facultyup to $50,000 to maintain projectsfor up to one year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Yale\u2019s Graduate School of Arts and Sciences is investing $4 million to support graduate students who have lost training and research grants.",
+                    "vis_data": [
+                        {
+                            "label": "Yale Graduate Support",
+                            "value": "4000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "12_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins University is tapping earnings from its $13.2 billion endowment.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Endowment",
+                            "value": "13200000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "12_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins University gives researchers $100,000 each for delayed grants.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Delayed Grant",
+                            "value": "100000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "12_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins University gives researchers $150,000 for terminated grants during a 12-month period.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Terminated Grant",
+                            "value": "150000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "12_1_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Northwestern University is offering faculty up to $50,000 to maintain projects for up to one year.",
+                    "vis_data": [
+                        {
+                            "label": "Northwestern Project Maintenance",
+                            "value": "50000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "12_1_7"
+                }
+            ],
+            "relatedness_score": 0.4683773972728089,
+            "article_meta_data": {
+                "title": "Can Scientific Research Survive Without Federal Funding?",
+                "date": "2025-05-12",
+                "url": "https://www.insidehighered.com/news/business/revenue-strategies/2025/05/12/can-scientific-research-survive-without-federal-funding",
+                "id": 12
+            },
+            "para_id": "12_1"
+        },
+        {
+            "paragraph": "In 2023, only 6.8 percent of research expenditures in the United States came from industry, according to data from the Association of University Technology Managers (AUTM).",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "6.8% of research expenditures in the United States came from industry in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Industry Research Expenditure 2023",
+                            "value": "6.8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "12_2_8"
+                }
+            ],
+            "relatedness_score": 0.4367929619658032,
+            "article_meta_data": {
+                "title": "Can Scientific Research Survive Without Federal Funding?",
+                "date": "2025-05-12",
+                "url": "https://www.insidehighered.com/news/business/revenue-strategies/2025/05/12/can-scientific-research-survive-without-federal-funding",
+                "id": 12
+            },
+            "para_id": "12_2"
+        },
+        {
+            "paragraph": "Soon after faculty at the University of Arizona raised concerns about cuts to research funding,officials established a Bridge Funding Investment Programto aid faculty with an established track record of extramural funding, with a particular focus on preserving Ph.D. student support. According to Tom\u00e1s D\u00edaz de la Rubia, senior vice president for research and innovation, UA\u2014which isstill recovering from a budget crisis\u2014has allocated $1 million in bridge funding.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "University of Arizona has allocated $1 million in bridge funding.",
+                    "vis_data": [
+                        {
+                            "label": "Arizona Bridge Funding",
+                            "value": "1000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "12_3_9"
+                }
+            ],
+            "relatedness_score": 0.4304007145945745,
+            "article_meta_data": {
+                "title": "Can Scientific Research Survive Without Federal Funding?",
+                "date": "2025-05-12",
+                "url": "https://www.insidehighered.com/news/business/revenue-strategies/2025/05/12/can-scientific-research-survive-without-federal-funding",
+                "id": 12
+            },
+            "para_id": "12_3"
+        },
+        {
+            "paragraph": "For most of the schools, around 10% to 13% of their revenue came from federal contracts or research funding, according to the analysis. For some prestigious research universities, however, federal money represented up to half of their revenue.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "For most schools, around 10% to 13% of their revenue came from federal contracts or research funding.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue from Federal Contracts",
+                            "value": "10",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Revenue from Federal Contracts",
+                            "value": "13",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "18_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "For some prestigious research universities, federal money represented up to half of their revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Revenue from Federal Money",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "18_0_1"
+                }
+            ],
+            "relatedness_score": 0.5452102386352378,
+            "article_meta_data": {
+                "title": "How U.S. colleges are navigating cuts to grants for research institutions",
+                "date": "2025-03-28",
+                "url": "https://www.pbs.org/newshour/education/how-u-s-colleges-are-navigating-cuts-to-grants-for-research-after-trump-restricts-federal-funding",
+                "id": 18
+            },
+            "para_id": "18_0"
+        },
+        {
+            "paragraph": "Perhaps no school is more vulnerable than Johns Hopkins University, which received $4 billion in federal funds, close to 40% of its revenue, according to the analysis. Much of that went to defense research, paying for projects like missile design, submarine technology and precision tracking systems in outer space. Billions of dollars also went to medical research for topics such as immunology and transplants, aging, neuroscience and mental health.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins University received $4 billion in federal funds.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Funds for Johns Hopkins",
+                            "value": "4",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "18_1_2"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Federal funds accounted for close to 40% of Johns Hopkins University's revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Revenue from Federal Funds",
+                            "value": "40",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "18_1_3"
+                }
+            ],
+            "relatedness_score": 0.5077107809077167,
+            "article_meta_data": {
+                "title": "How U.S. colleges are navigating cuts to grants for research institutions",
+                "date": "2025-03-28",
+                "url": "https://www.pbs.org/newshour/education/how-u-s-colleges-are-navigating-cuts-to-grants-for-research-after-trump-restricts-federal-funding",
+                "id": 18
+            },
+            "para_id": "18_1"
+        },
+        {
+            "paragraph": "The AP analysis looked at federal funding for nearly 100 colleges currently under investigation for programs the administration has deemed as illegally pushing diversity, equity and inclusion, or for not doing enough to combat antisemitism. Those schools took in over $33 billion in federal revenue in the 2022-2023 academic year. That\u2019s before taking into account federal student aid, which represents billions more in tuition and room-and-board payments.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Nearly 100 colleges took in over $33 billion in federal revenue in the 2022-2023 academic year.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Revenue for Colleges",
+                            "value": "over 33",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "18_2_4"
+                }
+            ],
+            "relatedness_score": 0.5065042301523122,
+            "article_meta_data": {
+                "title": "How U.S. colleges are navigating cuts to grants for research institutions",
+                "date": "2025-03-28",
+                "url": "https://www.pbs.org/newshour/education/how-u-s-colleges-are-navigating-cuts-to-grants-for-research-after-trump-restricts-federal-funding",
+                "id": 18
+            },
+            "para_id": "18_2"
+        },
+        {
+            "paragraph": "In the 2022-2023 academic year, Columbia got close to a fifth of its revenue from federal sources, around $1.2 billion. An audit shows that much of Columbia\u2019s federal money went to research and development, including $166 million for global AIDS programs, $99 million to study aging, $28 million for cancer biology and $24 million for drug abuse and addiction research.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Columbia got close to a fifth of its revenue from federal sources in the 2022-2023 academic year.",
+                    "vis_data": [
+                        {
+                            "label": "Columbia Revenue from Federal Sources",
+                            "value": "20",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "18_3_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received around $1.2 billion from federal sources in the 2022-2023 academic year.",
+                    "vis_data": [
+                        {
+                            "label": "Federal Funds for Columbia",
+                            "value": "1.2",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "18_3_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $166 million for global AIDS programs.",
+                    "vis_data": [
+                        {
+                            "label": "Funds for Global AIDS Programs",
+                            "value": "166",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "18_3_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $99 million to study aging.",
+                    "vis_data": [
+                        {
+                            "label": "Funds for Aging Study",
+                            "value": "99",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "18_3_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $28 million for cancer biology.",
+                    "vis_data": [
+                        {
+                            "label": "Funds for Cancer Biology",
+                            "value": "28",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "18_3_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Columbia received $24 million for drug abuse and addiction research.",
+                    "vis_data": [
+                        {
+                            "label": "Funds for Drug Abuse Research",
+                            "value": "24",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "18_3_10"
+                }
+            ],
+            "relatedness_score": 0.5022048916010218,
+            "article_meta_data": {
+                "title": "How U.S. colleges are navigating cuts to grants for research institutions",
+                "date": "2025-03-28",
+                "url": "https://www.pbs.org/newshour/education/how-u-s-colleges-are-navigating-cuts-to-grants-for-research-after-trump-restricts-federal-funding",
+                "id": 18
+            },
+            "para_id": "18_3"
+        },
+        {
+            "paragraph": "Similarly, in a major blow to tech transfer, several universities have had their research funding cut. Illinois-based Northwestern University\u2019s spokesperson Jon Yates said that scientific research was \u201cat jeopardy\u201d after the government froze about $790 million in funding. As for the University of Pennsylvania, the federal government chopped off $175 million from its research budget, citing the school\u2019s policies on transgender athletes.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The government froze about $790 million in funding for Northwestern University.",
+                    "vis_data": [
+                        {
+                            "label": "Northwestern Funding Frozen",
+                            "value": "790",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "16_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The federal government chopped off $175 million from the University of Pennsylvania's research budget.",
+                    "vis_data": [
+                        {
+                            "label": "Pennsylvania Funding Cut",
+                            "value": "175",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "16_0_1"
+                }
+            ],
+            "relatedness_score": 0.6186869020308078,
+            "article_meta_data": {
+                "title": "US budget cuts: what is the impact on therapeutic research?",
+                "date": "2025-05-01",
+                "url": "https://www.labiotech.eu/trends-news/us-budget-cuts-impact-therapeutic-research/",
+                "id": 16
+            },
+            "para_id": "16_0"
+        },
+        {
+            "paragraph": "The federal government is investigating more than 50 universities as part of its anti-DEI (diversity, equity, inclusion) crackdown. New York-based Columbia University was one of the first few universities to be slammed with funding cuts. In March, the White House canceled $400 million worth of funding, demanding that the Ivy League school comply with policy changes. Columbia is currently in talks with the federal government to reverse the budget cuts.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The White House canceled $400 million worth of funding for Columbia University.",
+                    "vis_data": [
+                        {
+                            "label": "Columbia Funding Canceled",
+                            "value": "400",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "16_1_2"
+                }
+            ],
+            "relatedness_score": 0.5206990632483487,
+            "article_meta_data": {
+                "title": "US budget cuts: what is the impact on therapeutic research?",
+                "date": "2025-05-01",
+                "url": "https://www.labiotech.eu/trends-news/us-budget-cuts-impact-therapeutic-research/",
+                "id": 16
+            },
+            "para_id": "16_1"
+        },
+        {
+            "paragraph": "The U.S. National Institutes of Health (NIH) \u2013 the primary federal agency for biomedical research \u2013 slashed nearly 800 projects and vowed to wipe out billions of dollars from biomedical research funding. The NIH is the world\u2019s largest public funder of biomedical research and has a yearly budget of $47 billion, which accounts for more than 60,000 grants. But now, these grants are at stake.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "NIH slashed nearly 800 projects.",
+                    "vis_data": [
+                        {
+                            "label": "Projects Slashed",
+                            "value": "800",
+                            "unit": "projects"
+                        }
+                    ],
+                    "fact_id": "16_2_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "NIH has a yearly budget of $47 billion.",
+                    "vis_data": [
+                        {
+                            "label": "Yearly Budget",
+                            "value": "47",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "16_2_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "NIH accounts for more than 60,000 grants.",
+                    "vis_data": [
+                        {
+                            "label": "Grants",
+                            "value": "60000+",
+                            "unit": "grants"
+                        }
+                    ],
+                    "fact_id": "16_2_5"
+                }
+            ],
+            "relatedness_score": 0.4830707590557657,
+            "article_meta_data": {
+                "title": "US budget cuts: what is the impact on therapeutic research?",
+                "date": "2025-05-01",
+                "url": "https://www.labiotech.eu/trends-news/us-budget-cuts-impact-therapeutic-research/",
+                "id": 16
+            },
+            "para_id": "16_2"
+        },
+        {
+            "paragraph": "Meanwhile, recent layoffs owing to these budget cuts are \u201cgumming up the works, slowing the review of proposals, and choking off the earliest lifeline for academic innovators,\u201d expressed Hoffman. Several top officials overseeing food and drug safety in the country were laid off in April in efforts by the Trump administration to slim down the workforce by 20,000 health workers. Around 2,400 staff members were let go from the U.S. Food and Drug Administration (FDA), 2,400 from the CDC, and 1,200 from the NIH earlier this month.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "20,000 health workers were slimmed down by the Trump administration.",
+                    "vis_data": [
+                        {
+                            "label": "Health Workers Reduced",
+                            "value": "20000",
+                            "unit": "workers"
+                        }
+                    ],
+                    "fact_id": "16_3_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Around 2,400 staff members were let go from the FDA.",
+                    "vis_data": [
+                        {
+                            "label": "FDA Staff Let Go",
+                            "value": "2400",
+                            "unit": "staff"
+                        }
+                    ],
+                    "fact_id": "16_3_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "2,400 staff members were let go from the CDC.",
+                    "vis_data": [
+                        {
+                            "label": "CDC Staff Let Go",
+                            "value": "2400",
+                            "unit": "staff"
+                        }
+                    ],
+                    "fact_id": "16_3_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1,200 staff members were let go from the NIH.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Staff Let Go",
+                            "value": "1200",
+                            "unit": "staff"
+                        }
+                    ],
+                    "fact_id": "16_3_9"
+                }
+            ],
+            "relatedness_score": 0.4707653224728028,
+            "article_meta_data": {
+                "title": "US budget cuts: what is the impact on therapeutic research?",
+                "date": "2025-05-01",
+                "url": "https://www.labiotech.eu/trends-news/us-budget-cuts-impact-therapeutic-research/",
+                "id": 16
+            },
+            "para_id": "16_3"
+        },
+        {
+            "paragraph": "However, Harvard University has predicted what\u2019s about to happen, and things look bleak. The Massachusetts Ivy League school was hit with a steep research funding freeze \u2013 $2.2 billion to be exact \u2013 three weeks ago. Several researchers at the school received stop-work orders, one of whom was Sarah Fortune, Professor at the Harvard School of Public Health. Fortune had been researching tuberculosis for over a decade and was involved in a $60 million research project. Part of the research was a vaccine study on primates, whose lives are now at risk as the team scrambles for funds to support them and prevent them from being euthanized.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Harvard University was hit with a $2.2 billion research funding freeze.",
+                    "vis_data": [
+                        {
+                            "label": "Harvard Funding Freeze",
+                            "value": "2.2",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "16_4_10"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sarah Fortune was involved in a $60 million research project.",
+                    "vis_data": [
+                        {
+                            "label": "Fortune's Research Project",
+                            "value": "60",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "16_4_11"
+                }
+            ],
+            "relatedness_score": 0.4692756819774415,
+            "article_meta_data": {
+                "title": "US budget cuts: what is the impact on therapeutic research?",
+                "date": "2025-05-01",
+                "url": "https://www.labiotech.eu/trends-news/us-budget-cuts-impact-therapeutic-research/",
+                "id": 16
+            },
+            "para_id": "16_4"
+        },
+        {
+            "paragraph": "This is a stark and sudden change to the average indirect cost rate of nearly 30% since 2009, with some universities even benefitting from a 60% indirect cost payment.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Average indirect cost rate was nearly 30% since 2009.",
+                    "vis_data": [
+                        {
+                            "label": "Average Indirect Cost Rate",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_5_12"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Some universities benefitted from a 60% indirect cost payment.",
+                    "vis_data": [
+                        {
+                            "label": "Max Indirect Cost Payment",
+                            "value": "60",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_5_13"
+                }
+            ],
+            "relatedness_score": 0.41314378004456176,
+            "article_meta_data": {
+                "title": "US budget cuts: what is the impact on therapeutic research?",
+                "date": "2025-05-01",
+                "url": "https://www.labiotech.eu/trends-news/us-budget-cuts-impact-therapeutic-research/",
+                "id": 16
+            },
+            "para_id": "16_5"
+        },
+        {
+            "paragraph": "The NIH has struck universities with a cap on indirect costs at 15% of a grant\u2019s value. Indirect costs pertain to expenses that support a project but are not directly tied to a specific project. These costs cover utilities, administrative salaries, and facilities maintenance.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "NIH cap on indirect costs at 15% of a grant\u2019s value.",
+                    "vis_data": [
+                        {
+                            "label": "Indirect Cost Cap",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_6_14"
+                }
+            ],
+            "relatedness_score": 0.36258813615506436,
+            "article_meta_data": {
+                "title": "US budget cuts: what is the impact on therapeutic research?",
+                "date": "2025-05-01",
+                "url": "https://www.labiotech.eu/trends-news/us-budget-cuts-impact-therapeutic-research/",
+                "id": 16
+            },
+            "para_id": "16_6"
+        },
+        {
+            "paragraph": "Finally, and perhaps most significantly, the Trump administration\u2019s proposed 2026 budget has staggering cuts for science and research agencies, including the NSF (57%), NIH (40%), CDC (53%), and NASA\u2019s science budget (47%). The National Oceanic and Atmospheric Administration budget would be reduced by 30%, with $0 funding for climate research. Congress\u2019s July 3 passage of Trump\u2019s massive spending and tax-cut bill suggests that they may continue to fulfill Trump\u2019s policy priorities.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The NSF budget would be cut by 57%.",
+                    "vis_data": [
+                        {
+                            "label": "NSF Budget Cut",
+                            "value": "57",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "13_0_0"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The NIH budget would be cut by 40%.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Budget Cut",
+                            "value": "40",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "13_0_1"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The CDC budget would be cut by 53%.",
+                    "vis_data": [
+                        {
+                            "label": "CDC Budget Cut",
+                            "value": "53",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "13_0_2"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "NASA\u2019s science budget would be cut by 47%.",
+                    "vis_data": [
+                        {
+                            "label": "NASA Science Budget Cut",
+                            "value": "47",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "13_0_3"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The National Oceanic and Atmospheric Administration budget would be reduced by 30%.",
+                    "vis_data": [
+                        {
+                            "label": "NOAA Budget Reduction",
+                            "value": "30",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "13_0_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "$0 funding for climate research in the proposed 2026 budget.",
+                    "vis_data": [
+                        {
+                            "label": "Climate Research Funding",
+                            "value": "0",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "13_0_5"
+                }
+            ],
+            "relatedness_score": 0.5613414459702482,
+            "article_meta_data": {
+                "title": "The Trump Administration's Multi-Front Assault on Federal Research Funding",
+                "date": "Unknown",
+                "url": "https://www.justsecurity.org/116486/trump-assault-federal-research-funding/",
+                "id": 13
+            },
+            "para_id": "13_0"
+        },
+        {
+            "paragraph": "Since January, this underinvestment has escalated into a crisis, marked by abrupt cancellations, stalled grant processes, and sweeping attempts to dismantle funding mechanisms for science and technology research across the country. The National Institutes of Health (NIH), the world\u2019s largest biomedical research funder with nearly $40 billion in annual grant funding, has terminated or delayed over 2,000 grant awards. The National Science Foundation (NSF), a substantial sponsor of fundamental research in the nonmedical sciences with a nearly $10 billion budget, has awarded grant funding at half its usual rate. These headline numbers stem from a series of targeted policy moves by the administration, each now the subject of fast-moving litigation.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The National Institutes of Health (NIH) has nearly $40 billion in annual grant funding.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Annual Grant Funding",
+                            "value": "40",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "13_1_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The National Science Foundation (NSF) has a nearly $10 billion budget.",
+                    "vis_data": [
+                        {
+                            "label": "NSF Budget",
+                            "value": "10",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "13_1_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The NIH has terminated or delayed over 2,000 grant awards.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Terminated/Delayed Grants",
+                            "value": "2000",
+                            "unit": "grants"
+                        }
+                    ],
+                    "fact_id": "13_1_8"
+                }
+            ],
+            "relatedness_score": 0.537207815200528,
+            "article_meta_data": {
+                "title": "The Trump Administration's Multi-Front Assault on Federal Research Funding",
+                "date": "Unknown",
+                "url": "https://www.justsecurity.org/116486/trump-assault-federal-research-funding/",
+                "id": 13
+            },
+            "para_id": "13_1"
+        },
+        {
+            "paragraph": "One of the first flashpoints was the Trump administration\u2019s cancellation of already-awarded research grants mentioning disfavored topics such as \u201cDEI.\u201d On January 20 and 21, a suite of executive orders directed agencies to terminate funding for all \u201cequity-related\u201d grants within 60 days, to \u201censure grant funds do not promote gender ideology,\u201d and to end \u201call \u2018diversity,\u2019 \u2018equity,\u2019 [etc.] programs, or activities.\u201d Federal grantmaking agencies responded with form letters voiding grants as no longer serving \u201cagency priorities.\u201d According to the Grant Watch project, the NIH has cancelled well over $3 billion in grants, and the NSF has cancelled over $1 billion. Cuts at the NIH particularly targeted grants that mentioned race or gender, health equity, vaccine hesitancy, or misinformation. The NSF also has eliminated over 100 climate-related projects.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The NIH has cancelled well over $3 billion in grants.",
+                    "vis_data": [
+                        {
+                            "label": "NIH Cancelled Grants",
+                            "value": "3.5",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "13_2_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The NSF has cancelled over $1 billion in grants.",
+                    "vis_data": [
+                        {
+                            "label": "NSF Cancelled Grants",
+                            "value": "1.1",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "13_2_10"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The NSF has eliminated over 100 climate-related projects.",
+                    "vis_data": [
+                        {
+                            "label": "NSF Climate Projects Eliminated",
+                            "value": "101",
+                            "unit": "projects"
+                        }
+                    ],
+                    "fact_id": "13_2_11"
+                }
+            ],
+            "relatedness_score": 0.4835298448292199,
+            "article_meta_data": {
+                "title": "The Trump Administration's Multi-Front Assault on Federal Research Funding",
+                "date": "Unknown",
+                "url": "https://www.justsecurity.org/116486/trump-assault-federal-research-funding/",
+                "id": 13
+            },
+            "para_id": "13_2"
+        },
+        {
+            "paragraph": "The projected economic effects are enormous; one study estimates the cuts \u201cwould lead to about $16 billion in economic loss and around 68,000 lost jobs annually.\u201d The cuts would also disproportionately impact the institutions most tied to patenting and drug development, potentially undermining the next generation of lifesaving therapies.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cuts would lead to about $16 billion in economic loss annually.",
+                    "vis_data": [
+                        {
+                            "label": "Annual Economic Loss",
+                            "value": "16",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "13_3_12"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The cuts would lead to around 68,000 lost jobs annually.",
+                    "vis_data": [
+                        {
+                            "label": "Annual Jobs Lost",
+                            "value": "68000",
+                            "unit": "jobs"
+                        }
+                    ],
+                    "fact_id": "13_3_13"
+                }
+            ],
+            "relatedness_score": 0.4611214888828046,
+            "article_meta_data": {
+                "title": "The Trump Administration's Multi-Front Assault on Federal Research Funding",
+                "date": "Unknown",
+                "url": "https://www.justsecurity.org/116486/trump-assault-federal-research-funding/",
+                "id": 13
+            },
+            "para_id": "13_3"
+        },
+        {
+            "paragraph": "Of the 90 colleges and universities in my analysis, 17 received at least 20 percent of their funding from the federal government and 47 received between 10 and 20 percent. Only 11 institutions received less than 5 percent of their total revenue from federal sources in 2022\u201323. All but one of these 11 colleges (SUNY at Purchase College) is in the private, nonprofit sector. These estimates represent a federal funding floor because federal student loans are not included.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "17 colleges and universities received at least 20% of their funding from the federal government.",
+                    "vis_data": [
+                        {
+                            "label": "Colleges with \u226520% Federal Revenue",
+                            "value": "17",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "15_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "47 colleges and universities received between 10% and 20% of their funding from the federal government.",
+                    "vis_data": [
+                        {
+                            "label": "Colleges with 10-20% Federal Revenue",
+                            "value": "47",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "15_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "11 institutions received less than 5% of their total revenue from federal sources in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "Colleges with <5% Federal Revenue",
+                            "value": "11",
+                            "unit": "count"
+                        }
+                    ],
+                    "fact_id": "15_0_2"
+                }
+            ],
+            "relatedness_score": 0.5778840263953173,
+            "article_meta_data": {
+                "title": "How Much Federal Funding Do Colleges and Universities Receive?",
+                "date": "2025-05-08",
+                "url": "https://www.urban.org/urban-wire/how-much-federal-funding-do-colleges-and-universities-receive",
+                "id": 15
+            },
+            "para_id": "15_0"
+        },
+        {
+            "paragraph": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323, which made up 42 percent of the school\u2019s total revenue that year. Funding originated from the National Institutes of Health (NIH), the National Science Foundation (NSF), and the US Departments of Energy and Defense. MIT received 48 percent of its funding from the federal government, a total of $1.7 billion, during that year. Much of this funding goes to MIT\u2019s Lincoln Laboratory, which \u201cresearches and develops a broad array of advanced technologies to meet critical national security needs.\u201d",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Federal Funding",
+                            "value": "4000",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_1_3"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "42% of Johns Hopkins' total revenue in 2022\u201323 came from federal sources.",
+                    "vis_data": [
+                        {
+                            "label": "Johns Hopkins Federal Revenue",
+                            "value": "42",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_1_4"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "MIT received 48% of its funding from the federal government in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "MIT Federal Revenue",
+                            "value": "48",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "MIT received a total of $1.7 billion from the federal government in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "MIT Federal Funding",
+                            "value": "1700",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_1_6"
+                }
+            ],
+            "relatedness_score": 0.5557605867495462,
+            "article_meta_data": {
+                "title": "How Much Federal Funding Do Colleges and Universities Receive?",
+                "date": "2025-05-08",
+                "url": "https://www.urban.org/urban-wire/how-much-federal-funding-do-colleges-and-universities-receive",
+                "id": 15
+            },
+            "para_id": "15_1"
+        },
+        {
+            "paragraph": "Among the institutions under investigation, the Massachusetts Institute of Technology (MIT) and Johns Hopkins University receive the most federal funding\u2014more than 40 percent of their total revenue\u2014while 26 other colleges under investigation receive less than 10 percent of their revenue from federal sources.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "MIT and Johns Hopkins University receive more than 40% of their total revenue from federal funding.",
+                    "vis_data": [
+                        {
+                            "label": "MIT & Johns Hopkins Federal Revenue",
+                            "value": "41",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_2_7"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "26 colleges under investigation receive less than 10% of their revenue from federal sources.",
+                    "vis_data": [
+                        {
+                            "label": "26 Colleges Federal Revenue",
+                            "value": "9",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_2_8"
+                }
+            ],
+            "relatedness_score": 0.5443265032795774,
+            "article_meta_data": {
+                "title": "How Much Federal Funding Do Colleges and Universities Receive?",
+                "date": "2025-05-08",
+                "url": "https://www.urban.org/urban-wire/how-much-federal-funding-do-colleges-and-universities-receive",
+                "id": 15
+            },
+            "para_id": "15_2"
+        },
+        {
+            "paragraph": "Many public institutions also receive large shares of their revenue from federal sources. The University of Alabama at Birmingham (UAB), University of Michigan\u2013Ann Arbor, University of Hawaii at Manoa, and Montana State University all received more than 25 percent of their funding from the federal government in 2022\u201323. UAB received more than $400 million in funding from NIH in 2022 and is in the top 1 percent of NIH-funded institutions. The University of Michigan received the most federal funding among public institutions at $1.2 billion, with the University of California, San Diego, ($1.1 billion) and the University of North Carolina at Chapel Hill ($950 million) close behind. Much of the federal revenue at these public institutions comes from NIH and NSF.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "UAB, University of Michigan\u2013Ann Arbor, University of Hawaii at Manoa, and Montana State University received more than 25% of their funding from the federal government in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "Public Institutions Federal Revenue",
+                            "value": "26",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_3_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "UAB received more than $400 million in funding from NIH in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "UAB NIH Funding",
+                            "value": "401",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_3_10"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The University of Michigan received $1.2 billion in federal funding in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "University of Michigan Federal Funding",
+                            "value": "1200",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_3_11"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The University of California, San Diego, received $1.1 billion in federal funding in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "UC San Diego Federal Funding",
+                            "value": "1100",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_3_12"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The University of North Carolina at Chapel Hill received $950 million in federal funding in 2022\u201323.",
+                    "vis_data": [
+                        {
+                            "label": "UNC Chapel Hill Federal Funding",
+                            "value": "950",
+                            "unit": "million USD"
+                        }
+                    ],
+                    "fact_id": "15_3_13"
+                }
+            ],
+            "relatedness_score": 0.532383515151049,
+            "article_meta_data": {
+                "title": "How Much Federal Funding Do Colleges and Universities Receive?",
+                "date": "2025-05-08",
+                "url": "https://www.urban.org/urban-wire/how-much-federal-funding-do-colleges-and-universities-receive",
+                "id": 15
+            },
+            "para_id": "15_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "17_0",
+            "paragraph": "In a recent analysis of data collected by the National Center for Science and Engineering Statistics, The New York Times found that \u201cin fiscal year 2023 alone, roughly $60 billion flowed from the federal government to universities in all 50 states, funding research on an array of topics, like cancer, Alzheimer\u2019s disease and rare isotope beams.\u201d"
+        },
+        {
+            "para_id": "2_0",
+            "paragraph": "On February 10, as part of its mission to \u201cmaximize government efficiency,\u201d the Trump administration announced its cancellation of roughly $1 billion in federal contracts for education research. These contracts were held under the Institute of Education Sciences (IES)\u2014the research, statistics, and evaluation arm of the U.S. Department of Education, which was created as part of the Education Sciences Reform Act (ESRA) of 2002.\u0000a0The contracts affect organizations and individuals all across the United States and impact our ability to monitor the global competitiveness of our students."
+        },
+        {
+            "para_id": "9_0",
+            "paragraph": "Federal student aid faces major cuts, however, under President Trump. His new budget proposal slashes $980 million from theFederal Work-Study program, which provides part-time jobs for college students who have demonstrated they need more financial assistance."
+        },
+        {
+            "para_id": "6_0",
+            "paragraph": "In addition, the NIH said it would be cutting billions in overhead payments by capping so-called indirect costs for researchers at 15%, which has been described as \u201ca sure-fire way to cripple lifesaving research and innovation\u201d1. Overheads typically cover essential research costs, including equipment, administration and researcher salaries. At the same time, negative media coverage of campus controversies has further affected institutions. Additionally, accusations have emerged that the Trump administration\u2019s funding cuts are partly motivated by perceptions that conservative values are underrepresented in academia.2"
+        },
+        {
+            "para_id": "22_0",
+            "paragraph": "Federal agencies cancelled more than $17.5 million in funding across TC\u2019s education, health and psychology projects, including grant termination letters by the U.S. Department of Education on March 7. Additional cancellation notices for an NIH grant, two F31 student fellowships, and two Fulbright-Hays awards were issued later in March. Since then, College leadership and faculty have investigated the full scope and impact of the federal grant cuts as outlined below."
+        },
+        {
+            "para_id": "19_0",
+            "paragraph": "In Massachusetts, 5,396 research institutions \u2014 including hospitals, medical schools, companies and universities \u2014 are estimated to lose $535 million in funding, as the NIH is a primary source of federal funding for medical research in the U.S."
+        },
+        {
+            "para_id": "19_1",
+            "paragraph": "The University of Massachusetts Amherst, with over 100 grants, received $38 million in funding in 2024 and faces an estimated loss of $6 million."
+        },
+        {
+            "para_id": "8_0",
+            "paragraph": "['Brown is part of an ever-growing group of colleges forced into significant austerity measures as the Trump administration wages financial warfare on the U.S. system of scientific and scholarly research.', \"Brown\u2019s own experience reflects much of the confusion and fiscal turmoil throughout the sector. Since April, for example, \u201cthe government has (with no formal explanation) ceased paying bills on existing Brown grants from the National Institutes of Health (NIH), which represent over 70% of the University's federal research funding,\u201d the officials said.\", 'And the lost funding keeps adding up. From NIH alone, the total losses increase by roughly $3.5 million a week.', 'Along with fellow Ivy League universities Harvard and Columbia, the Trump administration has reportedly planned to target Brown by freezing research funding over campus antisemitism allegations. However, the Trump administration never officially announced a freeze and Brown officials said in April they could not substantiate the \u201crumors.\u201d']"
+        },
+        {
+            "para_id": "14_0",
+            "paragraph": "In addition to freezing university funding, recent federal cost-cutting measures have also led to staff reductions and grant cancellations at key agencies like the National Science Foundation (NSF) and National Institutes of Health (NIH). These cuts could carry devastating long-term economic consequences. On the cautious side, a 25 percent reduction in public research and development spending wouldshrink the U.S. GDP by 3.8 percent, a decline comparable to that of the Great Recession, according to a recent study from American University. A 50 or 75 percent cut would result in GDP declines of 7.5 and 11.3 percent, respectively."
+        },
+        {
+            "para_id": "1_0",
+            "paragraph": "The department also granted $260 million in fiscal 2024 through its research arm, the Institute of Education Sciences. (The Trump administration recentlycanceled $900 millionin IES contracts, some of which cover multiple years.)"
+        },
+        {
+            "para_id": "1_1",
+            "paragraph": "President Donald Trump has revived those efforts. Adraft executive orderdirects his newly confirmed education secretary, Linda McMahon, to prepare the department for closure, while acknowledging that actually dissolving it would require an act of Congress. (Asked directly if the United States needs her department, McMahon said, \u201cNo, we don\u2019t.\u201d) The department already has shedaround 2,000 staffers\u2013 nearly half its workforce \u2013 through layoffs and buyouts, and canceleddozens of research contracts."
+        },
+        {
+            "para_id": "21_0",
+            "paragraph": "Executive orders, looming budget cuts and other changes to major federal agencies by the Trump administration pose a serious threat to over $6 million in scientific research funding at Middlebury this spring. Hundreds of thousands in grants have already been lost, prompting faculty to worry that their ongoing projects will be impacted next."
+        },
+        {
+            "para_id": "21_1",
+            "paragraph": "On Feb. 10, Vermont and 21 other states sued the federal government over these cuts to the NIH\u2019s indirect cost rates, and they received a temporary reprieve later that day. The state currently has 128 NIH-funded projects, totaling $84,668,147 for colleges, universities and several medical companies. A full hearing on the suit is set for Feb. 21, according to The New York Times."
+        },
+        {
+            "para_id": "21_2",
+            "paragraph": "Two weeks ago the college lost a $530,000 Inclusive Excellence Grant from the Howard Hughes Medical Institute (HHMI) after Trump\u2019s executive order targeted Diversity, Equity, and Inclusion (DEI) programs. The grant was in its third year of funding as part of a now-defunct $60 million initiative from the nation\u2019s largest private funder of biomedical research, which cut off this funding to over 100 colleges and universities on Feb. 5."
+        },
+        {
+            "para_id": "21_3",
+            "paragraph": "The college also has three ongoing grants from the National Institutes of Health (NIH), which provides $1,133,900 in total to those projects, according to the agency\u2019s website."
+        },
+        {
+            "para_id": "21_4",
+            "paragraph": "As of Feb. 10, Middlebury has at least 17 active grants based in Vermont provided by the National Science Foundation (NSF) that total over $4.9 million in scientific research funding, according to the organization\u2019s online database."
+        },
+        {
+            "para_id": "5_0",
+            "paragraph": "Cuts to indirect funding from the NIH\u2014proposed to be capped at 15%\u2014and the shutdown of federal grant-making processes have already disrupted major research operations at public institutions like the University of California, Davis (UC Davis) and the University of Illinois. These are not isolated incidents. Across the nation, land-grant universities, minority-serving institutions, and research centers reliant on federal dollars are grappling with halted projects and staff layoffs."
+        },
+        {
+            "para_id": "5_1",
+            "paragraph": "A significant portion of public research in the U.S. is tied to federal funding. At UC Davis for example, researchers submitted $2.75 billion in federal grant proposals in fiscal year 2024. But with new rules in place, many of those dollars remain out of reach. Similar patterns are emerging nationwide, leaving institutions uncertain whether they can retain students or sustain vital programs. For instance, some graduate student enrollees at UC Davis who have not yet accepted their offers were moved to waitlists because of the unpredictability of current funding streams, UC President Michael Drake told Reuters."
+        },
+        {
+            "para_id": "5_2",
+            "paragraph": "Holmes, a STEM education researcher in Cornell\u2019s College of Arts and Sciences, recently learned that a $1.3 million project she co-authored had been recommended for funding\u2014only to see it stalled indefinitely due to the agency\u2019s funding freeze."
+        },
+        {
+            "para_id": "5_3",
+            "paragraph": "The NIH is the world\u2019s largest public funder of biomedical research, awarding over $48 billion annually\u2014more than 80% of which goes to grants at universities and hospitals. Harvard received nearly $488 million in NIH funding in FY 2024 alone."
+        },
+        {
+            "para_id": "5_4",
+            "paragraph": "\u201cIn October, my collaborators and I received notification that our $1.3M physics education research project was being recommended for funding,\u201d Holmes said in auniversity press release.The initiative was designed to help lab instructors nationwide adopt hands-on, research-based methods for teaching physics, with an anticipated reach of 45,000 STEM students annually."
+        },
+        {
+            "para_id": "12_0",
+            "paragraph": "Over the past several decades, universities have already substantially increased the amount of money they spend on their own research and development\u2014from 10 percent of the total in 1970 to 25 percent in 2023, according to federal data. Meanwhile, federal support for academic research has been on the decline, falling from 71 percent to 55 percent during that same timeframe. And support from industry, charities and other sources have always been marginal, collectively making up about 15 percent of contributions to research funding at colleges and universities in 2023."
+        },
+        {
+            "para_id": "12_1",
+            "paragraph": "In February, the Yale School of Medicine beganoffering temporary fundingto researchers with terminated grants\u2014many related to topics the Trump administration has deemed unworthy of scientific inquiry, such as transgender health\u2014to give them time to reorient their research. Yale\u2019s Graduate School of Arts and Sciences is also investing $4 million to support graduate students who have lost training and research grants. Similarly, last monthJohns Hopkins University announcedthat it is tapping earnings from its $13.2 billion endowment to give researchers $100,000 each for delayed grants, or $150,000 for terminated grants, during a 12-month period. And Northwestern University\u2014whichhasn\u2019t received any grant paymentsfrom the National Institutes of Health since March\u2014is offering facultyup to $50,000 to maintain projectsfor up to one year."
+        },
+        {
+            "para_id": "12_2",
+            "paragraph": "In 2023, only 6.8 percent of research expenditures in the United States came from industry, according to data from the Association of University Technology Managers (AUTM)."
+        },
+        {
+            "para_id": "12_3",
+            "paragraph": "Soon after faculty at the University of Arizona raised concerns about cuts to research funding,officials established a Bridge Funding Investment Programto aid faculty with an established track record of extramural funding, with a particular focus on preserving Ph.D. student support. According to Tom\u00e1s D\u00edaz de la Rubia, senior vice president for research and innovation, UA\u2014which isstill recovering from a budget crisis\u2014has allocated $1 million in bridge funding."
+        },
+        {
+            "para_id": "18_0",
+            "paragraph": "For most of the schools, around 10% to 13% of their revenue came from federal contracts or research funding, according to the analysis. For some prestigious research universities, however, federal money represented up to half of their revenue."
+        },
+        {
+            "para_id": "18_1",
+            "paragraph": "Perhaps no school is more vulnerable than Johns Hopkins University, which received $4 billion in federal funds, close to 40% of its revenue, according to the analysis. Much of that went to defense research, paying for projects like missile design, submarine technology and precision tracking systems in outer space. Billions of dollars also went to medical research for topics such as immunology and transplants, aging, neuroscience and mental health."
+        },
+        {
+            "para_id": "18_2",
+            "paragraph": "The AP analysis looked at federal funding for nearly 100 colleges currently under investigation for programs the administration has deemed as illegally pushing diversity, equity and inclusion, or for not doing enough to combat antisemitism. Those schools took in over $33 billion in federal revenue in the 2022-2023 academic year. That\u2019s before taking into account federal student aid, which represents billions more in tuition and room-and-board payments."
+        },
+        {
+            "para_id": "18_3",
+            "paragraph": "In the 2022-2023 academic year, Columbia got close to a fifth of its revenue from federal sources, around $1.2 billion. An audit shows that much of Columbia\u2019s federal money went to research and development, including $166 million for global AIDS programs, $99 million to study aging, $28 million for cancer biology and $24 million for drug abuse and addiction research."
+        },
+        {
+            "para_id": "16_0",
+            "paragraph": "Similarly, in a major blow to tech transfer, several universities have had their research funding cut. Illinois-based Northwestern University\u2019s spokesperson Jon Yates said that scientific research was \u201cat jeopardy\u201d after the government froze about $790 million in funding. As for the University of Pennsylvania, the federal government chopped off $175 million from its research budget, citing the school\u2019s policies on transgender athletes."
+        },
+        {
+            "para_id": "16_1",
+            "paragraph": "The federal government is investigating more than 50 universities as part of its anti-DEI (diversity, equity, inclusion) crackdown. New York-based Columbia University was one of the first few universities to be slammed with funding cuts. In March, the White House canceled $400 million worth of funding, demanding that the Ivy League school comply with policy changes. Columbia is currently in talks with the federal government to reverse the budget cuts."
+        },
+        {
+            "para_id": "16_2",
+            "paragraph": "The U.S. National Institutes of Health (NIH) \u2013 the primary federal agency for biomedical research \u2013 slashed nearly 800 projects and vowed to wipe out billions of dollars from biomedical research funding. The NIH is the world\u2019s largest public funder of biomedical research and has a yearly budget of $47 billion, which accounts for more than 60,000 grants. But now, these grants are at stake."
+        },
+        {
+            "para_id": "16_3",
+            "paragraph": "Meanwhile, recent layoffs owing to these budget cuts are \u201cgumming up the works, slowing the review of proposals, and choking off the earliest lifeline for academic innovators,\u201d expressed Hoffman. Several top officials overseeing food and drug safety in the country were laid off in April in efforts by the Trump administration to slim down the workforce by 20,000 health workers. Around 2,400 staff members were let go from the U.S. Food and Drug Administration (FDA), 2,400 from the CDC, and 1,200 from the NIH earlier this month."
+        },
+        {
+            "para_id": "16_4",
+            "paragraph": "However, Harvard University has predicted what\u2019s about to happen, and things look bleak. The Massachusetts Ivy League school was hit with a steep research funding freeze \u2013 $2.2 billion to be exact \u2013 three weeks ago. Several researchers at the school received stop-work orders, one of whom was Sarah Fortune, Professor at the Harvard School of Public Health. Fortune had been researching tuberculosis for over a decade and was involved in a $60 million research project. Part of the research was a vaccine study on primates, whose lives are now at risk as the team scrambles for funds to support them and prevent them from being euthanized."
+        },
+        {
+            "para_id": "16_5",
+            "paragraph": "This is a stark and sudden change to the average indirect cost rate of nearly 30% since 2009, with some universities even benefitting from a 60% indirect cost payment."
+        },
+        {
+            "para_id": "16_6",
+            "paragraph": "The NIH has struck universities with a cap on indirect costs at 15% of a grant\u2019s value. Indirect costs pertain to expenses that support a project but are not directly tied to a specific project. These costs cover utilities, administrative salaries, and facilities maintenance."
+        },
+        {
+            "para_id": "13_0",
+            "paragraph": "Finally, and perhaps most significantly, the Trump administration\u2019s proposed 2026 budget has staggering cuts for science and research agencies, including the NSF (57%), NIH (40%), CDC (53%), and NASA\u2019s science budget (47%). The National Oceanic and Atmospheric Administration budget would be reduced by 30%, with $0 funding for climate research. Congress\u2019s July 3 passage of Trump\u2019s massive spending and tax-cut bill suggests that they may continue to fulfill Trump\u2019s policy priorities."
+        },
+        {
+            "para_id": "13_1",
+            "paragraph": "Since January, this underinvestment has escalated into a crisis, marked by abrupt cancellations, stalled grant processes, and sweeping attempts to dismantle funding mechanisms for science and technology research across the country. The National Institutes of Health (NIH), the world\u2019s largest biomedical research funder with nearly $40 billion in annual grant funding, has terminated or delayed over 2,000 grant awards. The National Science Foundation (NSF), a substantial sponsor of fundamental research in the nonmedical sciences with a nearly $10 billion budget, has awarded grant funding at half its usual rate. These headline numbers stem from a series of targeted policy moves by the administration, each now the subject of fast-moving litigation."
+        },
+        {
+            "para_id": "13_2",
+            "paragraph": "One of the first flashpoints was the Trump administration\u2019s cancellation of already-awarded research grants mentioning disfavored topics such as \u201cDEI.\u201d On January 20 and 21, a suite of executive orders directed agencies to terminate funding for all \u201cequity-related\u201d grants within 60 days, to \u201censure grant funds do not promote gender ideology,\u201d and to end \u201call \u2018diversity,\u2019 \u2018equity,\u2019 [etc.] programs, or activities.\u201d Federal grantmaking agencies responded with form letters voiding grants as no longer serving \u201cagency priorities.\u201d According to the Grant Watch project, the NIH has cancelled well over $3 billion in grants, and the NSF has cancelled over $1 billion. Cuts at the NIH particularly targeted grants that mentioned race or gender, health equity, vaccine hesitancy, or misinformation. The NSF also has eliminated over 100 climate-related projects."
+        },
+        {
+            "para_id": "13_3",
+            "paragraph": "The projected economic effects are enormous; one study estimates the cuts \u201cwould lead to about $16 billion in economic loss and around 68,000 lost jobs annually.\u201d The cuts would also disproportionately impact the institutions most tied to patenting and drug development, potentially undermining the next generation of lifesaving therapies."
+        },
+        {
+            "para_id": "15_0",
+            "paragraph": "Of the 90 colleges and universities in my analysis, 17 received at least 20 percent of their funding from the federal government and 47 received between 10 and 20 percent. Only 11 institutions received less than 5 percent of their total revenue from federal sources in 2022\u201323. All but one of these 11 colleges (SUNY at Purchase College) is in the private, nonprofit sector. These estimates represent a federal funding floor because federal student loans are not included."
+        },
+        {
+            "para_id": "15_1",
+            "paragraph": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323, which made up 42 percent of the school\u2019s total revenue that year. Funding originated from the National Institutes of Health (NIH), the National Science Foundation (NSF), and the US Departments of Energy and Defense. MIT received 48 percent of its funding from the federal government, a total of $1.7 billion, during that year. Much of this funding goes to MIT\u2019s Lincoln Laboratory, which \u201cresearches and develops a broad array of advanced technologies to meet critical national security needs.\u201d"
+        },
+        {
+            "para_id": "15_2",
+            "paragraph": "Among the institutions under investigation, the Massachusetts Institute of Technology (MIT) and Johns Hopkins University receive the most federal funding\u2014more than 40 percent of their total revenue\u2014while 26 other colleges under investigation receive less than 10 percent of their revenue from federal sources."
+        },
+        {
+            "para_id": "15_3",
+            "paragraph": "Many public institutions also receive large shares of their revenue from federal sources. The University of Alabama at Birmingham (UAB), University of Michigan\u2013Ann Arbor, University of Hawaii at Manoa, and Montana State University all received more than 25 percent of their funding from the federal government in 2022\u201323. UAB received more than $400 million in funding from NIH in 2022 and is in the top 1 percent of NIH-funded institutions. The University of Michigan received the most federal funding among public institutions at $1.2 billion, with the University of California, San Diego, ($1.1 billion) and the University of North Carolina at Chapel Hill ($950 million) close behind. Much of the federal revenue at these public institutions comes from NIH and NSF."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "17_0_0",
+            "fact_content": "Roughly $60 billion flowed from the federal government to universities in fiscal year 2023."
+        },
+        {
+            "fact_id": "2_0_0",
+            "fact_content": "Cancellation of roughly $1 billion in federal contracts for education research."
+        },
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "$980 million slashed from the Federal Work-Study program."
+        },
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "NIH capping indirect costs for researchers at 15%."
+        },
+        {
+            "fact_id": "22_0_0",
+            "fact_content": "Federal agencies cancelled more than $17.5 million in funding."
+        },
+        {
+            "fact_id": "19_0_0",
+            "fact_content": "5,396 research institutions in Massachusetts are estimated to lose funding."
+        },
+        {
+            "fact_id": "19_0_1",
+            "fact_content": "$535 million in funding is estimated to be lost by research institutions in Massachusetts."
+        },
+        {
+            "fact_id": "19_1_2",
+            "fact_content": "The University of Massachusetts Amherst received $38 million in funding in 2024."
+        },
+        {
+            "fact_id": "19_1_3",
+            "fact_content": "The University of Massachusetts Amherst faces an estimated loss of $6 million."
+        },
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "Over 70% of the University's federal research funding is from NIH grants."
+        },
+        {
+            "fact_id": "8_0_1",
+            "fact_content": "The total losses from NIH increase by roughly $3.5 million a week."
+        },
+        {
+            "fact_id": "14_0_0",
+            "fact_content": "A 25 percent reduction in public research and development spending would shrink the U.S. GDP by 3.8 percent."
+        },
+        {
+            "fact_id": "14_0_1",
+            "fact_content": "A 50 percent cut would result in GDP declines of 7.5 percent."
+        },
+        {
+            "fact_id": "14_0_2",
+            "fact_content": "A 75 percent cut would result in GDP declines of 11.3 percent."
+        },
+        {
+            "fact_id": "1_0_0",
+            "fact_content": "The department granted $260 million in fiscal 2024 through its research arm."
+        },
+        {
+            "fact_id": "1_0_1",
+            "fact_content": "The Trump administration canceled $900 million in IES contracts."
+        },
+        {
+            "fact_id": "1_1_2",
+            "fact_content": "The department has shed around 2,000 staffers."
+        },
+        {
+            "fact_id": "21_0_0",
+            "fact_content": "Over $6 million in scientific research funding at Middlebury is threatened."
+        },
+        {
+            "fact_id": "21_1_1",
+            "fact_content": "Vermont has 128 NIH-funded projects totaling $84,668,147."
+        },
+        {
+            "fact_id": "21_2_2",
+            "fact_content": "The college lost a $530,000 Inclusive Excellence Grant from HHMI."
+        },
+        {
+            "fact_id": "21_2_3",
+            "fact_content": "The $530,000 grant was part of a $60 million initiative."
+        },
+        {
+            "fact_id": "21_2_4",
+            "fact_content": "Funding was cut off to over 100 colleges and universities."
+        },
+        {
+            "fact_id": "21_3_5",
+            "fact_content": "The college has three ongoing grants from NIH totaling $1,133,900."
+        },
+        {
+            "fact_id": "21_4_6",
+            "fact_content": "Middlebury has at least 17 active grants from NSF totaling over $4.9 million."
+        },
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "Cuts to indirect funding from the NIH proposed to be capped at 15%."
+        },
+        {
+            "fact_id": "5_1_1",
+            "fact_content": "UC Davis researchers submitted $2.75 billion in federal grant proposals in fiscal year 2024."
+        },
+        {
+            "fact_id": "5_2_2",
+            "fact_content": "A $1.3 million project co-authored by Holmes was recommended for funding but stalled due to the funding freeze."
+        },
+        {
+            "fact_id": "5_3_3",
+            "fact_content": "The NIH awards over $48 billion annually for biomedical research."
+        },
+        {
+            "fact_id": "5_3_4",
+            "fact_content": "More than 80% of NIH funding goes to grants at universities and hospitals."
+        },
+        {
+            "fact_id": "5_3_5",
+            "fact_content": "Harvard received nearly $488 million in NIH funding in FY 2024."
+        },
+        {
+            "fact_id": "5_4_6",
+            "fact_content": "Holmes' $1.3M physics education research project was recommended for funding."
+        },
+        {
+            "fact_id": "5_4_7",
+            "fact_content": "The project was designed to reach 45,000 STEM students annually."
+        },
+        {
+            "fact_id": "12_0_0",
+            "fact_content": "Universities increased their own research and development spending from 10% in 1970 to 25% in 2023."
+        },
+        {
+            "fact_id": "12_0_1",
+            "fact_content": "Federal support for academic research declined from 71% to 55% from 1970 to 2023."
+        },
+        {
+            "fact_id": "12_0_2",
+            "fact_content": "Support from industry, charities, and other sources made up about 15% of contributions to research funding at colleges and universities in 2023."
+        },
+        {
+            "fact_id": "12_1_3",
+            "fact_content": "Yale\u2019s Graduate School of Arts and Sciences is investing $4 million to support graduate students who have lost training and research grants."
+        },
+        {
+            "fact_id": "12_1_4",
+            "fact_content": "Johns Hopkins University is tapping earnings from its $13.2 billion endowment."
+        },
+        {
+            "fact_id": "12_1_5",
+            "fact_content": "Johns Hopkins University gives researchers $100,000 each for delayed grants."
+        },
+        {
+            "fact_id": "12_1_6",
+            "fact_content": "Johns Hopkins University gives researchers $150,000 for terminated grants during a 12-month period."
+        },
+        {
+            "fact_id": "12_1_7",
+            "fact_content": "Northwestern University is offering faculty up to $50,000 to maintain projects for up to one year."
+        },
+        {
+            "fact_id": "12_2_8",
+            "fact_content": "6.8% of research expenditures in the United States came from industry in 2023."
+        },
+        {
+            "fact_id": "12_3_9",
+            "fact_content": "University of Arizona has allocated $1 million in bridge funding."
+        },
+        {
+            "fact_id": "18_0_0",
+            "fact_content": "For most schools, around 10% to 13% of their revenue came from federal contracts or research funding."
+        },
+        {
+            "fact_id": "18_0_1",
+            "fact_content": "For some prestigious research universities, federal money represented up to half of their revenue."
+        },
+        {
+            "fact_id": "18_1_2",
+            "fact_content": "Johns Hopkins University received $4 billion in federal funds."
+        },
+        {
+            "fact_id": "18_1_3",
+            "fact_content": "Federal funds accounted for close to 40% of Johns Hopkins University's revenue."
+        },
+        {
+            "fact_id": "18_2_4",
+            "fact_content": "Nearly 100 colleges took in over $33 billion in federal revenue in the 2022-2023 academic year."
+        },
+        {
+            "fact_id": "18_3_5",
+            "fact_content": "Columbia got close to a fifth of its revenue from federal sources in the 2022-2023 academic year."
+        },
+        {
+            "fact_id": "18_3_6",
+            "fact_content": "Columbia received around $1.2 billion from federal sources in the 2022-2023 academic year."
+        },
+        {
+            "fact_id": "18_3_7",
+            "fact_content": "Columbia received $166 million for global AIDS programs."
+        },
+        {
+            "fact_id": "18_3_8",
+            "fact_content": "Columbia received $99 million to study aging."
+        },
+        {
+            "fact_id": "18_3_9",
+            "fact_content": "Columbia received $28 million for cancer biology."
+        },
+        {
+            "fact_id": "18_3_10",
+            "fact_content": "Columbia received $24 million for drug abuse and addiction research."
+        },
+        {
+            "fact_id": "16_0_0",
+            "fact_content": "The government froze about $790 million in funding for Northwestern University."
+        },
+        {
+            "fact_id": "16_0_1",
+            "fact_content": "The federal government chopped off $175 million from the University of Pennsylvania's research budget."
+        },
+        {
+            "fact_id": "16_1_2",
+            "fact_content": "The White House canceled $400 million worth of funding for Columbia University."
+        },
+        {
+            "fact_id": "16_2_3",
+            "fact_content": "NIH slashed nearly 800 projects."
+        },
+        {
+            "fact_id": "16_2_4",
+            "fact_content": "NIH has a yearly budget of $47 billion."
+        },
+        {
+            "fact_id": "16_2_5",
+            "fact_content": "NIH accounts for more than 60,000 grants."
+        },
+        {
+            "fact_id": "16_3_6",
+            "fact_content": "20,000 health workers were slimmed down by the Trump administration."
+        },
+        {
+            "fact_id": "16_3_7",
+            "fact_content": "Around 2,400 staff members were let go from the FDA."
+        },
+        {
+            "fact_id": "16_3_8",
+            "fact_content": "2,400 staff members were let go from the CDC."
+        },
+        {
+            "fact_id": "16_3_9",
+            "fact_content": "1,200 staff members were let go from the NIH."
+        },
+        {
+            "fact_id": "16_4_10",
+            "fact_content": "Harvard University was hit with a $2.2 billion research funding freeze."
+        },
+        {
+            "fact_id": "16_4_11",
+            "fact_content": "Sarah Fortune was involved in a $60 million research project."
+        },
+        {
+            "fact_id": "16_5_12",
+            "fact_content": "Average indirect cost rate was nearly 30% since 2009."
+        },
+        {
+            "fact_id": "16_5_13",
+            "fact_content": "Some universities benefitted from a 60% indirect cost payment."
+        },
+        {
+            "fact_id": "16_6_14",
+            "fact_content": "NIH cap on indirect costs at 15% of a grant\u2019s value."
+        },
+        {
+            "fact_id": "13_0_0",
+            "fact_content": "The NSF budget would be cut by 57%."
+        },
+        {
+            "fact_id": "13_0_1",
+            "fact_content": "The NIH budget would be cut by 40%."
+        },
+        {
+            "fact_id": "13_0_2",
+            "fact_content": "The CDC budget would be cut by 53%."
+        },
+        {
+            "fact_id": "13_0_3",
+            "fact_content": "NASA\u2019s science budget would be cut by 47%."
+        },
+        {
+            "fact_id": "13_0_4",
+            "fact_content": "The National Oceanic and Atmospheric Administration budget would be reduced by 30%."
+        },
+        {
+            "fact_id": "13_0_5",
+            "fact_content": "$0 funding for climate research in the proposed 2026 budget."
+        },
+        {
+            "fact_id": "13_1_6",
+            "fact_content": "The National Institutes of Health (NIH) has nearly $40 billion in annual grant funding."
+        },
+        {
+            "fact_id": "13_1_7",
+            "fact_content": "The National Science Foundation (NSF) has a nearly $10 billion budget."
+        },
+        {
+            "fact_id": "13_1_8",
+            "fact_content": "The NIH has terminated or delayed over 2,000 grant awards."
+        },
+        {
+            "fact_id": "13_2_9",
+            "fact_content": "The NIH has cancelled well over $3 billion in grants."
+        },
+        {
+            "fact_id": "13_2_10",
+            "fact_content": "The NSF has cancelled over $1 billion in grants."
+        },
+        {
+            "fact_id": "13_2_11",
+            "fact_content": "The NSF has eliminated over 100 climate-related projects."
+        },
+        {
+            "fact_id": "13_3_12",
+            "fact_content": "The cuts would lead to about $16 billion in economic loss annually."
+        },
+        {
+            "fact_id": "13_3_13",
+            "fact_content": "The cuts would lead to around 68,000 lost jobs annually."
+        },
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "17 colleges and universities received at least 20% of their funding from the federal government."
+        },
+        {
+            "fact_id": "15_0_1",
+            "fact_content": "47 colleges and universities received between 10% and 20% of their funding from the federal government."
+        },
+        {
+            "fact_id": "15_0_2",
+            "fact_content": "11 institutions received less than 5% of their total revenue from federal sources in 2022\u201323."
+        },
+        {
+            "fact_id": "15_1_3",
+            "fact_content": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323."
+        },
+        {
+            "fact_id": "15_1_4",
+            "fact_content": "42% of Johns Hopkins' total revenue in 2022\u201323 came from federal sources."
+        },
+        {
+            "fact_id": "15_1_5",
+            "fact_content": "MIT received 48% of its funding from the federal government in 2022\u201323."
+        },
+        {
+            "fact_id": "15_1_6",
+            "fact_content": "MIT received a total of $1.7 billion from the federal government in 2022\u201323."
+        },
+        {
+            "fact_id": "15_2_7",
+            "fact_content": "MIT and Johns Hopkins University receive more than 40% of their total revenue from federal funding."
+        },
+        {
+            "fact_id": "15_2_8",
+            "fact_content": "26 colleges under investigation receive less than 10% of their revenue from federal sources."
+        },
+        {
+            "fact_id": "15_3_9",
+            "fact_content": "UAB, University of Michigan\u2013Ann Arbor, University of Hawaii at Manoa, and Montana State University received more than 25% of their funding from the federal government in 2022\u201323."
+        },
+        {
+            "fact_id": "15_3_10",
+            "fact_content": "UAB received more than $400 million in funding from NIH in 2022."
+        },
+        {
+            "fact_id": "15_3_11",
+            "fact_content": "The University of Michigan received $1.2 billion in federal funding in 2022\u201323."
+        },
+        {
+            "fact_id": "15_3_12",
+            "fact_content": "The University of California, San Diego, received $1.1 billion in federal funding in 2022\u201323."
+        },
+        {
+            "fact_id": "15_3_13",
+            "fact_content": "The University of North Carolina at Chapel Hill received $950 million in federal funding in 2022\u201323."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Roughly $60 billion flowed from the federal government to universities in fiscal year 2023.",
+            "vis_data": [
+                {
+                    "label": "Federal Funding to Universities",
+                    "value": "60",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "17_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cancellation of roughly $1 billion in federal contracts for education research.",
+            "vis_data": [
+                {
+                    "label": "Cancelled Federal Contracts",
+                    "value": "1000000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "2_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "$980 million slashed from the Federal Work-Study program.",
+            "vis_data": [
+                {
+                    "label": "Federal Work-Study Cut",
+                    "value": "980",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "9_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "NIH capping indirect costs for researchers at 15%.",
+            "vis_data": [
+                {
+                    "label": "Indirect Cost Cap",
+                    "value": "15",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Federal agencies cancelled more than $17.5 million in funding.",
+            "vis_data": [
+                {
+                    "label": "Cancelled Funding",
+                    "value": "18",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "22_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "5,396 research institutions in Massachusetts are estimated to lose funding.",
+            "vis_data": [
+                {
+                    "label": "Research Institutions",
+                    "value": "5396",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "19_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "$535 million in funding is estimated to be lost by research institutions in Massachusetts.",
+            "vis_data": [
+                {
+                    "label": "Funding Loss",
+                    "value": "535",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "19_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The University of Massachusetts Amherst received $38 million in funding in 2024.",
+            "vis_data": [
+                {
+                    "label": "Funding Received 2024",
+                    "value": "38",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "19_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The University of Massachusetts Amherst faces an estimated loss of $6 million.",
+            "vis_data": [
+                {
+                    "label": "Estimated Funding Loss",
+                    "value": "6",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "19_1_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Over 70% of the University's federal research funding is from NIH grants.",
+            "vis_data": [
+                {
+                    "label": "NIH Grant Funding",
+                    "value": "70",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The total losses from NIH increase by roughly $3.5 million a week.",
+            "vis_data": [
+                {
+                    "label": "Weekly NIH Losses",
+                    "value": "3.5",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "8_0_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "A 25 percent reduction in public research and development spending would shrink the U.S. GDP by 3.8 percent.",
+            "vis_data": [
+                {
+                    "label": "GDP Decline (25% R&D cut)",
+                    "value": "3.8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "14_0_0"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "A 50 percent cut would result in GDP declines of 7.5 percent.",
+            "vis_data": [
+                {
+                    "label": "GDP Decline (50% R&D cut)",
+                    "value": "7.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "14_0_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "A 75 percent cut would result in GDP declines of 11.3 percent.",
+            "vis_data": [
+                {
+                    "label": "GDP Decline (75% R&D cut)",
+                    "value": "11.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "14_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The department granted $260 million in fiscal 2024 through its research arm.",
+            "vis_data": [
+                {
+                    "label": "Grant Amount",
+                    "value": "260",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "1_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The Trump administration canceled $900 million in IES contracts.",
+            "vis_data": [
+                {
+                    "label": "Canceled Contracts",
+                    "value": "900",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "1_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The department has shed around 2,000 staffers.",
+            "vis_data": [
+                {
+                    "label": "Staffers Shed",
+                    "value": "~2000",
+                    "unit": "staffers"
+                }
+            ],
+            "fact_id": "1_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Over $6 million in scientific research funding at Middlebury is threatened.",
+            "vis_data": [
+                {
+                    "label": "Threatened Research Funding",
+                    "value": "over 6000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "21_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Vermont has 128 NIH-funded projects totaling $84,668,147.",
+            "vis_data": [
+                {
+                    "label": "NIH Projects Total Funding",
+                    "value": "84668147",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Number of NIH Projects",
+                    "value": "128",
+                    "unit": ""
+                }
+            ],
+            "fact_id": "21_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The college lost a $530,000 Inclusive Excellence Grant from HHMI.",
+            "vis_data": [
+                {
+                    "label": "Lost HHMI Grant",
+                    "value": "530000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "21_2_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The $530,000 grant was part of a $60 million initiative.",
+            "vis_data": [
+                {
+                    "label": "Total Initiative Funding",
+                    "value": "60000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "21_2_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Funding was cut off to over 100 colleges and universities.",
+            "vis_data": [
+                {
+                    "label": "Affected Institutions",
+                    "value": "100",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "21_2_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The college has three ongoing grants from NIH totaling $1,133,900.",
+            "vis_data": [
+                {
+                    "label": "NIH Grants Total",
+                    "value": "1133900",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "21_3_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Middlebury has at least 17 active grants from NSF totaling over $4.9 million.",
+            "vis_data": [
+                {
+                    "label": "NSF Grants Total",
+                    "value": "4900000",
+                    "unit": "USD"
+                },
+                {
+                    "label": "Number of NSF Grants",
+                    "value": "17",
+                    "unit": ""
+                }
+            ],
+            "fact_id": "21_4_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Cuts to indirect funding from the NIH proposed to be capped at 15%.",
+            "vis_data": [
+                {
+                    "label": "NIH Funding Cap",
+                    "value": "15",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "UC Davis researchers submitted $2.75 billion in federal grant proposals in fiscal year 2024.",
+            "vis_data": [
+                {
+                    "label": "UC Davis Grant Proposals",
+                    "value": "2750000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "5_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "A $1.3 million project co-authored by Holmes was recommended for funding but stalled due to the funding freeze.",
+            "vis_data": [
+                {
+                    "label": "Holmes' Project Funding",
+                    "value": "1300000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "5_2_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The NIH awards over $48 billion annually for biomedical research.",
+            "vis_data": [
+                {
+                    "label": "NIH Annual Funding",
+                    "value": "48000000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "5_3_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "More than 80% of NIH funding goes to grants at universities and hospitals.",
+            "vis_data": [
+                {
+                    "label": "NIH Funding to Universities",
+                    "value": "80",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_3_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Harvard received nearly $488 million in NIH funding in FY 2024.",
+            "vis_data": [
+                {
+                    "label": "Harvard NIH Funding",
+                    "value": "487999999",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "5_3_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Holmes' $1.3M physics education research project was recommended for funding.",
+            "vis_data": [
+                {
+                    "label": "Holmes' Project Funding",
+                    "value": "1300000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "5_4_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The project was designed to reach 45,000 STEM students annually.",
+            "vis_data": [
+                {
+                    "label": "STEM Students Reached",
+                    "value": "45000",
+                    "unit": "students"
+                }
+            ],
+            "fact_id": "5_4_7"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Universities increased their own research and development spending from 10% in 1970 to 25% in 2023.",
+            "vis_data": [
+                {
+                    "label": "University R&D Spending 1970",
+                    "value": "10",
+                    "unit": "%"
+                },
+                {
+                    "label": "University R&D Spending 2023",
+                    "value": "25",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "12_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Federal support for academic research declined from 71% to 55% from 1970 to 2023.",
+            "vis_data": [
+                {
+                    "label": "Federal Support 1970",
+                    "value": "71",
+                    "unit": "%"
+                },
+                {
+                    "label": "Federal Support 2023",
+                    "value": "55",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "12_0_1"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Support from industry, charities, and other sources made up about 15% of contributions to research funding at colleges and universities in 2023.",
+            "vis_data": [
+                {
+                    "label": "Industry & Charities Support 2023",
+                    "value": "15",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "12_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Yale\u2019s Graduate School of Arts and Sciences is investing $4 million to support graduate students who have lost training and research grants.",
+            "vis_data": [
+                {
+                    "label": "Yale Graduate Support",
+                    "value": "4000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "12_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Johns Hopkins University is tapping earnings from its $13.2 billion endowment.",
+            "vis_data": [
+                {
+                    "label": "Johns Hopkins Endowment",
+                    "value": "13200000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "12_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Johns Hopkins University gives researchers $100,000 each for delayed grants.",
+            "vis_data": [
+                {
+                    "label": "Johns Hopkins Delayed Grant",
+                    "value": "100000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "12_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Johns Hopkins University gives researchers $150,000 for terminated grants during a 12-month period.",
+            "vis_data": [
+                {
+                    "label": "Johns Hopkins Terminated Grant",
+                    "value": "150000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "12_1_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Northwestern University is offering faculty up to $50,000 to maintain projects for up to one year.",
+            "vis_data": [
+                {
+                    "label": "Northwestern Project Maintenance",
+                    "value": "50000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "12_1_7"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "6.8% of research expenditures in the United States came from industry in 2023.",
+            "vis_data": [
+                {
+                    "label": "Industry Research Expenditure 2023",
+                    "value": "6.8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "12_2_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "University of Arizona has allocated $1 million in bridge funding.",
+            "vis_data": [
+                {
+                    "label": "Arizona Bridge Funding",
+                    "value": "1000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "12_3_9"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "For most schools, around 10% to 13% of their revenue came from federal contracts or research funding.",
+            "vis_data": [
+                {
+                    "label": "Revenue from Federal Contracts",
+                    "value": "10",
+                    "unit": "%"
+                },
+                {
+                    "label": "Revenue from Federal Contracts",
+                    "value": "13",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "18_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "For some prestigious research universities, federal money represented up to half of their revenue.",
+            "vis_data": [
+                {
+                    "label": "Revenue from Federal Money",
+                    "value": "50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "18_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Johns Hopkins University received $4 billion in federal funds.",
+            "vis_data": [
+                {
+                    "label": "Federal Funds for Johns Hopkins",
+                    "value": "4",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "18_1_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Federal funds accounted for close to 40% of Johns Hopkins University's revenue.",
+            "vis_data": [
+                {
+                    "label": "Johns Hopkins Revenue from Federal Funds",
+                    "value": "40",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "18_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Nearly 100 colleges took in over $33 billion in federal revenue in the 2022-2023 academic year.",
+            "vis_data": [
+                {
+                    "label": "Federal Revenue for Colleges",
+                    "value": "over 33",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "18_2_4"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Columbia got close to a fifth of its revenue from federal sources in the 2022-2023 academic year.",
+            "vis_data": [
+                {
+                    "label": "Columbia Revenue from Federal Sources",
+                    "value": "20",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "18_3_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Columbia received around $1.2 billion from federal sources in the 2022-2023 academic year.",
+            "vis_data": [
+                {
+                    "label": "Federal Funds for Columbia",
+                    "value": "1.2",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "18_3_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Columbia received $166 million for global AIDS programs.",
+            "vis_data": [
+                {
+                    "label": "Funds for Global AIDS Programs",
+                    "value": "166",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "18_3_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Columbia received $99 million to study aging.",
+            "vis_data": [
+                {
+                    "label": "Funds for Aging Study",
+                    "value": "99",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "18_3_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Columbia received $28 million for cancer biology.",
+            "vis_data": [
+                {
+                    "label": "Funds for Cancer Biology",
+                    "value": "28",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "18_3_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Columbia received $24 million for drug abuse and addiction research.",
+            "vis_data": [
+                {
+                    "label": "Funds for Drug Abuse Research",
+                    "value": "24",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "18_3_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The government froze about $790 million in funding for Northwestern University.",
+            "vis_data": [
+                {
+                    "label": "Northwestern Funding Frozen",
+                    "value": "790",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "16_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The federal government chopped off $175 million from the University of Pennsylvania's research budget.",
+            "vis_data": [
+                {
+                    "label": "Pennsylvania Funding Cut",
+                    "value": "175",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "16_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The White House canceled $400 million worth of funding for Columbia University.",
+            "vis_data": [
+                {
+                    "label": "Columbia Funding Canceled",
+                    "value": "400",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "16_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "NIH slashed nearly 800 projects.",
+            "vis_data": [
+                {
+                    "label": "Projects Slashed",
+                    "value": "800",
+                    "unit": "projects"
+                }
+            ],
+            "fact_id": "16_2_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "NIH has a yearly budget of $47 billion.",
+            "vis_data": [
+                {
+                    "label": "Yearly Budget",
+                    "value": "47",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "16_2_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "NIH accounts for more than 60,000 grants.",
+            "vis_data": [
+                {
+                    "label": "Grants",
+                    "value": "60000+",
+                    "unit": "grants"
+                }
+            ],
+            "fact_id": "16_2_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "20,000 health workers were slimmed down by the Trump administration.",
+            "vis_data": [
+                {
+                    "label": "Health Workers Reduced",
+                    "value": "20000",
+                    "unit": "workers"
+                }
+            ],
+            "fact_id": "16_3_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Around 2,400 staff members were let go from the FDA.",
+            "vis_data": [
+                {
+                    "label": "FDA Staff Let Go",
+                    "value": "2400",
+                    "unit": "staff"
+                }
+            ],
+            "fact_id": "16_3_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "2,400 staff members were let go from the CDC.",
+            "vis_data": [
+                {
+                    "label": "CDC Staff Let Go",
+                    "value": "2400",
+                    "unit": "staff"
+                }
+            ],
+            "fact_id": "16_3_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "1,200 staff members were let go from the NIH.",
+            "vis_data": [
+                {
+                    "label": "NIH Staff Let Go",
+                    "value": "1200",
+                    "unit": "staff"
+                }
+            ],
+            "fact_id": "16_3_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Harvard University was hit with a $2.2 billion research funding freeze.",
+            "vis_data": [
+                {
+                    "label": "Harvard Funding Freeze",
+                    "value": "2.2",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "16_4_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Sarah Fortune was involved in a $60 million research project.",
+            "vis_data": [
+                {
+                    "label": "Fortune's Research Project",
+                    "value": "60",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "16_4_11"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Average indirect cost rate was nearly 30% since 2009.",
+            "vis_data": [
+                {
+                    "label": "Average Indirect Cost Rate",
+                    "value": "30",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_5_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Some universities benefitted from a 60% indirect cost payment.",
+            "vis_data": [
+                {
+                    "label": "Max Indirect Cost Payment",
+                    "value": "60",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_5_13"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "NIH cap on indirect costs at 15% of a grant\u2019s value.",
+            "vis_data": [
+                {
+                    "label": "Indirect Cost Cap",
+                    "value": "15",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_6_14"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The NSF budget would be cut by 57%.",
+            "vis_data": [
+                {
+                    "label": "NSF Budget Cut",
+                    "value": "57",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "13_0_0"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The NIH budget would be cut by 40%.",
+            "vis_data": [
+                {
+                    "label": "NIH Budget Cut",
+                    "value": "40",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "13_0_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The CDC budget would be cut by 53%.",
+            "vis_data": [
+                {
+                    "label": "CDC Budget Cut",
+                    "value": "53",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "13_0_2"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "NASA\u2019s science budget would be cut by 47%.",
+            "vis_data": [
+                {
+                    "label": "NASA Science Budget Cut",
+                    "value": "47",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "13_0_3"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The National Oceanic and Atmospheric Administration budget would be reduced by 30%.",
+            "vis_data": [
+                {
+                    "label": "NOAA Budget Reduction",
+                    "value": "30",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "13_0_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "$0 funding for climate research in the proposed 2026 budget.",
+            "vis_data": [
+                {
+                    "label": "Climate Research Funding",
+                    "value": "0",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "13_0_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The National Institutes of Health (NIH) has nearly $40 billion in annual grant funding.",
+            "vis_data": [
+                {
+                    "label": "NIH Annual Grant Funding",
+                    "value": "40",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "13_1_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The National Science Foundation (NSF) has a nearly $10 billion budget.",
+            "vis_data": [
+                {
+                    "label": "NSF Budget",
+                    "value": "10",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "13_1_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The NIH has terminated or delayed over 2,000 grant awards.",
+            "vis_data": [
+                {
+                    "label": "NIH Terminated/Delayed Grants",
+                    "value": "2000",
+                    "unit": "grants"
+                }
+            ],
+            "fact_id": "13_1_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The NIH has cancelled well over $3 billion in grants.",
+            "vis_data": [
+                {
+                    "label": "NIH Cancelled Grants",
+                    "value": "3.5",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "13_2_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The NSF has cancelled over $1 billion in grants.",
+            "vis_data": [
+                {
+                    "label": "NSF Cancelled Grants",
+                    "value": "1.1",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "13_2_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The NSF has eliminated over 100 climate-related projects.",
+            "vis_data": [
+                {
+                    "label": "NSF Climate Projects Eliminated",
+                    "value": "101",
+                    "unit": "projects"
+                }
+            ],
+            "fact_id": "13_2_11"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The cuts would lead to about $16 billion in economic loss annually.",
+            "vis_data": [
+                {
+                    "label": "Annual Economic Loss",
+                    "value": "16",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "13_3_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The cuts would lead to around 68,000 lost jobs annually.",
+            "vis_data": [
+                {
+                    "label": "Annual Jobs Lost",
+                    "value": "68000",
+                    "unit": "jobs"
+                }
+            ],
+            "fact_id": "13_3_13"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "17 colleges and universities received at least 20% of their funding from the federal government.",
+            "vis_data": [
+                {
+                    "label": "Colleges with \u226520% Federal Revenue",
+                    "value": "17",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "15_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "47 colleges and universities received between 10% and 20% of their funding from the federal government.",
+            "vis_data": [
+                {
+                    "label": "Colleges with 10-20% Federal Revenue",
+                    "value": "47",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "15_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "11 institutions received less than 5% of their total revenue from federal sources in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "Colleges with <5% Federal Revenue",
+                    "value": "11",
+                    "unit": "count"
+                }
+            ],
+            "fact_id": "15_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Johns Hopkins received more than $4 billion from federal sources in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "Johns Hopkins Federal Funding",
+                    "value": "4000",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_1_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "42% of Johns Hopkins' total revenue in 2022\u201323 came from federal sources.",
+            "vis_data": [
+                {
+                    "label": "Johns Hopkins Federal Revenue",
+                    "value": "42",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_1_4"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "MIT received 48% of its funding from the federal government in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "MIT Federal Revenue",
+                    "value": "48",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "MIT received a total of $1.7 billion from the federal government in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "MIT Federal Funding",
+                    "value": "1700",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_1_6"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "MIT and Johns Hopkins University receive more than 40% of their total revenue from federal funding.",
+            "vis_data": [
+                {
+                    "label": "MIT & Johns Hopkins Federal Revenue",
+                    "value": "41",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_2_7"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "26 colleges under investigation receive less than 10% of their revenue from federal sources.",
+            "vis_data": [
+                {
+                    "label": "26 Colleges Federal Revenue",
+                    "value": "9",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_2_8"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "UAB, University of Michigan\u2013Ann Arbor, University of Hawaii at Manoa, and Montana State University received more than 25% of their funding from the federal government in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "Public Institutions Federal Revenue",
+                    "value": "26",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_3_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "UAB received more than $400 million in funding from NIH in 2022.",
+            "vis_data": [
+                {
+                    "label": "UAB NIH Funding",
+                    "value": "401",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_3_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The University of Michigan received $1.2 billion in federal funding in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "University of Michigan Federal Funding",
+                    "value": "1200",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_3_11"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The University of California, San Diego, received $1.1 billion in federal funding in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "UC San Diego Federal Funding",
+                    "value": "1100",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_3_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The University of North Carolina at Chapel Hill received $950 million in federal funding in 2022\u201323.",
+            "vis_data": [
+                {
+                    "label": "UNC Chapel Hill Federal Funding",
+                    "value": "950",
+                    "unit": "million USD"
+                }
+            ],
+            "fact_id": "15_3_13"
+        }
+    ]
+}

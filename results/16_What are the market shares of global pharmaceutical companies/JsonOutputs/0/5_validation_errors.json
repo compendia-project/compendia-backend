@@ -1,0 +1,130 @@
+{
+    "has_error": false,
+    "vis_data_error": [
+        {
+            "paragraph": "Here are the top 10 biggest pharma companies in the world, ranked by pharmaceutical sales revenue from the most recent comparable year (2023): 1. Pfizer - US$58.5bn 2. Johnson & Johnson - US$54.76bn 3. AbbVie - US$54.32bn 4. Merck & Co - US$53.6bn 5. Roche - US$49.9bn 6. Sanofi - US$46.16bn 7. AstraZeneca - US$45.8bn 8. Novartis - US$45.4bn 9. Bristol-Myers Squibb - US$45bn 10. GSK- US$38.4bn",
+            "facts": [
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Pfizer is ranked 1st with US$58.5bn in pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Pfizer",
+                            "value": "58.5",
+                            "unit": "US$bn"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Johnson & Johnson is ranked 2nd with US$54.76bn in pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Johnson & Johnson",
+                            "value": "54.76",
+                            "unit": "US$bn"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "AbbVie is ranked 3rd with US$54.32bn in pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "AbbVie",
+                            "value": "54.32",
+                            "unit": "US$bn"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Merck & Co is ranked 4th with US$53.6bn in pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Merck & Co",
+                            "value": "53.6",
+                            "unit": "US$bn"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Roche is ranked 5th with US$49.9bn in pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Roche",
+                            "value": "49.9",
+                            "unit": "US$bn"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Sanofi is ranked 6th with US$46.16bn in pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Sanofi",
+                            "value": "46.16",
+                            "unit": "US$bn"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "AstraZeneca is ranked 7th with US$45.8bn in pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "AstraZeneca",
+                            "value": "45.8",
+                            "unit": "US$bn"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Novartis is ranked 8th with US$45.4bn in pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Novartis",
+                            "value": "45.4",
+                            "unit": "US$bn"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "Bristol-Myers Squibb is ranked 9th with US$45bn in pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "Bristol-Myers Squibb",
+                            "value": "45",
+                            "unit": "US$bn"
+                        }
+                    ],
+                    "error": []
+                },
+                {
+                    "fact_type": "rank",
+                    "fact_content": "GSK is ranked 10th with US$38.4bn in pharmaceutical sales revenue.",
+                    "vis_data": [
+                        {
+                            "label": "GSK",
+                            "value": "38.4",
+                            "unit": "US$bn"
+                        }
+                    ],
+                    "error": []
+                }
+            ]
+        }
+    ]
+}

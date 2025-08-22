@@ -1,0 +1,309 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "['BYDCo.\u2019s sales last year surpassed the $100 billion mark, leapfrogging Elon Musk\u2019sTeslaInc. on revenue, as the Chinese auto giant wows consumers with a range of electric and hybrid cars packed with high-tech features.', 'Shenzhen-based BYD reported revenue of 777 billion yuan ($107 billion) for the 12 months ended Dec. 31, up 29%, according to a filing late Monday, beating estimates for 766 billion yuan. Tesla\u2019s 2024 revenue was $97.7 billion. The Chinese EV maker\u2019s net income rose 34% year-on-year to 40.3 billion yuan, beating analyst estimates for 39.5 billion yuan.', 'BYD also sells about the same number of EVs as Tesla \u2014 1.76 million in 2024 versus 1.79 million \u2014 but, when all of its other passenger hybrid car sales are included, it\u2019s much larger. BYD\u2019s total deliveries last year climbed to 4.27 million, almost as much asFord MotorCo.', 'BYD has forecast it can sell between 5 million to 6 million vehicles this year. It\u2019s already off to a strong start, with sales in the first two months of 2025 up 93% year-on-year to 623,300 units.', 'But whereas Tesla is losing in China \u2014 shipments have been backsliding there for the past five consecutive months on a year-on-year basis \u2014 BYD is winning. China is still far and away BYD\u2019s biggest market, where it commands a share ofalmost 15%, not just for new-energy vehicles but any sort of passenger car.']",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD reported revenue of 777 billion yuan ($107 billion) for the 12 months ended Dec. 31.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Revenue",
+                            "value": "107",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "17_0_0"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "BYD's revenue was $107 billion, surpassing Tesla's 2024 revenue of $97.7 billion.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Revenue",
+                            "value": "107",
+                            "unit": "billion USD"
+                        },
+                        {
+                            "label": "Tesla Revenue",
+                            "value": "97.7",
+                            "unit": "billion USD"
+                        }
+                    ],
+                    "fact_id": "17_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD's net income rose to 40.3 billion yuan.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Net Income",
+                            "value": "40.3",
+                            "unit": "billion yuan"
+                        }
+                    ],
+                    "fact_id": "17_0_2"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "BYD's net income of 40.3 billion yuan beat analyst estimates for 39.5 billion yuan.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Net Income",
+                            "value": "40.3",
+                            "unit": "billion yuan"
+                        },
+                        {
+                            "label": "Analyst Estimate",
+                            "value": "39.5",
+                            "unit": "billion yuan"
+                        }
+                    ],
+                    "fact_id": "17_0_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 1.76 million EVs in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "BYD EV Sales",
+                            "value": "1.76",
+                            "unit": "million units"
+                        }
+                    ],
+                    "fact_id": "17_0_4"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "BYD sold 1.76 million EVs in 2024 versus Tesla's 1.79 million.",
+                    "vis_data": [
+                        {
+                            "label": "BYD EV Sales",
+                            "value": "1.76",
+                            "unit": "million units"
+                        },
+                        {
+                            "label": "Tesla EV Sales",
+                            "value": "1.79",
+                            "unit": "million units"
+                        }
+                    ],
+                    "fact_id": "17_0_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD's total deliveries last year climbed to 4.27 million.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Total Deliveries",
+                            "value": "4.27",
+                            "unit": "million units"
+                        }
+                    ],
+                    "fact_id": "17_0_6"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD's sales in the first two months of 2025 were up 93% year-on-year to 623,300 units.",
+                    "vis_data": [
+                        {
+                            "label": "2025 Sales Increase",
+                            "value": "93",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "17_0_7"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "BYD commands a share of almost 15% in China for passenger cars.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Market Share in China",
+                            "value": "15",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "17_0_8"
+                }
+            ],
+            "relatedness_score": 0.7087431204644217,
+            "article_meta_data": {
+                "title": "BYD sales top Tesla as tech focus wins over Chinese drivers",
+                "date": "2025-03-24",
+                "url": "https://fortune.com/2025/03/24/byd-tesla-sales-china-car-market/",
+                "id": 17
+            },
+            "para_id": "17_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "17_0",
+            "paragraph": "['BYDCo.\u2019s sales last year surpassed the $100 billion mark, leapfrogging Elon Musk\u2019sTeslaInc. on revenue, as the Chinese auto giant wows consumers with a range of electric and hybrid cars packed with high-tech features.', 'Shenzhen-based BYD reported revenue of 777 billion yuan ($107 billion) for the 12 months ended Dec. 31, up 29%, according to a filing late Monday, beating estimates for 766 billion yuan. Tesla\u2019s 2024 revenue was $97.7 billion. The Chinese EV maker\u2019s net income rose 34% year-on-year to 40.3 billion yuan, beating analyst estimates for 39.5 billion yuan.', 'BYD also sells about the same number of EVs as Tesla \u2014 1.76 million in 2024 versus 1.79 million \u2014 but, when all of its other passenger hybrid car sales are included, it\u2019s much larger. BYD\u2019s total deliveries last year climbed to 4.27 million, almost as much asFord MotorCo.', 'BYD has forecast it can sell between 5 million to 6 million vehicles this year. It\u2019s already off to a strong start, with sales in the first two months of 2025 up 93% year-on-year to 623,300 units.', 'But whereas Tesla is losing in China \u2014 shipments have been backsliding there for the past five consecutive months on a year-on-year basis \u2014 BYD is winning. China is still far and away BYD\u2019s biggest market, where it commands a share ofalmost 15%, not just for new-energy vehicles but any sort of passenger car.']"
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "17_0_0",
+            "fact_content": "BYD reported revenue of 777 billion yuan ($107 billion) for the 12 months ended Dec. 31."
+        },
+        {
+            "fact_id": "17_0_1",
+            "fact_content": "BYD's revenue was $107 billion, surpassing Tesla's 2024 revenue of $97.7 billion."
+        },
+        {
+            "fact_id": "17_0_2",
+            "fact_content": "BYD's net income rose to 40.3 billion yuan."
+        },
+        {
+            "fact_id": "17_0_3",
+            "fact_content": "BYD's net income of 40.3 billion yuan beat analyst estimates for 39.5 billion yuan."
+        },
+        {
+            "fact_id": "17_0_4",
+            "fact_content": "BYD sold 1.76 million EVs in 2024."
+        },
+        {
+            "fact_id": "17_0_5",
+            "fact_content": "BYD sold 1.76 million EVs in 2024 versus Tesla's 1.79 million."
+        },
+        {
+            "fact_id": "17_0_6",
+            "fact_content": "BYD's total deliveries last year climbed to 4.27 million."
+        },
+        {
+            "fact_id": "17_0_7",
+            "fact_content": "BYD's sales in the first two months of 2025 were up 93% year-on-year to 623,300 units."
+        },
+        {
+            "fact_id": "17_0_8",
+            "fact_content": "BYD commands a share of almost 15% in China for passenger cars."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "BYD reported revenue of 777 billion yuan ($107 billion) for the 12 months ended Dec. 31.",
+            "vis_data": [
+                {
+                    "label": "BYD Revenue",
+                    "value": "107",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "17_0_0"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "BYD's revenue was $107 billion, surpassing Tesla's 2024 revenue of $97.7 billion.",
+            "vis_data": [
+                {
+                    "label": "BYD Revenue",
+                    "value": "107",
+                    "unit": "billion USD"
+                },
+                {
+                    "label": "Tesla Revenue",
+                    "value": "97.7",
+                    "unit": "billion USD"
+                }
+            ],
+            "fact_id": "17_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "BYD's net income rose to 40.3 billion yuan.",
+            "vis_data": [
+                {
+                    "label": "BYD Net Income",
+                    "value": "40.3",
+                    "unit": "billion yuan"
+                }
+            ],
+            "fact_id": "17_0_2"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "BYD's net income of 40.3 billion yuan beat analyst estimates for 39.5 billion yuan.",
+            "vis_data": [
+                {
+                    "label": "BYD Net Income",
+                    "value": "40.3",
+                    "unit": "billion yuan"
+                },
+                {
+                    "label": "Analyst Estimate",
+                    "value": "39.5",
+                    "unit": "billion yuan"
+                }
+            ],
+            "fact_id": "17_0_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "BYD sold 1.76 million EVs in 2024.",
+            "vis_data": [
+                {
+                    "label": "BYD EV Sales",
+                    "value": "1.76",
+                    "unit": "million units"
+                }
+            ],
+            "fact_id": "17_0_4"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "BYD sold 1.76 million EVs in 2024 versus Tesla's 1.79 million.",
+            "vis_data": [
+                {
+                    "label": "BYD EV Sales",
+                    "value": "1.76",
+                    "unit": "million units"
+                },
+                {
+                    "label": "Tesla EV Sales",
+                    "value": "1.79",
+                    "unit": "million units"
+                }
+            ],
+            "fact_id": "17_0_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "BYD's total deliveries last year climbed to 4.27 million.",
+            "vis_data": [
+                {
+                    "label": "BYD Total Deliveries",
+                    "value": "4.27",
+                    "unit": "million units"
+                }
+            ],
+            "fact_id": "17_0_6"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "BYD's sales in the first two months of 2025 were up 93% year-on-year to 623,300 units.",
+            "vis_data": [
+                {
+                    "label": "2025 Sales Increase",
+                    "value": "93",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "17_0_7"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "BYD commands a share of almost 15% in China for passenger cars.",
+            "vis_data": [
+                {
+                    "label": "BYD Market Share in China",
+                    "value": "15",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "17_0_8"
+        }
+    ]
+}

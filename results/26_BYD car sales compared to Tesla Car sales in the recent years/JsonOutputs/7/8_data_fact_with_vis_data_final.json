@@ -1,0 +1,177 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "In 2023, Tesla sold around 230,000 more cars than BYD. But the gap has been narrowing from 400,000 in 2022 and 600,000 in 2021.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Tesla sold around 230,000 more cars than BYD in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla vs BYD 2023",
+                            "value": "230000",
+                            "unit": "cars"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The gap between Tesla and BYD sales was 400,000 in 2022.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla vs BYD 2022",
+                            "value": "400000",
+                            "unit": "cars"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The gap between Tesla and BYD sales was 600,000 in 2021.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla vs BYD 2021",
+                            "value": "600000",
+                            "unit": "cars"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "However, the Chinese company stumbled in early 2024. It sold only 300,114 BEVs in the first quarter, down from the 525,409 it sold in the final three months of last year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 300,114 BEVs in the first quarter of 2024.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Q1 2024",
+                            "value": "300114",
+                            "unit": "BEVs"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 525,409 BEVs in the last quarter of 2023.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Q4 2023",
+                            "value": "525409",
+                            "unit": "BEVs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "That drop was big enough for Tesla, which sold 386,810 BEVs in the same period, to retake its former position despite posting plunging sales.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla sold 386,810 BEVs.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla",
+                            "value": "386810",
+                            "unit": "BEVs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "In 2023, a total of13.6 million EVs (including BEVs and hybrids) weresold worldwide, an increase of more than 30% over the previous year.\u0000The Chinese market grew by around 30%lastyear with 7.9 million units sold. Similar growth is anticipated in2024, with sales expected to reach 10 million in China alone, says Rho Motion.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "13.6 million EVs were sold worldwide in 2023.",
+                    "vis_data": [
+                        {
+                            "label": "Global EV Sales 2023",
+                            "value": "13600000",
+                            "unit": "EVs"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "The Chinese market grew by around 30% in 2023 with 7.9 million units sold.",
+                    "vis_data": [
+                        {
+                            "label": "China EV Sales 2023",
+                            "value": "7900000",
+                            "unit": "EVs"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sales in China are expected to reach 10 million in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "China EV Sales 2024",
+                            "value": "10000000",
+                            "unit": "EVs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "BYD sold about 3 million electric cars, including hybrids, in 2023 globally. Of that number, 1.6 million were BEVs.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold about 3 million electric cars, including hybrids, in 2023 globally.",
+                    "vis_data": [
+                        {
+                            "label": "BYD Global Sales 2023",
+                            "value": "3000000",
+                            "unit": "cars"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "1.6 million of BYD's sales in 2023 were BEVs.",
+                    "vis_data": [
+                        {
+                            "label": "BYD BEV Sales 2023",
+                            "value": "1600000",
+                            "unit": "BEVs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "By comparison, Tesla, which does not sell hybrids, delivered a total of 1.8 million vehicles worldwide last year, which was about 19% of the global market for BEVs.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tesla delivered a total of 1.8 million vehicles worldwide last year.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla Global Sales",
+                            "value": "1800000",
+                            "unit": "vehicles"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Tesla's sales accounted for about 19% of the global market for BEVs last year.",
+                    "vis_data": [
+                        {
+                            "label": "Tesla BEV Market Share",
+                            "value": "19",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

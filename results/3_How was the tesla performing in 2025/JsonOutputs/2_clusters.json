@@ -1,0 +1,2037 @@
+{
+    "cluster_wise_facts": [
+        {
+            "cluster_id": 3,
+            "cluster_size": 18,
+            "facts": [
+                {
+                    "fact_id": "5_0_0",
+                    "fact_content": "The BMW iX scored 790 out of 1,000."
+                },
+                {
+                    "fact_id": "7_0_1",
+                    "fact_content": "110 new models entered the market since 2020."
+                },
+                {
+                    "fact_id": "4_3_4",
+                    "fact_content": "Boot capacity is 854L."
+                },
+                {
+                    "fact_id": "4_5_10",
+                    "fact_content": "Battery capacity is around 60kWh."
+                },
+                {
+                    "fact_id": "9_1_7",
+                    "fact_content": "The Long Range AWD model is rated by the EPA at 346 miles of range."
+                },
+                {
+                    "fact_id": "14_4_9",
+                    "fact_content": "Tesla\u2019s quickest version provides 275 kilometres after 15 minutes."
+                },
+                {
+                    "fact_id": "10_1_3",
+                    "fact_content": "Wind noise is reduced by 30% according to Tesla."
+                },
+                {
+                    "fact_id": "10_2_5",
+                    "fact_content": "The entry-level model has a 125mph top speed."
+                },
+                {
+                    "fact_id": "10_2_6",
+                    "fact_content": "The entry-level model has a 5.8 second 0-60mph sprint time."
+                },
+                {
+                    "fact_id": "10_3_12",
+                    "fact_content": "The rest of the range uses a 79kWh battery."
+                },
+                {
+                    "fact_id": "1_1_1",
+                    "fact_content": "Tesla produced 362,615 vehicles in the first quarter of 2025."
+                },
+                {
+                    "fact_id": "1_6_16",
+                    "fact_content": "Tesla's EPS was $0.45 in last year\u2019s first quarter."
+                },
+                {
+                    "fact_id": "0_1_1",
+                    "fact_content": "Tesla's total salary expenses are expected to rise by approximately 22% to 25% over the next five years."
+                },
+                {
+                    "fact_id": "3_0_0",
+                    "fact_content": "The Model Y is 4.79-metres long."
+                },
+                {
+                    "fact_id": "3_2_3",
+                    "fact_content": "The Model Y Rear-Wheel Drive has a 0-60mph time of 5.6 seconds."
+                },
+                {
+                    "fact_id": "3_2_7",
+                    "fact_content": "The Long Range All-Wheel Drive has a 0-60mph time of 4.6 seconds."
+                },
+                {
+                    "fact_id": "3_3_9",
+                    "fact_content": "The Model Y will manage a 10-80% top-up in well under 30 minutes."
+                },
+                {
+                    "fact_id": "3_6_16",
+                    "fact_content": "The entry-level Model Y Rear-Wheel Drive starts at \u00a344,990."
+                }
+            ]
+        },
+        {
+            "cluster_id": 9,
+            "cluster_size": 14,
+            "facts": [
+                {
+                    "fact_id": "5_0_0",
+                    "fact_content": "The BMW iX scored 790 out of 1,000."
+                },
+                {
+                    "fact_id": "7_0_2",
+                    "fact_content": "Other OEMs saw sales increase by 20% on aggregate in 2024."
+                },
+                {
+                    "fact_id": "4_3_5",
+                    "fact_content": "Boot capacity increases to 2,138L with rear seats down."
+                },
+                {
+                    "fact_id": "4_4_8",
+                    "fact_content": "0 to 100km/h in 9.6 seconds."
+                },
+                {
+                    "fact_id": "4_5_9",
+                    "fact_content": "Power consumption was 14.6kW/100km."
+                },
+                {
+                    "fact_id": "4_5_10",
+                    "fact_content": "Battery capacity is around 60kWh."
+                },
+                {
+                    "fact_id": "4_5_12",
+                    "fact_content": "Range is around 400km with full charge."
+                },
+                {
+                    "fact_id": "14_2_4",
+                    "fact_content": "Tesla's profit margin, excluding regulatory credits, has contracted to 13.6%."
+                },
+                {
+                    "fact_id": "8_4_9",
+                    "fact_content": "Tesla quotes 16.7kWh/100km for the Performance model."
+                },
+                {
+                    "fact_id": "8_5_10",
+                    "fact_content": "An average of around 21kWh/100km was achieved in a cold week with the Tesla Model 3 Performance."
+                },
+                {
+                    "fact_id": "10_2_6",
+                    "fact_content": "The entry-level model has a 5.8 second 0-60mph sprint time."
+                },
+                {
+                    "fact_id": "10_3_11",
+                    "fact_content": "The rear-wheel drive model uses a 57.5kWh battery."
+                },
+                {
+                    "fact_id": "1_1_1",
+                    "fact_content": "Tesla produced 362,615 vehicles in the first quarter of 2025."
+                },
+                {
+                    "fact_id": "1_6_15",
+                    "fact_content": "Tesla's revenue was $21.3 billion in last year\u2019s first quarter."
+                }
+            ]
+        },
+        {
+            "cluster_id": 8,
+            "cluster_size": 12,
+            "facts": [
+                {
+                    "fact_id": "5_0_1",
+                    "fact_content": "The BMW i4 hatchback scored 783."
+                },
+                {
+                    "fact_id": "2_1_1",
+                    "fact_content": "Tesla announced 384,122 deliveries."
+                },
+                {
+                    "fact_id": "2_1_3",
+                    "fact_content": "410,244 vehicles produced."
+                },
+                {
+                    "fact_id": "2_1_6",
+                    "fact_content": "Analysts expected 434,230 vehicles produced."
+                },
+                {
+                    "fact_id": "12_0_0",
+                    "fact_content": "Tesla delivered over 384,000 vehicles in Q2 2025."
+                },
+                {
+                    "fact_id": "12_1_6",
+                    "fact_content": "10,394 vehicles from other models were delivered."
+                },
+                {
+                    "fact_id": "12_1_7",
+                    "fact_content": "Total deliveries were 384,122 vehicles."
+                },
+                {
+                    "fact_id": "12_2_9",
+                    "fact_content": "Wall Street predicted Tesla would deliver 385,000 cars in Q2."
+                },
+                {
+                    "fact_id": "4_1_2",
+                    "fact_content": "Range reduction of around 20% with reduced brake regeneration."
+                },
+                {
+                    "fact_id": "4_2_3",
+                    "fact_content": "Cabin noise reduced by 20%."
+                },
+                {
+                    "fact_id": "10_4_13",
+                    "fact_content": "Tesla quotes 175 miles in 15 minutes for all models in this review."
+                },
+                {
+                    "fact_id": "1_3_6",
+                    "fact_content": "The energy business produced 10% of Tesla's total revenue in 2024."
+                }
+            ]
+        },
+        {
+            "cluster_id": 6,
+            "cluster_size": 14,
+            "facts": [
+                {
+                    "fact_id": "7_0_0",
+                    "fact_content": "Tesla's market share decreased from 60% in 2020 to 38% in 2024."
+                },
+                {
+                    "fact_id": "2_0_0",
+                    "fact_content": "Tesla (TSLA) shares rose 3% shortly after markets opened Wednesday."
+                },
+                {
+                    "fact_id": "2_1_2",
+                    "fact_content": "Deliveries down 14% year-over-year."
+                },
+                {
+                    "fact_id": "2_1_4",
+                    "fact_content": "Production down by roughly 600 vehicles."
+                },
+                {
+                    "fact_id": "2_1_5",
+                    "fact_content": "Analysts expected 394,380 deliveries."
+                },
+                {
+                    "fact_id": "2_2_8",
+                    "fact_content": "Shares dropped 5% yesterday."
+                },
+                {
+                    "fact_id": "12_1_4",
+                    "fact_content": "13,409 of the 410,244 vehicles produced were other models."
+                },
+                {
+                    "fact_id": "9_2_8",
+                    "fact_content": "Recharging the battery from 5 to 80 percent takes slightly more than 30 minutes at a Tesla Supercharger."
+                },
+                {
+                    "fact_id": "9_3_10",
+                    "fact_content": "The Model 3 Performance accelerates to 60 mph in 2.9 seconds."
+                },
+                {
+                    "fact_id": "14_0_1",
+                    "fact_content": "Tesla\u2019s stock has marked nine consecutive weeks of decline."
+                },
+                {
+                    "fact_id": "14_4_8",
+                    "fact_content": "BYD's charging technology can deliver up to 400 kilometres of range after just five minutes."
+                },
+                {
+                    "fact_id": "1_1_3",
+                    "fact_content": "Production was down 16% relative to the prior-year period."
+                },
+                {
+                    "fact_id": "3_2_4",
+                    "fact_content": "The Long Range Rear-Wheel Drive has up to 387 miles of WLTP range."
+                },
+                {
+                    "fact_id": "3_3_8",
+                    "fact_content": "Rapid charging speeds peak at 250kW for the Model Y."
+                }
+            ]
+        },
+        {
+            "cluster_id": 1,
+            "cluster_size": 10,
+            "facts": [
+                {
+                    "fact_id": "11_0_0",
+                    "fact_content": "Tesla aims to produce a Cybercab every five seconds."
+                },
+                {
+                    "fact_id": "4_4_7",
+                    "fact_content": "Torque is 350nm."
+                },
+                {
+                    "fact_id": "9_0_1",
+                    "fact_content": "The base Long Range RWD model produces 266 lb-ft of torque."
+                },
+                {
+                    "fact_id": "9_1_5",
+                    "fact_content": "The Long Range AWD model produces 377 lb-ft of torque."
+                },
+                {
+                    "fact_id": "8_2_6",
+                    "fact_content": "The Tesla Model 3 Performance model can recharge at up to 250kW on DC power."
+                },
+                {
+                    "fact_id": "10_1_2",
+                    "fact_content": "The range of the updated Model 3 has improved to up to 421 miles."
+                },
+                {
+                    "fact_id": "10_2_8",
+                    "fact_content": "The Long-Range model has a 4.9 second 0-60mph sprint time."
+                },
+                {
+                    "fact_id": "0_3_3",
+                    "fact_content": "Tesla\u2019s CapEx is projected to reach $10 billion in 2024 and 2025."
+                },
+                {
+                    "fact_id": "3_1_1",
+                    "fact_content": "Tesla squeezed an extra 20 miles out of the official range figures for the 2025 Model Y."
+                },
+                {
+                    "fact_id": "3_2_2",
+                    "fact_content": "The Model Y Rear-Wheel Drive has an official WLTP range of 311 miles."
+                }
+            ]
+        },
+        {
+            "cluster_id": 2,
+            "cluster_size": 17,
+            "facts": [
+                {
+                    "fact_id": "11_0_1",
+                    "fact_content": "Model Y\u2019s production time is 35 seconds."
+                },
+                {
+                    "fact_id": "2_1_1",
+                    "fact_content": "Tesla announced 384,122 deliveries."
+                },
+                {
+                    "fact_id": "12_0_0",
+                    "fact_content": "Tesla delivered over 384,000 vehicles in Q2 2025."
+                },
+                {
+                    "fact_id": "12_0_1",
+                    "fact_content": "Tesla deployed 9.6 GWh in energy storage in Q2 2025."
+                },
+                {
+                    "fact_id": "12_1_3",
+                    "fact_content": "396,835 of the 410,244 vehicles produced were Model 3 and Model Y units."
+                },
+                {
+                    "fact_id": "12_1_5",
+                    "fact_content": "373,728 Model 3/Ys were delivered."
+                },
+                {
+                    "fact_id": "12_1_7",
+                    "fact_content": "Total deliveries were 384,122 vehicles."
+                },
+                {
+                    "fact_id": "12_2_8",
+                    "fact_content": "Tesla's stock surged over four percent after reporting better-than-expected deliveries."
+                },
+                {
+                    "fact_id": "12_3_10",
+                    "fact_content": "Tesla delivered 384,122 vehicles in Q2."
+                },
+                {
+                    "fact_id": "4_0_0",
+                    "fact_content": "Drag coefficient reduced by about 5%."
+                },
+                {
+                    "fact_id": "4_1_1",
+                    "fact_content": "Power consumption increased by around 3kW/100km in Reduced setting."
+                },
+                {
+                    "fact_id": "14_1_3",
+                    "fact_content": "Tesla's revenue fell approximately US$1.5 billion short of projections."
+                },
+                {
+                    "fact_id": "10_2_9",
+                    "fact_content": "The Long Range all-wheel-drive model has a 390-mile range."
+                },
+                {
+                    "fact_id": "10_2_10",
+                    "fact_content": "The Long Range all-wheel-drive model has a 4.2 second 0-60mph sprint time."
+                },
+                {
+                    "fact_id": "1_1_2",
+                    "fact_content": "Tesla delivered 336,681 vehicles in the first quarter of 2025."
+                },
+                {
+                    "fact_id": "1_3_8",
+                    "fact_content": "The energy business revenue was up 67% from 2023."
+                },
+                {
+                    "fact_id": "1_5_10",
+                    "fact_content": "China accounts for an estimated 36% of Tesla's sales."
+                }
+            ]
+        },
+        {
+            "cluster_id": 5,
+            "cluster_size": 10,
+            "facts": [
+                {
+                    "fact_id": "2_2_7",
+                    "fact_content": "Shares entered the day down more than 25% since the start of the year."
+                },
+                {
+                    "fact_id": "2_2_9",
+                    "fact_content": "Traders see shares moving about another 5% in either direction by the end of the holiday-shortened trading week."
+                },
+                {
+                    "fact_id": "12_0_2",
+                    "fact_content": "Tesla produced 410,244 vehicles in Q2 2025."
+                },
+                {
+                    "fact_id": "4_4_6",
+                    "fact_content": "Power output is 110kW (148hp)."
+                },
+                {
+                    "fact_id": "8_1_4",
+                    "fact_content": "The Long Range Rear-Wheel Drive variant of the Tesla Model 3 has an official range of up to 702 kilometres."
+                },
+                {
+                    "fact_id": "8_3_8",
+                    "fact_content": "Motor tax for EVs is \u20ac120 a year."
+                },
+                {
+                    "fact_id": "10_0_0",
+                    "fact_content": "The entry level rear-wheel drive trim of the updated Model 3 costs \u00a339,990."
+                },
+                {
+                    "fact_id": "10_1_1",
+                    "fact_content": "The drag coefficient of the updated Model 3 is 0.219."
+                },
+                {
+                    "fact_id": "1_0_0",
+                    "fact_content": "Tesla stock is down 38% in 2025."
+                },
+                {
+                    "fact_id": "3_6_15",
+                    "fact_content": "The Long Range All-Wheel Drive is \u00a31,000 cheaper than previously."
+                }
+            ]
+        },
+        {
+            "cluster_id": 7,
+            "cluster_size": 16,
+            "facts": [
+                {
+                    "fact_id": "4_4_7",
+                    "fact_content": "Torque is 350nm."
+                },
+                {
+                    "fact_id": "9_1_6",
+                    "fact_content": "The Long Range AWD model accelerates to 60 mph in 4.0 seconds."
+                },
+                {
+                    "fact_id": "9_3_9",
+                    "fact_content": "The Model 3 Performance produces 510 hp."
+                },
+                {
+                    "fact_id": "14_1_2",
+                    "fact_content": "Tesla's revenue for Q4 2024 was US$25.7 billion."
+                },
+                {
+                    "fact_id": "14_2_5",
+                    "fact_content": "Tesla's profit margin is significantly below analyst expectations of 16.2%."
+                },
+                {
+                    "fact_id": "14_2_6",
+                    "fact_content": "US$600 million of Tesla\u2019s fourth-quarter profit came from increased bitcoin holdings."
+                },
+                {
+                    "fact_id": "14_3_7",
+                    "fact_content": "BYD plans to deploy 100,000 vehicles across multiple regions in partnership with Uber."
+                },
+                {
+                    "fact_id": "8_0_0",
+                    "fact_content": "The entry-level Tesla Model 3 has 245hp."
+                },
+                {
+                    "fact_id": "8_0_1",
+                    "fact_content": "The Tesla Model 3 Performance model produces up to 460hp."
+                },
+                {
+                    "fact_id": "8_0_2",
+                    "fact_content": "The Tesla Model 3 Performance model produces 660Nm of torque."
+                },
+                {
+                    "fact_id": "8_0_3",
+                    "fact_content": "The Tesla Model 3 Performance model has an official 0-100km/h time of 3.1 seconds."
+                },
+                {
+                    "fact_id": "8_2_7",
+                    "fact_content": "The Tesla Model 3 Performance model manages up to 11kW on three-phase AC outlets."
+                },
+                {
+                    "fact_id": "10_2_4",
+                    "fact_content": "The entry-level model gets a 323-mile range."
+                },
+                {
+                    "fact_id": "10_2_7",
+                    "fact_content": "The Long-Range model has a 436-mile range."
+                },
+                {
+                    "fact_id": "3_2_5",
+                    "fact_content": "The Long Range Rear-Wheel Drive has a 0-60mph time of 5.4 seconds."
+                },
+                {
+                    "fact_id": "3_5_12",
+                    "fact_content": "The glass reflects 26% more of the sunlight."
+                }
+            ]
+        },
+        {
+            "cluster_id": 10,
+            "cluster_size": 11,
+            "facts": [
+                {
+                    "fact_id": "4_5_11",
+                    "fact_content": "Range is around 250km with 20% to 80% charge."
+                },
+                {
+                    "fact_id": "9_0_0",
+                    "fact_content": "The base Long Range RWD model produces 257 hp."
+                },
+                {
+                    "fact_id": "9_0_2",
+                    "fact_content": "The base Long Range RWD model accelerates to 60 mph in 5.6 seconds."
+                },
+                {
+                    "fact_id": "9_0_3",
+                    "fact_content": "The base Long Range RWD model is rated by the EPA at 363 miles of driving range."
+                },
+                {
+                    "fact_id": "14_2_4",
+                    "fact_content": "Tesla's profit margin, excluding regulatory credits, has contracted to 13.6%."
+                },
+                {
+                    "fact_id": "8_0_3",
+                    "fact_content": "The Tesla Model 3 Performance model has an official 0-100km/h time of 3.1 seconds."
+                },
+                {
+                    "fact_id": "8_1_5",
+                    "fact_content": "The Tesla Model 3 Performance manages a range of up to 528km."
+                },
+                {
+                    "fact_id": "3_4_10",
+                    "fact_content": "You lose 20-litres of space in the 2025 Tesla Model Y\u2019s boot."
+                },
+                {
+                    "fact_id": "3_4_11",
+                    "fact_content": "The boot space of the 2025 Tesla Model Y is 2,138 litres including the frunk."
+                },
+                {
+                    "fact_id": "3_6_13",
+                    "fact_content": "The Long Range Rear-Wheel Drive starts from \u00a348,990."
+                },
+                {
+                    "fact_id": "3_6_14",
+                    "fact_content": "The Long Range All-Wheel Drive starts from \u00a351,990."
+                }
+            ]
+        },
+        {
+            "cluster_id": 4,
+            "cluster_size": 14,
+            "facts": [
+                {
+                    "fact_id": "9_1_4",
+                    "fact_content": "The Long Range AWD model produces 394 hp."
+                },
+                {
+                    "fact_id": "9_3_11",
+                    "fact_content": "The Model 3 Performance is rated by the EPA for roughly 300 miles of range."
+                },
+                {
+                    "fact_id": "14_0_0",
+                    "fact_content": "Tesla\u2019s stock has plummeted 50% from its December 2024 peak."
+                },
+                {
+                    "fact_id": "1_1_4",
+                    "fact_content": "Deliveries were down 13% relative to the prior-year period."
+                },
+                {
+                    "fact_id": "1_2_5",
+                    "fact_content": "Tesla lowered its average per-vehicle COGS from above $38,000 to below $35,000 between the first quarter of 2023 and the fourth quarter of 2024."
+                },
+                {
+                    "fact_id": "1_3_7",
+                    "fact_content": "The energy business totaled $10 billion in 2024."
+                },
+                {
+                    "fact_id": "1_4_9",
+                    "fact_content": "Tesla sold fewer than 40,000 Cybertrucks in 2024."
+                },
+                {
+                    "fact_id": "1_5_11",
+                    "fact_content": "Tesla sold 137,200 units in China in the first quarter."
+                },
+                {
+                    "fact_id": "1_5_12",
+                    "fact_content": "Tesla's sales in China were up about 3% from the prior year."
+                },
+                {
+                    "fact_id": "1_6_13",
+                    "fact_content": "Analysts expect Tesla to report first-quarter revenue of $21.81 billion."
+                },
+                {
+                    "fact_id": "1_6_14",
+                    "fact_content": "Analysts expect Tesla to report EPS of $0.43 per share for the first quarter."
+                },
+                {
+                    "fact_id": "0_0_0",
+                    "fact_content": "By 2028, Tesla is projected to achieve a revenue growth rate of approximately 30%."
+                },
+                {
+                    "fact_id": "0_2_2",
+                    "fact_content": "Tesla's total salary expenses are expected to exceed $13 billion by 2028."
+                },
+                {
+                    "fact_id": "3_2_6",
+                    "fact_content": "The Long Range All-Wheel Drive offers 364 miles of range (WLTP)."
+                }
+            ]
+        }
+    ],
+    "fact_wise_clusters": [
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "The BMW iX scored 790 out of 1,000.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.5535794647444386
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.4464205352555607
+                }
+            ]
+        },
+        {
+            "fact_id": "5_0_1",
+            "fact_content": "The BMW i4 hatchback scored 783.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9024716823844178
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "Tesla's market share decreased from 60% in 2020 to 38% in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9961574767597434
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_1",
+            "fact_content": "110 new models entered the market since 2020.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9007731794720272
+                }
+            ]
+        },
+        {
+            "fact_id": "7_0_2",
+            "fact_content": "Other OEMs saw sales increase by 20% on aggregate in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9996044039414208
+                }
+            ]
+        },
+        {
+            "fact_id": "11_0_0",
+            "fact_content": "Tesla aims to produce a Cybercab every five seconds.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.978525077880464
+                }
+            ]
+        },
+        {
+            "fact_id": "11_0_1",
+            "fact_content": "Model Y\u2019s production time is 35 seconds.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999863079240149
+                }
+            ]
+        },
+        {
+            "fact_id": "2_0_0",
+            "fact_content": "Tesla (TSLA) shares rose 3% shortly after markets opened Wednesday.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9983376213503146
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_1",
+            "fact_content": "Tesla announced 384,122 deliveries.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.4341251395806936
+                },
+                {
+                    "cluster_id": 8,
+                    "probability": 0.5658748601704136
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_2",
+            "fact_content": "Deliveries down 14% year-over-year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999912947763426
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_3",
+            "fact_content": "410,244 vehicles produced.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9927172345736278
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_4",
+            "fact_content": "Production down by roughly 600 vehicles.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999643571943735
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_5",
+            "fact_content": "Analysts expected 394,380 deliveries.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9940242223113148
+                }
+            ]
+        },
+        {
+            "fact_id": "2_1_6",
+            "fact_content": "Analysts expected 434,230 vehicles produced.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9919418395817066
+                }
+            ]
+        },
+        {
+            "fact_id": "2_2_7",
+            "fact_content": "Shares entered the day down more than 25% since the start of the year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9972607300304434
+                }
+            ]
+        },
+        {
+            "fact_id": "2_2_8",
+            "fact_content": "Shares dropped 5% yesterday.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999989316357625
+                }
+            ]
+        },
+        {
+            "fact_id": "2_2_9",
+            "fact_content": "Traders see shares moving about another 5% in either direction by the end of the holiday-shortened trading week.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9965874896201712
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_0",
+            "fact_content": "Tesla delivered over 384,000 vehicles in Q2 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.6416699432528834
+                },
+                {
+                    "cluster_id": 8,
+                    "probability": 0.3583300472474309
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_1",
+            "fact_content": "Tesla deployed 9.6 GWh in energy storage in Q2 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.999760410050384
+                }
+            ]
+        },
+        {
+            "fact_id": "12_0_2",
+            "fact_content": "Tesla produced 410,244 vehicles in Q2 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9879251894445709
+                }
+            ]
+        },
+        {
+            "fact_id": "12_1_3",
+            "fact_content": "396,835 of the 410,244 vehicles produced were Model 3 and Model Y units.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9890047599566495
+                }
+            ]
+        },
+        {
+            "fact_id": "12_1_4",
+            "fact_content": "13,409 of the 410,244 vehicles produced were other models.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.99389959199241
+                }
+            ]
+        },
+        {
+            "fact_id": "12_1_5",
+            "fact_content": "373,728 Model 3/Ys were delivered.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.976349905999556
+                }
+            ]
+        },
+        {
+            "fact_id": "12_1_6",
+            "fact_content": "10,394 vehicles from other models were delivered.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9996329772839444
+                }
+            ]
+        },
+        {
+            "fact_id": "12_1_7",
+            "fact_content": "Total deliveries were 384,122 vehicles.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.27899022094328935
+                },
+                {
+                    "cluster_id": 8,
+                    "probability": 0.7210097769633508
+                }
+            ]
+        },
+        {
+            "fact_id": "12_2_8",
+            "fact_content": "Tesla's stock surged over four percent after reporting better-than-expected deliveries.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.999713879730206
+                }
+            ]
+        },
+        {
+            "fact_id": "12_2_9",
+            "fact_content": "Wall Street predicted Tesla would deliver 385,000 cars in Q2.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9871129632811665
+                }
+            ]
+        },
+        {
+            "fact_id": "12_3_10",
+            "fact_content": "Tesla delivered 384,122 vehicles in Q2.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9994816264422527
+                }
+            ]
+        },
+        {
+            "fact_id": "4_0_0",
+            "fact_content": "Drag coefficient reduced by about 5%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.999998814510629
+                }
+            ]
+        },
+        {
+            "fact_id": "4_1_1",
+            "fact_content": "Power consumption increased by around 3kW/100km in Reduced setting.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999614246809653
+                }
+            ]
+        },
+        {
+            "fact_id": "4_1_2",
+            "fact_content": "Range reduction of around 20% with reduced brake regeneration.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9982960200047599
+                }
+            ]
+        },
+        {
+            "fact_id": "4_2_3",
+            "fact_content": "Cabin noise reduced by 20%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9935167300608291
+                }
+            ]
+        },
+        {
+            "fact_id": "4_3_4",
+            "fact_content": "Boot capacity is 854L.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999853268405865
+                }
+            ]
+        },
+        {
+            "fact_id": "4_3_5",
+            "fact_content": "Boot capacity increases to 2,138L with rear seats down.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.8726154547219531
+                }
+            ]
+        },
+        {
+            "fact_id": "4_4_6",
+            "fact_content": "Power output is 110kW (148hp).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9727862917206693
+                }
+            ]
+        },
+        {
+            "fact_id": "4_4_7",
+            "fact_content": "Torque is 350nm.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.7810608203705263
+                },
+                {
+                    "cluster_id": 7,
+                    "probability": 0.21759744521584629
+                }
+            ]
+        },
+        {
+            "fact_id": "4_4_8",
+            "fact_content": "0 to 100km/h in 9.6 seconds.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9839935574662233
+                }
+            ]
+        },
+        {
+            "fact_id": "4_5_9",
+            "fact_content": "Power consumption was 14.6kW/100km.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9521025002824338
+                }
+            ]
+        },
+        {
+            "fact_id": "4_5_10",
+            "fact_content": "Battery capacity is around 60kWh.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.47747469313892676
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.5225253068610731
+                }
+            ]
+        },
+        {
+            "fact_id": "4_5_11",
+            "fact_content": "Range is around 250km with 20% to 80% charge.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.8110378812719582
+                }
+            ]
+        },
+        {
+            "fact_id": "4_5_12",
+            "fact_content": "Range is around 400km with full charge.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9102000708983282
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "The base Long Range RWD model produces 257 hp.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9601068037446268
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_1",
+            "fact_content": "The base Long Range RWD model produces 266 lb-ft of torque.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9625646540604891
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_2",
+            "fact_content": "The base Long Range RWD model accelerates to 60 mph in 5.6 seconds.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9323293083388966
+                }
+            ]
+        },
+        {
+            "fact_id": "9_0_3",
+            "fact_content": "The base Long Range RWD model is rated by the EPA at 363 miles of driving range.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9180484524736533
+                }
+            ]
+        },
+        {
+            "fact_id": "9_1_4",
+            "fact_content": "The Long Range AWD model produces 394 hp.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9483820286597504
+                }
+            ]
+        },
+        {
+            "fact_id": "9_1_5",
+            "fact_content": "The Long Range AWD model produces 377 lb-ft of torque.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9644235917217023
+                }
+            ]
+        },
+        {
+            "fact_id": "9_1_6",
+            "fact_content": "The Long Range AWD model accelerates to 60 mph in 4.0 seconds.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9917944900838548
+                }
+            ]
+        },
+        {
+            "fact_id": "9_1_7",
+            "fact_content": "The Long Range AWD model is rated by the EPA at 346 miles of range.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.8795110529209093
+                }
+            ]
+        },
+        {
+            "fact_id": "9_2_8",
+            "fact_content": "Recharging the battery from 5 to 80 percent takes slightly more than 30 minutes at a Tesla Supercharger.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9972996843933275
+                }
+            ]
+        },
+        {
+            "fact_id": "9_3_9",
+            "fact_content": "The Model 3 Performance produces 510 hp.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9990833970585715
+                }
+            ]
+        },
+        {
+            "fact_id": "9_3_10",
+            "fact_content": "The Model 3 Performance accelerates to 60 mph in 2.9 seconds.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999999313039131
+                }
+            ]
+        },
+        {
+            "fact_id": "9_3_11",
+            "fact_content": "The Model 3 Performance is rated by the EPA for roughly 300 miles of range.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9884995068984156
+                }
+            ]
+        },
+        {
+            "fact_id": "14_0_0",
+            "fact_content": "Tesla\u2019s stock has plummeted 50% from its December 2024 peak.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.840985034265527
+                }
+            ]
+        },
+        {
+            "fact_id": "14_0_1",
+            "fact_content": "Tesla\u2019s stock has marked nine consecutive weeks of decline.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999992478406106
+                }
+            ]
+        },
+        {
+            "fact_id": "14_1_2",
+            "fact_content": "Tesla's revenue for Q4 2024 was US$25.7 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.968969450768925
+                }
+            ]
+        },
+        {
+            "fact_id": "14_1_3",
+            "fact_content": "Tesla's revenue fell approximately US$1.5 billion short of projections.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999946449828906
+                }
+            ]
+        },
+        {
+            "fact_id": "14_2_4",
+            "fact_content": "Tesla's profit margin, excluding regulatory credits, has contracted to 13.6%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.6311176178905938
+                },
+                {
+                    "cluster_id": 10,
+                    "probability": 0.3245314964476834
+                }
+            ]
+        },
+        {
+            "fact_id": "14_2_5",
+            "fact_content": "Tesla's profit margin is significantly below analyst expectations of 16.2%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9999762869553357
+                }
+            ]
+        },
+        {
+            "fact_id": "14_2_6",
+            "fact_content": "US$600 million of Tesla\u2019s fourth-quarter profit came from increased bitcoin holdings.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9999204683207207
+                }
+            ]
+        },
+        {
+            "fact_id": "14_3_7",
+            "fact_content": "BYD plans to deploy 100,000 vehicles across multiple regions in partnership with Uber.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9591904223502288
+                }
+            ]
+        },
+        {
+            "fact_id": "14_4_8",
+            "fact_content": "BYD's charging technology can deliver up to 400 kilometres of range after just five minutes.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9733389088689969
+                }
+            ]
+        },
+        {
+            "fact_id": "14_4_9",
+            "fact_content": "Tesla\u2019s quickest version provides 275 kilometres after 15 minutes.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.8989494916720615
+                }
+            ]
+        },
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "The entry-level Tesla Model 3 has 245hp.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9814322685220455
+                }
+            ]
+        },
+        {
+            "fact_id": "8_0_1",
+            "fact_content": "The Tesla Model 3 Performance model produces up to 460hp.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9904176906314452
+                }
+            ]
+        },
+        {
+            "fact_id": "8_0_2",
+            "fact_content": "The Tesla Model 3 Performance model produces 660Nm of torque.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9925934867546392
+                }
+            ]
+        },
+        {
+            "fact_id": "8_0_3",
+            "fact_content": "The Tesla Model 3 Performance model has an official 0-100km/h time of 3.1 seconds.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.24348899264475618
+                },
+                {
+                    "cluster_id": 10,
+                    "probability": 0.5701086526440824
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_4",
+            "fact_content": "The Long Range Rear-Wheel Drive variant of the Tesla Model 3 has an official range of up to 702 kilometres.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9393677729803875
+                }
+            ]
+        },
+        {
+            "fact_id": "8_1_5",
+            "fact_content": "The Tesla Model 3 Performance manages a range of up to 528km.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9655338985657312
+                }
+            ]
+        },
+        {
+            "fact_id": "8_2_6",
+            "fact_content": "The Tesla Model 3 Performance model can recharge at up to 250kW on DC power.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9871819746125841
+                }
+            ]
+        },
+        {
+            "fact_id": "8_2_7",
+            "fact_content": "The Tesla Model 3 Performance model manages up to 11kW on three-phase AC outlets.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9917027096238413
+                }
+            ]
+        },
+        {
+            "fact_id": "8_3_8",
+            "fact_content": "Motor tax for EVs is \u20ac120 a year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.8018778580845775
+                }
+            ]
+        },
+        {
+            "fact_id": "8_4_9",
+            "fact_content": "Tesla quotes 16.7kWh/100km for the Performance model.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9743645493142671
+                }
+            ]
+        },
+        {
+            "fact_id": "8_5_10",
+            "fact_content": "An average of around 21kWh/100km was achieved in a cold week with the Tesla Model 3 Performance.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9723458154776755
+                }
+            ]
+        },
+        {
+            "fact_id": "10_0_0",
+            "fact_content": "The entry level rear-wheel drive trim of the updated Model 3 costs \u00a339,990.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9477019947618033
+                }
+            ]
+        },
+        {
+            "fact_id": "10_1_1",
+            "fact_content": "The drag coefficient of the updated Model 3 is 0.219.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9500742585794133
+                }
+            ]
+        },
+        {
+            "fact_id": "10_1_2",
+            "fact_content": "The range of the updated Model 3 has improved to up to 421 miles.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9563389784395642
+                }
+            ]
+        },
+        {
+            "fact_id": "10_1_3",
+            "fact_content": "Wind noise is reduced by 30% according to Tesla.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9948169211083018
+                }
+            ]
+        },
+        {
+            "fact_id": "10_2_4",
+            "fact_content": "The entry-level model gets a 323-mile range.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9992417660384937
+                }
+            ]
+        },
+        {
+            "fact_id": "10_2_5",
+            "fact_content": "The entry-level model has a 125mph top speed.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9920086878472916
+                }
+            ]
+        },
+        {
+            "fact_id": "10_2_6",
+            "fact_content": "The entry-level model has a 5.8 second 0-60mph sprint time.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.2257586526164641
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.774238619520039
+                }
+            ]
+        },
+        {
+            "fact_id": "10_2_7",
+            "fact_content": "The Long-Range model has a 436-mile range.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.884972945469288
+                }
+            ]
+        },
+        {
+            "fact_id": "10_2_8",
+            "fact_content": "The Long-Range model has a 4.9 second 0-60mph sprint time.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9453013151163864
+                }
+            ]
+        },
+        {
+            "fact_id": "10_2_9",
+            "fact_content": "The Long Range all-wheel-drive model has a 390-mile range.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9983016987718444
+                }
+            ]
+        },
+        {
+            "fact_id": "10_2_10",
+            "fact_content": "The Long Range all-wheel-drive model has a 4.2 second 0-60mph sprint time.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9999124924032743
+                }
+            ]
+        },
+        {
+            "fact_id": "10_3_11",
+            "fact_content": "The rear-wheel drive model uses a 57.5kWh battery.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.9448647129414727
+                }
+            ]
+        },
+        {
+            "fact_id": "10_3_12",
+            "fact_content": "The rest of the range uses a 79kWh battery.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9958939193993652
+                }
+            ]
+        },
+        {
+            "fact_id": "10_4_13",
+            "fact_content": "Tesla quotes 175 miles in 15 minutes for all models in this review.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9998075005067578
+                }
+            ]
+        },
+        {
+            "fact_id": "1_0_0",
+            "fact_content": "Tesla stock is down 38% in 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.997264503996223
+                }
+            ]
+        },
+        {
+            "fact_id": "1_1_1",
+            "fact_content": "Tesla produced 362,615 vehicles in the first quarter of 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.5287571091797657
+                },
+                {
+                    "cluster_id": 9,
+                    "probability": 0.4712426217452449
+                }
+            ]
+        },
+        {
+            "fact_id": "1_1_2",
+            "fact_content": "Tesla delivered 336,681 vehicles in the first quarter of 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9696562766140859
+                }
+            ]
+        },
+        {
+            "fact_id": "1_1_3",
+            "fact_content": "Production was down 16% relative to the prior-year period.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9999998025410413
+                }
+            ]
+        },
+        {
+            "fact_id": "1_1_4",
+            "fact_content": "Deliveries were down 13% relative to the prior-year period.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9993339962885296
+                }
+            ]
+        },
+        {
+            "fact_id": "1_2_5",
+            "fact_content": "Tesla lowered its average per-vehicle COGS from above $38,000 to below $35,000 between the first quarter of 2023 and the fourth quarter of 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9997688681261272
+                }
+            ]
+        },
+        {
+            "fact_id": "1_3_6",
+            "fact_content": "The energy business produced 10% of Tesla's total revenue in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 8,
+                    "probability": 0.9807734524401085
+                }
+            ]
+        },
+        {
+            "fact_id": "1_3_7",
+            "fact_content": "The energy business totaled $10 billion in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9998281319974666
+                }
+            ]
+        },
+        {
+            "fact_id": "1_3_8",
+            "fact_content": "The energy business revenue was up 67% from 2023.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9996407283194418
+                }
+            ]
+        },
+        {
+            "fact_id": "1_4_9",
+            "fact_content": "Tesla sold fewer than 40,000 Cybertrucks in 2024.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9988644757046201
+                }
+            ]
+        },
+        {
+            "fact_id": "1_5_10",
+            "fact_content": "China accounts for an estimated 36% of Tesla's sales.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 2,
+                    "probability": 0.9998792579925558
+                }
+            ]
+        },
+        {
+            "fact_id": "1_5_11",
+            "fact_content": "Tesla sold 137,200 units in China in the first quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9934537163155793
+                }
+            ]
+        },
+        {
+            "fact_id": "1_5_12",
+            "fact_content": "Tesla's sales in China were up about 3% from the prior year.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9132331965463094
+                }
+            ]
+        },
+        {
+            "fact_id": "1_6_13",
+            "fact_content": "Analysts expect Tesla to report first-quarter revenue of $21.81 billion.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9844289788423705
+                }
+            ]
+        },
+        {
+            "fact_id": "1_6_14",
+            "fact_content": "Analysts expect Tesla to report EPS of $0.43 per share for the first quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9969150234464651
+                }
+            ]
+        },
+        {
+            "fact_id": "1_6_15",
+            "fact_content": "Tesla's revenue was $21.3 billion in last year\u2019s first quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 9,
+                    "probability": 0.8502372370915539
+                }
+            ]
+        },
+        {
+            "fact_id": "1_6_16",
+            "fact_content": "Tesla's EPS was $0.45 in last year\u2019s first quarter.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9989481926854682
+                }
+            ]
+        },
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "By 2028, Tesla is projected to achieve a revenue growth rate of approximately 30%.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9992841020081229
+                }
+            ]
+        },
+        {
+            "fact_id": "0_1_1",
+            "fact_content": "Tesla's total salary expenses are expected to rise by approximately 22% to 25% over the next five years.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9993292896608457
+                }
+            ]
+        },
+        {
+            "fact_id": "0_2_2",
+            "fact_content": "Tesla's total salary expenses are expected to exceed $13 billion by 2028.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9874045393385732
+                }
+            ]
+        },
+        {
+            "fact_id": "0_3_3",
+            "fact_content": "Tesla\u2019s CapEx is projected to reach $10 billion in 2024 and 2025.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9921416568818767
+                }
+            ]
+        },
+        {
+            "fact_id": "3_0_0",
+            "fact_content": "The Model Y is 4.79-metres long.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9897313693555253
+                }
+            ]
+        },
+        {
+            "fact_id": "3_1_1",
+            "fact_content": "Tesla squeezed an extra 20 miles out of the official range figures for the 2025 Model Y.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.9981189159398792
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_2",
+            "fact_content": "The Model Y Rear-Wheel Drive has an official WLTP range of 311 miles.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 1,
+                    "probability": 0.989793857333729
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_3",
+            "fact_content": "The Model Y Rear-Wheel Drive has a 0-60mph time of 5.6 seconds.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999984291204927
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_4",
+            "fact_content": "The Long Range Rear-Wheel Drive has up to 387 miles of WLTP range.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.9991572440097377
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_5",
+            "fact_content": "The Long Range Rear-Wheel Drive has a 0-60mph time of 5.4 seconds.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.994322112526039
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_6",
+            "fact_content": "The Long Range All-Wheel Drive offers 364 miles of range (WLTP).",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 4,
+                    "probability": 0.9943347967499019
+                }
+            ]
+        },
+        {
+            "fact_id": "3_2_7",
+            "fact_content": "The Long Range All-Wheel Drive has a 0-60mph time of 4.6 seconds.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.9999990623428681
+                }
+            ]
+        },
+        {
+            "fact_id": "3_3_8",
+            "fact_content": "Rapid charging speeds peak at 250kW for the Model Y.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 6,
+                    "probability": 0.997345589867282
+                }
+            ]
+        },
+        {
+            "fact_id": "3_3_9",
+            "fact_content": "The Model Y will manage a 10-80% top-up in well under 30 minutes.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.993693311050008
+                }
+            ]
+        },
+        {
+            "fact_id": "3_4_10",
+            "fact_content": "You lose 20-litres of space in the 2025 Tesla Model Y\u2019s boot.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9977353640437077
+                }
+            ]
+        },
+        {
+            "fact_id": "3_4_11",
+            "fact_content": "The boot space of the 2025 Tesla Model Y is 2,138 litres including the frunk.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9975919120181386
+                }
+            ]
+        },
+        {
+            "fact_id": "3_5_12",
+            "fact_content": "The glass reflects 26% more of the sunlight.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 7,
+                    "probability": 0.9960423285023083
+                }
+            ]
+        },
+        {
+            "fact_id": "3_6_13",
+            "fact_content": "The Long Range Rear-Wheel Drive starts from \u00a348,990.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.9930187252093498
+                }
+            ]
+        },
+        {
+            "fact_id": "3_6_14",
+            "fact_content": "The Long Range All-Wheel Drive starts from \u00a351,990.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 10,
+                    "probability": 0.8741111206668971
+                }
+            ]
+        },
+        {
+            "fact_id": "3_6_15",
+            "fact_content": "The Long Range All-Wheel Drive is \u00a31,000 cheaper than previously.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 5,
+                    "probability": 0.9985417966507959
+                }
+            ]
+        },
+        {
+            "fact_id": "3_6_16",
+            "fact_content": "The entry-level Model Y Rear-Wheel Drive starts at \u00a344,990.",
+            "assigned_clusters": [
+                {
+                    "cluster_id": 3,
+                    "probability": 0.999993365769652
+                }
+            ]
+        }
+    ],
+    "evaluation_metrics": {
+        "silhouette_score": 0.39686545729637146,
+        "davies_bouldin_score": 0.8725239678352261,
+        "cluster_entropy": 0.14259444475990363
+    },
+    "cluster_summary": {
+        "3": {
+            "representative_fact": "Tesla's EPS was $0.45 in last year\u2019s first quarter.",
+            "top_keywords": [
+                "model",
+                "tesla",
+                "range",
+                "0",
+                "long"
+            ],
+            "mean_similarity": 0.35705096621897636,
+            "mean_similarity_normalized": 0.4073759226607818
+        },
+        "9": {
+            "representative_fact": "The rear-wheel drive model uses a 57.5kWh battery.",
+            "top_keywords": [
+                "tesla",
+                "100km",
+                "model",
+                "around",
+                "capacity"
+            ],
+            "mean_similarity": 0.37686013755454156,
+            "mean_similarity_normalized": 0.5108501355715607
+        },
+        "2": {
+            "representative_fact": "Model Y\u2019s production time is 35 seconds.",
+            "top_keywords": [
+                "tesla",
+                "model",
+                "vehicles",
+                "384",
+                "delivered"
+            ],
+            "mean_similarity": 0.4705033091299214,
+            "mean_similarity_normalized": 1.0
+        },
+        "10": {
+            "representative_fact": "The base Long Range RWD model produces 257 hp.",
+            "top_keywords": [
+                "range",
+                "model",
+                "long",
+                "tesla",
+                "base"
+            ],
+            "mean_similarity": 0.3732191720868875,
+            "mean_similarity_normalized": 0.49183136746567707
+        },
+        "6": {
+            "representative_fact": "Production down by roughly 600 vehicles.",
+            "top_keywords": [
+                "tesla",
+                "year",
+                "range",
+                "60",
+                "shares"
+            ],
+            "mean_similarity": 0.3947130129625251,
+            "mean_similarity_normalized": 0.6041055373115944
+        },
+        "4": {
+            "representative_fact": "Tesla sold 137,200 units in China in the first quarter.",
+            "top_keywords": [
+                "tesla",
+                "quarter",
+                "range",
+                "2024",
+                "first"
+            ],
+            "mean_similarity": 0.445093588710777,
+            "mean_similarity_normalized": 0.8672710344054937
+        },
+        "5": {
+            "representative_fact": "Tesla produced 410,244 vehicles in Q2 2025.",
+            "top_keywords": [
+                "tesla",
+                "range",
+                "wheel",
+                "drive",
+                "model"
+            ],
+            "mean_similarity": 0.35550249377534315,
+            "mean_similarity_normalized": 0.3992873981786241
+        },
+        "8": {
+            "representative_fact": "Analysts expected 434,230 vehicles produced.",
+            "top_keywords": [
+                "tesla",
+                "vehicles",
+                "384",
+                "produced",
+                "122"
+            ],
+            "mean_similarity": 0.27906265180744666,
+            "mean_similarity_normalized": 0.0
+        },
+        "7": {
+            "representative_fact": "The Tesla Model 3 Performance model produces 660Nm of torque.",
+            "top_keywords": [
+                "model",
+                "tesla",
+                "3",
+                "range",
+                "performance"
+            ],
+            "mean_similarity": 0.4285308946418041,
+            "mean_similarity_normalized": 0.7807549604396923
+        },
+        "1": {
+            "representative_fact": "The base Long Range RWD model produces 266 lb-ft of torque.",
+            "top_keywords": [
+                "model",
+                "range",
+                "tesla",
+                "torque",
+                "long"
+            ],
+            "mean_similarity": 0.38558508618271436,
+            "mean_similarity_normalized": 0.5564253480170338
+        }
+    }
+}

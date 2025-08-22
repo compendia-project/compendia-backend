@@ -1,0 +1,21 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "['Chinese automaker BYD reported annual revenue of 777 billion yuan ($107 billion) for 2024, leapfrogging U.S. rival Tesla as competition between the two electric vehicle rivals heats up.', \"In a filing published Monday, BYD posted a 29% increase in revenue from the previous year, bolstered by sales of its hybrid vehicles. This figure exceeded the $97.7 billion annual revenue reported by Elon Musk's Tesla.\"]",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD reported annual revenue of 777 billion yuan ($107 billion) for 2024."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "BYD's revenue exceeded Tesla's $97.7 billion annual revenue."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "BYD posted a 29% increase in revenue from the previous year."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "China\u2019s BYD enjoyed a year-end surge to push total sales to 4.25 million passenger cars last year, narrowing its gap with Tesla as the two vie for the crown of top-selling electric-vehicle maker of 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Total sales of 4.25 million passenger cars last year.",
+                    "vis_data": [
+                        {
+                            "label": "Total Sales",
+                            "value": "4250000",
+                            "unit": "cars"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6886720622571383
+        },
+        {
+            "paragraph": "BYD sold 509,440 plug-in hybrid and pure-electric passenger vehicles in December, the company said Wednesday. The figure includes 207,734 EVs, taking the annual tally of battery-powered car sales to 1.76 million. Overall annual sales increased 41% year-on-year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 509,440 plug-in hybrid and pure-electric passenger vehicles in December.",
+                    "vis_data": [
+                        {
+                            "label": "December Sales",
+                            "value": "509440",
+                            "unit": "cars"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "BYD sold 207,734 EVs in December.",
+                    "vis_data": [
+                        {
+                            "label": "December EV Sales",
+                            "value": "207734",
+                            "unit": "cars"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Annual tally of battery-powered car sales is 1.76 million.",
+                    "vis_data": [
+                        {
+                            "label": "Annual Battery-Powered Sales",
+                            "value": "1760000",
+                            "unit": "cars"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Overall annual sales increased 41% year-on-year.",
+                    "vis_data": [
+                        {
+                            "label": "Annual Sales Increase",
+                            "value": "41",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.6369507002329214
+        }
+    ]
+}

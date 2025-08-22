@@ -1,0 +1,4856 @@
+{
+    "facts_with_meta": [
+        {
+            "paragraph": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year as high borrowing costs keep a lid on home values, according toa new report by SQM Research.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney & Melbourne Price Drop",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "3_0_0"
+                }
+            ],
+            "relatedness_score": 0.5876885679549438,
+            "article_meta_data": {
+                "title": "Sydney and Melbourne house prices tipped to fall in 2025",
+                "date": "2024-11-25",
+                "url": "https://www.theguardian.com/australia-news/2024/nov/26/sydney-and-melbourne-house-price-analysis-2025-fall-predicted-sqm",
+                "id": 3
+            },
+            "para_id": "3_0"
+        },
+        {
+            "paragraph": "Sydney:increases 4-6 per cent (houses and units)Sydney is expected to continue in 2025 as buyers\u2019 market, which is great news if you\u2019re a first home buyer.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney housing prices are expected to increase 4-6 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Housing Price Increase",
+                            "value": "4",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Sydney Housing Price Increase",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "8_0_0"
+                }
+            ],
+            "relatedness_score": 0.6903540752276282,
+            "article_meta_data": {
+                "title": "State by state: what to expect in property markets around Australia in 2025",
+                "date": "2025-02-13",
+                "url": "https://www.apimagazine.com.au/news/article/state-by-state-what-to-expect-in-property-markets-around-australia-in-2025",
+                "id": 8
+            },
+            "para_id": "8_0"
+        },
+        {
+            "paragraph": "The housing market has seen a substantial increase in 2024, with house values in Sydney rising by 4.5%. According to ANZ\u2019s bank forecast, there\u2019s a potential 5% increase in Sydney house prices by 2025. Buyers can expect a consistent rise in house price in Australia Sydney, driven by increased buyer demand and supply shortages.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "House values in Sydney rose by 4.5% in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney House Value Increase 2024",
+                            "value": "4.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "10_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Potential 5% increase in Sydney house prices by 2025 according to ANZ\u2019s bank forecast.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney House Price Forecast 2025",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "10_0_1"
+                }
+            ],
+            "relatedness_score": 0.7126471483147669,
+            "article_meta_data": {
+                "title": "Trends and Predictions for the Sydney Property Market in 2025",
+                "date": "2024-10-31",
+                "url": "https://cmlaw.com.au/whats-new/trends-and-predictions-for-the-sydney-property-market-in-2025",
+                "id": 10
+            },
+            "para_id": "10_0"
+        },
+        {
+            "paragraph": "In Sydney, the median house price is forecast to rise 7 per cent to $1.83 million, a jump of $112,000 \u2014 \u201cmore than the national average annual salary,\u201d according to the report.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median house price in Sydney is forecast to rise 7 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney House Price Increase",
+                            "value": "7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "1_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median house price in Sydney is forecast to be $1.83 million.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Median House Price",
+                            "value": "1830000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "1_0_1"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The median house price in Sydney is forecast to jump by $112,000.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney House Price Increase",
+                            "value": "112000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "1_0_2"
+                }
+            ],
+            "relatedness_score": 0.6336500558354606,
+            "article_meta_data": {
+                "title": "Sydney soars, Perth nears $1m: Domain tips house prices to rise in 2025",
+                "date": "2025-06-19",
+                "url": "https://eliteagent.com/sydney-soars-perth-nears-1m-domain-tips-house-prices-to-keep-climbing/",
+                "id": 1
+            },
+            "para_id": "1_0"
+        },
+        {
+            "paragraph": "However, this trend differs across the capitals. In the past year house price growth (2.98%) has outpaced unit price growth (1.50%) in Sydney, though the opposite is true in Brisbane where unit prices have lifted 13.79% vs. 9.57% for houses in the same period.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "House price growth (2.98%) has outpaced unit price growth (1.50%) in Sydney in the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney House Price Growth",
+                            "value": "2.98",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Sydney Unit Price Growth",
+                            "value": "1.50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Unit prices have lifted 13.79% in Brisbane in the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Brisbane Unit Price Growth",
+                            "value": "13.79",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_0_1"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "House prices have lifted 9.57% in Brisbane in the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Brisbane House Price Growth",
+                            "value": "9.57",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_0_2"
+                }
+            ],
+            "relatedness_score": 0.5151488951560247,
+            "article_meta_data": {
+                "title": "PropTrack Home Price Index \u2013 February 2025",
+                "date": "2025-02-28",
+                "url": "https://www.realestate.com.au/insights/proptrack-home-price-index-february-2025/",
+                "id": 2
+            },
+            "para_id": "2_0"
+        },
+        {
+            "paragraph": "Melbourne (+0.67%) and Sydney (+0.50%) led price gains in February, while Hobart (-0.03%) was the only capital to see prices fall. Melbourne led prices gains for both houses and units across the capital cities, for the first time since February 2020 for houses and September 2020 for units.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Melbourne (+0.67%) led price gains in February.",
+                    "vis_data": [
+                        {
+                            "label": "Melbourne Price Gain",
+                            "value": "0.67",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_3"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Sydney (+0.50%) led price gains in February.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Price Gain",
+                            "value": "0.50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_4"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Hobart (-0.03%) was the only capital to see prices fall.",
+                    "vis_data": [
+                        {
+                            "label": "Hobart Price Fall",
+                            "value": "-0.03",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "2_1_5"
+                }
+            ],
+            "relatedness_score": 0.4612908045618589,
+            "article_meta_data": {
+                "title": "PropTrack Home Price Index \u2013 February 2025",
+                "date": "2025-02-28",
+                "url": "https://www.realestate.com.au/insights/proptrack-home-price-index-february-2025/",
+                "id": 2
+            },
+            "para_id": "2_1"
+        },
+        {
+            "paragraph": "Unit prices are forecast to rise by 5 per cent in Sydney and Perth in 2025.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Unit prices are forecast to rise by 5% in Sydney in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Unit Price Rise 2025",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Unit prices are forecast to rise by 5% in Perth in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Perth Unit Price Rise 2025",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_0_1"
+                }
+            ],
+            "relatedness_score": 0.7093389135246446,
+            "article_meta_data": {
+                "title": "House and unit prices forecast to grow in 2025",
+                "date": "2025-01-30",
+                "url": "https://www.realestatebusiness.com.au/industry/29365-house-and-unit-prices-forecast-to-grow-in-2025",
+                "id": 9
+            },
+            "para_id": "9_0"
+        },
+        {
+            "paragraph": "According to KPMG\u2019s latestResidential Property Market Outlook, house prices across Australia are expected to rise 3.3 per cent over the year, followed by a stronger 6 per cent in 2026.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "House prices across Australia are expected to rise 3.3% over the year.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Rise 2025",
+                            "value": "3.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_1_2"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "House prices across Australia are expected to rise 6% in 2026.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Rise 2026",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_1_3"
+                }
+            ],
+            "relatedness_score": 0.5908033260052318,
+            "article_meta_data": {
+                "title": "House and unit prices forecast to grow in 2025",
+                "date": "2025-01-30",
+                "url": "https://www.realestatebusiness.com.au/industry/29365-house-and-unit-prices-forecast-to-grow-in-2025",
+                "id": 9
+            },
+            "para_id": "9_1"
+        },
+        {
+            "paragraph": "Canberra and Melbourne are expected to rise by 3.5 per cent, Sydney by 3.3 per cent, and Brisbane by 3.1 per cent.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Canberra and Melbourne are expected to rise by 3.5%.",
+                    "vis_data": [
+                        {
+                            "label": "Canberra & Melbourne Rise",
+                            "value": "3.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_2_4"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney is expected to rise by 3.3%.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Rise",
+                            "value": "3.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_2_5"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Brisbane is expected to rise by 3.1%.",
+                    "vis_data": [
+                        {
+                            "label": "Brisbane Rise",
+                            "value": "3.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "9_2_6"
+                }
+            ],
+            "relatedness_score": 0.48091572523706183,
+            "article_meta_data": {
+                "title": "House and unit prices forecast to grow in 2025",
+                "date": "2025-01-30",
+                "url": "https://www.realestatebusiness.com.au/industry/29365-house-and-unit-prices-forecast-to-grow-in-2025",
+                "id": 9
+            },
+            "para_id": "9_2"
+        },
+        {
+            "paragraph": "Greater Sydney's property market remains one of the most expensive in Australia, with a median house price of $1,496,985 and a median unit price of $863,257. Combined, the city's median dwelling price sits at $1,210,222.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price is $1,496,985.",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1496985",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "16_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median unit price is $863,257.",
+                    "vis_data": [
+                        {
+                            "label": "Median Unit Price",
+                            "value": "863257",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "16_0_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median dwelling price is $1,210,222.",
+                    "vis_data": [
+                        {
+                            "label": "Median Dwelling Price",
+                            "value": "1210222",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "16_0_2"
+                }
+            ],
+            "relatedness_score": 0.6824383103430202,
+            "article_meta_data": {
+                "title": "Median house prices around Australia: July 2025",
+                "date": "Unknown",
+                "url": "https://www.yourmortgage.com.au/compare-home-loans/median-house-prices-around-australia",
+                "id": 16
+            },
+            "para_id": "16_0"
+        },
+        {
+            "paragraph": "While this reflects a 0.6% increase compared to June 2025, Sydney property values have seen a 56.7% increase over the past decade.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "0.6% increase compared to June 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Increase Since June 2025",
+                            "value": "0.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_1_3"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "56.7% increase over the past decade.",
+                    "vis_data": [
+                        {
+                            "label": "Decade Increase",
+                            "value": "56.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_1_4"
+                }
+            ],
+            "relatedness_score": 0.6252034027128036,
+            "article_meta_data": {
+                "title": "Median house prices around Australia: July 2025",
+                "date": "Unknown",
+                "url": "https://www.yourmortgage.com.au/compare-home-loans/median-house-prices-around-australia",
+                "id": 16
+            },
+            "para_id": "16_1"
+        },
+        {
+            "paragraph": "Among the suburbs experiencing the fastest price growth in the past 12 months areSt Marys (+8.4%),Richmond - Windsor (+6.7%), andFairfield (+6.5%).",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "St Marys experienced an 8.4% price growth in the past 12 months.",
+                    "vis_data": [
+                        {
+                            "label": "St Marys Growth",
+                            "value": "8.4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_2_5"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Richmond - Windsor experienced a 6.7% price growth in the past 12 months.",
+                    "vis_data": [
+                        {
+                            "label": "Richmond - Windsor Growth",
+                            "value": "6.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_2_6"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Fairfield experienced a 6.5% price growth in the past 12 months.",
+                    "vis_data": [
+                        {
+                            "label": "Fairfield Growth",
+                            "value": "6.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "16_2_7"
+                }
+            ],
+            "relatedness_score": 0.4318730298185782,
+            "article_meta_data": {
+                "title": "Median house prices around Australia: July 2025",
+                "date": "Unknown",
+                "url": "https://www.yourmortgage.com.au/compare-home-loans/median-house-prices-around-australia",
+                "id": 16
+            },
+            "para_id": "16_2"
+        },
+        {
+            "paragraph": "If current growth rates continue - and with the prospect of more RBA rate cuts this year, Ms Conisbee believes Sydney\u2019s median house price is on track to hit $2 million by the end of 2026.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney\u2019s median house price is on track to hit $2 million by the end of 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Projected Median House Price",
+                            "value": "2000000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "15_0_0"
+                }
+            ],
+            "relatedness_score": 0.6581495071431379,
+            "article_meta_data": {
+                "title": "$2 million houses & $1 million units: Sydney's new normal",
+                "date": "2025-06-05",
+                "url": "https://australianpropertyupdate.com.au/apu/2-million-houses-1-million-units-sydneys-new-normal",
+                "id": 15
+            },
+            "para_id": "15_0"
+        },
+        {
+            "paragraph": "In Sydney, that means preparing for a median house price of $2 million - and unit prices crossing the $1 million mark - within the next 18 months.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price of $2 million in Sydney within the next 18 months.",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "2000000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "15_1_1"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Unit prices crossing the $1 million mark in Sydney within the next 18 months.",
+                    "vis_data": [
+                        {
+                            "label": "Unit Price Threshold",
+                            "value": "1000000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "15_1_2"
+                }
+            ],
+            "relatedness_score": 0.6462694022611841,
+            "article_meta_data": {
+                "title": "$2 million houses & $1 million units: Sydney's new normal",
+                "date": "2025-06-05",
+                "url": "https://australianpropertyupdate.com.au/apu/2-million-houses-1-million-units-sydneys-new-normal",
+                "id": 15
+            },
+            "para_id": "15_1"
+        },
+        {
+            "paragraph": "Sydney, long Australia\u2019s most expensive housing market, is leading the charge, with a large 1% lift in house prices in May 2025 alone, according to Neoval.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "1% lift in house prices in Sydney in May 2025.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Increase",
+                            "value": "1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "15_2_3"
+                }
+            ],
+            "relatedness_score": 0.6267263010570583,
+            "article_meta_data": {
+                "title": "$2 million houses & $1 million units: Sydney's new normal",
+                "date": "2025-06-05",
+                "url": "https://australianpropertyupdate.com.au/apu/2-million-houses-1-million-units-sydneys-new-normal",
+                "id": 15
+            },
+            "para_id": "15_2"
+        },
+        {
+            "paragraph": "The median house price in the Harbour City now sits at $1.627 million.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price in the Harbour City is $1.627 million.",
+                    "vis_data": [
+                        {
+                            "label": "Current Median House Price",
+                            "value": "1.627",
+                            "unit": "million $"
+                        }
+                    ],
+                    "fact_id": "15_3_4"
+                }
+            ],
+            "relatedness_score": 0.546979390467376,
+            "article_meta_data": {
+                "title": "$2 million houses & $1 million units: Sydney's new normal",
+                "date": "2025-06-05",
+                "url": "https://australianpropertyupdate.com.au/apu/2-million-houses-1-million-units-sydneys-new-normal",
+                "id": 15
+            },
+            "para_id": "15_3"
+        },
+        {
+            "paragraph": "With a current median of $900,289, at current momentum, million-dollar apartments are on the horizon, marking a significant shift in affordability for first-home buyers and investors alike.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Current median unit price in Sydney is $900,289.",
+                    "vis_data": [
+                        {
+                            "label": "Current Median Unit Price",
+                            "value": "900289",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "15_4_5"
+                }
+            ],
+            "relatedness_score": 0.45128773219147755,
+            "article_meta_data": {
+                "title": "$2 million houses & $1 million units: Sydney's new normal",
+                "date": "2025-06-05",
+                "url": "https://australianpropertyupdate.com.au/apu/2-million-houses-1-million-units-sydneys-new-normal",
+                "id": 15
+            },
+            "para_id": "15_4"
+        },
+        {
+            "paragraph": "Sydney home prices are expected to fall by $20,000-$80,000 next year as affordability challenges and delays in widely anticipated interest rate cuts drag the property market.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Sydney home prices are expected to fall by $20,000-$80,000 next year.",
+                    "vis_data": [
+                        {
+                            "label": "Price Fall Minimum",
+                            "value": "20000",
+                            "unit": "AUD"
+                        },
+                        {
+                            "label": "Price Fall Maximum",
+                            "value": "80000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "7_0_0"
+                }
+            ],
+            "relatedness_score": 0.6233506700399211,
+            "article_meta_data": {
+                "title": "Sydney property prices to fall by up to 5 per cent in 2025",
+                "date": "2024-11-26",
+                "url": "https://www.realestate.com.au/news/sydney-property-prices-to-fall-15-in-2025-sqm-research/",
+                "id": 7
+            },
+            "para_id": "7_0"
+        },
+        {
+            "paragraph": "Sydney\u2019s market has already been slowing for much of the spring selling season, with prices falling in regions such as the inner west and parts of the eastern suburbs. About 50 per cent of city suburbs recorded a fall in prices over the three months to October, PropTrack reported.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "About 50 per cent of city suburbs recorded a fall in prices over the three months to October.",
+                    "vis_data": [
+                        {
+                            "label": "Suburbs with Price Fall",
+                            "value": "50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_1_1"
+                }
+            ],
+            "relatedness_score": 0.5448505146526298,
+            "article_meta_data": {
+                "title": "Sydney property prices to fall by up to 5 per cent in 2025",
+                "date": "2024-11-26",
+                "url": "https://www.realestate.com.au/news/sydney-property-prices-to-fall-15-in-2025-sqm-research/",
+                "id": 7
+            },
+            "para_id": "7_1"
+        },
+        {
+            "paragraph": "SQM Research\u2019s latest Housing Boom and Bust report, which has a track record of correctly forecasting price movements, indicated city prices were on course to fall between 1 to 5 per cent over 2025.",
+            "facts": [
+                {
+                    "fact_type": "difference",
+                    "fact_content": "City prices were on course to fall between 1 to 5 per cent over 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Price Fall Minimum",
+                            "value": "1",
+                            "unit": "%"
+                        },
+                        {
+                            "label": "Price Fall Maximum",
+                            "value": "5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_2_2"
+                }
+            ],
+            "relatedness_score": 0.5391547660317487,
+            "article_meta_data": {
+                "title": "Sydney property prices to fall by up to 5 per cent in 2025",
+                "date": "2024-11-26",
+                "url": "https://www.realestate.com.au/news/sydney-property-prices-to-fall-15-in-2025-sqm-research/",
+                "id": 7
+            },
+            "para_id": "7_2"
+        },
+        {
+            "paragraph": "This kind of drop would scrub as much as $80,000 from the average value of houses given prices were already at extreme highs, with the median value of houses currently at about $1.65m.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median value of houses is currently about $1.65m.",
+                    "vis_data": [
+                        {
+                            "label": "Median House Value",
+                            "value": "1650000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "7_3_3"
+                }
+            ],
+            "relatedness_score": 0.4313940346829863,
+            "article_meta_data": {
+                "title": "Sydney property prices to fall by up to 5 per cent in 2025",
+                "date": "2024-11-26",
+                "url": "https://www.realestate.com.au/news/sydney-property-prices-to-fall-15-in-2025-sqm-research/",
+                "id": 7
+            },
+            "para_id": "7_3"
+        },
+        {
+            "paragraph": "['Domain is forecasting Australian property prices to jump to fresh record highs in 2025-26, creating more pain for first-home hopefuls.', \"According to Domain's latest Price Forecast Report, Sydney and Melbourne prices will lead the charge in the next 12 months.\", 'The median house price in Sydney is forecast to jump by another 7 per cent in 2025-26, to a staggering $1.83 million by June 2026.', 'It means the typical house price in Sydney will rise by $112,000, which is more than the average full-time worker earns before tax ($103,000).', 'The median unit price in Sydney is forecast to jump by 6 per cent in 2025-26 (up $53,000 in 12 months) to $889,000, which will be a record high.']",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Increase",
+                            "value": "7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1830000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_0_1"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The typical house price in Sydney will rise by $112,000.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Increase",
+                            "value": "112000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_0_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average full-time worker earns $103,000 before tax.",
+                    "vis_data": [
+                        {
+                            "label": "Average Full-time Earnings",
+                            "value": "103000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_0_3"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26.",
+                    "vis_data": [
+                        {
+                            "label": "Unit Price Increase",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_0_4"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months.",
+                    "vis_data": [
+                        {
+                            "label": "Unit Price Increase",
+                            "value": "53000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_0_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median unit price in Sydney is forecast to be $889,000.",
+                    "vis_data": [
+                        {
+                            "label": "Median Unit Price",
+                            "value": "889000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_0_6"
+                }
+            ],
+            "relatedness_score": 0.6542318280113657,
+            "article_meta_data": {
+                "title": "Property prices tipped to hit record highs in 2025-26",
+                "date": "2025-06-18",
+                "url": "https://www.abc.net.au/news/2025-06-19/property-prices-to-hit-record-highs-in-2026-profit-for-sellers/105432512",
+                "id": 0
+            },
+            "para_id": "0_0"
+        },
+        {
+            "paragraph": "['Domain is forecasting Australian property prices to jump to fresh record highs in 2025-26, creating more pain for first-home hopefuls.', \"According to Domain's latest Price Forecast Report, Sydney and Melbourne prices will lead the charge in the next 12 months.\", 'The median house price in Sydney is forecast to jump by another 7 per cent in 2025-26, to a staggering $1.83 million by June 2026.', 'It means the typical house price in Sydney will rise by $112,000, which is more than the average full-time worker earns before tax ($103,000).', 'The median unit price in Sydney is forecast to jump by 6 per cent in 2025-26 (up $53,000 in 12 months) to $889,000, which will be a record high.']",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Increase",
+                            "value": "7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_1_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026.",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1830000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_1_8"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The typical house price in Sydney will rise by $112,000.",
+                    "vis_data": [
+                        {
+                            "label": "House Price Increase",
+                            "value": "112000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_1_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average full-time worker earns $103,000 before tax.",
+                    "vis_data": [
+                        {
+                            "label": "Average Full-time Earnings",
+                            "value": "103000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_1_10"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26.",
+                    "vis_data": [
+                        {
+                            "label": "Unit Price Increase",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "0_1_11"
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months.",
+                    "vis_data": [
+                        {
+                            "label": "Unit Price Increase",
+                            "value": "53000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_1_12"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median unit price in Sydney is forecast to be $889,000.",
+                    "vis_data": [
+                        {
+                            "label": "Median Unit Price",
+                            "value": "889000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "0_1_13"
+                }
+            ],
+            "relatedness_score": 0.6541674727855119,
+            "article_meta_data": {
+                "title": "Property prices tipped to hit record highs in 2025-26",
+                "date": "2025-06-18",
+                "url": "https://www.abc.net.au/news/2025-06-19/property-prices-to-hit-record-highs-in-2026-profit-for-sellers/105432512",
+                "id": 0
+            },
+            "para_id": "0_1"
+        },
+        {
+            "paragraph": "The Sydney property market has proved to be incredibly resilient over recent years. After a historic period of growth over the 2021 property boom that saw median values shoot up +25.3 per cent in just 12 months, Sydney house prices corrected at a sharp rate, according toCoreLogic data. 2023 saw a sudden and unexpected turnaround, though, as home values returned to near-peak levels. The pace of growth slowed significantly towards the end of 2024, butSydney is once again on the rise in 2025.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Median values shot up +25.3 per cent in just 12 months during the 2021 property boom.",
+                    "vis_data": [
+                        {
+                            "label": "Median Value Growth 2021",
+                            "value": "25.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_0_0"
+                }
+            ],
+            "relatedness_score": 0.7666266644447193,
+            "article_meta_data": {
+                "title": "Sydney Property Market Data, Trends and Forecasts 2025",
+                "date": "2025-06-22",
+                "url": "https://www.openagent.com.au/suburb-profiles/sydney-property-market",
+                "id": 5
+            },
+            "para_id": "5_0"
+        },
+        {
+            "paragraph": "NAB's latest Sydney house price forecastnow has Sydney dwellings pushing up by just +2.7 per cent in 2025.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "NAB's forecast for Sydney dwellings is a +2.7 per cent increase in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "NAB 2025 Forecast",
+                            "value": "2.7",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_1_1"
+                }
+            ],
+            "relatedness_score": 0.6784714299545286,
+            "article_meta_data": {
+                "title": "Sydney Property Market Data, Trends and Forecasts 2025",
+                "date": "2025-06-22",
+                "url": "https://www.openagent.com.au/suburb-profiles/sydney-property-market",
+                "id": 5
+            },
+            "para_id": "5_1"
+        },
+        {
+            "paragraph": "Westpac's Sydney real estate forecastnow sees similarly steady growth for 2025 at +3.0 per cent.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Westpac's forecast for Sydney real estate is a +3.0 per cent growth in 2025.",
+                    "vis_data": [
+                        {
+                            "label": "Westpac 2025 Forecast",
+                            "value": "3.0",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_2_2"
+                }
+            ],
+            "relatedness_score": 0.6427392257852862,
+            "article_meta_data": {
+                "title": "Sydney Property Market Data, Trends and Forecasts 2025",
+                "date": "2025-06-22",
+                "url": "https://www.openagent.com.au/suburb-profiles/sydney-property-market",
+                "id": 5
+            },
+            "para_id": "5_2"
+        },
+        {
+            "paragraph": "Sydney's median unit price notched up by +0.5 per cent in May to just under $860,000. On a quarterly basis, that brings movement to +0.3 per cent, while annual change is closer to flat at -0.2 per cent. Bolstered demand for units due to rising immigration, renewed investor interest and fresh activity from first home buyers priced out of the house market or the extremely tight rental market helped to drive growth throughout 2023 and 2024.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney's median unit price notched up by +0.5 per cent in May.",
+                    "vis_data": [
+                        {
+                            "label": "May Unit Price Increase",
+                            "value": "0.5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_3_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sydney's median unit price is just under $860,000.",
+                    "vis_data": [
+                        {
+                            "label": "Median Unit Price",
+                            "value": "860000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "5_3_4"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Quarterly movement in median unit price is +0.3 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Quarterly Unit Price Movement",
+                            "value": "0.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_3_5"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Annual change in median unit price is -0.2 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Annual Unit Price Change",
+                            "value": "-0.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_3_6"
+                }
+            ],
+            "relatedness_score": 0.5935341555542639,
+            "article_meta_data": {
+                "title": "Sydney Property Market Data, Trends and Forecasts 2025",
+                "date": "2025-06-22",
+                "url": "https://www.openagent.com.au/suburb-profiles/sydney-property-market",
+                "id": 5
+            },
+            "para_id": "5_3"
+        },
+        {
+            "paragraph": "The median house price in Sydney got another +0.4 per cent boost in May, cementing a consistent upward trend that's still left quarterly gains in positive territory of +1.3 per cent. Annual price changes remain positive at +1.6 per cent and may continue to increase as last year's declines fall away.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "The median house price in Sydney got another +0.4 per cent boost in May.",
+                    "vis_data": [
+                        {
+                            "label": "May House Price Boost",
+                            "value": "0.4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_4_7"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Quarterly gains in median house price are in positive territory of +1.3 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Quarterly House Price Gain",
+                            "value": "1.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_4_8"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Annual price changes for median house price remain positive at +1.6 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Annual House Price Change",
+                            "value": "1.6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "5_4_9"
+                }
+            ],
+            "relatedness_score": 0.5746084235600352,
+            "article_meta_data": {
+                "title": "Sydney Property Market Data, Trends and Forecasts 2025",
+                "date": "2025-06-22",
+                "url": "https://www.openagent.com.au/suburb-profiles/sydney-property-market",
+                "id": 5
+            },
+            "para_id": "5_4"
+        },
+        {
+            "paragraph": "Five Dockhas emerged as one of theSydney inner west property market\u2019smost consistent property performers, with values soaring by 125% over the past decade and 47.4% growth recorded in the last five years alone.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Values in Five Dock have soared by 125% over the past decade.",
+                    "vis_data": [
+                        {
+                            "label": "Five Dock Decade Growth",
+                            "value": "125",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_0_0"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Values in Five Dock have grown by 47.4% in the last five years.",
+                    "vis_data": [
+                        {
+                            "label": "Five Dock 5-Year Growth",
+                            "value": "47.4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_0_1"
+                }
+            ],
+            "relatedness_score": 0.47867563406700175,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_0"
+        },
+        {
+            "paragraph": "Over the past decade, property values have increased by 126%, with a notable 6.42% growth in the past year alone.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Concord have increased by 126% over the past decade.",
+                    "vis_data": [
+                        {
+                            "label": "Concord Decade Growth",
+                            "value": "126",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_1_2"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Concord have grown by 6.42% in the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Concord Yearly Growth",
+                            "value": "6.42",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_1_3"
+                }
+            ],
+            "relatedness_score": 0.4681543764601668,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_1"
+        },
+        {
+            "paragraph": "Property values in the suburb have increased by 80.50% over the past decade, with a strong 9.41% rise in the last year alone\u2014highlighting its continued appeal.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in the suburb have increased by 80.50% over the past decade.",
+                    "vis_data": [
+                        {
+                            "label": "Suburb Decade Growth",
+                            "value": "80.50",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_2_4"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in the suburb have risen by 9.41% in the last year.",
+                    "vis_data": [
+                        {
+                            "label": "Suburb Yearly Growth",
+                            "value": "9.41",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_2_5"
+                }
+            ],
+            "relatedness_score": 0.4631645118364228,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_2"
+        },
+        {
+            "paragraph": "The suburb has seen 40.20% growth in property values over the past five years.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in the suburb have grown by 40.20% over the past five years.",
+                    "vis_data": [
+                        {
+                            "label": "Abbotsford 5-Year Growth",
+                            "value": "40.20",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_3_6"
+                }
+            ],
+            "relatedness_score": 0.4588072380340492,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_3"
+        },
+        {
+            "paragraph": "Marrickville\u2019s unit market has recorded a remarkable 125% growth over the past decade, with a solid 7.25% increase in the past year alone.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Marrickville\u2019s unit market has grown by 125% over the past decade.",
+                    "vis_data": [
+                        {
+                            "label": "Marrickville Decade Growth",
+                            "value": "125",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_4_7"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Marrickville\u2019s unit market has increased by 7.25% in the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Marrickville Yearly Growth",
+                            "value": "7.25",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_4_8"
+                }
+            ],
+            "relatedness_score": 0.4565900756499355,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_4"
+        },
+        {
+            "paragraph": "Croydon has experienced outstanding growth, with property values increasing by 163% over the past decade. In just the past year, prices have risen by 20.3%, highlighting the suburb\u2019s growing appeal.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Croydon have increased by 163% over the past decade.",
+                    "vis_data": [
+                        {
+                            "label": "Croydon Decade Growth",
+                            "value": "163",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_5_9"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Croydon have risen by 20.3% in the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Croydon Yearly Growth",
+                            "value": "20.3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_5_10"
+                }
+            ],
+            "relatedness_score": 0.4475002886264907,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_5"
+        },
+        {
+            "paragraph": "Median Unit Price: $920,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Dulwich Hill is $920,000.",
+                    "vis_data": [
+                        {
+                            "label": "Dulwich Hill Median Unit Price",
+                            "value": "920000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_6_11"
+                }
+            ],
+            "relatedness_score": 0.44010698688245664,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_6"
+        },
+        {
+            "paragraph": "The suburb has seen a strong 14.2% growth in property values over the past year, along with a solid 5.1% rental yield, offering potential for strong rental returns.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Strathfield have grown by 14.2% over the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Strathfield Yearly Growth",
+                            "value": "14.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_7_12"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Strathfield has a rental yield of 5.1%.",
+                    "vis_data": [
+                        {
+                            "label": "Strathfield Rental Yield",
+                            "value": "5.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_7_13"
+                }
+            ],
+            "relatedness_score": 0.43501193396609594,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_7"
+        },
+        {
+            "paragraph": "Median Unit Price: $820,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Ashfield is $820,000.",
+                    "vis_data": [
+                        {
+                            "label": "Ashfield Median Unit Price",
+                            "value": "820000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_8_14"
+                }
+            ],
+            "relatedness_score": 0.43019328608048624,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_8"
+        },
+        {
+            "paragraph": "Median House Price: $2,200,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Rozelle is $2,200,000.",
+                    "vis_data": [
+                        {
+                            "label": "Rozelle Median House Price",
+                            "value": "2200000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_9_15"
+                }
+            ],
+            "relatedness_score": 0.42909125552462424,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_9"
+        },
+        {
+            "paragraph": "Median House Price: $2,200,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Annandale is $2,200,000.",
+                    "vis_data": [
+                        {
+                            "label": "Annandale Median House Price",
+                            "value": "2200000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_10_16"
+                }
+            ],
+            "relatedness_score": 0.42909125552462424,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_10"
+        },
+        {
+            "paragraph": "Median House Price: $2,200,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Dulwich Hill is $2,200,000.",
+                    "vis_data": [
+                        {
+                            "label": "Dulwich Hill Median House Price",
+                            "value": "2200000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_11_17"
+                }
+            ],
+            "relatedness_score": 0.42909125552462424,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_11"
+        },
+        {
+            "paragraph": "Median Unit Price: $910,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Marrickville is $910,000.",
+                    "vis_data": [
+                        {
+                            "label": "Marrickville Median Unit Price",
+                            "value": "910000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_12_18"
+                }
+            ],
+            "relatedness_score": 0.42743756600854,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_12"
+        },
+        {
+            "paragraph": "Median Unit Price: $750,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Strathfield is $750,000.",
+                    "vis_data": [
+                        {
+                            "label": "Strathfield Median Unit Price",
+                            "value": "750000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_13_19"
+                }
+            ],
+            "relatedness_score": 0.4264495228095707,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_13"
+        },
+        {
+            "paragraph": "Median House Price: $2,100,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Marrickville is $2,100,000.",
+                    "vis_data": [
+                        {
+                            "label": "Marrickville Median House Price",
+                            "value": "2100000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_14_20"
+                }
+            ],
+            "relatedness_score": 0.4201217972814282,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_14"
+        },
+        {
+            "paragraph": "Median House Price: $2,100,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Ashfield is $2,100,000.",
+                    "vis_data": [
+                        {
+                            "label": "Ashfield Median House Price",
+                            "value": "2100000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_15_21"
+                }
+            ],
+            "relatedness_score": 0.4201217972814282,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_15"
+        },
+        {
+            "paragraph": "Median Unit Price: $800,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Croydon is $800,000.",
+                    "vis_data": [
+                        {
+                            "label": "Croydon Median Unit Price",
+                            "value": "800000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_16_22"
+                }
+            ],
+            "relatedness_score": 0.41898340640661036,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_16"
+        },
+        {
+            "paragraph": "Median Unit Price: $1,050,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Annandale is $1,050,000.",
+                    "vis_data": [
+                        {
+                            "label": "Annandale Median Unit Price",
+                            "value": "1050000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_17_23"
+                }
+            ],
+            "relatedness_score": 0.41787976530885373,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_17"
+        },
+        {
+            "paragraph": "Over the past year, the suburb has experienced 7.14% growth, with property values rising by a substantial 71.11% over the past decade.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Ashfield have grown by 7.14% over the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Ashfield Yearly Growth",
+                            "value": "7.14",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_18_24"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Ashfield have increased by 71.11% over the past decade.",
+                    "vis_data": [
+                        {
+                            "label": "Ashfield Decade Growth",
+                            "value": "71.11",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_18_25"
+                }
+            ],
+            "relatedness_score": 0.4105892176257423,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_18"
+        },
+        {
+            "paragraph": "Median House Price: $2,400,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price is $2,400,000.",
+                    "vis_data": [
+                        {
+                            "label": "Croydon Median House Price",
+                            "value": "2400000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_19_26"
+                }
+            ],
+            "relatedness_score": 0.40434080382865334,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_19"
+        },
+        {
+            "paragraph": "Median House Price: $3,900,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Strathfield is $3,900,000.",
+                    "vis_data": [
+                        {
+                            "label": "Strathfield Median House Price",
+                            "value": "3900000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_20_27"
+                }
+            ],
+            "relatedness_score": 0.40379545495134583,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_20"
+        },
+        {
+            "paragraph": "Median House Price: $2,600,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Five Dock is $2,600,000.",
+                    "vis_data": [
+                        {
+                            "label": "Five Dock Median House Price",
+                            "value": "2600000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_21_28"
+                }
+            ],
+            "relatedness_score": 0.4023759416927343,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_21"
+        },
+        {
+            "paragraph": "Median House Price: $2,900,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Concord is $2,900,000.",
+                    "vis_data": [
+                        {
+                            "label": "Concord Median House Price",
+                            "value": "2900000",
+                            "unit": ""
+                        }
+                    ],
+                    "fact_id": "6_22_29"
+                }
+            ],
+            "relatedness_score": 0.4019713375720262,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_22"
+        },
+        {
+            "paragraph": "Median Unit Price: $1,400,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Rozelle is $1,400,000.",
+                    "vis_data": [
+                        {
+                            "label": "Rozelle Median Unit Price",
+                            "value": "1400000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_23_30"
+                }
+            ],
+            "relatedness_score": 0.4016093113691891,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_23"
+        },
+        {
+            "paragraph": "Median Unit Price: $1,100,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Five Dock is $1,100,000.",
+                    "vis_data": [
+                        {
+                            "label": "Five Dock Median Unit Price",
+                            "value": "1100000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_24_31"
+                }
+            ],
+            "relatedness_score": 0.3998897270934614,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_24"
+        },
+        {
+            "paragraph": "Median Unit Price: $1,100,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Concord is $1,100,000.",
+                    "vis_data": [
+                        {
+                            "label": "Concord Median Unit Price",
+                            "value": "1100000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "6_25_32"
+                }
+            ],
+            "relatedness_score": 0.39981725843684623,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_25"
+        },
+        {
+            "paragraph": "Median House Price: $3,200,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median House Price in Abbotsford is $3,200,000.",
+                    "vis_data": [
+                        {
+                            "label": "Abbotsford Median House Price",
+                            "value": "3200000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_26_33"
+                }
+            ],
+            "relatedness_score": 0.3996794332787208,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_26"
+        },
+        {
+            "paragraph": "Median Unit Price: $1,350,000",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median Unit Price in Abbotsford is $1,350,000.",
+                    "vis_data": [
+                        {
+                            "label": "Abbotsford Median Unit Price",
+                            "value": "1350000",
+                            "unit": "AUD"
+                        }
+                    ],
+                    "fact_id": "6_27_34"
+                }
+            ],
+            "relatedness_score": 0.3953408518845025,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_27"
+        },
+        {
+            "paragraph": "Dulwich Hill has recorded solid growth, with property values rising by 8.80% over the past year.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Dulwich Hill have risen by 8.80% over the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Dulwich Hill Yearly Growth",
+                            "value": "8.80",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_28_35"
+                }
+            ],
+            "relatedness_score": 0.3945576966860831,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_28"
+        },
+        {
+            "paragraph": "Rozellehas recorded a 4.10% rise in property values over the past year and a strong 76.92% increase over the last decade, reflecting its steady long-term performance.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Rozelle have risen by 4.10% over the past year.",
+                    "vis_data": [
+                        {
+                            "label": "Rozelle Yearly Growth",
+                            "value": "4.10",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_29_36"
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Property values in Rozelle have increased by 76.92% over the last decade.",
+                    "vis_data": [
+                        {
+                            "label": "Rozelle Decade Growth",
+                            "value": "76.92",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "6_29_37"
+                }
+            ],
+            "relatedness_score": 0.39017707824482395,
+            "article_meta_data": {
+                "title": "Top 10 Property Hotspots 2025 \u2013 Sydney's Inner West",
+                "date": "2025-05-16",
+                "url": "https://www.propertybuyer.com.au/blog/sydneys-inner-west-top-10-property-hotspots-revealed-houses-units-may-2025",
+                "id": 6
+            },
+            "para_id": "6_29"
+        },
+        {
+            "paragraph": "While Sydney\u2019s 2025 median house price growth is forecast at around 3 per cent, these 10 suburbs are set to give investors a capital gain of over 5 per cent in the next six months.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sydney\u2019s 2025 median house price growth is forecast at around 3 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney 2025 House Price Growth",
+                            "value": "3",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "10 suburbs are set to give investors a capital gain of over 5 per cent in the next six months.",
+                    "vis_data": [
+                        {
+                            "label": "Suburbs Capital Gain",
+                            "value": "5.1",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_0_1"
+                }
+            ],
+            "relatedness_score": 0.6775955599724469,
+            "article_meta_data": {
+                "title": "The 10 fastest-growing suburbs in Sydney for 2025",
+                "date": "2025-03-11",
+                "url": "https://www.smartpropertyinvestment.com.au/hotspots/26465-the-10-fastest-growing-suburbs-in-sydney-for-2025",
+                "id": 4
+            },
+            "para_id": "4_0"
+        },
+        {
+            "paragraph": "Here are the top 10 performing suburbs in Sydney (from Quintile 1 to 5): Median house price: $1,155,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $905,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,200,000 Median price growth over past 12 months: 12 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,301,000 Median price growth over past 12 months: 12 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,700,000 Median price growth over past 12 months: 10 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,420,000 Median price growth over past 12 months: 8 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,700,000 Median price growth over past 12 months: 6 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,970,000 Median price growth over past 12 months: 4 per cent Forecast growth over next six months: 3\u20134 per cent Median house price: $2,700,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $2,230,000 Median price growth over past 12 months: 6 per cent Forecast growth over next six months: Over 5 per cent",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,155,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1155000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_2"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 9 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "9",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_3"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_4"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $905,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "905000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_5"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 9 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "9",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_6"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_7"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,200,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1200000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_8"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 12 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "12",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_9"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_10"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,301,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1301000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_11"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 12 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "12",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_12"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_13"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,700,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1700000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_14"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 10 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "10",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_15"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_16"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,420,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1420000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_17"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 8 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_18"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_19"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,700,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1700000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_20"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 6 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_21"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_22"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $1,970,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "1970000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_23"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 4 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_24"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: 3\u20134 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "3-4",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_25"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $2,700,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "2700000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_26"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 9 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "9",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_27"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_28"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median house price: $2,230,000",
+                    "vis_data": [
+                        {
+                            "label": "Median House Price",
+                            "value": "2230000",
+                            "unit": "$"
+                        }
+                    ],
+                    "fact_id": "4_1_29"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Median price growth over past 12 months: 6 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Price Growth 12 Months",
+                            "value": "6",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_30"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Forecast growth over next six months: Over 5 per cent",
+                    "vis_data": [
+                        {
+                            "label": "Forecast Growth 6 Months",
+                            "value": "5+",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_1_31"
+                }
+            ],
+            "relatedness_score": 0.5789307122311659,
+            "article_meta_data": {
+                "title": "The 10 fastest-growing suburbs in Sydney for 2025",
+                "date": "2025-03-11",
+                "url": "https://www.smartpropertyinvestment.com.au/hotspots/26465-the-10-fastest-growing-suburbs-in-sydney-for-2025",
+                "id": 4
+            },
+            "para_id": "4_1"
+        },
+        {
+            "paragraph": "Shore Financial CEO, Theo Chambers, said the housing market in Greater Sydney has remained stable over the past year, with the median house price rising 5.2 per cent in 2024.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The median house price in Greater Sydney rose 5.2 per cent in 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney 2024 House Price Rise",
+                            "value": "5.2",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_2_32"
+                }
+            ],
+            "relatedness_score": 0.5242564292015736,
+            "article_meta_data": {
+                "title": "The 10 fastest-growing suburbs in Sydney for 2025",
+                "date": "2025-03-11",
+                "url": "https://www.smartpropertyinvestment.com.au/hotspots/26465-the-10-fastest-growing-suburbs-in-sydney-for-2025",
+                "id": 4
+            },
+            "para_id": "4_2"
+        },
+        {
+            "paragraph": "Chambers said that house prices in the top five locations are forecast to grow over 5 per cent in the six months to August.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "House prices in the top five locations are forecast to grow over 5 per cent in the six months to August.",
+                    "vis_data": [
+                        {
+                            "label": "Top 5 Locations Growth",
+                            "value": "over 5",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "4_3_33"
+                }
+            ],
+            "relatedness_score": 0.435340219223847,
+            "article_meta_data": {
+                "title": "The 10 fastest-growing suburbs in Sydney for 2025",
+                "date": "2025-03-11",
+                "url": "https://www.smartpropertyinvestment.com.au/hotspots/26465-the-10-fastest-growing-suburbs-in-sydney-for-2025",
+                "id": 4
+            },
+            "para_id": "4_3"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "3_0",
+            "paragraph": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year as high borrowing costs keep a lid on home values, according toa new report by SQM Research."
+        },
+        {
+            "para_id": "8_0",
+            "paragraph": "Sydney:increases 4-6 per cent (houses and units)Sydney is expected to continue in 2025 as buyers\u2019 market, which is great news if you\u2019re a first home buyer."
+        },
+        {
+            "para_id": "10_0",
+            "paragraph": "The housing market has seen a substantial increase in 2024, with house values in Sydney rising by 4.5%. According to ANZ\u2019s bank forecast, there\u2019s a potential 5% increase in Sydney house prices by 2025. Buyers can expect a consistent rise in house price in Australia Sydney, driven by increased buyer demand and supply shortages."
+        },
+        {
+            "para_id": "1_0",
+            "paragraph": "In Sydney, the median house price is forecast to rise 7 per cent to $1.83 million, a jump of $112,000 \u2014 \u201cmore than the national average annual salary,\u201d according to the report."
+        },
+        {
+            "para_id": "2_0",
+            "paragraph": "However, this trend differs across the capitals. In the past year house price growth (2.98%) has outpaced unit price growth (1.50%) in Sydney, though the opposite is true in Brisbane where unit prices have lifted 13.79% vs. 9.57% for houses in the same period."
+        },
+        {
+            "para_id": "2_1",
+            "paragraph": "Melbourne (+0.67%) and Sydney (+0.50%) led price gains in February, while Hobart (-0.03%) was the only capital to see prices fall. Melbourne led prices gains for both houses and units across the capital cities, for the first time since February 2020 for houses and September 2020 for units."
+        },
+        {
+            "para_id": "9_0",
+            "paragraph": "Unit prices are forecast to rise by 5 per cent in Sydney and Perth in 2025."
+        },
+        {
+            "para_id": "9_1",
+            "paragraph": "According to KPMG\u2019s latestResidential Property Market Outlook, house prices across Australia are expected to rise 3.3 per cent over the year, followed by a stronger 6 per cent in 2026."
+        },
+        {
+            "para_id": "9_2",
+            "paragraph": "Canberra and Melbourne are expected to rise by 3.5 per cent, Sydney by 3.3 per cent, and Brisbane by 3.1 per cent."
+        },
+        {
+            "para_id": "16_0",
+            "paragraph": "Greater Sydney's property market remains one of the most expensive in Australia, with a median house price of $1,496,985 and a median unit price of $863,257. Combined, the city's median dwelling price sits at $1,210,222."
+        },
+        {
+            "para_id": "16_1",
+            "paragraph": "While this reflects a 0.6% increase compared to June 2025, Sydney property values have seen a 56.7% increase over the past decade."
+        },
+        {
+            "para_id": "16_2",
+            "paragraph": "Among the suburbs experiencing the fastest price growth in the past 12 months areSt Marys (+8.4%),Richmond - Windsor (+6.7%), andFairfield (+6.5%)."
+        },
+        {
+            "para_id": "15_0",
+            "paragraph": "If current growth rates continue - and with the prospect of more RBA rate cuts this year, Ms Conisbee believes Sydney\u2019s median house price is on track to hit $2 million by the end of 2026."
+        },
+        {
+            "para_id": "15_1",
+            "paragraph": "In Sydney, that means preparing for a median house price of $2 million - and unit prices crossing the $1 million mark - within the next 18 months."
+        },
+        {
+            "para_id": "15_2",
+            "paragraph": "Sydney, long Australia\u2019s most expensive housing market, is leading the charge, with a large 1% lift in house prices in May 2025 alone, according to Neoval."
+        },
+        {
+            "para_id": "15_3",
+            "paragraph": "The median house price in the Harbour City now sits at $1.627 million."
+        },
+        {
+            "para_id": "15_4",
+            "paragraph": "With a current median of $900,289, at current momentum, million-dollar apartments are on the horizon, marking a significant shift in affordability for first-home buyers and investors alike."
+        },
+        {
+            "para_id": "7_0",
+            "paragraph": "Sydney home prices are expected to fall by $20,000-$80,000 next year as affordability challenges and delays in widely anticipated interest rate cuts drag the property market."
+        },
+        {
+            "para_id": "7_1",
+            "paragraph": "Sydney\u2019s market has already been slowing for much of the spring selling season, with prices falling in regions such as the inner west and parts of the eastern suburbs. About 50 per cent of city suburbs recorded a fall in prices over the three months to October, PropTrack reported."
+        },
+        {
+            "para_id": "7_2",
+            "paragraph": "SQM Research\u2019s latest Housing Boom and Bust report, which has a track record of correctly forecasting price movements, indicated city prices were on course to fall between 1 to 5 per cent over 2025."
+        },
+        {
+            "para_id": "7_3",
+            "paragraph": "This kind of drop would scrub as much as $80,000 from the average value of houses given prices were already at extreme highs, with the median value of houses currently at about $1.65m."
+        },
+        {
+            "para_id": "0_0",
+            "paragraph": "['Domain is forecasting Australian property prices to jump to fresh record highs in 2025-26, creating more pain for first-home hopefuls.', \"According to Domain's latest Price Forecast Report, Sydney and Melbourne prices will lead the charge in the next 12 months.\", 'The median house price in Sydney is forecast to jump by another 7 per cent in 2025-26, to a staggering $1.83 million by June 2026.', 'It means the typical house price in Sydney will rise by $112,000, which is more than the average full-time worker earns before tax ($103,000).', 'The median unit price in Sydney is forecast to jump by 6 per cent in 2025-26 (up $53,000 in 12 months) to $889,000, which will be a record high.']"
+        },
+        {
+            "para_id": "0_1",
+            "paragraph": "['Domain is forecasting Australian property prices to jump to fresh record highs in 2025-26, creating more pain for first-home hopefuls.', \"According to Domain's latest Price Forecast Report, Sydney and Melbourne prices will lead the charge in the next 12 months.\", 'The median house price in Sydney is forecast to jump by another 7 per cent in 2025-26, to a staggering $1.83 million by June 2026.', 'It means the typical house price in Sydney will rise by $112,000, which is more than the average full-time worker earns before tax ($103,000).', 'The median unit price in Sydney is forecast to jump by 6 per cent in 2025-26 (up $53,000 in 12 months) to $889,000, which will be a record high.']"
+        },
+        {
+            "para_id": "5_0",
+            "paragraph": "The Sydney property market has proved to be incredibly resilient over recent years. After a historic period of growth over the 2021 property boom that saw median values shoot up +25.3 per cent in just 12 months, Sydney house prices corrected at a sharp rate, according toCoreLogic data. 2023 saw a sudden and unexpected turnaround, though, as home values returned to near-peak levels. The pace of growth slowed significantly towards the end of 2024, butSydney is once again on the rise in 2025."
+        },
+        {
+            "para_id": "5_1",
+            "paragraph": "NAB's latest Sydney house price forecastnow has Sydney dwellings pushing up by just +2.7 per cent in 2025."
+        },
+        {
+            "para_id": "5_2",
+            "paragraph": "Westpac's Sydney real estate forecastnow sees similarly steady growth for 2025 at +3.0 per cent."
+        },
+        {
+            "para_id": "5_3",
+            "paragraph": "Sydney's median unit price notched up by +0.5 per cent in May to just under $860,000. On a quarterly basis, that brings movement to +0.3 per cent, while annual change is closer to flat at -0.2 per cent. Bolstered demand for units due to rising immigration, renewed investor interest and fresh activity from first home buyers priced out of the house market or the extremely tight rental market helped to drive growth throughout 2023 and 2024."
+        },
+        {
+            "para_id": "5_4",
+            "paragraph": "The median house price in Sydney got another +0.4 per cent boost in May, cementing a consistent upward trend that's still left quarterly gains in positive territory of +1.3 per cent. Annual price changes remain positive at +1.6 per cent and may continue to increase as last year's declines fall away."
+        },
+        {
+            "para_id": "6_0",
+            "paragraph": "Five Dockhas emerged as one of theSydney inner west property market\u2019smost consistent property performers, with values soaring by 125% over the past decade and 47.4% growth recorded in the last five years alone."
+        },
+        {
+            "para_id": "6_1",
+            "paragraph": "Over the past decade, property values have increased by 126%, with a notable 6.42% growth in the past year alone."
+        },
+        {
+            "para_id": "6_2",
+            "paragraph": "Property values in the suburb have increased by 80.50% over the past decade, with a strong 9.41% rise in the last year alone\u2014highlighting its continued appeal."
+        },
+        {
+            "para_id": "6_3",
+            "paragraph": "The suburb has seen 40.20% growth in property values over the past five years."
+        },
+        {
+            "para_id": "6_4",
+            "paragraph": "Marrickville\u2019s unit market has recorded a remarkable 125% growth over the past decade, with a solid 7.25% increase in the past year alone."
+        },
+        {
+            "para_id": "6_5",
+            "paragraph": "Croydon has experienced outstanding growth, with property values increasing by 163% over the past decade. In just the past year, prices have risen by 20.3%, highlighting the suburb\u2019s growing appeal."
+        },
+        {
+            "para_id": "6_6",
+            "paragraph": "Median Unit Price: $920,000"
+        },
+        {
+            "para_id": "6_7",
+            "paragraph": "The suburb has seen a strong 14.2% growth in property values over the past year, along with a solid 5.1% rental yield, offering potential for strong rental returns."
+        },
+        {
+            "para_id": "6_8",
+            "paragraph": "Median Unit Price: $820,000"
+        },
+        {
+            "para_id": "6_9",
+            "paragraph": "Median House Price: $2,200,000"
+        },
+        {
+            "para_id": "6_10",
+            "paragraph": "Median House Price: $2,200,000"
+        },
+        {
+            "para_id": "6_11",
+            "paragraph": "Median House Price: $2,200,000"
+        },
+        {
+            "para_id": "6_12",
+            "paragraph": "Median Unit Price: $910,000"
+        },
+        {
+            "para_id": "6_13",
+            "paragraph": "Median Unit Price: $750,000"
+        },
+        {
+            "para_id": "6_14",
+            "paragraph": "Median House Price: $2,100,000"
+        },
+        {
+            "para_id": "6_15",
+            "paragraph": "Median House Price: $2,100,000"
+        },
+        {
+            "para_id": "6_16",
+            "paragraph": "Median Unit Price: $800,000"
+        },
+        {
+            "para_id": "6_17",
+            "paragraph": "Median Unit Price: $1,050,000"
+        },
+        {
+            "para_id": "6_18",
+            "paragraph": "Over the past year, the suburb has experienced 7.14% growth, with property values rising by a substantial 71.11% over the past decade."
+        },
+        {
+            "para_id": "6_19",
+            "paragraph": "Median House Price: $2,400,000"
+        },
+        {
+            "para_id": "6_20",
+            "paragraph": "Median House Price: $3,900,000"
+        },
+        {
+            "para_id": "6_21",
+            "paragraph": "Median House Price: $2,600,000"
+        },
+        {
+            "para_id": "6_22",
+            "paragraph": "Median House Price: $2,900,000"
+        },
+        {
+            "para_id": "6_23",
+            "paragraph": "Median Unit Price: $1,400,000"
+        },
+        {
+            "para_id": "6_24",
+            "paragraph": "Median Unit Price: $1,100,000"
+        },
+        {
+            "para_id": "6_25",
+            "paragraph": "Median Unit Price: $1,100,000"
+        },
+        {
+            "para_id": "6_26",
+            "paragraph": "Median House Price: $3,200,000"
+        },
+        {
+            "para_id": "6_27",
+            "paragraph": "Median Unit Price: $1,350,000"
+        },
+        {
+            "para_id": "6_28",
+            "paragraph": "Dulwich Hill has recorded solid growth, with property values rising by 8.80% over the past year."
+        },
+        {
+            "para_id": "6_29",
+            "paragraph": "Rozellehas recorded a 4.10% rise in property values over the past year and a strong 76.92% increase over the last decade, reflecting its steady long-term performance."
+        },
+        {
+            "para_id": "4_0",
+            "paragraph": "While Sydney\u2019s 2025 median house price growth is forecast at around 3 per cent, these 10 suburbs are set to give investors a capital gain of over 5 per cent in the next six months."
+        },
+        {
+            "para_id": "4_1",
+            "paragraph": "Here are the top 10 performing suburbs in Sydney (from Quintile 1 to 5): Median house price: $1,155,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $905,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,200,000 Median price growth over past 12 months: 12 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,301,000 Median price growth over past 12 months: 12 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,700,000 Median price growth over past 12 months: 10 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,420,000 Median price growth over past 12 months: 8 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,700,000 Median price growth over past 12 months: 6 per cent Forecast growth over next six months: Over 5 per cent Median house price: $1,970,000 Median price growth over past 12 months: 4 per cent Forecast growth over next six months: 3\u20134 per cent Median house price: $2,700,000 Median price growth over past 12 months: 9 per cent Forecast growth over next six months: Over 5 per cent Median house price: $2,230,000 Median price growth over past 12 months: 6 per cent Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "para_id": "4_2",
+            "paragraph": "Shore Financial CEO, Theo Chambers, said the housing market in Greater Sydney has remained stable over the past year, with the median house price rising 5.2 per cent in 2024."
+        },
+        {
+            "para_id": "4_3",
+            "paragraph": "Chambers said that house prices in the top five locations are forecast to grow over 5 per cent in the six months to August."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "3_0_0",
+            "fact_content": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year."
+        },
+        {
+            "fact_id": "8_0_0",
+            "fact_content": "Sydney housing prices are expected to increase 4-6 per cent."
+        },
+        {
+            "fact_id": "10_0_0",
+            "fact_content": "House values in Sydney rose by 4.5% in 2024."
+        },
+        {
+            "fact_id": "10_0_1",
+            "fact_content": "Potential 5% increase in Sydney house prices by 2025 according to ANZ\u2019s bank forecast."
+        },
+        {
+            "fact_id": "1_0_0",
+            "fact_content": "The median house price in Sydney is forecast to rise 7 per cent."
+        },
+        {
+            "fact_id": "1_0_1",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million."
+        },
+        {
+            "fact_id": "1_0_2",
+            "fact_content": "The median house price in Sydney is forecast to jump by $112,000."
+        },
+        {
+            "fact_id": "2_0_0",
+            "fact_content": "House price growth (2.98%) has outpaced unit price growth (1.50%) in Sydney in the past year."
+        },
+        {
+            "fact_id": "2_0_1",
+            "fact_content": "Unit prices have lifted 13.79% in Brisbane in the past year."
+        },
+        {
+            "fact_id": "2_0_2",
+            "fact_content": "House prices have lifted 9.57% in Brisbane in the past year."
+        },
+        {
+            "fact_id": "2_1_3",
+            "fact_content": "Melbourne (+0.67%) led price gains in February."
+        },
+        {
+            "fact_id": "2_1_4",
+            "fact_content": "Sydney (+0.50%) led price gains in February."
+        },
+        {
+            "fact_id": "2_1_5",
+            "fact_content": "Hobart (-0.03%) was the only capital to see prices fall."
+        },
+        {
+            "fact_id": "9_0_0",
+            "fact_content": "Unit prices are forecast to rise by 5% in Sydney in 2025."
+        },
+        {
+            "fact_id": "9_0_1",
+            "fact_content": "Unit prices are forecast to rise by 5% in Perth in 2025."
+        },
+        {
+            "fact_id": "9_1_2",
+            "fact_content": "House prices across Australia are expected to rise 3.3% over the year."
+        },
+        {
+            "fact_id": "9_1_3",
+            "fact_content": "House prices across Australia are expected to rise 6% in 2026."
+        },
+        {
+            "fact_id": "9_2_4",
+            "fact_content": "Canberra and Melbourne are expected to rise by 3.5%."
+        },
+        {
+            "fact_id": "9_2_5",
+            "fact_content": "Sydney is expected to rise by 3.3%."
+        },
+        {
+            "fact_id": "9_2_6",
+            "fact_content": "Brisbane is expected to rise by 3.1%."
+        },
+        {
+            "fact_id": "16_0_0",
+            "fact_content": "Median house price is $1,496,985."
+        },
+        {
+            "fact_id": "16_0_1",
+            "fact_content": "Median unit price is $863,257."
+        },
+        {
+            "fact_id": "16_0_2",
+            "fact_content": "Median dwelling price is $1,210,222."
+        },
+        {
+            "fact_id": "16_1_3",
+            "fact_content": "0.6% increase compared to June 2025."
+        },
+        {
+            "fact_id": "16_1_4",
+            "fact_content": "56.7% increase over the past decade."
+        },
+        {
+            "fact_id": "16_2_5",
+            "fact_content": "St Marys experienced an 8.4% price growth in the past 12 months."
+        },
+        {
+            "fact_id": "16_2_6",
+            "fact_content": "Richmond - Windsor experienced a 6.7% price growth in the past 12 months."
+        },
+        {
+            "fact_id": "16_2_7",
+            "fact_content": "Fairfield experienced a 6.5% price growth in the past 12 months."
+        },
+        {
+            "fact_id": "15_0_0",
+            "fact_content": "Sydney\u2019s median house price is on track to hit $2 million by the end of 2026."
+        },
+        {
+            "fact_id": "15_1_1",
+            "fact_content": "Median house price of $2 million in Sydney within the next 18 months."
+        },
+        {
+            "fact_id": "15_1_2",
+            "fact_content": "Unit prices crossing the $1 million mark in Sydney within the next 18 months."
+        },
+        {
+            "fact_id": "15_2_3",
+            "fact_content": "1% lift in house prices in Sydney in May 2025."
+        },
+        {
+            "fact_id": "15_3_4",
+            "fact_content": "Median house price in the Harbour City is $1.627 million."
+        },
+        {
+            "fact_id": "15_4_5",
+            "fact_content": "Current median unit price in Sydney is $900,289."
+        },
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "Sydney home prices are expected to fall by $20,000-$80,000 next year."
+        },
+        {
+            "fact_id": "7_1_1",
+            "fact_content": "About 50 per cent of city suburbs recorded a fall in prices over the three months to October."
+        },
+        {
+            "fact_id": "7_2_2",
+            "fact_content": "City prices were on course to fall between 1 to 5 per cent over 2025."
+        },
+        {
+            "fact_id": "7_3_3",
+            "fact_content": "The median value of houses is currently about $1.65m."
+        },
+        {
+            "fact_id": "0_0_0",
+            "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26."
+        },
+        {
+            "fact_id": "0_0_1",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026."
+        },
+        {
+            "fact_id": "0_0_2",
+            "fact_content": "The typical house price in Sydney will rise by $112,000."
+        },
+        {
+            "fact_id": "0_0_3",
+            "fact_content": "The average full-time worker earns $103,000 before tax."
+        },
+        {
+            "fact_id": "0_0_4",
+            "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26."
+        },
+        {
+            "fact_id": "0_0_5",
+            "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months."
+        },
+        {
+            "fact_id": "0_0_6",
+            "fact_content": "The median unit price in Sydney is forecast to be $889,000."
+        },
+        {
+            "fact_id": "0_1_7",
+            "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26."
+        },
+        {
+            "fact_id": "0_1_8",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026."
+        },
+        {
+            "fact_id": "0_1_9",
+            "fact_content": "The typical house price in Sydney will rise by $112,000."
+        },
+        {
+            "fact_id": "0_1_10",
+            "fact_content": "The average full-time worker earns $103,000 before tax."
+        },
+        {
+            "fact_id": "0_1_11",
+            "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26."
+        },
+        {
+            "fact_id": "0_1_12",
+            "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months."
+        },
+        {
+            "fact_id": "0_1_13",
+            "fact_content": "The median unit price in Sydney is forecast to be $889,000."
+        },
+        {
+            "fact_id": "5_0_0",
+            "fact_content": "Median values shot up +25.3 per cent in just 12 months during the 2021 property boom."
+        },
+        {
+            "fact_id": "5_1_1",
+            "fact_content": "NAB's forecast for Sydney dwellings is a +2.7 per cent increase in 2025."
+        },
+        {
+            "fact_id": "5_2_2",
+            "fact_content": "Westpac's forecast for Sydney real estate is a +3.0 per cent growth in 2025."
+        },
+        {
+            "fact_id": "5_3_3",
+            "fact_content": "Sydney's median unit price notched up by +0.5 per cent in May."
+        },
+        {
+            "fact_id": "5_3_4",
+            "fact_content": "Sydney's median unit price is just under $860,000."
+        },
+        {
+            "fact_id": "5_3_5",
+            "fact_content": "Quarterly movement in median unit price is +0.3 per cent."
+        },
+        {
+            "fact_id": "5_3_6",
+            "fact_content": "Annual change in median unit price is -0.2 per cent."
+        },
+        {
+            "fact_id": "5_4_7",
+            "fact_content": "The median house price in Sydney got another +0.4 per cent boost in May."
+        },
+        {
+            "fact_id": "5_4_8",
+            "fact_content": "Quarterly gains in median house price are in positive territory of +1.3 per cent."
+        },
+        {
+            "fact_id": "5_4_9",
+            "fact_content": "Annual price changes for median house price remain positive at +1.6 per cent."
+        },
+        {
+            "fact_id": "6_0_0",
+            "fact_content": "Values in Five Dock have soared by 125% over the past decade."
+        },
+        {
+            "fact_id": "6_0_1",
+            "fact_content": "Values in Five Dock have grown by 47.4% in the last five years."
+        },
+        {
+            "fact_id": "6_1_2",
+            "fact_content": "Property values in Concord have increased by 126% over the past decade."
+        },
+        {
+            "fact_id": "6_1_3",
+            "fact_content": "Property values in Concord have grown by 6.42% in the past year."
+        },
+        {
+            "fact_id": "6_2_4",
+            "fact_content": "Property values in the suburb have increased by 80.50% over the past decade."
+        },
+        {
+            "fact_id": "6_2_5",
+            "fact_content": "Property values in the suburb have risen by 9.41% in the last year."
+        },
+        {
+            "fact_id": "6_3_6",
+            "fact_content": "Property values in the suburb have grown by 40.20% over the past five years."
+        },
+        {
+            "fact_id": "6_4_7",
+            "fact_content": "Marrickville\u2019s unit market has grown by 125% over the past decade."
+        },
+        {
+            "fact_id": "6_4_8",
+            "fact_content": "Marrickville\u2019s unit market has increased by 7.25% in the past year."
+        },
+        {
+            "fact_id": "6_5_9",
+            "fact_content": "Property values in Croydon have increased by 163% over the past decade."
+        },
+        {
+            "fact_id": "6_5_10",
+            "fact_content": "Property values in Croydon have risen by 20.3% in the past year."
+        },
+        {
+            "fact_id": "6_6_11",
+            "fact_content": "Median Unit Price in Dulwich Hill is $920,000."
+        },
+        {
+            "fact_id": "6_7_12",
+            "fact_content": "Property values in Strathfield have grown by 14.2% over the past year."
+        },
+        {
+            "fact_id": "6_7_13",
+            "fact_content": "Strathfield has a rental yield of 5.1%."
+        },
+        {
+            "fact_id": "6_8_14",
+            "fact_content": "Median Unit Price in Ashfield is $820,000."
+        },
+        {
+            "fact_id": "6_9_15",
+            "fact_content": "Median House Price in Rozelle is $2,200,000."
+        },
+        {
+            "fact_id": "6_10_16",
+            "fact_content": "Median House Price in Annandale is $2,200,000."
+        },
+        {
+            "fact_id": "6_11_17",
+            "fact_content": "Median House Price in Dulwich Hill is $2,200,000."
+        },
+        {
+            "fact_id": "6_12_18",
+            "fact_content": "Median Unit Price in Marrickville is $910,000."
+        },
+        {
+            "fact_id": "6_13_19",
+            "fact_content": "Median Unit Price in Strathfield is $750,000."
+        },
+        {
+            "fact_id": "6_14_20",
+            "fact_content": "Median House Price in Marrickville is $2,100,000."
+        },
+        {
+            "fact_id": "6_15_21",
+            "fact_content": "Median House Price in Ashfield is $2,100,000."
+        },
+        {
+            "fact_id": "6_16_22",
+            "fact_content": "Median Unit Price in Croydon is $800,000."
+        },
+        {
+            "fact_id": "6_17_23",
+            "fact_content": "Median Unit Price in Annandale is $1,050,000."
+        },
+        {
+            "fact_id": "6_18_24",
+            "fact_content": "Property values in Ashfield have grown by 7.14% over the past year."
+        },
+        {
+            "fact_id": "6_18_25",
+            "fact_content": "Property values in Ashfield have increased by 71.11% over the past decade."
+        },
+        {
+            "fact_id": "6_19_26",
+            "fact_content": "Median House Price is $2,400,000."
+        },
+        {
+            "fact_id": "6_20_27",
+            "fact_content": "Median House Price in Strathfield is $3,900,000."
+        },
+        {
+            "fact_id": "6_21_28",
+            "fact_content": "Median House Price in Five Dock is $2,600,000."
+        },
+        {
+            "fact_id": "6_22_29",
+            "fact_content": "Median House Price in Concord is $2,900,000."
+        },
+        {
+            "fact_id": "6_23_30",
+            "fact_content": "Median Unit Price in Rozelle is $1,400,000."
+        },
+        {
+            "fact_id": "6_24_31",
+            "fact_content": "Median Unit Price in Five Dock is $1,100,000."
+        },
+        {
+            "fact_id": "6_25_32",
+            "fact_content": "Median Unit Price in Concord is $1,100,000."
+        },
+        {
+            "fact_id": "6_26_33",
+            "fact_content": "Median House Price in Abbotsford is $3,200,000."
+        },
+        {
+            "fact_id": "6_27_34",
+            "fact_content": "Median Unit Price in Abbotsford is $1,350,000."
+        },
+        {
+            "fact_id": "6_28_35",
+            "fact_content": "Property values in Dulwich Hill have risen by 8.80% over the past year."
+        },
+        {
+            "fact_id": "6_29_36",
+            "fact_content": "Property values in Rozelle have risen by 4.10% over the past year."
+        },
+        {
+            "fact_id": "6_29_37",
+            "fact_content": "Property values in Rozelle have increased by 76.92% over the last decade."
+        },
+        {
+            "fact_id": "4_0_0",
+            "fact_content": "Sydney\u2019s 2025 median house price growth is forecast at around 3 per cent."
+        },
+        {
+            "fact_id": "4_0_1",
+            "fact_content": "10 suburbs are set to give investors a capital gain of over 5 per cent in the next six months."
+        },
+        {
+            "fact_id": "4_1_2",
+            "fact_content": "Median house price: $1,155,000"
+        },
+        {
+            "fact_id": "4_1_3",
+            "fact_content": "Median price growth over past 12 months: 9 per cent"
+        },
+        {
+            "fact_id": "4_1_4",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_5",
+            "fact_content": "Median house price: $905,000"
+        },
+        {
+            "fact_id": "4_1_6",
+            "fact_content": "Median price growth over past 12 months: 9 per cent"
+        },
+        {
+            "fact_id": "4_1_7",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_8",
+            "fact_content": "Median house price: $1,200,000"
+        },
+        {
+            "fact_id": "4_1_9",
+            "fact_content": "Median price growth over past 12 months: 12 per cent"
+        },
+        {
+            "fact_id": "4_1_10",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_11",
+            "fact_content": "Median house price: $1,301,000"
+        },
+        {
+            "fact_id": "4_1_12",
+            "fact_content": "Median price growth over past 12 months: 12 per cent"
+        },
+        {
+            "fact_id": "4_1_13",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_14",
+            "fact_content": "Median house price: $1,700,000"
+        },
+        {
+            "fact_id": "4_1_15",
+            "fact_content": "Median price growth over past 12 months: 10 per cent"
+        },
+        {
+            "fact_id": "4_1_16",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_17",
+            "fact_content": "Median house price: $1,420,000"
+        },
+        {
+            "fact_id": "4_1_18",
+            "fact_content": "Median price growth over past 12 months: 8 per cent"
+        },
+        {
+            "fact_id": "4_1_19",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_20",
+            "fact_content": "Median house price: $1,700,000"
+        },
+        {
+            "fact_id": "4_1_21",
+            "fact_content": "Median price growth over past 12 months: 6 per cent"
+        },
+        {
+            "fact_id": "4_1_22",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_23",
+            "fact_content": "Median house price: $1,970,000"
+        },
+        {
+            "fact_id": "4_1_24",
+            "fact_content": "Median price growth over past 12 months: 4 per cent"
+        },
+        {
+            "fact_id": "4_1_25",
+            "fact_content": "Forecast growth over next six months: 3\u20134 per cent"
+        },
+        {
+            "fact_id": "4_1_26",
+            "fact_content": "Median house price: $2,700,000"
+        },
+        {
+            "fact_id": "4_1_27",
+            "fact_content": "Median price growth over past 12 months: 9 per cent"
+        },
+        {
+            "fact_id": "4_1_28",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_1_29",
+            "fact_content": "Median house price: $2,230,000"
+        },
+        {
+            "fact_id": "4_1_30",
+            "fact_content": "Median price growth over past 12 months: 6 per cent"
+        },
+        {
+            "fact_id": "4_1_31",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent"
+        },
+        {
+            "fact_id": "4_2_32",
+            "fact_content": "The median house price in Greater Sydney rose 5.2 per cent in 2024."
+        },
+        {
+            "fact_id": "4_3_33",
+            "fact_content": "House prices in the top five locations are forecast to grow over 5 per cent in the six months to August."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "trend",
+            "fact_content": "Sydney and Melbourne property prices are forecast to drop by as much as 5% next year.",
+            "vis_data": [
+                {
+                    "label": "Sydney & Melbourne Price Drop",
+                    "value": "5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "3_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Sydney housing prices are expected to increase 4-6 per cent.",
+            "vis_data": [
+                {
+                    "label": "Sydney Housing Price Increase",
+                    "value": "4",
+                    "unit": "%"
+                },
+                {
+                    "label": "Sydney Housing Price Increase",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "8_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "House values in Sydney rose by 4.5% in 2024.",
+            "vis_data": [
+                {
+                    "label": "Sydney House Value Increase 2024",
+                    "value": "4.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "10_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Potential 5% increase in Sydney house prices by 2025 according to ANZ\u2019s bank forecast.",
+            "vis_data": [
+                {
+                    "label": "Sydney House Price Forecast 2025",
+                    "value": "5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "10_0_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The median house price in Sydney is forecast to rise 7 per cent.",
+            "vis_data": [
+                {
+                    "label": "Sydney House Price Increase",
+                    "value": "7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "1_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million.",
+            "vis_data": [
+                {
+                    "label": "Sydney Median House Price",
+                    "value": "1830000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "1_0_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The median house price in Sydney is forecast to jump by $112,000.",
+            "vis_data": [
+                {
+                    "label": "Sydney House Price Increase",
+                    "value": "112000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "1_0_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "House price growth (2.98%) has outpaced unit price growth (1.50%) in Sydney in the past year.",
+            "vis_data": [
+                {
+                    "label": "Sydney House Price Growth",
+                    "value": "2.98",
+                    "unit": "%"
+                },
+                {
+                    "label": "Sydney Unit Price Growth",
+                    "value": "1.50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Unit prices have lifted 13.79% in Brisbane in the past year.",
+            "vis_data": [
+                {
+                    "label": "Brisbane Unit Price Growth",
+                    "value": "13.79",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_0_1"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "House prices have lifted 9.57% in Brisbane in the past year.",
+            "vis_data": [
+                {
+                    "label": "Brisbane House Price Growth",
+                    "value": "9.57",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_0_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Melbourne (+0.67%) led price gains in February.",
+            "vis_data": [
+                {
+                    "label": "Melbourne Price Gain",
+                    "value": "0.67",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_3"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Sydney (+0.50%) led price gains in February.",
+            "vis_data": [
+                {
+                    "label": "Sydney Price Gain",
+                    "value": "0.50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_4"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Hobart (-0.03%) was the only capital to see prices fall.",
+            "vis_data": [
+                {
+                    "label": "Hobart Price Fall",
+                    "value": "-0.03",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "2_1_5"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Unit prices are forecast to rise by 5% in Sydney in 2025.",
+            "vis_data": [
+                {
+                    "label": "Sydney Unit Price Rise 2025",
+                    "value": "5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Unit prices are forecast to rise by 5% in Perth in 2025.",
+            "vis_data": [
+                {
+                    "label": "Perth Unit Price Rise 2025",
+                    "value": "5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_0_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "House prices across Australia are expected to rise 3.3% over the year.",
+            "vis_data": [
+                {
+                    "label": "House Price Rise 2025",
+                    "value": "3.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_1_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "House prices across Australia are expected to rise 6% in 2026.",
+            "vis_data": [
+                {
+                    "label": "House Price Rise 2026",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_1_3"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Canberra and Melbourne are expected to rise by 3.5%.",
+            "vis_data": [
+                {
+                    "label": "Canberra & Melbourne Rise",
+                    "value": "3.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_2_4"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Sydney is expected to rise by 3.3%.",
+            "vis_data": [
+                {
+                    "label": "Sydney Rise",
+                    "value": "3.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_2_5"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Brisbane is expected to rise by 3.1%.",
+            "vis_data": [
+                {
+                    "label": "Brisbane Rise",
+                    "value": "3.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "9_2_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price is $1,496,985.",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1496985",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "16_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median unit price is $863,257.",
+            "vis_data": [
+                {
+                    "label": "Median Unit Price",
+                    "value": "863257",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "16_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median dwelling price is $1,210,222.",
+            "vis_data": [
+                {
+                    "label": "Median Dwelling Price",
+                    "value": "1210222",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "16_0_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "0.6% increase compared to June 2025.",
+            "vis_data": [
+                {
+                    "label": "Increase Since June 2025",
+                    "value": "0.6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_1_3"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "56.7% increase over the past decade.",
+            "vis_data": [
+                {
+                    "label": "Decade Increase",
+                    "value": "56.7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_1_4"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "St Marys experienced an 8.4% price growth in the past 12 months.",
+            "vis_data": [
+                {
+                    "label": "St Marys Growth",
+                    "value": "8.4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_2_5"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Richmond - Windsor experienced a 6.7% price growth in the past 12 months.",
+            "vis_data": [
+                {
+                    "label": "Richmond - Windsor Growth",
+                    "value": "6.7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_2_6"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Fairfield experienced a 6.5% price growth in the past 12 months.",
+            "vis_data": [
+                {
+                    "label": "Fairfield Growth",
+                    "value": "6.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "16_2_7"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Sydney\u2019s median house price is on track to hit $2 million by the end of 2026.",
+            "vis_data": [
+                {
+                    "label": "Projected Median House Price",
+                    "value": "2000000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "15_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price of $2 million in Sydney within the next 18 months.",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "2000000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "15_1_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Unit prices crossing the $1 million mark in Sydney within the next 18 months.",
+            "vis_data": [
+                {
+                    "label": "Unit Price Threshold",
+                    "value": "1000000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "15_1_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "1% lift in house prices in Sydney in May 2025.",
+            "vis_data": [
+                {
+                    "label": "House Price Increase",
+                    "value": "1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "15_2_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price in the Harbour City is $1.627 million.",
+            "vis_data": [
+                {
+                    "label": "Current Median House Price",
+                    "value": "1.627",
+                    "unit": "million $"
+                }
+            ],
+            "fact_id": "15_3_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Current median unit price in Sydney is $900,289.",
+            "vis_data": [
+                {
+                    "label": "Current Median Unit Price",
+                    "value": "900289",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "15_4_5"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "Sydney home prices are expected to fall by $20,000-$80,000 next year.",
+            "vis_data": [
+                {
+                    "label": "Price Fall Minimum",
+                    "value": "20000",
+                    "unit": "AUD"
+                },
+                {
+                    "label": "Price Fall Maximum",
+                    "value": "80000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "7_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "About 50 per cent of city suburbs recorded a fall in prices over the three months to October.",
+            "vis_data": [
+                {
+                    "label": "Suburbs with Price Fall",
+                    "value": "50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_1_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "City prices were on course to fall between 1 to 5 per cent over 2025.",
+            "vis_data": [
+                {
+                    "label": "Price Fall Minimum",
+                    "value": "1",
+                    "unit": "%"
+                },
+                {
+                    "label": "Price Fall Maximum",
+                    "value": "5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_2_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median value of houses is currently about $1.65m.",
+            "vis_data": [
+                {
+                    "label": "Median House Value",
+                    "value": "1650000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "7_3_3"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26.",
+            "vis_data": [
+                {
+                    "label": "House Price Increase",
+                    "value": "7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026.",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1830000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_0_1"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The typical house price in Sydney will rise by $112,000.",
+            "vis_data": [
+                {
+                    "label": "House Price Increase",
+                    "value": "112000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_0_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The average full-time worker earns $103,000 before tax.",
+            "vis_data": [
+                {
+                    "label": "Average Full-time Earnings",
+                    "value": "103000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_0_3"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26.",
+            "vis_data": [
+                {
+                    "label": "Unit Price Increase",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_0_4"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months.",
+            "vis_data": [
+                {
+                    "label": "Unit Price Increase",
+                    "value": "53000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_0_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median unit price in Sydney is forecast to be $889,000.",
+            "vis_data": [
+                {
+                    "label": "Median Unit Price",
+                    "value": "889000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_0_6"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The median house price in Sydney is forecast to jump by 7% in 2025-26.",
+            "vis_data": [
+                {
+                    "label": "House Price Increase",
+                    "value": "7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_1_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median house price in Sydney is forecast to be $1.83 million by June 2026.",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1830000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_1_8"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The typical house price in Sydney will rise by $112,000.",
+            "vis_data": [
+                {
+                    "label": "House Price Increase",
+                    "value": "112000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_1_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The average full-time worker earns $103,000 before tax.",
+            "vis_data": [
+                {
+                    "label": "Average Full-time Earnings",
+                    "value": "103000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_1_10"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The median unit price in Sydney is forecast to jump by 6% in 2025-26.",
+            "vis_data": [
+                {
+                    "label": "Unit Price Increase",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "0_1_11"
+        },
+        {
+            "fact_type": "difference",
+            "fact_content": "The median unit price in Sydney is forecast to increase by $53,000 in 12 months.",
+            "vis_data": [
+                {
+                    "label": "Unit Price Increase",
+                    "value": "53000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_1_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median unit price in Sydney is forecast to be $889,000.",
+            "vis_data": [
+                {
+                    "label": "Median Unit Price",
+                    "value": "889000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "0_1_13"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Median values shot up +25.3 per cent in just 12 months during the 2021 property boom.",
+            "vis_data": [
+                {
+                    "label": "Median Value Growth 2021",
+                    "value": "25.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "NAB's forecast for Sydney dwellings is a +2.7 per cent increase in 2025.",
+            "vis_data": [
+                {
+                    "label": "NAB 2025 Forecast",
+                    "value": "2.7",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_1_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Westpac's forecast for Sydney real estate is a +3.0 per cent growth in 2025.",
+            "vis_data": [
+                {
+                    "label": "Westpac 2025 Forecast",
+                    "value": "3.0",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_2_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Sydney's median unit price notched up by +0.5 per cent in May.",
+            "vis_data": [
+                {
+                    "label": "May Unit Price Increase",
+                    "value": "0.5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_3_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Sydney's median unit price is just under $860,000.",
+            "vis_data": [
+                {
+                    "label": "Median Unit Price",
+                    "value": "860000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "5_3_4"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Quarterly movement in median unit price is +0.3 per cent.",
+            "vis_data": [
+                {
+                    "label": "Quarterly Unit Price Movement",
+                    "value": "0.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_3_5"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Annual change in median unit price is -0.2 per cent.",
+            "vis_data": [
+                {
+                    "label": "Annual Unit Price Change",
+                    "value": "-0.2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_3_6"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "The median house price in Sydney got another +0.4 per cent boost in May.",
+            "vis_data": [
+                {
+                    "label": "May House Price Boost",
+                    "value": "0.4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_4_7"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Quarterly gains in median house price are in positive territory of +1.3 per cent.",
+            "vis_data": [
+                {
+                    "label": "Quarterly House Price Gain",
+                    "value": "1.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_4_8"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Annual price changes for median house price remain positive at +1.6 per cent.",
+            "vis_data": [
+                {
+                    "label": "Annual House Price Change",
+                    "value": "1.6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "5_4_9"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Values in Five Dock have soared by 125% over the past decade.",
+            "vis_data": [
+                {
+                    "label": "Five Dock Decade Growth",
+                    "value": "125",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_0_0"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Values in Five Dock have grown by 47.4% in the last five years.",
+            "vis_data": [
+                {
+                    "label": "Five Dock 5-Year Growth",
+                    "value": "47.4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_0_1"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in Concord have increased by 126% over the past decade.",
+            "vis_data": [
+                {
+                    "label": "Concord Decade Growth",
+                    "value": "126",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_1_2"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in Concord have grown by 6.42% in the past year.",
+            "vis_data": [
+                {
+                    "label": "Concord Yearly Growth",
+                    "value": "6.42",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_1_3"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in the suburb have increased by 80.50% over the past decade.",
+            "vis_data": [
+                {
+                    "label": "Suburb Decade Growth",
+                    "value": "80.50",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_2_4"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in the suburb have risen by 9.41% in the last year.",
+            "vis_data": [
+                {
+                    "label": "Suburb Yearly Growth",
+                    "value": "9.41",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_2_5"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in the suburb have grown by 40.20% over the past five years.",
+            "vis_data": [
+                {
+                    "label": "Abbotsford 5-Year Growth",
+                    "value": "40.20",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_3_6"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Marrickville\u2019s unit market has grown by 125% over the past decade.",
+            "vis_data": [
+                {
+                    "label": "Marrickville Decade Growth",
+                    "value": "125",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_4_7"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Marrickville\u2019s unit market has increased by 7.25% in the past year.",
+            "vis_data": [
+                {
+                    "label": "Marrickville Yearly Growth",
+                    "value": "7.25",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_4_8"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in Croydon have increased by 163% over the past decade.",
+            "vis_data": [
+                {
+                    "label": "Croydon Decade Growth",
+                    "value": "163",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_5_9"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in Croydon have risen by 20.3% in the past year.",
+            "vis_data": [
+                {
+                    "label": "Croydon Yearly Growth",
+                    "value": "20.3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_5_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median Unit Price in Dulwich Hill is $920,000.",
+            "vis_data": [
+                {
+                    "label": "Dulwich Hill Median Unit Price",
+                    "value": "920000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_6_11"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in Strathfield have grown by 14.2% over the past year.",
+            "vis_data": [
+                {
+                    "label": "Strathfield Yearly Growth",
+                    "value": "14.2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_7_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Strathfield has a rental yield of 5.1%.",
+            "vis_data": [
+                {
+                    "label": "Strathfield Rental Yield",
+                    "value": "5.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_7_13"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median Unit Price in Ashfield is $820,000.",
+            "vis_data": [
+                {
+                    "label": "Ashfield Median Unit Price",
+                    "value": "820000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_8_14"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median House Price in Rozelle is $2,200,000.",
+            "vis_data": [
+                {
+                    "label": "Rozelle Median House Price",
+                    "value": "2200000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_9_15"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median House Price in Annandale is $2,200,000.",
+            "vis_data": [
+                {
+                    "label": "Annandale Median House Price",
+                    "value": "2200000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_10_16"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median House Price in Dulwich Hill is $2,200,000.",
+            "vis_data": [
+                {
+                    "label": "Dulwich Hill Median House Price",
+                    "value": "2200000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_11_17"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median Unit Price in Marrickville is $910,000.",
+            "vis_data": [
+                {
+                    "label": "Marrickville Median Unit Price",
+                    "value": "910000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_12_18"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median Unit Price in Strathfield is $750,000.",
+            "vis_data": [
+                {
+                    "label": "Strathfield Median Unit Price",
+                    "value": "750000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_13_19"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median House Price in Marrickville is $2,100,000.",
+            "vis_data": [
+                {
+                    "label": "Marrickville Median House Price",
+                    "value": "2100000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_14_20"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median House Price in Ashfield is $2,100,000.",
+            "vis_data": [
+                {
+                    "label": "Ashfield Median House Price",
+                    "value": "2100000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_15_21"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median Unit Price in Croydon is $800,000.",
+            "vis_data": [
+                {
+                    "label": "Croydon Median Unit Price",
+                    "value": "800000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_16_22"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median Unit Price in Annandale is $1,050,000.",
+            "vis_data": [
+                {
+                    "label": "Annandale Median Unit Price",
+                    "value": "1050000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_17_23"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in Ashfield have grown by 7.14% over the past year.",
+            "vis_data": [
+                {
+                    "label": "Ashfield Yearly Growth",
+                    "value": "7.14",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_18_24"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in Ashfield have increased by 71.11% over the past decade.",
+            "vis_data": [
+                {
+                    "label": "Ashfield Decade Growth",
+                    "value": "71.11",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_18_25"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median House Price is $2,400,000.",
+            "vis_data": [
+                {
+                    "label": "Croydon Median House Price",
+                    "value": "2400000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_19_26"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median House Price in Strathfield is $3,900,000.",
+            "vis_data": [
+                {
+                    "label": "Strathfield Median House Price",
+                    "value": "3900000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_20_27"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median House Price in Five Dock is $2,600,000.",
+            "vis_data": [
+                {
+                    "label": "Five Dock Median House Price",
+                    "value": "2600000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_21_28"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median House Price in Concord is $2,900,000.",
+            "vis_data": [
+                {
+                    "label": "Concord Median House Price",
+                    "value": "2900000",
+                    "unit": ""
+                }
+            ],
+            "fact_id": "6_22_29"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median Unit Price in Rozelle is $1,400,000.",
+            "vis_data": [
+                {
+                    "label": "Rozelle Median Unit Price",
+                    "value": "1400000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_23_30"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median Unit Price in Five Dock is $1,100,000.",
+            "vis_data": [
+                {
+                    "label": "Five Dock Median Unit Price",
+                    "value": "1100000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_24_31"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median Unit Price in Concord is $1,100,000.",
+            "vis_data": [
+                {
+                    "label": "Concord Median Unit Price",
+                    "value": "1100000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "6_25_32"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median House Price in Abbotsford is $3,200,000.",
+            "vis_data": [
+                {
+                    "label": "Abbotsford Median House Price",
+                    "value": "3200000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_26_33"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median Unit Price in Abbotsford is $1,350,000.",
+            "vis_data": [
+                {
+                    "label": "Abbotsford Median Unit Price",
+                    "value": "1350000",
+                    "unit": "AUD"
+                }
+            ],
+            "fact_id": "6_27_34"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in Dulwich Hill have risen by 8.80% over the past year.",
+            "vis_data": [
+                {
+                    "label": "Dulwich Hill Yearly Growth",
+                    "value": "8.80",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_28_35"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in Rozelle have risen by 4.10% over the past year.",
+            "vis_data": [
+                {
+                    "label": "Rozelle Yearly Growth",
+                    "value": "4.10",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_29_36"
+        },
+        {
+            "fact_type": "trend",
+            "fact_content": "Property values in Rozelle have increased by 76.92% over the last decade.",
+            "vis_data": [
+                {
+                    "label": "Rozelle Decade Growth",
+                    "value": "76.92",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "6_29_37"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Sydney\u2019s 2025 median house price growth is forecast at around 3 per cent.",
+            "vis_data": [
+                {
+                    "label": "Sydney 2025 House Price Growth",
+                    "value": "3",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "10 suburbs are set to give investors a capital gain of over 5 per cent in the next six months.",
+            "vis_data": [
+                {
+                    "label": "Suburbs Capital Gain",
+                    "value": "5.1",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_0_1"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,155,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1155000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_2"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 9 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "9",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_4"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $905,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "905000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_5"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 9 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "9",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_6"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_7"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,200,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1200000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_8"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 12 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "12",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_9"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_10"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,301,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1301000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_11"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 12 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "12",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_12"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_13"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,700,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1700000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_14"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 10 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "10",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_15"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_16"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,420,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1420000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_17"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 8 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_18"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_19"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,700,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1700000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_20"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 6 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_21"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_22"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $1,970,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "1970000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_23"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 4 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_24"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: 3\u20134 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "3-4",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_25"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $2,700,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "2700000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_26"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 9 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "9",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_27"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_28"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median house price: $2,230,000",
+            "vis_data": [
+                {
+                    "label": "Median House Price",
+                    "value": "2230000",
+                    "unit": "$"
+                }
+            ],
+            "fact_id": "4_1_29"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Median price growth over past 12 months: 6 per cent",
+            "vis_data": [
+                {
+                    "label": "Price Growth 12 Months",
+                    "value": "6",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_30"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Forecast growth over next six months: Over 5 per cent",
+            "vis_data": [
+                {
+                    "label": "Forecast Growth 6 Months",
+                    "value": "5+",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_1_31"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "The median house price in Greater Sydney rose 5.2 per cent in 2024.",
+            "vis_data": [
+                {
+                    "label": "Sydney 2024 House Price Rise",
+                    "value": "5.2",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_2_32"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "House prices in the top five locations are forecast to grow over 5 per cent in the six months to August.",
+            "vis_data": [
+                {
+                    "label": "Top 5 Locations Growth",
+                    "value": "over 5",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "4_3_33"
+        }
+    ]
+}

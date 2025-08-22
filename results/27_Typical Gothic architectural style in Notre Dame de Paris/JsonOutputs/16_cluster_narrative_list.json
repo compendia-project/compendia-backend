@@ -1,0 +1,194 @@
+[
+    {
+        "cluster_id": 3,
+        "number_of_facts": 5,
+        "facts": [
+            {
+                "merged_id": "3_4",
+                "merged_content": "The initial construction of the nave of Notre-Dame.",
+                "order_id": 1,
+                "narrative": "The story of Notre-Dame begins with the initial construction of its nave, a foundational element that set the stage for the cathedral's grandeur."
+            },
+            {
+                "merged_id": "3_3",
+                "merged_content": "The completion and construction time of cathedrals.",
+                "order_id": 2,
+                "narrative": "Cathedrals, including Notre-Dame, often took centuries to complete, reflecting the dedication and craftsmanship of generations."
+            },
+            {
+                "merged_id": "3_1",
+                "merged_content": "The dimensions of Notre Dame and its features.",
+                "order_id": 3,
+                "narrative": "Notre-Dame stands as a testament to architectural brilliance, with its impressive dimensions and intricate features captivating visitors."
+            },
+            {
+                "merged_id": "3_0",
+                "merged_content": "The facade and rose window dimensions of the cathedral.",
+                "order_id": 4,
+                "narrative": "The cathedral's facade and rose window are particularly striking, with their dimensions contributing to the iconic silhouette of Notre-Dame."
+            },
+            {
+                "merged_id": "3_2",
+                "merged_content": "The features of the contemporary organ in the cathedral.",
+                "order_id": 5,
+                "narrative": "Inside, the contemporary organ adds a modern touch to the historic ambiance, blending past and present in harmonious sound."
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "number_of_facts": 3,
+        "facts": [
+            {
+                "merged_id": "5_2",
+                "merged_content": "Notre-Dame's vaults peaking at 32m high was the tallest building at that time.",
+                "order_id": 1,
+                "narrative": "In its time, Notre-Dame stood as a marvel of architectural achievement, with its vaults soaring to a height of 32 meters, making it the tallest building of its era."
+            },
+            {
+                "merged_id": "5_0",
+                "merged_content": "The facade measures 43.5 meters in width and the cathedral is roughly 128 meters in length.",
+                "order_id": 2,
+                "narrative": "The grandeur of Notre-Dame is further emphasized by its impressive dimensions, with a facade stretching 43.5 meters wide and the cathedral extending approximately 128 meters in length."
+            },
+            {
+                "merged_id": "5_1",
+                "merged_content": "The contemporary organ features almost eight thousand pipes.",
+                "order_id": 3,
+                "narrative": "Adding to its magnificence, the cathedral houses a contemporary organ with nearly eight thousand pipes, a testament to its rich musical heritage."
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "number_of_facts": 2,
+        "facts": [
+            {
+                "merged_id": "2_0",
+                "merged_content": "Comparison of architectural measurements of various cathedrals.",
+                "order_id": 1,
+                "narrative": "The architectural grandeur of cathedrals is often measured by their impressive dimensions. A comparison of various cathedrals reveals the diversity in their architectural measurements, showcasing the unique design philosophies and structural ambitions of their creators."
+            },
+            {
+                "merged_id": "2_1",
+                "merged_content": "Design timeline comparison between Notre-Dame and Soissons cathedrals.",
+                "order_id": 2,
+                "narrative": "The design timelines of Notre-Dame and Soissons cathedrals offer a fascinating glimpse into the evolution of Gothic architecture. By comparing these timelines, one can appreciate the distinct historical contexts and architectural innovations that shaped each cathedral's development."
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "number_of_facts": 4,
+        "facts": [
+            {
+                "merged_id": "1_0",
+                "merged_content": "The cathedral originally rose on four levels and now rises on only three levels.",
+                "order_id": 1,
+                "narrative": "Notre Dame Cathedral, a marvel of Gothic architecture, originally stood with four majestic levels, but today it rises with only three."
+            },
+            {
+                "merged_id": "1_1",
+                "merged_content": "Notre Dame is 35 meters high under the vault.",
+                "order_id": 2,
+                "narrative": "Beneath its soaring vaults, Notre Dame reaches a height of 35 meters, showcasing its grandeur and architectural prowess."
+            },
+            {
+                "merged_id": "1_2",
+                "merged_content": "The south rose in the transept is 12.9 metres (42 ft) in diameter.",
+                "order_id": 3,
+                "narrative": "The south rose window, a stunning feature of the transept, spans an impressive 12.9 meters in diameter, captivating visitors with its intricate design."
+            },
+            {
+                "merged_id": "1_3",
+                "merged_content": "Iron staples in Notre-Dame were designed about 40 years before iron reinforcements in Chartres or Bourges cathedral.",
+                "order_id": 4,
+                "narrative": "Innovative for its time, Notre Dame employed iron staples in its construction, predating similar reinforcements in Chartres and Bourges by about 40 years."
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "number_of_facts": 6,
+        "facts": [
+            {
+                "merged_id": "6_0",
+                "merged_content": "The nave of Notre-Dame consists of ten bays.",
+                "order_id": 1,
+                "narrative": "The architectural grandeur of Notre-Dame begins with its nave, which is composed of ten bays, showcasing the cathedral's vast and intricate design."
+            },
+            {
+                "merged_id": "6_2",
+                "merged_content": "Notre Dame's transept is 48 meters wide and its towers are 69 meters high.",
+                "order_id": 2,
+                "narrative": "The transept of Notre-Dame stretches 48 meters wide, while its iconic towers rise majestically to 69 meters, contributing to the cathedral's imposing silhouette."
+            },
+            {
+                "merged_id": "6_1",
+                "merged_content": "Two rose windows span 43 ft in diameter.",
+                "order_id": 3,
+                "narrative": "Adding to its splendor, Notre-Dame features two magnificent rose windows, each spanning an impressive 43 feet in diameter, capturing the light in a kaleidoscope of colors."
+            },
+            {
+                "merged_id": "6_3",
+                "merged_content": "The two rose windows that adorn each of the arms of the transept have a diameter of 13 meters.",
+                "order_id": 4,
+                "narrative": "The arms of the transept are adorned with two additional rose windows, each with a diameter of 13 meters, enhancing the cathedral's artistic and architectural beauty."
+            },
+            {
+                "merged_id": "6_5",
+                "merged_content": "Cross-ribs of the outer ambulatory peaked at almost 11 m high in Notre-Dame de Paris.",
+                "order_id": 5,
+                "narrative": "The outer ambulatory of Notre-Dame is marked by cross-ribs that peak at nearly 11 meters high, demonstrating the cathedral's intricate Gothic engineering."
+            },
+            {
+                "merged_id": "6_4",
+                "merged_content": "The abbey church of Cluny was 29.50 m high.",
+                "order_id": 6,
+                "narrative": "In comparison, the abbey church of Cluny, once the largest church in Christendom, stood at 29.50 meters high, highlighting Notre-Dame's towering presence in the realm of medieval architecture."
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "number_of_facts": 3,
+        "facts": [
+            {
+                "merged_id": "4_0",
+                "merged_content": "Dimensions of Notre-Dame's nave.",
+                "order_id": 1,
+                "narrative": "The nave of Notre-Dame is a marvel of architectural design, showcasing impressive dimensions that contribute to its grandeur."
+            },
+            {
+                "merged_id": "4_1",
+                "merged_content": "Comparison of architectural features.",
+                "order_id": 2,
+                "narrative": "When comparing architectural features, Notre-Dame stands out with its unique design elements that distinguish it from other cathedrals."
+            },
+            {
+                "merged_id": "4_2",
+                "merged_content": "Vault height of Laon, Senlis, and Sens cathedrals.",
+                "order_id": 3,
+                "narrative": "The vault heights of Laon, Senlis, and Sens cathedrals offer a fascinating contrast, highlighting the diversity in Gothic architecture."
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "number_of_facts": 2,
+        "facts": [
+            {
+                "merged_id": "7_1",
+                "merged_content": "The choir area was built from 1163 to 1177 CE.",
+                "order_id": 1,
+                "narrative": "The construction of the choir area of the cathedral began in 1163 and was completed in 1177 CE, marking the early stages of this architectural marvel."
+            },
+            {
+                "merged_id": "7_0",
+                "merged_content": "The rose window on the front above the portal measures 9.6 meters in diameter. The twin towers are 69 meters in height. With the claire-voie surrounding it, the south rose in the transept has a total diameter of 19 meters (62 ft). It was given to the cathedral by King Louis IX of France, known as Saint Louis.",
+                "order_id": 2,
+                "narrative": "The cathedral's grandeur is further exemplified by its stunning rose windows and towering structures. The front rose window, measuring 9.6 meters in diameter, and the south rose in the transept, with a total diameter of 19 meters, were gifts from King Louis IX of France, adding to the cathedral's historical and architectural significance."
+            }
+        ]
+    }
+]

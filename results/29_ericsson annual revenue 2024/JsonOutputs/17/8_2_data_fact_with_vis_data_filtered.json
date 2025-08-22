@@ -1,0 +1,54 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "We forecast Ericsson Revenues to be $24.8 billion for the fiscal year 2024, flat y-o-y. Given our revenues and EPS forecast changes, we have revisedEricsson\u2019s Valuationto around $8 per share, based on a $0.50 expected EPS and a 15.3x P/E multiple for the fiscal year 2024. The company\u2019s stock appears appropriately priced at the current levels (Dec 30).",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson Revenues forecasted to be $24.8 billion for the fiscal year 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Ericsson Revenues 2024",
+                            "value": "24.8",
+                            "unit": "billion USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Ericsson\u2019s Valuation revised to around $8 per share for the fiscal year 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Ericsson Valuation 2024",
+                            "value": "8",
+                            "unit": "USD per share"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Expected EPS is $0.50 for the fiscal year 2024.",
+                    "vis_data": [
+                        {
+                            "label": "Expected EPS 2024",
+                            "value": "0.50",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "P/E multiple is 15.3x for the fiscal year 2024.",
+                    "vis_data": [
+                        {
+                            "label": "P/E Multiple 2024",
+                            "value": "15.3",
+                            "unit": "x"
+                        }
+                    ]
+                }
+            ],
+            "relatedness_score": 0.7023714695442217
+        }
+    ]
+}

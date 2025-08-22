@@ -1,0 +1,22 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "Although Sweden has made strides in reaching the 90-90-90 target set by UNAIDS, there is a HIV epidemic among migrants.Eighty percent of those diagnosed with HIV in Sweden are migrants(defined as originating outside the country in which they are diagnosed). There is evidence to suggest that a substantially higher proportion of migrants are infected with HIV after their arrival in Sweden than what has been estimated using routine clinical reports. Another complicating factor in uncovering how HIV affects key populations in Sweden is that AIDS reporting has not been mandatory in Sweden since 2000. AIDS data is not available from 2008-2016 because the national AIDS surveillance system had been discontinued.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Eighty percent of those diagnosed with HIV in Sweden are migrants."
+                }
+            ]
+        },
+        {
+            "paragraph": "Although Sweden has made strides in reaching the 90-90-90 target set by UNAIDS, there is a HIV epidemic among migrants.Eighty percent of those diagnosed with HIV in Sweden are migrants(defined as originating outside the country in which they are diagnosed). There is evidence to suggest that a substantially higher proportion of migrants are infected with HIV after their arrival in Sweden than what has been estimated using routine clinical reports. Another complicating factor in uncovering how HIV affects key populations in Sweden is that AIDS reporting has not been mandatory in Sweden since 2000. AIDS data is not available from 2008-2016 because the national AIDS surveillance system had been discontinued.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AIDS data is not available from 2008-2016."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Whilerestaurant and meal prices in Vietnamcan vary significantly, theaverage cost of food in Vietnamis $21 (d557,098) per day, per person, based on the spending habits of previous travelers.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average cost of food in Vietnam is $21 (d557,098) per day, per person.",
+                    "vis_data": [
+                        {
+                            "label": "Average Cost of Food",
+                            "value": "21",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Average Cost of Food",
+                            "value": "557098",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "When dining out, the average daily cost for food in Vietnam is about $21 (d557098) per person. Previous travelers have typically spent from $9 to $52 per day. Generally, breakfast and lunch will cost less than dinner, but that will vary based on the type of restaurant and what you order.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "The average daily cost for food in Vietnam is about $21 (d557098) per person.",
+                    "vis_data": [
+                        {
+                            "label": "Average Daily Cost for Food",
+                            "value": "21",
+                            "unit": "USD"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Previous travelers have typically spent from $9 to $52 per day.",
+                    "vis_data": [
+                        {
+                            "label": "Minimum Daily Spend",
+                            "value": "9",
+                            "unit": "USD"
+                        },
+                        {
+                            "label": "Maximum Daily Spend",
+                            "value": "52",
+                            "unit": "USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraph": "Below are some standard food costs in Vietnam, gathered from real travelers. These prices should give you a general idea of what you can expect to spend on dining and meals. Keep in mind, though, that your own costs may differ depending on your taste in restaurants, travel habits, and menu choices.Pho Soupd15,000Western Dinner (for Two)d199,264Quick Lunch (for Two)d55,000Sitdown Dinner (for Two)d110,000Pork Sandwichd15,000Bowl of Phod20,000Italian Dinner (for Food)d155,000Casual Lunch (for Two)d169,728",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pho Soup costs d15,000.",
+                    "vis_data": [
+                        {
+                            "label": "Pho Soup",
+                            "value": "15000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Western Dinner (for Two) costs d199,264.",
+                    "vis_data": [
+                        {
+                            "label": "Western Dinner for Two",
+                            "value": "199264",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Quick Lunch (for Two) costs d55,000.",
+                    "vis_data": [
+                        {
+                            "label": "Quick Lunch for Two",
+                            "value": "55000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sitdown Dinner (for Two) costs d110,000.",
+                    "vis_data": [
+                        {
+                            "label": "Sitdown Dinner for Two",
+                            "value": "110000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pork Sandwich costs d15,000.",
+                    "vis_data": [
+                        {
+                            "label": "Pork Sandwich",
+                            "value": "15000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bowl of Pho costs d20,000.",
+                    "vis_data": [
+                        {
+                            "label": "Bowl of Pho",
+                            "value": "20000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Italian Dinner (for Food) costs d155,000.",
+                    "vis_data": [
+                        {
+                            "label": "Italian Dinner",
+                            "value": "155000",
+                            "unit": "VND"
+                        }
+                    ]
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Casual Lunch (for Two) costs d169,728.",
+                    "vis_data": [
+                        {
+                            "label": "Casual Lunch for Two",
+                            "value": "169728",
+                            "unit": "VND"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

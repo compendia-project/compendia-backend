@@ -1,0 +1,93 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "With absolute poverty eliminated in China, the country's per capita disposable income grew from 16,500 yuan to 36,883 yuan in the past 10 years, creating the world's largest middle-income group of more than 400 million people.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Per capita disposable income grew from 16,500 yuan to 36,883 yuan.",
+                    "vis_data": [
+                        {
+                            "label": "Per Capita Income 10 Years Ago",
+                            "value": "16500",
+                            "unit": "yuan"
+                        },
+                        {
+                            "label": "Per Capita Income Now",
+                            "value": "36883",
+                            "unit": "yuan"
+                        }
+                    ],
+                    "fact_id": "25_0_0"
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Middle-income group of more than 400 million people.",
+                    "vis_data": [
+                        {
+                            "label": "Middle-Income Group",
+                            "value": "400000000",
+                            "unit": "people"
+                        }
+                    ],
+                    "fact_id": "25_0_1"
+                }
+            ],
+            "relatedness_score": 0.5267209260575805,
+            "article_meta_data": {
+                "title": "10 sets of data decoding China's transformation in the new era",
+                "date": "2023-12-21",
+                "url": "https://english.www.gov.cn/news/202312/21/content_WS6583d868c6d0868f4e8e268e.html",
+                "id": 25
+            },
+            "para_id": "25_0"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "25_0",
+            "paragraph": "With absolute poverty eliminated in China, the country's per capita disposable income grew from 16,500 yuan to 36,883 yuan in the past 10 years, creating the world's largest middle-income group of more than 400 million people."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "25_0_0",
+            "fact_content": "Per capita disposable income grew from 16,500 yuan to 36,883 yuan."
+        },
+        {
+            "fact_id": "25_0_1",
+            "fact_content": "Middle-income group of more than 400 million people."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "value",
+            "fact_content": "Per capita disposable income grew from 16,500 yuan to 36,883 yuan.",
+            "vis_data": [
+                {
+                    "label": "Per Capita Income 10 Years Ago",
+                    "value": "16500",
+                    "unit": "yuan"
+                },
+                {
+                    "label": "Per Capita Income Now",
+                    "value": "36883",
+                    "unit": "yuan"
+                }
+            ],
+            "fact_id": "25_0_0"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Middle-income group of more than 400 million people.",
+            "vis_data": [
+                {
+                    "label": "Middle-Income Group",
+                    "value": "400000000",
+                    "unit": "people"
+                }
+            ],
+            "fact_id": "25_0_1"
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "data_facts_with_para": [
+        {
+            "paragraph": "1.Johnson & Johnson (NYSE:JNJ)Company Profile2023 revenue: US$85.16 billionAt the top of the list is pharmaceutical titan Johnson & Johnson, which is actively involved in research and development, as well as manufacturing and sales, for pharmaceuticals and medical devices. Last year, Johnson & Johnson spun off its consumer healthcare unit, which includes items for baby care, oral care, skin care and women's health, into a new company named Kenvue.In terms of pharmaceuticals, the company is focused on five major therapeutic areas: immunology, infectious diseases and vaccines, neuroscience, oncology ,and cardiovascular and metabolic diseases. It also manufactures over-the-counter pharmaceuticals.Johnson & Johnson's steady revenues year after year continue to place it at or near the top of the heap among the world's biggest pharma companies. Sales of the pharma giant's plaque psoriasis drug Tremfya grew by 18 percent year-over to reach US$3.15 billion in 2023. Johnson & Johnson's oncology unit posted gains of 10.5 percent last year to reach US$17.66 billion.Its blockbuster immunology drug Stelara also posted gains, growing from US$9.72 billion in sales in 2022 to US$10.86 billion in 2023. Looking forward, Fierce Pharma says Johnson & Johnson faces the challenge that it \"has just one more year of reliable Stelara performance, as the drug is set to face biosimilars early next year.\"However, the company's leadership expects to generate annual growth of 5 percent to 7 percent from 2025 to 2030, based on it having 10 or more drug products with the potential for peak sales of US$5 billion or higher.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johnson & Johnson 2023 revenue: US$85.16 billion."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sales of Tremfya grew by 18 percent to reach US$3.15 billion in 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Johnson & Johnson's oncology unit posted gains of 10.5 percent to reach US$17.66 billion."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Stelara sales grew from US$9.72 billion in 2022 to US$10.86 billion in 2023."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Johnson & Johnson expects annual growth of 5 percent to 7 percent from 2025 to 2030."
+                }
+            ]
+        },
+        {
+            "paragraph": "2.Roche Holding (OTCQX:RHHBF,SWX:RO)Company Profile2023 revenue: US$65.32 billionHeadquartered in Basel, Switzerland, F. Hoffmann-La Roche, commonly known as Roche, operates two key divisions: pharmaceuticals and diagnostics. Roche Holding is its holding company.Roche Diagnostics is made up of five key business areas: Roche Applied Science, Roche Professional Diagnostics, Roche Diabetes Care, Roche Molecular Diagnostics and Roche Tissue Diagnostics. The sectors Roche targets in its pharmaceutical division are as follows: hematology, oncology, neuroscience, infectious diseases, rare diseases, ophthalmology, respiratory, women's health and inflammatory bowel diseases.Although total reported revenues for Roche decreased by 7.2 percent from 2022 to 2023, the year-over-year decline was largely attributable to a stronger Swiss Frank over the US dollar. Still, the company managed to beat out Merck and Pfizer for second overall pharma company by revenue.Fierce Pharma notes that Roche's \"star product\" in its portfolio is eye disease drug Vabysmo, which has proven a heavyweight challenger to Eylea, owned by Regeneron Pharmaceuticals (NASDAQ:REGN) and Bayer (OTC Pink:BAYZF,ETR:BAYN). Its second-largest selling drug is the hemophilia A therapy Hemlibra, which increased sales by 16 percent to US$4.6 billion i 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Roche 2023 revenue: US$65.32 billion."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Roche revenues decreased by 7.2 percent from 2022 to 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Hemlibra sales increased by 16 percent to US$4.6 billion in 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "3.Merck & Company (NYSE:MRK)Company Profile2023 revenue: US$60.1 billionMerck & Company's therapeutic areas include diabetes, cancer, multiple sclerosis and fertility. The conditions it aims to treat include cancer, HIV, HPV, Ebola, hepatitis C, cardio-metabolic disease and antibiotic-resistant infections.Merck's total revenues increased by a mere 1.4 percent in 2023, but it still managed to rise from fourth place to rank as the third top pharma company by revenue.Last year, Merck's checkpoint inhibitor Keytruda was the world's biggest selling drug. \"With FDA approvals to treat 16 types of advanced cancer, the drug pulled down US$25 billion globally in 2023, a 19 percent increase from the prior year,\" noted Fierce Pharma. This figure could reach US$30 billion by 2025.However, Fierce Pharma is considered for what will happen when the drug's patent expires in 2028, as it made up 41 percent of Merck's revenue last year.Merck\u2019s second-largest drug by sales in 2023 was its HPV vaccine Gardasil, which saw sales increase by 29 percent to reach US$8.9 billion. On the other side of the ledger, sales of its diabetes drugs Januvia and Janumet declined by 25 percent due to increasingly available generics in Europe and declining demand in the US market.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Merck & Company 2023 revenue: US$60.1 billion."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Merck's total revenues increased by 1.4 percent in 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Keytruda sales reached US$25 billion in 2023, a 19 percent increase."
+                },
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Keytruda sales could reach US$30 billion by 2025."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Gardasil sales increased by 29 percent to reach US$8.9 billion in 2023."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Sales of Januvia and Janumet declined by 25 percent."
+                }
+            ]
+        },
+        {
+            "paragraph": "4.Pfizer (NYSE:PFE)Company Profile2023 revenue: US$58.5 billionPfizer is a world-renowned research pharmaceutical company developing drugs in a wide range of areas, including oncology, inflammation and immunology, vaccines, internal medicine and rare diseases.While Pfizer was eighth on this list in 2020, its revenues leaped 94 percent year-on-year in 2021, taking the company to second place. The rise was due in large part to its \"wildly successful\" COVID-19 vaccine, which continued to drive revenues for the pharma giant in 2022, a year in which Pfizer achieved a record-breaking US$100.33 billion in revenues.However, the pharma company has slumped from the top spot on this list to rank fourth as its revenues fell by a whopping 41 percent in 2023 as revenue from its COVID-19 products decreased.\"It\u2019s extremely unusual to see a Big Pharma company post a 40%-plus decline in sales, but, with Pfizer in 2023, that was indeed the situation,\" stated Fierce Pharma.On the plus side, Pfizer's drug sales in 2023 actually grew by 7 percent if its COVID-19 products are excluded. The publication notes that 2023 was also \"a transition year\" for Pfizer, pointing to the US$43 billion buyout of Seagen and its suite of antibody-drug conjugate oncology drugs in December 2023.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pfizer 2023 revenue: US$58.5 billion."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Pfizer revenues fell by 41 percent in 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Pfizer achieved US$100.33 billion in revenues in 2022."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Pfizer's drug sales grew by 7 percent in 2023, excluding COVID-19 products."
+                }
+            ]
+        },
+        {
+            "paragraph": "5.AbbVie (NYSE:ABBV)Company Profile2023 revenue: US$54.3 billionAbbVie is a research-driven biopharmaceutical company that develops products for chronic autoimmune diseases, neurological diseases and metabolic diseases, as well as diseases in the fields of gastroenterology, dermatology and oncology.The company's product Humira treats rheumatoid arthritis, chronic plaque psoriasis, Crohn's disease, ankylosing spondylitis, psoriatic arthritis, polyarticular juvenile idiopathic arthritis and non-infectious uveitis.Moving forward, Abbvie will need to shift focus as Humira \u2014 one of the top-selling pharmaceuticals in history \u2014 has lost its market exclusivity in the US, and biosimilar drugs are starting to gain market share in both the US and Europe, according to Fierce Pharma.The company is expected to lean more on its immunology offerings Skyrizi and Rinvoq, and may also tap into its war chest for more mergers and acquisitions.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AbbVie 2023 revenue: US$54.3 billion."
+                }
+            ]
+        },
+        {
+            "paragraph": "6.Sanofi (NASDAQ:SNY)Company Profile2023 revenue: US$46.6 billionSanofi's products and pipeline include treatments for diabetes and cardiovascular disease, cancers, immune system disorders, multiple sclerosis, rare diseases and rare blood disorders. Based in France, Sanofi is the world's largest producer of vaccines thanks to its subsidiary Sanofi Pasteur.In 2023, the company moved up two spots on this list to reach sixth place, although revenues were only up by 0.2 percent over the previous year. The company's lead revenue generator is Dupixent. Approved by the FDA in 2017 for atopic dermatitis, the drug has been greenlit for additional uses in recent years, further fueling revenue growth.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Sanofi 2023 revenue: US$46.6 billion."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Sanofi revenues were up by 0.2 percent in 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "7.AstraZeneca (NASDAQ:AZN)Company Profile2023 revenue: US$45.81 billionMultinational pharma and biotech firm AstraZeneca specializes in several therapeutic areas, including oncology, cardiovascular, respiratory, central nervous system, pain control and infection.The company has several partnerships with other pharmaceutical and biotechnology companies, including Regeneron Pharmaceuticals and Ionis Pharmaceuticals (NASDAQ:IONS).In 2022, AstraZeneca's revenues broke past the US$40 billion mark for the first time, and the company ranked ninth overall by revenue. Last year, the company's revenue increased by 3.3 percent, moving AstraZeneca up two spots to seventh place.Its oncology division was the biggest winner, posting 20 percent gains to reach US$17.1 billion sales. Lung-cancer drug Tagrisso, its largest oncology asset, brought in a total of US$5.8 billion last year, up 9 percent over 2022. The company's immuno-oncology drugs Imfinzi and Imjudo had combined sales of US$4.2 billion, up 55 percent over the previous year.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "AstraZeneca 2023 revenue: US$45.81 billion."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "AstraZeneca's revenue increased by 3.3 percent in 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "AstraZeneca's oncology division posted 20 percent gains to reach US$17.1 billion."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Tagrisso sales reached US$5.8 billion, up 9 percent over 2022."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Imfinzi and Imjudo combined sales were US$4.2 billion, up 55 percent over the previous year."
+                }
+            ]
+        },
+        {
+            "paragraph": "8.Novartis (NYSE:NVS,SWX:NOVN)Company Profile2023 revenue: US$45.44 billionLike Roche, Novartis is based in Basel, Switzerland. The company is focused on a wide range of disease areas, including various cancers, malaria, leprosy and sickle cell disease. Novartis is also developing a cell and gene therapy technology platform that includes adeno-associated virus-based therapy, CAR T-cell therapy and gene therapy based on CRISPR.Revenues for Novartis grew by 7.7 percent in 2023 from US$42.21 billion in 2022, but the company dropped to the eighth spot on the list of the world's top pharma companies by revenue. Fierce Pharma states that last year the company \"became a pure-play innovative medicines company after spinning out its generics and biosimilar business Sandoz.\"This year's growth was mainly attributed to its heart disease combo Entresto and multiple sclerosis injection Kesimpta, which saw sales above US$6 billion and US$2 billion, respectively.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Novartis 2023 revenue: US$45.44 billion."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Novartis revenues grew by 7.7 percent in 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Entresto sales were above US$6 billion."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Kesimpta sales were above US$2 billion."
+                }
+            ]
+        },
+        {
+            "paragraph": "9.Bristol-Myers Squibb Company (NYSE:BMY)Company Profile2023revenue: US$45 billionPharmaceutical giant Bristol-Myers Squibb Company researches, develops and delivers medicines for the treatment of serious diseases, focusing on the areas of hematology, oncology, cardiology and immunology. The company launched a US$74 billion mega merger with Celgene in November 2019.Revenues for Bristol-Myers Squibb in 2023 ticked down by 2 percent year-on-year, bumping the company from seventh to the ninth top pharma company by revenue. Much like the drugs of a few of its peers, Bristol-Myers Squibb's sales leader, Revlimid, is slowly losing ground, leading the company to place bets on increases from its blockbuster drugs Eliquis and Opdivo.Last year \"marked the beginnings of a transition period as it navigates through looming patent cliffs and Inflation Reduction Act (IRA)-related threats ahead, all under a new CEO,\" said Fierce Pharma. With new IRA pricing taking effect in 2026, the company expects to see the current period of significant growth in sales of Eliquis to come to an end in 2025.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Bristol-Myers Squibb 2023 revenue: US$45 billion."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "Bristol-Myers Squibb revenues ticked down by 2 percent in 2023."
+                }
+            ]
+        },
+        {
+            "paragraph": "10.GSK (NYSE:GSK,LSE:GSK)Company Profile2023 revenue: US$38.4 billionLast on this list of the top pharma companies by revenue, GSK has three main business divisions: pharmaceuticals, consumer healthcare and vaccines. Its pharmaceutical offerings include products for asthma, cancer, infections, diabetes and mental health. In terms of consumer healthcare, GSK has products for oral healthcare and cold sores, as well as nasal strips and nicotine patches.Revenues for GSK in 2023 grew by 3.4 percent from US$29.32 billion in the previous year. The company's main growth driver for the year was its shingles vaccine Shingrix, which put up 17 percent in gains.Its newly US Food and Drug Administration approved respiratory syncytial virus (RSV) vaccine Arexvy was a new source of revenue for GSK last year. The vaccine is the world\u2019s first RSV immunization for adults 60 years of age and older.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "GSK 2023 revenue: US$38.4 billion."
+                },
+                {
+                    "fact_type": "difference",
+                    "fact_content": "GSK revenues grew by 3.4 percent in 2023."
+                },
+                {
+                    "fact_type": "value",
+                    "fact_content": "Shingrix put up 17 percent in gains."
+                }
+            ]
+        }
+    ]
+}

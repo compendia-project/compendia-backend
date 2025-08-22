@@ -1,0 +1,20 @@
+{
+    "data_facts_with_vis_data": [
+        {
+            "paragraph": "Sydney:increases 4-6 per cent (houses and units)Sydney is expected to continue in 2025 as buyers\u2019 market, which is great news if you\u2019re a first home buyer.",
+            "facts": [
+                {
+                    "fact_type": "trend",
+                    "fact_content": "Sydney housing prices are expected to increase 4-6 per cent.",
+                    "vis_data": [
+                        {
+                            "label": "Sydney Housing Price Increase",
+                            "value": "4-6",
+                            "unit": "%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

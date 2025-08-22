@@ -1,0 +1,198 @@
+{
+    "data_facts_with_vis_data_meta": [
+        {
+            "paragraph": "Although many businesses have explored generative AI through proofs of concept, fewer have fully integrated it into their operations. In a September 2024 research report, Informa TechTarget's Enterprise Strategy Group found that, although over 90% of organizations had increased their generative AI use over the previous year, only 8% considered their initiatives mature.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Over 90% of organizations had increased their generative AI use over the previous year.",
+                    "vis_data": [
+                        {
+                            "label": "Increased AI Use",
+                            "value": "90",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_0_0"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Only 8% of organizations considered their generative AI initiatives mature.",
+                    "vis_data": [
+                        {
+                            "label": "Mature AI Initiatives",
+                            "value": "8",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_0_1"
+                }
+            ],
+            "article_meta_data": {
+                "title": "8 AI and Machine Learning Trends to Watch in 2025",
+                "date": "2025-01-03",
+                "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends",
+                "id": 7
+            },
+            "para_id": "7_0"
+        },
+        {
+            "paragraph": "Amid the persistent generative AI hype, it can be easy to forget that the technology is still relatively new. Many people either haven't used it at all or don't use it regularly: A recent research paper found that, as of August 2024, less than half of Americans aged 18 to 64 use generative AI, and just over a quarter use it at work.",
+            "facts": [
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Less than half of Americans aged 18 to 64 use generative AI.",
+                    "vis_data": [
+                        {
+                            "label": "Americans Using AI",
+                            "value": "49",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_1_2"
+                },
+                {
+                    "fact_type": "proportion",
+                    "fact_content": "Just over a quarter of Americans aged 18 to 64 use generative AI at work.",
+                    "vis_data": [
+                        {
+                            "label": "Americans Using AI at Work",
+                            "value": "26",
+                            "unit": "%"
+                        }
+                    ],
+                    "fact_id": "7_1_3"
+                }
+            ],
+            "article_meta_data": {
+                "title": "8 AI and Machine Learning Trends to Watch in 2025",
+                "date": "2025-01-03",
+                "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends",
+                "id": 7
+            },
+            "para_id": "7_1"
+        },
+        {
+            "paragraph": "Audio generators can enable hackers to impersonate a victim's trusted contacts, such as a spouse or colleague. Video generation has so far been less common, as it's more expensive and offers more opportunities for error. But, in a highly publicized incident earlier this year, scammers successfully impersonated a company's CFO and other staff members on a video call using deepfakes, leading a finance worker to send $25 million to fraudulent accounts.",
+            "facts": [
+                {
+                    "fact_type": "value",
+                    "fact_content": "Scammers successfully impersonated a company's CFO and other staff members on a video call using deepfakes, leading a finance worker to send $25 million to fraudulent accounts.",
+                    "vis_data": [
+                        {
+                            "label": "Fraudulent Transaction",
+                            "value": "25000000",
+                            "unit": "USD"
+                        }
+                    ],
+                    "fact_id": "7_2_4"
+                }
+            ],
+            "article_meta_data": {
+                "title": "8 AI and Machine Learning Trends to Watch in 2025",
+                "date": "2025-01-03",
+                "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends",
+                "id": 7
+            },
+            "para_id": "7_2"
+        }
+    ],
+    "all_paragraphs": [
+        {
+            "para_id": "7_0",
+            "paragraph": "Although many businesses have explored generative AI through proofs of concept, fewer have fully integrated it into their operations. In a September 2024 research report, Informa TechTarget's Enterprise Strategy Group found that, although over 90% of organizations had increased their generative AI use over the previous year, only 8% considered their initiatives mature."
+        },
+        {
+            "para_id": "7_1",
+            "paragraph": "Amid the persistent generative AI hype, it can be easy to forget that the technology is still relatively new. Many people either haven't used it at all or don't use it regularly: A recent research paper found that, as of August 2024, less than half of Americans aged 18 to 64 use generative AI, and just over a quarter use it at work."
+        },
+        {
+            "para_id": "7_2",
+            "paragraph": "Audio generators can enable hackers to impersonate a victim's trusted contacts, such as a spouse or colleague. Video generation has so far been less common, as it's more expensive and offers more opportunities for error. But, in a highly publicized incident earlier this year, scammers successfully impersonated a company's CFO and other staff members on a video call using deepfakes, leading a finance worker to send $25 million to fraudulent accounts."
+        }
+    ],
+    "all_facts": [
+        {
+            "fact_id": "7_0_0",
+            "fact_content": "Over 90% of organizations had increased their generative AI use over the previous year."
+        },
+        {
+            "fact_id": "7_0_1",
+            "fact_content": "Only 8% of organizations considered their generative AI initiatives mature."
+        },
+        {
+            "fact_id": "7_1_2",
+            "fact_content": "Less than half of Americans aged 18 to 64 use generative AI."
+        },
+        {
+            "fact_id": "7_1_3",
+            "fact_content": "Just over a quarter of Americans aged 18 to 64 use generative AI at work."
+        },
+        {
+            "fact_id": "7_2_4",
+            "fact_content": "Scammers successfully impersonated a company's CFO and other staff members on a video call using deepfakes, leading a finance worker to send $25 million to fraudulent accounts."
+        }
+    ],
+    "all_facts_with_vis_data": [
+        {
+            "fact_type": "proportion",
+            "fact_content": "Over 90% of organizations had increased their generative AI use over the previous year.",
+            "vis_data": [
+                {
+                    "label": "Increased AI Use",
+                    "value": "90",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_0_0"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Only 8% of organizations considered their generative AI initiatives mature.",
+            "vis_data": [
+                {
+                    "label": "Mature AI Initiatives",
+                    "value": "8",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_0_1"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Less than half of Americans aged 18 to 64 use generative AI.",
+            "vis_data": [
+                {
+                    "label": "Americans Using AI",
+                    "value": "49",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_1_2"
+        },
+        {
+            "fact_type": "proportion",
+            "fact_content": "Just over a quarter of Americans aged 18 to 64 use generative AI at work.",
+            "vis_data": [
+                {
+                    "label": "Americans Using AI at Work",
+                    "value": "26",
+                    "unit": "%"
+                }
+            ],
+            "fact_id": "7_1_3"
+        },
+        {
+            "fact_type": "value",
+            "fact_content": "Scammers successfully impersonated a company's CFO and other staff members on a video call using deepfakes, leading a finance worker to send $25 million to fraudulent accounts.",
+            "vis_data": [
+                {
+                    "label": "Fraudulent Transaction",
+                    "value": "25000000",
+                    "unit": "USD"
+                }
+            ],
+            "fact_id": "7_2_4"
+        }
+    ]
+}
